@@ -4,13 +4,157 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1090075313235812352/dyVP075h_normal.jpg",
-                "Name": "Tom Patri",
-                "Handle": "TomPatri",
-                "Tweet": "#tompatrigolf - Oscar , Fleck , Francella , Seve , Couples....A few of the cool  folks that were kind to me along t\u2026 https://t.co/D3s5ixxzRC",
-                "TweetLink": "1252237132653047809",
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1227298570841284608/1oGJUtdp_normal.jpg",
+                "Name": "Kristyn Brophy",
+                "Handle": "KristynBrophy",
+                "Tweet": "Some relief for #HealthcareHeroes in #Massachusetts who could potentially face some legal liabilities while working\u2026 https://t.co/mJSMaQQcJq",
+                "TweetLink": "1252603834603638786",
+                "Place": "Medford",
+                "Time": "Tue Apr 21 14:23:21 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.11082,
+                    42.424952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/954489167798525954/3WDGwqzo_normal.jpg",
+                "Name": "Alberto M. Carvalho",
+                "Handle": "MiamiSup",
+                "Tweet": "Hello everyone! In the middle of this pandemic crisis, we can all use some good news...well, there are some GREAT n\u2026 https://t.co/700PDEN2vE",
+                "TweetLink": "1252603838491766784",
+                "Place": "Miami",
+                "Time": "Tue Apr 21 14:23:22 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2333285,
+                    25.7823535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1137435861274877952/VSMqYTy1_normal.jpg",
+                "Name": "MP Mohamed Shifau",
+                "Handle": "mhshifau",
+                "Tweet": "#COVID19 updates from Maldives \ud83c\uddf2\ud83c\uddfb \n@HPA_MV confirms another samples taken from a Bangladesh national (MAV083) has t\u2026 https://t.co/bY2hyzcWG8",
+                "TweetLink": "1252603855734333441",
+                "Place": "Maldives",
+                "Time": "Tue Apr 21 14:23:26 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.2263065,
+                    3.201397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/599320810533343232/0qOmBRDa_normal.jpg",
+                "Name": "Tommy Doyle",
+                "Handle": "TommyDoyleKY",
+                "Tweet": "Cant understand  those figures",
+                "TweetLink": "1252603899422351361",
+                "Place": "Cork",
+                "Time": "Tue Apr 21 14:23:36 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0333065,
+                    51.903863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1182648015842140161/xqmzVjUN_normal.jpg",
+                "Name": "Ogunsanwo Gbenga",
+                "Handle": "gbengulo49",
+                "Tweet": "Whaoooooo @jidesanwoolu",
+                "TweetLink": "1252603909715243008",
+                "Place": "Lagos",
+                "Time": "Tue Apr 21 14:23:38 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3386055,
+                    6.4931125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/693093012025561088/tgX3Norh_normal.jpg",
+                "Name": "Toni Choueiri, MD",
+                "Handle": "DrChoueiri",
+                "Tweet": "No surprise here @COVID19Tracking @COVID19nCCC #COVID19 @OncoAlert",
+                "TweetLink": "1252603911527161856",
+                "Place": "Boston",
+                "Time": "Tue Apr 21 14:23:39 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0887125,
+                    42.3136695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/960991933568114691/q7lg1yYr_normal.jpg",
+                "Name": "UNFInterfaithCenter",
+                "Handle": "Unfinterfaith",
+                "Tweet": "We\u2019re grateful to @ifyc for featuring how @Unfinterfaith @UofNorthFlorida has moved Interfaith online, alongside so\u2026 https://t.co/K88ylrWP3u",
+                "TweetLink": "1252603914496638976",
                 "Place": "Florida",
-                "Time": "Mon Apr 20 14:06:12 +0000 2020",
+                "Time": "Tue Apr 21 14:23:40 +0000 2020",
                 "Reply Count": 0,
                 "Retweet Count": 0,
                 "Favorite Count": 0,
@@ -28,13 +172,13 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2468069859/image_normal.jpg",
-                "Name": "TEM",
-                "Handle": "tmanthey1",
-                "Tweet": "No seersucker hat or coat????",
-                "TweetLink": "1252394535650332673",
-                "Place": "Metairie",
-                "Time": "Tue Apr 21 00:31:40 +0000 2020",
+                "ProfilePic": "http://pbs.twimg.com/profile_images/815662614479044608/a8Fx-Puz_normal.jpg",
+                "Name": "Bristol CT, RTC",
+                "Handle": "BristolRTC",
+                "Tweet": "Let\u2019s use data to make rational decisions. #COVID19 https://t.co/UWoKbdZFr3",
+                "TweetLink": "1252603941063278594",
+                "Place": "Connecticut",
+                "Time": "Tue Apr 21 14:23:46 +0000 2020",
                 "Reply Count": 0,
                 "Retweet Count": 0,
                 "Favorite Count": 0,
@@ -44,8 +188,176 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -90.1786295,
-                    30.001244
+                    -72.757385,
+                    41.500753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/896470598142107648/aLCuaKZX_normal.jpg",
+                "Name": "Akayezu Jean de Dieu",
+                "Handle": "AkayezuJa",
+                "Tweet": "The Ministry of Health [@RwandaHealth ] rejected all rumours about the death of Miss Vivine Uwizeye from Gatenga du\u2026 https://t.co/Go08Jijz4Y",
+                "TweetLink": "1252603997074178050",
+                "Place": "Rwanda",
+                "Time": "Tue Apr 21 14:23:59 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8805565,
+                    -1.943103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1195391086027563008/sav1rmPx_normal.jpg",
+                "Name": "Dr William Flannery",
+                "Handle": "flannerydigital",
+                "Tweet": "Daily hospital deaths in the UK from Covid19 were at one point doubling and then doubling again over the course of\u2026 https://t.co/AAgbn4F0ix",
+                "TweetLink": "1252604074710745089",
+                "Place": "Reading",
+                "Time": "Tue Apr 21 14:24:18 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9820305,
+                    51.452524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226868484841275392/YJsSSqbR_normal.jpg",
+                "Name": "Karoliina Rasi",
+                "Handle": "KaroRasi",
+                "Tweet": "Interesting and necessary discussion on #EUGreenDeal today at @EP_Environment even after the #COVID19 crisis \"Green\u2026 https://t.co/DzpPSIetuH",
+                "TweetLink": "1252604092142235648",
+                "Place": "Wezembeek-Oppem",
+                "Time": "Tue Apr 21 14:24:22 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.493853,
+                    50.843924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1005104468533436416/zDeNyRRM_normal.jpg",
+                "Name": "Meena Davuluri, MD, MPH",
+                "Handle": "MeenaDavuluri",
+                "Tweet": "Highly recommend adding this fun animal to your next zoom! Happy birthday @NinaDavuluri https://t.co/9HxhP0Roul",
+                "TweetLink": "1252604105450819586",
+                "Place": "Harrison",
+                "Time": "Tue Apr 21 14:24:25 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7192005,
+                    41.0192955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1026225252093845504/D93WJ9eA_normal.jpg",
+                "Name": "Ricky Monahan Brown",
+                "Handle": "ricky_ballboy",
+                "Tweet": "\u201cWhat do you mean, some terrible misogynist is still talking about The #InvisibleEnemy?\u201d\n\n#Trump\u2026 https://t.co/88EwU4TjA5",
+                "TweetLink": "1252604155669237760",
+                "Place": "Edinburgh",
+                "Time": "Tue Apr 21 14:24:37 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.2030085,
+                    55.9431955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1001919417733865474/adA4rhJd_normal.jpg",
+                "Name": "Robyn Hyden",
+                "Handle": "robynhyden",
+                "Tweet": ".@RepLedbetter24 &amp; @Repsteveclouse, we urge you to come together with other state leaders to look at ways to bring\u2026 https://t.co/Mi6wO0c9Kz",
+                "TweetLink": "1252604159838355456",
+                "Place": "Montgomery",
+                "Time": "Tue Apr 21 14:24:38 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.2447285,
+                    32.364145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226693033/ARSProf7_normal.jpg",
+                "Name": "@sangco",
+                "Handle": "sangco",
+                "Tweet": "Required.  #coronavirus #COVID19 https://t.co/itDUJgvx8M",
+                "TweetLink": "1252604230373748736",
+                "Place": "San Jose",
+                "Time": "Tue Apr 21 14:24:55 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.8737305,
+                    37.331159
                 ]
             }
         }
