@@ -48,6 +48,30 @@
                     50.7283545
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/954488791816908800/WCQZW07N_normal.jpg",
+                "Name": "Joshua Albarran",
+                "Handle": "JoshX1993",
+                "Tweet": "After an few months off, professional golf will return to the U.S. in May in an live TNT sports special event with\u2026 https://t.co/Vfu4GiaTlh",
+                "TweetLink": "1253088852836782081",
+                "Place": "New York",
+                "Time": "Wed Apr 22 22:30:38 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.977717,
+                    40.7055975
+                ]
+            }
         }
     ]
 }
