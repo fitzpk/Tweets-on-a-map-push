@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1222808524071161858/IeJJlohg_normal.jpg",
-                "Name": "TC Martin",
-                "Handle": "TCMartin21",
-                "Tweet": "Check out my man TJ with another excellent podcast. Plus he will be joining me today to talk Brady - Gronk reunion\u2026 https://t.co/K0pmhRByEW",
-                "TweetLink": "1253369197410705411",
-                "Place": "Henderson",
-                "Time": "Thu Apr 23 17:04:37 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.038337,
-                    36.006256
-                ]
-            }
-        }
-    ]
+    "features": []
 }
