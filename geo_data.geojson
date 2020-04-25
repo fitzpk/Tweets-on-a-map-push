@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3615102110/353b3b55de5afc7f54ba4a709f5b120c_normal.jpeg",
+                "Name": "Dick Kearns",
+                "Handle": "dickkearns",
+                "Tweet": "@ZurichNA As a Board Member, retiree and shareholder, I am extremely proud to be a part of @ZurichNA ; Thank you to\u2026 https://t.co/H2HTPhJmcT",
+                "TweetLink": "1254131033865433089",
+                "Place": "East Williston",
+                "Time": "Sat Apr 25 19:31:53 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6331535,
+                    40.760591
+                ]
+            }
+        }
+    ]
 }
