@@ -96,6 +96,30 @@
                     40.760591
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1106307358072979457/dUiZLPOu_normal.png",
+                "Name": "Zurich Classic",
+                "Handle": "Zurich_Classic",
+                "Tweet": "Can\u2019t wait to see y\u2019all next year!!!",
+                "TweetLink": "1254533246970363905",
+                "Place": "Metairie",
+                "Time": "Sun Apr 26 22:10:08 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.1786295,
+                    30.001244
+                ]
+            }
         }
     ]
 }
