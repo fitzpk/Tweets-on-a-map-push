@@ -72,6 +72,30 @@
                     34.2253275
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3615102110/353b3b55de5afc7f54ba4a709f5b120c_normal.jpeg",
+                "Name": "Dick Kearns",
+                "Handle": "dickkearns",
+                "Tweet": "2019 @Zurich_Classic rewind playing now on @GolfChannel ;  runner up team of @TommyFleetwood1 &amp; @TheSergioGarcia ;\u2026 https://t.co/LytAowehzY",
+                "TweetLink": "1254475774880604161",
+                "Place": "East Williston",
+                "Time": "Sun Apr 26 18:21:46 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6331535,
+                    40.760591
+                ]
+            }
         }
     ]
 }
