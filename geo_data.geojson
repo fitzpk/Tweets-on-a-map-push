@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1015019344181518336/qWF98mT2_normal.jpg",
-                "Name": "Hospitalitier_JasonMLynch",
-                "Handle": "Change_Agent_JL",
-                "Tweet": "#gators #sun watching the @m_p_fischer2 from #2017 #golf #pgatour #tigerwoods #hospitalitier @ TPC Louisiana Golf C\u2026 https://t.co/Ln3aI7TkZW",
-                "TweetLink": "1254134220290535424",
-                "Place": "Avondale",
-                "Time": "Sat Apr 25 19:44:33 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.1948905,
-                    29.9058255
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1193032057556885504/rIWQSLnP_normal.jpg",
                 "Name": "Golf Volunteers",
                 "Handle": "Volunteer4golf",
