@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1193032057556885504/rIWQSLnP_normal.jpg",
-                "Name": "Golf Volunteers",
-                "Handle": "Volunteer4golf",
-                "Tweet": "Thank you @Zurich_Classic for calling out all the #golfvolunteers that are part of the #team and make this great\u2026 https://t.co/X4QOwL74M9",
-                "TweetLink": "1254460400197709824",
-                "Place": "Camarillo",
-                "Time": "Sun Apr 26 17:20:40 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -119.034349,
-                    34.2253275
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3615102110/353b3b55de5afc7f54ba4a709f5b120c_normal.jpeg",
                 "Name": "Dick Kearns",
                 "Handle": "dickkearns",
