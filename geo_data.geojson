@@ -96,6 +96,30 @@
                     24.9934625
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1239596801835110400/6SSQacCa_normal.jpg",
+                "Name": "Alex Riggs",
+                "Handle": "RiggsGolf",
+                "Tweet": "Q Life Dress Code from mln1334! By the sounds of things, that net isn\u2019t going to last very long with the rockets co\u2026 https://t.co/T2jGvDUz9Z",
+                "TweetLink": "1254814085553758208",
+                "Place": "Sainte-Lizaigne",
+                "Time": "Mon Apr 27 16:46:05 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.999598,
+                    47.00773
+                ]
+            }
         }
     ]
 }
