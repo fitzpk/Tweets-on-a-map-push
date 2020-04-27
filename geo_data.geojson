@@ -72,6 +72,30 @@
                     30.001244
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1239596801835110400/6SSQacCa_normal.jpg",
+                "Name": "Alex Riggs",
+                "Handle": "RiggsGolf",
+                "Tweet": "golfdigestme #PlayingThrough. Here are some Pivot Checkpoints for you to work in while at home. Most of you need th\u2026 https://t.co/C43FQVOJwn",
+                "TweetLink": "1254813122138963970",
+                "Place": "Dubai",
+                "Time": "Mon Apr 27 16:42:16 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5511725,
+                    24.9934625
+                ]
+            }
         }
     ]
 }
