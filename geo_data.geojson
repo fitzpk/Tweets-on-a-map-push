@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1252589390003679235/C8oyj2Qr_normal.jpg",
+                "Name": "Caroline van Wezel",
+                "Handle": "CarolinevWezel",
+                "Tweet": "Duca Del Cosma Heritage Golf Shoes https://t.co/RdXjNKe5Q1 #golf #shoes #ducadelcosma #golfalot #golfcourse #PGA #pgatour \ud83d\ude0a",
+                "TweetLink": "1256627179368124417",
+                "Place": "Wijdemeren",
+                "Time": "Sat May 02 16:50:41 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.083699,
+                    52.225504
+                ]
+            }
+        }
+    ]
 }
