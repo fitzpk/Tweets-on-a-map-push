@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1142430564630368258/YCL6vpga_normal.jpg",
+                "Name": "Peter Blazevic",
+                "Handle": "blazgolf",
+                "Tweet": "Great job @MGligicGolf \ud83d\udc4d\ud83c\udffc",
+                "TweetLink": "1257082747505520640",
+                "Place": "Mississauga",
+                "Time": "Sun May 03 23:00:57 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.616073,
+                    43.555244
+                ]
+            }
+        }
+    ]
 }
