@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
+                "Name": "Tour Junkies",
+                "Handle": "Tour_Junkies",
+                "Tweet": "We interviewed #PGATour Legend, @booweekley \ud83e\udd23\n\nCooking Rattlesnakes \u2705\nMoonshine w/ Arnie \u2705\nSpear fishing\u2026 https://t.co/BbfW1crEzO",
+                "TweetLink": "1257731397084688385",
+                "Place": "Martinez",
+                "Time": "Tue May 05 17:58:27 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.095304,
+                    33.526322
+                ]
+            }
+        }
+    ]
 }
