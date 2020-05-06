@@ -24,6 +24,30 @@
                     33.526322
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1257157843527929858/zdpQtnyT_normal.jpg",
+                "Name": "Tom Lippard",
+                "Handle": "lippardtom",
+                "Tweet": "@GeoffShac @PGATOUR @EuropeanTour Do you Ever Stop working Geoff...\ud83d\ude02\ud83d\ude02 (Not).\nCertainly hope the Players and Staff o\u2026 https://t.co/YorJOCXh2W",
+                "TweetLink": "1258061628634849280",
+                "Place": "Henderson",
+                "Time": "Wed May 06 15:50:40 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.038337,
+                    36.006256
+                ]
+            }
         }
     ]
 }
