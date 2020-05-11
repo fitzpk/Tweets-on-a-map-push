@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1133414563016249350/jKg5SnwQ_normal.png",
-                "Name": "Kevics Golf",
-                "Handle": "KevicsGolf",
-                "Tweet": "\ud83d\udc40\u26f3 Do you what to stick the finish like a pro? CJ shows you how.\ud83d\ude0e\n.\n.\n#golfing #golf #golfer #golflife #golfswing\u2026 https://t.co/UB6OeWU4f4",
-                "TweetLink": "1259218358047854594",
-                "Place": "Grand Prairie",
-                "Time": "Sat May 09 20:27:06 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.994833,
-                    32.768591
-                ]
-            }
-        }
-    ]
+    "features": []
 }
