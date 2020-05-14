@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1247561779212845059/atBynjM8_normal.jpg",
-                "Name": "Lona Price Jones",
-                "Handle": "LonaPJ",
-                "Tweet": "Will be interesting to see in action. The management of this event will set a benchmark for golf.\n\nAwesome to see t\u2026 https://t.co/dybqvQyv7u",
-                "TweetLink": "1260254347222548487",
-                "Place": "Lambeth",
-                "Time": "Tue May 12 17:03:45 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.115406,
-                    51.4603395
-                ]
-            }
-        }
-    ]
+    "features": []
 }
