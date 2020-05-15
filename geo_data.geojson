@@ -24,6 +24,30 @@
                     42.036141
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/446602682204045312/9562s1t5_normal.jpeg",
+                "Name": "Gethin Collins",
+                "Handle": "GethinCollins",
+                "Tweet": "Guess the golfer\n#Golf #Golfisback #GuessWho #guessthegolfer #quiz #golfquiz #quizlings #pga #europeantour #pgatour https://t.co/W8CjOTRemw",
+                "TweetLink": "1261386193029251076",
+                "Place": "Upper Killay",
+                "Time": "Fri May 15 20:01:18 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0385395,
+                    51.61329
+                ]
+            }
         }
     ]
 }
