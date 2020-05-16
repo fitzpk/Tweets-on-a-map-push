@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1254736192727322624/aKWkmsTQ_normal.jpg",
-                "Name": "\ud83c\uddf5\ud83c\uddf7\u2615\ufe0f\ud83e\udd51jERRRzi\ud83e\udd51\u2615\ufe0f\ud83c\uddf5\ud83c\uddf7",
-                "Handle": "Jerzicua",
-                "Tweet": "Does anyone have @McIlroyRory #PGATour for the xbox!?!",
-                "TweetLink": "1261347300741283841",
-                "Place": "Des Plaines",
-                "Time": "Fri May 15 17:26:45 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.893924,
-                    42.036141
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/446602682204045312/9562s1t5_normal.jpeg",
                 "Name": "Gethin Collins",
                 "Handle": "GethinCollins",
