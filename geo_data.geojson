@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1195903447570227201/0mOIWyhk_normal.jpg",
+                "Name": "David Hilliard",
+                "Handle": "DaveH_StoRivals",
+                "Tweet": "I think Bill Murray should be a part of all golf telecasts... #DrivingRelief #pgatour #Golf",
+                "TweetLink": "1262098453435465728",
+                "Place": "New Concord",
+                "Time": "Sun May 17 19:11:34 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.7301395,
+                    39.993547
+                ]
+            }
+        }
+    ]
 }
