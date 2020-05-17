@@ -72,6 +72,30 @@
                     51.8119315
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/954488791816908800/WCQZW07N_normal.jpg",
+                "Name": "Joshua Albarran",
+                "Handle": "JoshX1993",
+                "Tweet": "Love watching golf every weekend. While @CBS is replaying the final round of 2000 PGA Championship here's\u2026 https://t.co/Jmj8Axnulx",
+                "TweetLink": "1262114210688970754",
+                "Place": "New York",
+                "Time": "Sun May 17 20:14:11 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.977717,
+                    40.7055975
+                ]
+            }
         }
     ]
 }
