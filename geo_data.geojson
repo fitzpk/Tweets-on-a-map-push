@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/532409769957392384/CcH9AhTg_normal.jpeg",
-                "Name": "Rick Silva",
-                "Handle": "positvealpha",
-                "Tweet": "Do what the BEST does!\n\n.\n.\n@golfchannel \n.\n.\n.\n#golfpro #playgolf #golfinstruction #golfers #pgatour #golfcourse\u2026 https://t.co/L4mcaGA4Dc",
-                "TweetLink": "1262152039926292481",
-                "Place": "Juno Beach",
-                "Time": "Sun May 17 22:44:30 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.059287,
-                    26.8745205
-                ]
-            }
-        }
-    ]
+    "features": []
 }
