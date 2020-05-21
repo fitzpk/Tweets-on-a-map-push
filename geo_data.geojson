@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/758234175740731392/Ir7XZlbN_normal.jpg",
+                "Name": "Pedro Lemos",
+                "Handle": "PedroLemosGolf",
+                "Tweet": "On-Course work with gouldie90313 Starting to look good \ud83d\udc4c #golfjunior #golflife #golf #golfcoach #golfswing\u2026 https://t.co/POhvDWwAlj",
+                "TweetLink": "1263572265322627080",
+                "Place": "South East",
+                "Time": "Thu May 21 20:47:58 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.252754,
+                    51.3854455
+                ]
+            }
+        }
+    ]
 }
