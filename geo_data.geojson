@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1044054313495080960/g3c6xEGH_normal.jpg",
-                "Name": "Matthew Liringis",
-                "Handle": "MLiringis",
-                "Tweet": "59 watch came up yesterday\u26f3\ufe0f\ud83d\udd25\n#mattL #golf #instagram #photography #golfpro #fitness #instafashion #music\u2026 https://t.co/u6jRIwwbFc",
-                "TweetLink": "1265288289642147840",
-                "Place": "Ocotillo Golf Resort",
-                "Time": "Tue May 26 14:26:50 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -111.870881,
-                    33.25146
-                ]
-            }
-        }
-    ]
+    "features": []
 }
