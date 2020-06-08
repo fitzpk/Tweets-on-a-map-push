@@ -48,6 +48,30 @@
                     27.698682
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1164524058505097216/INOyCR-0_normal.jpg",
+                "Name": "Adam Watson",
+                "Handle": "AdtheVillan",
+                "Tweet": "Golf returns \ud83d\ude4c\ud83c\udffb Feeling a bit ring rusty but here are my Charles Schwab fancies \u26f3\ufe0f \n\nD Berger 66/1 ew\n\nR Palmer 70/\u2026 https://t.co/hUaI4kzn2h",
+                "TweetLink": "1270063272109244417",
+                "Place": "South East",
+                "Time": "Mon Jun 08 18:40:55 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.252754,
+                    51.3854455
+                ]
+            }
         }
     ]
 }
