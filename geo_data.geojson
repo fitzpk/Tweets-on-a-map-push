@@ -96,6 +96,30 @@
                     32.7799665
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1034280399030181893/BRxhH99x_normal.jpg",
+                "Name": "Jeff Paton",
+                "Handle": "jpatonpga",
+                "Tweet": "Ok so is anyone else excited that Golf is starting again this week?!?!?! #pgatour #KornFerryTour BAM!",
+                "TweetLink": "1270157709535588352",
+                "Place": "Georgia",
+                "Time": "Tue Jun 09 00:56:10 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1738665,
+                    32.6782075
+                ]
+            }
         }
     ]
 }
