@@ -168,6 +168,30 @@
                     52.381068
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "\u2b05\ufe0f 2 metres \u27a1\ufe0f No touching the champ for luck this week...\ud83d\ude02 pgatour @CSChallengeFW \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8 #koreangolfnews\u2026 https://t.co/YEkh5b8gAT",
+                "TweetLink": "1270487509148078080",
+                "Place": "Fort Worth",
+                "Time": "Tue Jun 09 22:46:41 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2859135,
+                    32.7799665
+                ]
+            }
         }
     ]
 }
