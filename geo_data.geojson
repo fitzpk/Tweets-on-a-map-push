@@ -144,6 +144,30 @@
                     32.6782075
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
+                "Name": "Tour Junkies",
+                "Handle": "Tour_Junkies",
+                "Tweet": "We were on a game show. It was wild, a little weird and we think pretty entertaining. Check it out! #PGATour",
+                "TweetLink": "1270184686044708865",
+                "Place": "Georgia",
+                "Time": "Tue Jun 09 02:43:22 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1738665,
+                    32.6782075
+                ]
+            }
         }
     ]
 }
