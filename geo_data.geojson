@@ -120,6 +120,30 @@
                     44.9054195
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1267246621080924161/WZcGNOGy_normal.jpg",
+                "Name": "Ryan Hallam",
+                "Handle": "fightingchance",
+                "Tweet": "Win that #PGA #DFS money! Drew is spot on and I\u2019m getting ready to set a few lineups for the first tournament back!",
+                "TweetLink": "1270728875505524737",
+                "Place": "Lake Katrine",
+                "Time": "Wed Jun 10 14:45:47 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.981448,
+                    41.9977755
+                ]
+            }
         }
     ]
 }
