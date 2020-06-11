@@ -192,6 +192,30 @@
                     31.1688935
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/609502387544264704/TeUJNsMX_normal.jpg",
+                "Name": "Mark Sangster",
+                "Handle": "croatia07",
+                "Tweet": "@CamiloVillegasR My heart goes out to you and your family. I wish Mia a quick and speedy recovery. Stay strong and\u2026 https://t.co/KH9164SLmt",
+                "TweetLink": "1270943140422119425",
+                "Place": "Waikato District",
+                "Time": "Thu Jun 11 04:57:12 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    175.1009545,
+                    -37.5157825
+                ]
+            }
         }
     ]
 }
