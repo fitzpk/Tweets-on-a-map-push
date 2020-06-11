@@ -216,6 +216,30 @@
                     -37.5157825
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1261640826993676294/tTZZo5ol_normal.jpg",
+                "Name": "Broadway Barber Shop SPS",
+                "Handle": "BarberBroadway",
+                "Tweet": "Phil Mickelson wearing sunglasses that look like he grabbed them at a Dollar General in Pigeon Forge....\n#pgatour",
+                "TweetLink": "1271064922210869255",
+                "Place": "Maryville",
+                "Time": "Thu Jun 11 13:01:07 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.986413,
+                    35.7261815
+                ]
+            }
         }
     ]
 }
