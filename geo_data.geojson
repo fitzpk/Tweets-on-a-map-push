@@ -312,6 +312,30 @@
                     -26.2761385
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1013768419634827267/k9h_SXKz_normal.jpg",
+                "Name": "Brien Francis",
+                "Handle": "bg_francis",
+                "Tweet": "@dstv no live sport for months but still charge full, tournament underway but no coverage till 22h00, take your new\u2026 https://t.co/V2awN6zsZU",
+                "TweetLink": "1271113086288777219",
+                "Place": "Kloof",
+                "Time": "Thu Jun 11 16:12:30 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.8270555,
+                    -29.7706735
+                ]
+            }
         }
     ]
 }
