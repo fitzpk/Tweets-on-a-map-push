@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/529290724958011392/dsTz8BrY_normal.jpeg",
-                "Name": "Eagle Valley GC \ud83e\udd85",
-                "Handle": "EagleValleyGC",
-                "Tweet": "Charles Schwab Challenge Contest\n\nComment on this tweet with the PLAYER AND THEIR WINNING SCORE IN RELATION TO PAR\u2026 https://t.co/BBNhZcFaXm",
-                "TweetLink": "1270717906557362179",
-                "Place": "Woodbury",
-                "Time": "Wed Jun 10 14:02:12 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -92.9238085,
-                    44.9054195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1267246621080924161/WZcGNOGy_normal.jpg",
                 "Name": "Ryan Hallam",
                 "Handle": "fightingchance",
