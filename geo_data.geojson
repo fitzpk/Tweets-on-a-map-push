@@ -672,6 +672,30 @@
                     35.1704985
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg",
+                "Name": "Tucker Blankinship",
+                "Handle": "TuckerBlanc",
+                "Tweet": "JT 64 his first time playing a competition round at Colonial.  He might be the real #1 this year who actually wins. #pgatour",
+                "TweetLink": "1271208572949577740",
+                "Place": "Raleigh",
+                "Time": "Thu Jun 11 22:31:56 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.657837,
+                    35.8439815
+                ]
+            }
         }
     ]
 }
