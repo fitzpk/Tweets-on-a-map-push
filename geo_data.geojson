@@ -432,6 +432,30 @@
                     45.530779
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/920780235561246720/-zFCiME__normal.jpg",
+                "Name": "Brian Young PLLC REALTOR\u00ae\ufe0f",
+                "Handle": "linkshomesearch",
+                "Tweet": "Hey Robert @RobertDDamron @PGATOURLIVE that is a dove. Don\u2019t they have doves in Orlando? \ud83d\ude00 #pgatour\u2026 https://t.co/BaBA2y3lNU",
+                "TweetLink": "1271169159615746050",
+                "Place": "Scottsdale",
+                "Time": "Thu Jun 11 19:55:19 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8583985,
+                    33.63934
+                ]
+            }
         }
     ]
 }
