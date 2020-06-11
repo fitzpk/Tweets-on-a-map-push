@@ -360,6 +360,30 @@
                     33.526322
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/703189715294355456/6wJJLHvE_normal.jpg",
+                "Name": "Mark Smith",
+                "Handle": "topbanana67",
+                "Tweet": "Bloody hilarious listening to @ConorSketches on @SkySportsGolf coverage of @PGATOUR this evening. Get that man on e\u2026 https://t.co/NhG6aHD9Qc",
+                "TweetLink": "1271128971573374979",
+                "Place": "Hatfield Broad Oak",
+                "Time": "Thu Jun 11 17:15:37 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2437415,
+                    51.8260155
+                ]
+            }
         }
     ]
 }
