@@ -240,6 +240,30 @@
                     35.7261815
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/696336039/Joe_Gruca_Headshot__2_normal.jpg",
+                "Name": "Joe Gruca",
+                "Handle": "joegruca",
+                "Tweet": "I\u2019m with you Coach Inman. Probably one of my favorite memories well! @GaStateGolf",
+                "TweetLink": "1271090387038474242",
+                "Place": "Milton",
+                "Time": "Thu Jun 11 14:42:18 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.316443,
+                    34.1346125
+                ]
+            }
         }
     ]
 }
