@@ -384,6 +384,30 @@
                     48.4023265
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/679374906669187072/rcXuc-It_normal.jpg",
+                "Name": "Suhail Chandhok",
+                "Handle": "suhailchandhok",
+                "Tweet": "More Live sport resumes...Brilliant!!!\n\nThank you @GOLFTV @PGATOUR @CSChallengeFW!\n\n#sports #CharlesSchwabChallenge\u2026 https://t.co/DgdHFgxRtm",
+                "TweetLink": "1271155294781845504",
+                "Place": "Mumbai",
+                "Time": "Thu Jun 11 19:00:13 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.874244,
+                    19.17414
+                ]
+            }
         }
     ]
 }
