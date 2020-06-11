@@ -264,6 +264,30 @@
                     34.1346125
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg",
+                "Name": "Tucker Blankinship",
+                "Handle": "TuckerBlanc",
+                "Tweet": "Pace of play is about 4:40 this morning at Colonial when it\u2019s often above 5 hours on Thursday/Friday.  Interesting\u2026 https://t.co/mMuUpVPDri",
+                "TweetLink": "1271102992679407616",
+                "Place": "Raleigh",
+                "Time": "Thu Jun 11 15:32:24 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.657837,
+                    35.8439815
+                ]
+            }
         }
     ]
 }
