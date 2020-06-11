@@ -408,6 +408,30 @@
                     41.093821
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/502824086738075648/wWU_N168_normal.jpeg",
+                "Name": "Mike Ryan",
+                "Handle": "mryan311",
+                "Tweet": "Can you believe Tom Lehman would take a spot at Colonial in this crazy year?\n\nChecks @PGATOUR live scoring...\n\nOk t\u2026 https://t.co/JbChwQChUM",
+                "TweetLink": "1271140108209664003",
+                "Place": "Fairfield",
+                "Time": "Thu Jun 11 17:59:53 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.2781465,
+                    41.1746485
+                ]
+            }
         }
     ]
 }
