@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1147957698987724802/0-qLNLIM_normal.jpg",
-                "Name": "Rob Cressy",
-                "Handle": "robcressy",
-                "Tweet": "If you are gonna lay down some action on the Charles Schwab Challenge then this pod will get your ready for it.\n\nWh\u2026 https://t.co/kjD1SIajmL",
-                "TweetLink": "1270708781819756545",
-                "Place": "Florida",
-                "Time": "Wed Jun 10 13:25:56 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.804475,
-                    27.698682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/529290724958011392/dsTz8BrY_normal.jpeg",
                 "Name": "Eagle Valley GC \ud83e\udd85",
                 "Handle": "EagleValleyGC",
