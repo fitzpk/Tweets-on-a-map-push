@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1148680751250124802/r1E8pNKT_normal.jpg",
-                "Name": "Thando Gqamane",
-                "Handle": "TlgSport",
-                "Tweet": "Finally some LIVE golf... \ud83d\udcaa\ud83c\udffe #PGAtour #CharlesSchwabChallenge  @CSChallengeFW",
-                "TweetLink": "1271109790295523328",
-                "Place": "Johannesburg",
-                "Time": "Thu Jun 11 15:59:24 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.968098,
-                    -26.2761385
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1013768419634827267/k9h_SXKz_normal.jpg",
                 "Name": "Brien Francis",
                 "Handle": "bg_francis",
