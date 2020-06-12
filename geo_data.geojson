@@ -768,6 +768,30 @@
                     48.1888995
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1047175238142844928/v47WNDwA_normal.jpg",
+                "Name": "Mike Rodriguez",
+                "Handle": "Mike_Rodriguez_",
+                "Tweet": "\ud83d\udc40 go get em\u2019 @JordanSpieth \ud83d\udd25 @CSChallengeFW #pgatour",
+                "TweetLink": "1271458468017340417",
+                "Place": "Florida",
+                "Time": "Fri Jun 12 15:04:55 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.804475,
+                    27.698682
+                ]
+            }
         }
     ]
 }
