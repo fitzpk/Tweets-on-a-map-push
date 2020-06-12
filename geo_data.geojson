@@ -840,6 +840,30 @@
                     53.3933935
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/907018175597903872/gcwg9QRK_normal.jpg",
+                "Name": "Tim Hurst",
+                "Handle": "timothybhurst",
+                "Tweet": "Watching the #CharlesSchwabChallenge without fan presence is sort of like watching the European Tour in high season\u2026 https://t.co/TFOQfZY6qy",
+                "TweetLink": "1271482149120720897",
+                "Place": "Dubai",
+                "Time": "Fri Jun 12 16:39:02 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5511725,
+                    24.9934625
+                ]
+            }
         }
     ]
 }
