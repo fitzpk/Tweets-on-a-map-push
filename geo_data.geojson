@@ -816,6 +816,30 @@
                     52.1455165
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1205531837839360001/A4FKYGfI_normal.jpg",
+                "Name": "Jack Parsons",
+                "Handle": "Parsons_THFC",
+                "Tweet": "@JordanSpieth is something else man\ud83c\udfcc\ud83c\udffc\u200d\u2642\ufe0f\ud83e\udd29 #PGATOUR",
+                "TweetLink": "1271480836978814977",
+                "Place": "Gainsborough",
+                "Time": "Fri Jun 12 16:33:49 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.764375,
+                    53.3933935
+                ]
+            }
         }
     ]
 }
