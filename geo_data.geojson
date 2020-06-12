@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/679374906669187072/rcXuc-It_normal.jpg",
-                "Name": "Suhail Chandhok",
-                "Handle": "suhailchandhok",
-                "Tweet": "More Live sport resumes...Brilliant!!!\n\nThank you @GOLFTV @PGATOUR @CSChallengeFW!\n\n#sports #CharlesSchwabChallenge\u2026 https://t.co/DgdHFgxRtm",
-                "TweetLink": "1271155294781845504",
-                "Place": "Mumbai",
-                "Time": "Thu Jun 11 19:00:13 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    72.874244,
-                    19.17414
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/931305135463993344/AO4hF38k_normal.jpg",
                 "Name": "Tim Duvall",
                 "Handle": "coachduey",
@@ -742,6 +718,30 @@
                 "coordinates": [
                     -71.4561805,
                     41.8576955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1223412942030417920/MyIczcMP_normal.jpg",
+                "Name": "Orioles Rob",
+                "Handle": "EliteRob2914",
+                "Tweet": ".@HV3_Golf bounces back from a triple bogey on his first hole today to catch fire with 4 birdies in his last 5 hole\u2026 https://t.co/gFLn51UpSp",
+                "TweetLink": "1271577508698259461",
+                "Place": "Edgemere",
+                "Time": "Fri Jun 12 22:57:57 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.449396,
+                    39.228114
                 ]
             }
         }
