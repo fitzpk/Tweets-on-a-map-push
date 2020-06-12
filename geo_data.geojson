@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/931305135463993344/AO4hF38k_normal.jpg",
-                "Name": "Tim Duvall",
-                "Handle": "coachduey",
-                "Tweet": "Really applaud @RickieFowler for being mic\u2019d up in the opening round of the #CharlesSchwabChallenge. @PGATOUR needs\u2026 https://t.co/yk15rs6nb0",
-                "TweetLink": "1271165848627998720",
-                "Place": "Hillsboro",
-                "Time": "Thu Jun 11 19:42:10 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.93553,
-                    45.530779
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/920780235561246720/-zFCiME__normal.jpg",
                 "Name": "Brian Young PLLC REALTOR\u00ae\ufe0f",
                 "Handle": "linkshomesearch",
