@@ -672,6 +672,54 @@
                     48.4023265
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/749422081184444417/j2CL3gmD_normal.jpg",
+                "Name": "Trevor Cannon",
+                "Handle": "Tcannon008",
+                "Tweet": "dechambeau looking like this on the #pgatour ha ha good for him though! Really starting to like him more and more.\u2026 https://t.co/aFWj64PI9C",
+                "TweetLink": "1271572342053851136",
+                "Place": "North Salt Lake",
+                "Time": "Fri Jun 12 22:37:25 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.908219,
+                    40.8433015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1253604077423992834/9qdh6KN9_normal.jpg",
+                "Name": "Colm O'Keeffe",
+                "Handle": "Cokeeffe1",
+                "Tweet": "Great watching the #PGATOUR without the Redneck \u2018Mashed Potato\u2019 brigade.Long May it continue \ud83d\ude1d\ud83d\udc4c",
+                "TweetLink": "1271572362023100417",
+                "Place": "Cork",
+                "Time": "Fri Jun 12 22:37:30 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0333065,
+                    51.903863
+                ]
+            }
         }
     ]
 }
