@@ -792,6 +792,54 @@
                     41.500753
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1268003872615944193/WQH4AVKX_normal.jpg",
+                "Name": "Matt Patterson",
+                "Handle": "mjpesquire",
+                "Tweet": "Guys who won the #Colonial after Keith Clearwater and are eligible but not playing this week:\n\nL Watkins\nI.B. Finch\u2026 https://t.co/hjDpHjBc2s",
+                "TweetLink": "1271252860337094657",
+                "Place": "Naperville",
+                "Time": "Fri Jun 12 01:27:55 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.1613215,
+                    41.748496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1268003872615944193/WQH4AVKX_normal.jpg",
+                "Name": "Matt Patterson",
+                "Handle": "mjpesquire",
+                "Tweet": "Trying to imagine a world where Lanny shows up at #Colonial with his sticks to claim his past champions\u2019 spot.",
+                "TweetLink": "1271253346524041216",
+                "Place": "Naperville",
+                "Time": "Fri Jun 12 01:29:51 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.1613215,
+                    41.748496
+                ]
+            }
         }
     ]
 }
