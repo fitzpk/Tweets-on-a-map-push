@@ -744,6 +744,54 @@
                     39.228114
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/919940440819949569/G9zejdA9_normal.jpg",
+                "Name": "Innisbrook Resort",
+                "Handle": "Innisbrook",
+                "Tweet": "So excited to have golfers enjoying our courses this weekend as well as the PGA TOUR back in competition! #golf\u2026 https://t.co/F8GZ11yHVj",
+                "TweetLink": "1271579860222332929",
+                "Place": "Palm Harbor",
+                "Time": "Fri Jun 12 23:07:18 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.746851,
+                    28.0858635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg",
+                "Name": "Tucker Blankinship",
+                "Handle": "TuckerBlanc",
+                "Tweet": "Would be nice to be able to watch Tom Lehman try to make the cut right now.  #CharlesSchwabChallenge #pgatour",
+                "TweetLink": "1271580073477451776",
+                "Place": "Raleigh",
+                "Time": "Fri Jun 12 23:08:08 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.657837,
+                    35.8439815
+                ]
+            }
         }
     ]
 }
