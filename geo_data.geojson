@@ -768,6 +768,30 @@
                     36.200008
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1174773245544947712/US3LS_v5_normal.jpg",
+                "Name": "Thom Cordeiro\u2122",
+                "Handle": "Thom_Cordeiro",
+                "Tweet": "OMG! Sir Nick Faldo replied to my tweet! Thank you @NickFaldo006 and thank you to all the deserving health care wor\u2026 https://t.co/KPjMoZ3f5U",
+                "TweetLink": "1271246250655068160",
+                "Place": "Connecticut",
+                "Time": "Fri Jun 12 01:01:39 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.757385,
+                    41.500753
+                ]
+            }
         }
     ]
 }
