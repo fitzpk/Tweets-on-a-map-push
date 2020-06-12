@@ -768,6 +768,30 @@
                     40.2943565
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1135735320203419649/dTdr942c_normal.jpg",
+                "Name": "Brittany Ramsay",
+                "Handle": "BeeRamsSports",
+                "Tweet": "Average outing for @McIlroyRory \ud83d\udc40\n#pgatour #CharlesSchwabChallenge",
+                "TweetLink": "1271544915936317442",
+                "Place": "Thunder Bay",
+                "Time": "Fri Jun 12 20:48:26 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.237048,
+                    48.4023265
+                ]
+            }
         }
     ]
 }
