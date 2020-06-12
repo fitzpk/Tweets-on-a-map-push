@@ -744,6 +744,30 @@
                     39.581782
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1260548257769553920/LMNRqzAy_normal.jpg",
+                "Name": "jeffrey michals",
+                "Handle": "26jerome",
+                "Tweet": "BrysonDeChambeau looks like fat homer #pgatour https://t.co/80qKFrqn40",
+                "TweetLink": "1271543581422084099",
+                "Place": "Long Branch",
+                "Time": "Fri Jun 12 20:43:08 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.993546,
+                    40.2943565
+                ]
+            }
         }
     ]
 }
