@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1189667153856913409/x931Q0m4_normal.jpg",
-                "Name": "Kira K. Dixon",
-                "Handle": "KiraDixon",
-                "Tweet": "Me thinks it\u2019s bulking season! #pgatour @b_dechambeau https://t.co/hiyD92KpSS",
-                "TweetLink": "1271131613837922304",
-                "Place": "San Francisco",
-                "Time": "Thu Jun 11 17:26:07 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.4359785,
-                    37.7706565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1268280554836934666/AdYF8I8m_normal.jpg",
-                "Name": "Looper.",
-                "Handle": "patrickgillon1",
-                "Tweet": "Watching Kevin #NA play right now #pgatour https://t.co/ieAweml5XD",
-                "TweetLink": "1271131869405462530",
-                "Place": "Nyack",
-                "Time": "Thu Jun 11 17:27:08 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.926137,
-                    41.093821
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/502824086738075648/wWU_N168_normal.jpeg",
                 "Name": "Mike Ryan",
                 "Handle": "mryan311",
