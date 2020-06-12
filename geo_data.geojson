@@ -720,6 +720,30 @@
                     51.903863
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1246418981562564614/M3A7EliB_normal.jpg",
+                "Name": "Michelle Arena",
+                "Handle": "marena936",
+                "Tweet": "@PGATOUR why do the caddies have 2 names on their backs? #pgatour #missedgolf",
+                "TweetLink": "1271576964734869505",
+                "Place": "North Providence",
+                "Time": "Fri Jun 12 22:55:47 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4561805,
+                    41.8576955
+                ]
+            }
         }
     ]
 }
