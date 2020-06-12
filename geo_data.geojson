@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1135735320203419649/dTdr942c_normal.jpg",
-                "Name": "Brittany Ramsay",
-                "Handle": "BeeRamsSports",
-                "Tweet": "When @saquon announces @BKoepka's \ntee off \ud83d\ude0e #pgatour https://t.co/lKcqq0v3hH",
-                "TweetLink": "1271143962552778753",
-                "Place": "Thunder Bay",
-                "Time": "Thu Jun 11 18:15:12 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.237048,
-                    48.4023265
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/679374906669187072/rcXuc-It_normal.jpg",
                 "Name": "Suhail Chandhok",
                 "Handle": "suhailchandhok",
