@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1221956036166221825/bNy2ilXC_normal.jpg",
-                "Name": "SportsTalk with Kash",
-                "Handle": "lazysportsdude",
-                "Tweet": "So whose everyone picking to win tomorrow? #pgatour",
-                "TweetLink": "1270882751328079872",
-                "Place": "Denver",
-                "Time": "Thu Jun 11 00:57:14 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.9220935,
-                    39.713563
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1108819541923192832/vRW1JgBK_normal.jpg",
                 "Name": "PGA TOUR Communications",
                 "Handle": "PGATOURComms",
