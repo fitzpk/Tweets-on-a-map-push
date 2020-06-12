@@ -840,6 +840,30 @@
                     41.748496
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1094186060186144768/MW45XIsH_normal.jpg",
+                "Name": "Rene Boudreault",
+                "Handle": "callrene",
+                "Tweet": "Is it still a Father\u2019s Day gift when I place an order for myself?!?!?",
+                "TweetLink": "1271258078604922886",
+                "Place": "Kirkland Lake",
+                "Time": "Fri Jun 12 01:48:39 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0174965,
+                    48.1888995
+                ]
+            }
         }
     ]
 }
