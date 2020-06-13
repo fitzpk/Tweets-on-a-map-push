@@ -576,6 +576,30 @@
                     35.1704985
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/896540569387782144/h5fPD8CG_normal.jpg",
+                "Name": "Benjamin Glaser",
+                "Handle": "WVPitt",
+                "Tweet": "Is there something wrong with CBS's cameras? The aspect ratio is all out of whack on my tv. #pgatour",
+                "TweetLink": "1271901239937314817",
+                "Place": "South Carolina",
+                "Time": "Sat Jun 13 20:24:21 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.926628,
+                    33.6311395
+                ]
+            }
         }
     ]
 }
