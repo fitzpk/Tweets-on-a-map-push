@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1268200888822366211/O9ldnM82_normal.jpg",
-                "Name": "Brian Cullather",
-                "Handle": "Briancullather",
-                "Tweet": "Watching #pgatour without a gallery isn\u2019t too bad, but I wish someone would scream \u201cIn The Hole\u201d on a golfers tee s\u2026 https://t.co/Gbf73fUHpR",
-                "TweetLink": "1271182896750084097",
-                "Place": "Schuylkill Haven",
-                "Time": "Thu Jun 11 20:49:54 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.170923,
-                    40.629609
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1082690196376817664/ZQASEu6M_normal.jpg",
                 "Name": "James King",
                 "Handle": "jamesg_king",
