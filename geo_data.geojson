@@ -432,6 +432,30 @@
                     40.148988
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1270335375278592000/OClzAkMU_normal.jpg",
+                "Name": "Stew",
+                "Handle": "Stew_Morrison",
+                "Tweet": "Golf commentary right out of the top drawer here. Great stuff. \n#SchwabChallenge #PGATour https://t.co/FoJ2DuZW09",
+                "TweetLink": "1271834765394575360",
+                "Place": "Aberdeen",
+                "Time": "Sat Jun 13 16:00:12 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1270405,
+                    57.160556
+                ]
+            }
         }
     ]
 }
