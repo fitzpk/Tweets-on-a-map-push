@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1223412942030417920/MyIczcMP_normal.jpg",
-                "Name": "Orioles Rob",
-                "Handle": "EliteRob2914",
-                "Tweet": "Great to see golf back! 2 of the best gentlemen in golf tied on top of the leaderboard after Round 1. Would be hist\u2026 https://t.co/1WBQwjytYC",
-                "TweetLink": "1271215373313093632",
-                "Place": "Edgemere",
-                "Time": "Thu Jun 11 22:58:57 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.449396,
-                    39.228114
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1219277548938579968/AyToNeGa_normal.jpg",
                 "Name": "Dixon",
                 "Handle": "rdixon00",
