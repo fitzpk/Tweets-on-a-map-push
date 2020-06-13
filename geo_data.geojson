@@ -456,6 +456,30 @@
                     57.160556
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1259450366464266240/evraN9i9_normal.jpg",
+                "Name": "Darren Wood",
+                "Handle": "FairwaysAndFood",
+                "Tweet": "I'm bulking like @b_dechambeau in order to gain some ball speed. Boy he gives it a smash \ud83d\udcaa\ud83d\udcaa not a fan of his golf I\u2026 https://t.co/EDq7eSSY9g",
+                "TweetLink": "1271877823255494660",
+                "Place": "Westhoughton",
+                "Time": "Sat Jun 13 18:51:18 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5159095,
+                    53.546065
+                ]
+            }
         }
     ]
 }
