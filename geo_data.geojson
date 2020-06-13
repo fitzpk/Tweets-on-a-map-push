@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1047175238142844928/v47WNDwA_normal.jpg",
-                "Name": "Mike Rodriguez",
-                "Handle": "Mike_Rodriguez_",
-                "Tweet": "\ud83d\udc40 go get em\u2019 @JordanSpieth \ud83d\udd25 @CSChallengeFW #pgatour",
-                "TweetLink": "1271458468017340417",
-                "Place": "Florida",
-                "Time": "Fri Jun 12 15:04:55 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.804475,
-                    27.698682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1214910345086717953/bBdsxvb-_normal.jpg",
                 "Name": "Wild Atlantic Golf Pro",
                 "Handle": "Wild_A_GolfPro",
@@ -478,6 +454,78 @@
                 "coordinates": [
                     -2.5159095,
                     53.546065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/712358465696636928/0vCb5AAP_normal.jpg",
+                "Name": "Aiden",
+                "Handle": "AidenA22",
+                "Tweet": "Bryson Dechambeau is fucking huge all respect for the amount of gym work put in gain the yardage off the tee. But t\u2026 https://t.co/hOqpPaW0Bc",
+                "TweetLink": "1271881130980106242",
+                "Place": "Newburn",
+                "Time": "Sat Jun 13 19:04:26 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.724596,
+                    54.988777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1269014032658444294/D02znR7__normal.jpg",
+                "Name": "Lebronald Palmer",
+                "Handle": "lp_htx",
+                "Tweet": "I need Varner to win so we can get the HVIII Jordan Golf Pack! #jordangolf #pgatour",
+                "TweetLink": "1271881266510598146",
+                "Place": "Texas",
+                "Time": "Sat Jun 13 19:04:59 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.0768885,
+                    31.1688935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/778433891468095488/N1qnybCg_normal.jpg",
+                "Name": "Ryan Lambert",
+                "Handle": "Ryanlambert11",
+                "Tweet": "This is going to be a fun weekend of golf. Can\u2019t believe sports are coming back! #CharlesSchwabChallenge #PGATour",
+                "TweetLink": "1271881510786748416",
+                "Place": "Calgary",
+                "Time": "Sat Jun 13 19:05:57 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.087851,
+                    51.027664
                 ]
             }
         }
