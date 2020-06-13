@@ -600,6 +600,30 @@
                     33.6311395
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1249682237337079808/OeVy-roZ_normal.jpg",
+                "Name": "M. Ira Miles",
+                "Handle": "murmiles",
+                "Tweet": "Missing the irreverent humor of Gary McCord while watching @CBSSports #pgatour @PGATOUR",
+                "TweetLink": "1271902289683517441",
+                "Place": "Hallandale Beach",
+                "Time": "Sat Jun 13 20:28:31 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1621285,
+                    25.9851745
+                ]
+            }
         }
     ]
 }
