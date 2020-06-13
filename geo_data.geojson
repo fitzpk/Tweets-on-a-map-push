@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1187278550107410432/wDNsIb-5_normal.jpg",
-                "Name": "Blake Macon",
-                "Handle": "interface7",
-                "Tweet": "It\u2019s so nice to watch #TheColonial and live sports for change! \u26f3\ufe0f \ud83c\udfcc\ufe0f #CharlesSchwabChallenge #pgatour https://t.co/IozIZvCrZb",
-                "TweetLink": "1271187049190699009",
-                "Place": "Austin",
-                "Time": "Thu Jun 11 21:06:24 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.754724,
-                    30.3233455
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/995283100069453824/oyN2FhYv_normal.jpg",
-                "Name": "\ud835\ude73\ud835\ude8a\ud835\ude9b\ud835\ude9b\ud835\ude8e\ud835\ude97 \ud835\ude72\ud835\ude98\ud835\ude9e\ud835\ude95\ud835\ude9d\ud835\ude91\ud835\ude8a\ud835\ude9b\ud835\ude8d",
-                "Handle": "coulthard_dc",
-                "Tweet": "Great to see the PGA Tour back in action and on another note there\u2019s no fans there shouting shit like \u201cGet in the h\u2026 https://t.co/CukelFaZY3",
-                "TweetLink": "1271187851728781312",
-                "Place": "Burnley",
-                "Time": "Thu Jun 11 21:09:36 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.264325,
-                    53.7942165
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1263449287213690883/EOzkpFAZ_normal.jpg",
                 "Name": "John Patrick Noonan",
                 "Handle": "ecunoonan",
