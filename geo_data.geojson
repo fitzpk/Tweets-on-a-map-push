@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/585038465978380288/G1qTmooh_normal.jpg",
-                "Name": "Whaler",
-                "Handle": "EricSlason",
-                "Tweet": "So awesome to be watching live #golf #pgatour again.  Go @aLongShot #CharlesSchwabChallenge",
-                "TweetLink": "1271170089346269184",
-                "Place": "New Hampshire",
-                "Time": "Thu Jun 11 19:59:01 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.566171,
-                    44.00123
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/502824086738075648/wWU_N168_normal.jpeg",
                 "Name": "Mike Ryan",
                 "Handle": "mryan311",
