@@ -528,6 +528,30 @@
                     51.027664
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1259477623262019586/3pBDMQJj_normal.jpg",
+                "Name": "\u26f3 Stuart Clayton \u26f3",
+                "Handle": "stuclaytongolf",
+                "Tweet": "GIVEAWAY - a FREE online swing analysis. Simply LIKE, FOLLOW &amp; RETWEET to be entered. Winner announced Wednesday.\u2026 https://t.co/QlpiLh0T6Q",
+                "TweetLink": "1271893980993720320",
+                "Place": "Leven",
+                "Time": "Sat Jun 13 19:55:30 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.009982,
+                    56.200291
+                ]
+            }
         }
     ]
 }
