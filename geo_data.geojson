@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg",
-                "Name": "Tucker Blankinship",
-                "Handle": "TuckerBlanc",
-                "Tweet": "JT 64 his first time playing a competition round at Colonial.  He might be the real #1 this year who actually wins. #pgatour",
-                "TweetLink": "1271208572949577740",
-                "Place": "Raleigh",
-                "Time": "Thu Jun 11 22:31:56 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -78.657837,
-                    35.8439815
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1234286346166054913/yhEuAxXE_normal.jpg",
                 "Name": "Jeremy Newton",
                 "Handle": "jeremy_newton79",
@@ -526,6 +502,30 @@
                 "coordinates": [
                     -97.372636,
                     32.71715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1123277597239074819/k9tuw_AF_normal.jpg",
+                "Name": "Bill Nichols",
+                "Handle": "BillRNichols",
+                "Tweet": "And finally, @JordanSpieth saving par from this gnarly lie on No. 7 at Colonial\n#pgatour #golf #NYTimes\u2026 https://t.co/gqkkxHdqAe",
+                "TweetLink": "1271631443291181056",
+                "Place": "Fort Worth",
+                "Time": "Sat Jun 13 02:32:16 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2859135,
+                    32.7799665
                 ]
             }
         }
