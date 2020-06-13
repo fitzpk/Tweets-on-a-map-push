@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1082690196376817664/ZQASEu6M_normal.jpg",
-                "Name": "James King",
-                "Handle": "jamesg_king",
-                "Tweet": "Mic\u2019d up Rickie Fowler in a group with Spieth and Thomas is cool af \ud83d\ude4c #PGATOUR",
-                "TweetLink": "1271185743390617601",
-                "Place": "Pencoed",
-                "Time": "Thu Jun 11 21:01:13 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.503399,
-                    51.523466
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1187278550107410432/wDNsIb-5_normal.jpg",
                 "Name": "Blake Macon",
                 "Handle": "interface7",
