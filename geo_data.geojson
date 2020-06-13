@@ -576,6 +576,30 @@
                     41.1654695
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/947658187297181697/ImmrlHtB_normal.jpg",
+                "Name": "TM",
+                "Handle": "TMillerGolf",
+                "Tweet": "Spieth asking for that non-existent wind the move the ball back.  #TourSauce #pgatour",
+                "TweetLink": "1271896440110014466",
+                "Place": "North Carolina",
+                "Time": "Sat Jun 13 20:05:16 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.861034,
+                    35.1704985
+                ]
+            }
         }
     ]
 }
