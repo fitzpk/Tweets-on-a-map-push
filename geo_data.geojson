@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1234286346166054913/yhEuAxXE_normal.jpg",
-                "Name": "Jeremy Newton",
-                "Handle": "jeremy_newton79",
-                "Tweet": "Avoided @Twitter all day just so I wouldn\u2019t know anything about the @PGATOUR #CharlesSchwabChallenge   Watching it\u2026 https://t.co/83H9DgWhdd",
-                "TweetLink": "1271214237990469632",
-                "Place": "Dickson",
-                "Time": "Thu Jun 11 22:54:27 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.372618,
-                    36.0525965
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1223412942030417920/MyIczcMP_normal.jpg",
                 "Name": "Orioles Rob",
                 "Handle": "EliteRob2914",
@@ -526,6 +502,30 @@
                 "coordinates": [
                     -97.2859135,
                     32.7799665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1256261913157107714/MCpS4JcK_normal.jpg",
+                "Name": "Justin M. Vicroy",
+                "Handle": "JustinMVicroy",
+                "Tweet": "I watched this tee shot on @GolfChannel and my mind was blown... It carried 324yds. CARRIED!!! #PGATour\u2026 https://t.co/O9ukx43r23",
+                "TweetLink": "1271636205617025030",
+                "Place": "Denver",
+                "Time": "Sat Jun 13 02:51:11 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9220935,
+                    39.713563
                 ]
             }
         }
