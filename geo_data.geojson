@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1244171685105893376/WO46JYW7_normal.jpg",
-                "Name": "Herm",
-                "Handle": "LLwaverider",
-                "Tweet": "Added #CharlesSchwabChallenge \n2nd Rd matchup:\nLouis Oosthuizen over Corey Connors (-125)\nIan Poulter over Daniel B\u2026 https://t.co/z5DeTkyyre",
-                "TweetLink": "1271492481683775489",
-                "Place": "Perryville",
-                "Time": "Fri Jun 12 17:20:05 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.0616745,
-                    39.581782
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1260548257769553920/LMNRqzAy_normal.jpg",
                 "Name": "jeffrey michals",
                 "Handle": "26jerome",
