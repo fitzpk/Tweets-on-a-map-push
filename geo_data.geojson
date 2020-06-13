@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/909001211117998080/UCR3lqye_normal.jpg",
-                "Name": "Kim Futter",
-                "Handle": "kimfutter",
-                "Tweet": "#pgatour back on #skysportsgolf  ... things beginning to get back to normal ...",
-                "TweetLink": "1271174634482929673",
-                "Place": "East",
-                "Time": "Thu Jun 11 20:17:04 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.511578,
-                    52.2204505
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/426212556428947456/SvEytgJN_normal.jpeg",
-                "Name": "Marco Cappellano",
-                "Handle": "TheBigItalia",
-                "Tweet": "It's great to see the @PGA back in action! I'm digging the courses being empty. Most fans are just annoying AF. I w\u2026 https://t.co/3B1vq0LBpA",
-                "TweetLink": "1271174987190161408",
-                "Place": "Chandler",
-                "Time": "Thu Jun 11 20:18:28 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -111.8808735,
-                    33.2824505
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1268200888822366211/O9ldnM82_normal.jpg",
                 "Name": "Brian Cullather",
                 "Handle": "Briancullather",
