@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1219277548938579968/AyToNeGa_normal.jpg",
-                "Name": "Dixon",
-                "Handle": "rdixon00",
-                "Tweet": "Would love to see @HV3_Golf win this week for many reasons.  Good luck fella!  #classact  #pgatour",
-                "TweetLink": "1271229660379168770",
-                "Place": "Nashville",
-                "Time": "Thu Jun 11 23:55:43 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.791549,
-                    36.200008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1174773245544947712/US3LS_v5_normal.jpg",
                 "Name": "Thom Cordeiro\u2122",
                 "Handle": "Thom_Cordeiro",
