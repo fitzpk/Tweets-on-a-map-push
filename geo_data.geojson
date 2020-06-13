@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1223412942030417920/MyIczcMP_normal.jpg",
-                "Name": "Orioles Rob",
-                "Handle": "EliteRob2914",
-                "Tweet": "GLORIOUS TO HAVE GOLF BACK ON MY TV! THE SOOTHING VOICE OF JIM NANTZ &amp; AN F-BOMB FROM JON RAHM MAKING FOR A PERFECT\u2026 https://t.co/MwFHiVSc1L",
-                "TweetLink": "1271172155628273664",
-                "Place": "Edgemere",
-                "Time": "Thu Jun 11 20:07:13 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.449396,
-                    39.228114
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/909001211117998080/UCR3lqye_normal.jpg",
                 "Name": "Kim Futter",
                 "Handle": "kimfutter",
