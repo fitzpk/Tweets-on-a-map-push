@@ -576,6 +576,30 @@
                     25.9851745
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1144724820317417472/D8s5e95k_normal.jpg",
+                "Name": "Bill Arey",
+                "Handle": "areyshelby",
+                "Tweet": "Graphics suck too stretched make it smaller  #pgatour",
+                "TweetLink": "1271908689746759680",
+                "Place": "Shelby",
+                "Time": "Sat Jun 13 20:53:57 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.536125,
+                    35.2921905
+                ]
+            }
         }
     ]
 }
