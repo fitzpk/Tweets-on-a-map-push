@@ -552,6 +552,30 @@
                     56.200291
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1266909071925547011/Be9C6mxY_normal.jpg",
+                "Name": "Flores",
+                "Handle": "pcflores13",
+                "Tweet": "@JordanSpieth playing great golf right now! #pgatour",
+                "TweetLink": "1271895455409070082",
+                "Place": "Chalco",
+                "Time": "Sat Jun 13 20:01:21 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.1488935,
+                    41.1654695
+                ]
+            }
         }
     ]
 }
