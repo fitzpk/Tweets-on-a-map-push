@@ -408,6 +408,30 @@
                     51.3854455
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/902184467086925824/wFWn2wN__normal.jpg",
+                "Name": "SR ActionPhotography",
+                "Handle": "SWOF1",
+                "Tweet": "@425DC1 @CoachKurtHines @PGATOUR for me it had to be watching Greg Norman 1996 Masters loss with a six-shot lead!\u2026 https://t.co/0R8ai73juL",
+                "TweetLink": "1271797930509426689",
+                "Place": "Westerville",
+                "Time": "Sat Jun 13 13:33:50 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.914538,
+                    40.148988
+                ]
+            }
         }
     ]
 }
