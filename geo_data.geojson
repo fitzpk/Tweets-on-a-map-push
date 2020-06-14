@@ -336,6 +336,30 @@
                     32.71715
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1123277597239074819/k9tuw_AF_normal.jpg",
+                "Name": "Bill Nichols",
+                "Handle": "BillRNichols",
+                "Tweet": "Really thought No. 1 Rory McIlroy would make early charge but he did the exact opposite. Shot 41 on front nine en r\u2026 https://t.co/Nrr1a0VIiq",
+                "TweetLink": "1272274742167449602",
+                "Place": "Colonial Country Club",
+                "Time": "Sun Jun 14 21:08:30 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.372636,
+                    32.71715
+                ]
+            }
         }
     ]
 }
