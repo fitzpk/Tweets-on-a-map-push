@@ -432,6 +432,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1269110962432270336/AcDWbytx_normal.jpg",
+                "Name": "Peloton Papi",
+                "Handle": "jfull1914",
+                "Tweet": "Wow what a bogey by Xander. And Daniel Berger just knocked Bryson out.  #pgatour #charlesschwabchallenge",
+                "TweetLink": "1272280196863815680",
+                "Place": "Los Angeles",
+                "Time": "Sun Jun 14 21:30:11 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
