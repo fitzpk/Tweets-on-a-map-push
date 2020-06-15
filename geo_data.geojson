@@ -240,6 +240,30 @@
                     32.7799665
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1843425799/mnf9_normal.jpg",
+                "Name": "craig bullis",
+                "Handle": "craig_bullis",
+                "Tweet": "Choke-onial. #pgatour",
+                "TweetLink": "1272334110015524866",
+                "Place": "Overland Park",
+                "Time": "Mon Jun 15 01:04:25 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.6750935,
+                    38.931549
+                ]
+            }
         }
     ]
 }
