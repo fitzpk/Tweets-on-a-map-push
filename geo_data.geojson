@@ -216,6 +216,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1060908905750908930/rwCQapau_normal.jpg",
+                "Name": "Brad Townsend",
+                "Handle": "townbrad",
+                "Tweet": "Congratulations, Bill! We\u2019ll miss you!",
+                "TweetLink": "1272332856522674177",
+                "Place": "Fort Worth",
+                "Time": "Mon Jun 15 00:59:26 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2859135,
+                    32.7799665
+                ]
+            }
         }
     ]
 }
