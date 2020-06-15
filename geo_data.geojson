@@ -216,6 +216,30 @@
                     37.073573
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1244831662850093057/M9vZ4LMt_normal.jpg",
+                "Name": "Daniel Ausbun",
+                "Handle": "DanielAusbun",
+                "Tweet": "Golf resumed this weekend with the @CSChallengeFW won by @DanielBerger59 #pgatour",
+                "TweetLink": "1272369404135845888",
+                "Place": "Hilton Head Island",
+                "Time": "Mon Jun 15 03:24:40 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.748747,
+                    32.1898025
+                ]
+            }
         }
     ]
 }
