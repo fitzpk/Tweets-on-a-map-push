@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1250797132241666050/dJOL9Btu_normal.jpg",
-                "Name": "Bhrett McCabe, PhD",
-                "Handle": "DrBhrettMcCabe",
-                "Tweet": "Love my man @jtedscott",
-                "TweetLink": "1272595922418110464",
-                "Place": "Hoover",
-                "Time": "Mon Jun 15 18:24:46 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.760091,
-                    33.385555
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1209498616685039617/8KPDp3SQ_normal.jpg",
                 "Name": "Sarah Akers",
                 "Handle": "parker4girls",
