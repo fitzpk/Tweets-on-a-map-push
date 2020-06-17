@@ -24,6 +24,30 @@
                     38.9201425
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1192491842929119232/i190CSvX_normal.jpg",
+                "Name": "Nick Bradley",
+                "Handle": "THENICKBRADLEY",
+                "Tweet": "The answer is golf course choice and set up. \n\nIt will cost millions &amp;  time to wind equipment in.\n\nBut one must as\u2026 https://t.co/1PMpo6tzZ7",
+                "TweetLink": "1273212219128496128",
+                "Place": "Sunset Beach",
+                "Time": "Wed Jun 17 11:13:42 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5164375,
+                    33.901311
+                ]
+            }
         }
     ]
 }
