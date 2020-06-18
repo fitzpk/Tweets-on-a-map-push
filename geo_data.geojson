@@ -144,6 +144,30 @@
                     32.1898025
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/550762242073829376/gMBp7SzB_normal.jpeg",
+                "Name": "Garreth Woods",
+                "Handle": "Gawoo1012",
+                "Tweet": "Who is that annoying woman trotting out all the tired cliches on the golf \"you gotta dance with the girl that broug\u2026 https://t.co/RYw4fXn4kO",
+                "TweetLink": "1273628163134951425",
+                "Place": "Fingal",
+                "Time": "Thu Jun 18 14:46:31 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.23572,
+                    53.494598
+                ]
+            }
         }
     ]
 }
