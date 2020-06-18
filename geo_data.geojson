@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/598000302684405760/rAKmNE-E_normal.jpg",
-                "Name": "Michael Sanchez",
-                "Handle": "Mickeyboy66",
-                "Tweet": "@BKoepka @CSChallengeFW \n#PGA #pgatour \n2020 Charles Schwab Challenge. Colonial Country Club  Ft. Worth, TX https://t.co/7dPiVkoHve",
-                "TweetLink": "1273252573622001665",
-                "Place": "Fort Worth",
-                "Time": "Wed Jun 17 13:54:04 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.2859135,
-                    32.7799665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/963821864702365696/36XNkzOk_normal.jpg",
                 "Name": "Jeremy Harris",
                 "Handle": "jeremyharris55",
