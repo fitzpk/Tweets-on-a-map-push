@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/963821864702365696/36XNkzOk_normal.jpg",
-                "Name": "Jeremy Harris",
-                "Handle": "jeremyharris55",
-                "Tweet": "Looking in good nick if #CharlesSchwab was anything to go by...good luck this week! \ud83c\uddff\ud83c\udde6\ud83c\uddff\ud83c\udde6",
-                "TweetLink": "1273335274542637061",
-                "Place": "Cape Town",
-                "Time": "Wed Jun 17 19:22:41 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.4890615,
-                    -34.1216575
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1032382701246930944/iqptWIzW_normal.jpg",
                 "Name": "Aaron Dill",
                 "Handle": "Vokeywedgerep",
