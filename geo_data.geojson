@@ -144,6 +144,30 @@
                     53.494598
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/831251162766643200/LpfUv1qp_normal.jpg",
+                "Name": "Robert Van Deering",
+                "Handle": "RobVanDeering",
+                "Tweet": "Already setting up to be another great week on the @PGATOUR at the @RBC_Heritage !!! What a 66 by @JordanSpieth aft\u2026 https://t.co/c66woNXJ5c",
+                "TweetLink": "1273648794924695558",
+                "Place": "Florida",
+                "Time": "Thu Jun 18 16:08:30 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.804475,
+                    27.698682
+                ]
+            }
         }
     ]
 }
