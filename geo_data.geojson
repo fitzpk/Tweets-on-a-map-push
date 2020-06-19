@@ -192,6 +192,30 @@
                     36.200008
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1259477623262019586/3pBDMQJj_normal.jpg",
+                "Name": "\u26f3 Stuart Clayton \u26f3",
+                "Handle": "stuclaytongolf",
+                "Tweet": "What does impact look like for you? Having a concept of what impact should be can greatly influence your swing.\u2026 https://t.co/TUk69t5QSJ",
+                "TweetLink": "1274058036500484099",
+                "Place": "Scotland",
+                "Time": "Fri Jun 19 19:14:41 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.200441,
+                    57.739454
+                ]
+            }
         }
     ]
 }
