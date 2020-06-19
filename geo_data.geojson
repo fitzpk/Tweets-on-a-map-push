@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1032382701246930944/iqptWIzW_normal.jpg",
-                "Name": "Aaron Dill",
-                "Handle": "Vokeywedgerep",
-                "Tweet": "She\u2019s a beaut Clark.  titleist vokeywedges #invokewetrust #custom #golf #pga #pgatour #grind #raw @ Sea Pines Resor\u2026 https://t.co/qoC9S7EEwB",
-                "TweetLink": "1273618777419194369",
-                "Place": "Hilton Head Island",
-                "Time": "Thu Jun 18 14:09:13 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.748747,
-                    32.1898025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/550762242073829376/gMBp7SzB_normal.jpeg",
                 "Name": "Garreth Woods",
                 "Handle": "Gawoo1012",
