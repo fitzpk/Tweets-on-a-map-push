@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1249350591492612097/kpDykBdm_normal.jpg",
-                "Name": "Teetalk",
-                "Handle": "teetalktom",
-                "Tweet": "#pgatour #philmickelson\nPHIL MICKELSON COMMITS TO 2020 TRAVELERS CHAMPIONSHIP https://t.co/RmcypYMIYz via @New England dot Golf",
-                "TweetLink": "1273671860610314241",
-                "Place": "Dedham",
-                "Time": "Thu Jun 18 17:40:09 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.1839105,
-                    42.2445985
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
                 "Name": "Tour Junkies",
                 "Handle": "Tour_Junkies",
