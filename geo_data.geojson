@@ -216,6 +216,30 @@
                     33.5298345
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1265626982382960640/4myS9oMR_normal.jpg",
+                "Name": "mike jeter",
+                "Handle": "redchairmike",
+                "Tweet": "Goodbye sports...",
+                "TweetLink": "1274081225066582018",
+                "Place": "Summerville",
+                "Time": "Fri Jun 19 20:46:49 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.17241,
+                    32.999979
+                ]
+            }
         }
     ]
 }
