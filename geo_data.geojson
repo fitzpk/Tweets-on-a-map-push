@@ -216,6 +216,30 @@
                     57.739454
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/920558452/twitter_normal.jpg",
+                "Name": "Daniel Burapavong \ud83c\udfae",
+                "Handle": "TD2timeMVP",
+                "Tweet": "I love me some @Harbour_Town. @RBC_Heritage round 2. @McIlroyRory teeing off on 10, a rare sight to see. \ud83c\udfcc\ud83c\udffb\u200d\u2642\ufe0f\u26f3\ud83c\udfdd\ufe0f\u2026 https://t.co/WcFwrsNxxX",
+                "TweetLink": "1274058913659400196",
+                "Place": "Durham",
+                "Time": "Fri Jun 19 19:18:10 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8954405,
+                    35.9909825
+                ]
+            }
         }
     ]
 }
