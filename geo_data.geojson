@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/831251162766643200/LpfUv1qp_normal.jpg",
-                "Name": "Robert Van Deering",
-                "Handle": "RobVanDeering",
-                "Tweet": "I wish my scorecard could look like the scorecard of @JordanSpieth today at @RBC_Heritage after making a triple. \n\ud83d\udcaf\u2026 https://t.co/JrFcsuq2ed",
-                "TweetLink": "1273656490142896131",
-                "Place": "Florida",
-                "Time": "Thu Jun 18 16:39:05 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.804475,
-                    27.698682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1249350591492612097/kpDykBdm_normal.jpg",
                 "Name": "Teetalk",
                 "Handle": "teetalktom",
