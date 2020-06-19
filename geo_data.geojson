@@ -264,6 +264,30 @@
                     44.900818
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1208454104483278848/FBv57lF1_normal.jpg",
+                "Name": "Doc \ud835\ude42\ud835\ude64\ud835\ude61\ud835\ude5b\ud835\ude3e\ud835\ude5a\ud835\ude63\ud835\ude69\ud835\ude67\ud835\ude56\ud835\ude61/\ud835\ude42\ud835\ude3c\ud835\ude3c \ud835\ude42\ud835\ude46 \ud835\ude3e\ud835\ude64\ud835\ude56\ud835\ude58\ud835\ude5d",
+                "Handle": "GolfCentralDoc",
+                "Tweet": "Nick Watney testing positive for Corona Virus is the first time he's grabbed the headlines since a woman discovered\u2026 https://t.co/34TX9Y7bQq",
+                "TweetLink": "1274087568120963075",
+                "Place": "Mayo",
+                "Time": "Fri Jun 19 21:12:02 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4203375,
+                    53.9092525
+                ]
+            }
         }
     ]
 }
