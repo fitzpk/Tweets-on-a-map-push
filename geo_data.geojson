@@ -240,6 +240,30 @@
                     32.999979
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1204488174011109377/g1bRmiOb_normal.jpg",
+                "Name": "Evan Seegmiller",
+                "Handle": "Eseeg3",
+                "Tweet": "Hot mics on the PGA Tour players make me feel better about the things I yell at myself while I am on the links. #PGATour",
+                "TweetLink": "1274082491998121985",
+                "Place": "Wisconsin",
+                "Time": "Fri Jun 19 20:51:52 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.5694915,
+                    44.900818
+                ]
+            }
         }
     ]
 }
