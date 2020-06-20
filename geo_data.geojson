@@ -432,6 +432,30 @@
                     53.546065
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/959046039457161217/iIWrTle1_normal.jpg",
+                "Name": "David Murphy",
+                "Handle": "David_Mstudio",
+                "Tweet": "@TyrrellHatton looks like a little fella on his school tour day out. #pgatour https://t.co/34YiSfS121",
+                "TweetLink": "1274430259270647811",
+                "Place": "Waterford",
+                "Time": "Sat Jun 20 19:53:46 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.556151,
+                    52.150999
+                ]
+            }
         }
     ]
 }
