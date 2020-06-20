@@ -336,6 +336,30 @@
                     41.224028
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/920558452/twitter_normal.jpg",
+                "Name": "Daniel Burapavong \ud83c\udfae",
+                "Handle": "TD2timeMVP",
+                "Tweet": "#RBCHeritage at @Harbour_Town, round 3. @McIlroyRory already on 18 with @bubbawatson. \u26f3 #PGATOUR https://t.co/Ddm6zVBvoy",
+                "TweetLink": "1274388221120700419",
+                "Place": "Durham",
+                "Time": "Sat Jun 20 17:06:43 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8954405,
+                    35.9909825
+                ]
+            }
         }
     ]
 }
