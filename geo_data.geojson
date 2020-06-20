@@ -240,6 +240,30 @@
                     36.200008
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3190692177/aad0f1af9e9078eab4a0a595a41451c5_normal.jpeg",
+                "Name": "Brent Sheckler",
+                "Handle": "BrentSuppzCEO",
+                "Tweet": "Last night in golf, I went Eagle-birdie on 6 and 7.  Might join the tour on Monday #golf #pga #pgatour",
+                "TweetLink": "1274309921086062592",
+                "Place": "Wisconsin",
+                "Time": "Sat Jun 20 11:55:35 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.5694915,
+                    44.900818
+                ]
+            }
         }
     ]
 }
