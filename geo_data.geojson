@@ -384,6 +384,30 @@
                     41.224028
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
+                "Name": "Tour Junkies",
+                "Handle": "Tour_Junkies",
+                "Tweet": "Let this go ahead and be @Joel_Dahmen &amp; @GenoBonnalie \u2018s week dear Jesus. #PGATOUR #RBCHeritage https://t.co/3U7PLIGHnG",
+                "TweetLink": "1274418372881637378",
+                "Place": "Georgia",
+                "Time": "Sat Jun 20 19:06:32 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1738665,
+                    32.6782075
+                ]
+            }
         }
     ]
 }
