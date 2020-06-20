@@ -312,6 +312,30 @@
                     32.1898025
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1261401836969492490/GBTOO6Br_normal.jpg",
+                "Name": "Connor French",
+                "Handle": "Cman306",
+                "Tweet": "Ugh...I don\u2019t want to watch a simulcast of @PGATOURLIVE on @GolfChannel...if I did, I\u2019d buy it. Give me the regular\u2026 https://t.co/UD5lptN7Aj",
+                "TweetLink": "1274388046872489985",
+                "Place": "Milford",
+                "Time": "Sat Jun 20 17:06:02 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.053745,
+                    41.224028
+                ]
+            }
         }
     ]
 }
