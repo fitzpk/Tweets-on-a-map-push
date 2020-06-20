@@ -288,6 +288,30 @@
                     30.3233455
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000104987416/fb4e8df5b79434afee49991542882179_normal.jpeg",
+                "Name": "KINGMADE JERKY",
+                "Handle": "KingmadeJerky",
+                "Tweet": "All systems go for round 3 at the #PGATour @rbc_heritage. @ Hilton Head Island, South Carolina https://t.co/mXujqDKHTW",
+                "TweetLink": "1274377891523047425",
+                "Place": "Hilton Head Island",
+                "Time": "Sat Jun 20 16:25:40 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.748747,
+                    32.1898025
+                ]
+            }
         }
     ]
 }
