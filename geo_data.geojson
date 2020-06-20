@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1273728896563916802/kNjCgH4H_normal.jpg",
-                "Name": "Mike McClure",
-                "Handle": "Mike5754",
-                "Tweet": "Webb Simpson just broke the 20% mark. 20.4% simulation win% as he moves to -9 \ud83d\udd25\ud83d\udd25\ud83d\udd25. @SportsLine #RBCHeritage",
-                "TweetLink": "1273978165799661570",
-                "Place": "Nashville",
-                "Time": "Fri Jun 19 13:57:18 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.791549,
-                    36.200008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1259477623262019586/3pBDMQJj_normal.jpg",
                 "Name": "\u26f3 Stuart Clayton \u26f3",
                 "Handle": "stuclaytongolf",
