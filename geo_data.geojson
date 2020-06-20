@@ -312,6 +312,30 @@
                     36.232915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1273728896563916802/kNjCgH4H_normal.jpg",
+                "Name": "Mike McClure",
+                "Handle": "Mike5754",
+                "Tweet": "Nice to have another sweat for @SportsLine members this week. We have these are are still very much and realistical\u2026 https://t.co/n9uP2vmnG8",
+                "TweetLink": "1274153997767712768",
+                "Place": "Nashville",
+                "Time": "Sat Jun 20 01:36:00 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.791549,
+                    36.200008
+                ]
+            }
         }
     ]
 }
