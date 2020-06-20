@@ -480,6 +480,30 @@
                     35.1704985
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "Name": "Neil Ramey",
+                "Handle": "DaBoog41",
+                "Tweet": "Mexico is being represented well \n#PGATOUR",
+                "TweetLink": "1274449053464571906",
+                "Place": "Trussville",
+                "Time": "Sat Jun 20 21:08:27 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.5978625,
+                    33.6298915
+                ]
+            }
         }
     ]
 }
