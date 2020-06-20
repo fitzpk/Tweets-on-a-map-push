@@ -456,6 +456,30 @@
                     52.150999
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/947658187297181697/ImmrlHtB_normal.jpg",
+                "Name": "TM",
+                "Handle": "TMillerGolf",
+                "Tweet": "Looks like Ian Poulter could use a little of this. #pgatour https://t.co/YE4UHJz8By",
+                "TweetLink": "1274447889755000832",
+                "Place": "North Carolina",
+                "Time": "Sat Jun 20 21:03:49 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.861034,
+                    35.1704985
+                ]
+            }
         }
     ]
 }
