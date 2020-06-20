@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
-                "Name": "Tour Junkies",
-                "Handle": "Tour_Junkies",
-                "Tweet": "This was fun @PropsNetworkHQ \n\nRT if you would drink Pat\u2019s \ud83c\udf79\nLike if there\u2019s no way in H-E-L-L",
-                "TweetLink": "1273733778414895104",
-                "Place": "Isle of Palms",
-                "Time": "Thu Jun 18 21:46:12 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.764667,
-                    32.8005995
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1207479430370615296/jsiCMTwM_normal.jpg",
                 "Name": "Mike in Arizona",
                 "Handle": "Schloss_Sports",
