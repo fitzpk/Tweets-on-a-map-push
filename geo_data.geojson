@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1170508726073253889/RadLWuNg_normal.jpg",
-                "Name": "Will Livingston",
-                "Handle": "wlivingston2001",
-                "Tweet": "Can @GolfChannel please stop telling everyone that Matt NeSmith grew up in Augusta, GA.  He grew up in NORTH August\u2026 https://t.co/mW0thnLApI",
-                "TweetLink": "1274080872568930304",
-                "Place": "North Augusta",
-                "Time": "Fri Jun 19 20:45:25 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.950781,
-                    33.5298345
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1265626982382960640/4myS9oMR_normal.jpg",
                 "Name": "mike jeter",
                 "Handle": "redchairmike",
