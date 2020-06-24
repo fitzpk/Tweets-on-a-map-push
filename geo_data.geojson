@@ -1,4 +1,53 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "Few minor hiccups in the build up, but all good to go pgatour @travelerschamp tpcriverhighlands \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8\u2026 https://t.co/hmiXrlfDLQ",
+                "TweetLink": "1275898635994238977",
+                "Place": "Cromwell",
+                "Time": "Wed Jun 24 21:08:34 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.667302,
+                    41.605932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "\ud83d\udc4d\ud83d\udc4d All clear pgatour @travelerschamp  tpcriverhighlands \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8 #koreangolfnews #pgatour #golf #pga #instagolf\u2026 https://t.co/AdK0TqIePU",
+                "TweetLink": "1275898716260573184",
+                "Place": "Cromwell",
+                "Time": "Wed Jun 24 21:08:53 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.667302,
+                    41.605932
+                ]
+            }
+        }
+    ]
 }
