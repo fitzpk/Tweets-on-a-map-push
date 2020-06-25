@@ -144,6 +144,30 @@
                     27.698682
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg",
+                "Name": "Tucker Blankinship",
+                "Handle": "TuckerBlanc",
+                "Tweet": "Today was a draining day to follow #PGATour news.  Let\u2019s enjoy 72 fun holes the next 4 days at an always interestin\u2026 https://t.co/4rtJzQLHLW",
+                "TweetLink": "1275984339101245440",
+                "Place": "Raleigh",
+                "Time": "Thu Jun 25 02:49:07 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.657837,
+                    35.8439815
+                ]
+            }
         }
     ]
 }
