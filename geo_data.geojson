@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1143346783742906368/kf0hZ_k9_normal.jpg",
-                "Name": "Ben Murchison",
-                "Handle": "bdmurchison",
-                "Tweet": "Good luck to @HV3_Golf today in the @TravelersChamp \u26f3\ufe0f\ud83d\udc9c\ud83d\udc80 #TravelersChamp #HV3 #PGATour #PirateNation",
-                "TweetLink": "1276202570659147778",
-                "Place": "Phoenix",
-                "Time": "Thu Jun 25 17:16:18 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -112.1246765,
-                    33.5528625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1214664296505974788/U9DCeHdY_normal.jpg",
                 "Name": "Suntree Country Club",
                 "Handle": "SuntreeCountry",
