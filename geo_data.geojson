@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1247165523948974080/qNIxdRhc_normal.jpg",
-                "Name": "B-ROE",
-                "Handle": "Mr_B_Roe",
-                "Tweet": "I'M NOT FUCKIN LEAVIN!!",
-                "TweetLink": "1275916336716288001",
-                "Place": "Frisco",
-                "Time": "Wed Jun 24 22:18:54 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.835249,
-                    33.1501395
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
                 "Name": "Tour Junkies",
                 "Handle": "Tour_Junkies",
