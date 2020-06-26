@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1090075313235812352/dyVP075h_normal.jpg",
-                "Name": "Tom Patri",
-                "Handle": "TomPatri",
-                "Tweet": "#tompatrigolf  - It\u2019s gonna be a great July ! Save all these dates. #golfchannel #golfdigest #golftips #golfworld\u2026 https://t.co/B8JOSykMMe",
-                "TweetLink": "1275960310994800641",
-                "Place": "Florida",
-                "Time": "Thu Jun 25 01:13:38 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.804475,
-                    27.698682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg",
                 "Name": "Tucker Blankinship",
                 "Handle": "TuckerBlanc",
