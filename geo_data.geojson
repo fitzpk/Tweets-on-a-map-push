@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1124363122465071105/95N7JJ-8_normal.jpg",
-                "Name": "Steven J Buzza",
-                "Handle": "SteveBuzzaGolf",
-                "Tweet": "Phil hits 3 wood on the fairway as both playing partners hit drivers out of play, that\u2019s got to be a first \ud83e\udd23\u2026 https://t.co/RctWEk7sYE",
-                "TweetLink": "1276607426859499520",
-                "Place": "Bonita Springs",
-                "Time": "Fri Jun 26 20:05:03 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.8077615,
-                    26.3613605
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/955925210229821440/P6acm80H_normal.jpg",
                 "Name": "Dan Barker",
                 "Handle": "danbarker7",
