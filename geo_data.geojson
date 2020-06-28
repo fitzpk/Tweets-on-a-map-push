@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/955925210229821440/P6acm80H_normal.jpg",
-                "Name": "Dan Barker",
-                "Handle": "danbarker7",
-                "Tweet": "Brysons driving has already got to the point where it\u2019s more annoying than amazing. Like it\u2019s boring. #pgatour #TravelersChamp",
-                "TweetLink": "1276608527134535680",
-                "Place": "Corby",
-                "Time": "Fri Jun 26 20:09:25 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.68406,
-                    52.486366
-                ]
-            }
-        }
-    ]
+    "features": []
 }
