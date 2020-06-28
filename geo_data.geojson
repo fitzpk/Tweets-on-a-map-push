@@ -24,6 +24,30 @@
                     55.7594635
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000854954408/7337fd2ecdbf11d2b1cf3814117949ad_normal.jpeg",
+                "Name": "SportsTrader88",
+                "Handle": "sportstrader88",
+                "Tweet": "FFS. Only DJ could see his closest challenger take triple then drive OB at the next. #Doh #TravelersChamp #pgatour",
+                "TweetLink": "1277342895977172993",
+                "Place": "Medell\u00edn",
+                "Time": "Sun Jun 28 20:47:32 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.619213,
+                    6.270883
+                ]
+            }
         }
     ]
 }
