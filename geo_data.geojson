@@ -48,6 +48,30 @@
                     6.270883
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/904302794483617792/SMNFZHla_normal.jpg",
+                "Name": "Ryan Michael Holland",
+                "Handle": "RyanHollandGolf",
+                "Tweet": "Well played @DJohnsonPGA @claudeharmonIII what a team the A team \ud83d\udc4d major time soon \ud83c\udfc6#WINNER #champ #pgatour https://t.co/haky5aATWd",
+                "TweetLink": "1277497853619904513",
+                "Place": "Richmond",
+                "Time": "Mon Jun 29 07:03:17 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.306996,
+                    51.4405145
+                ]
+            }
         }
     ]
 }
