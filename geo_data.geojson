@@ -120,6 +120,30 @@
                     27.698682
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1164524058505097216/INOyCR-0_normal.jpg",
+                "Name": "Adam Watson",
+                "Handle": "AdtheVillan",
+                "Tweet": "Really struggling for value this week but here a my fancies for #RocketMortgageClassic \u26f3\ufe0f\n\nH English 45/1 ew\nB Sned\u2026 https://t.co/2KLqICp6bc",
+                "TweetLink": "1277629670767411202",
+                "Place": "South East",
+                "Time": "Mon Jun 29 15:47:05 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.252754,
+                    51.3854455
+                ]
+            }
         }
     ]
 }
