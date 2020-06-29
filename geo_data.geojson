@@ -168,6 +168,30 @@
                     35.992371
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1105653936063549440/C1gjF_b6_normal.png",
+                "Name": "Dr. Stuart Love",
+                "Handle": "theHealthyGolfr",
+                "Tweet": "An important part of the current \u2018normal\u2019 on the #PGATOUR.\n\ud83d\ude37\nGetting the nasal swab test before the start of the\u2026 https://t.co/pmQmLxiMcX",
+                "TweetLink": "1277665111889473536",
+                "Place": "Detroit",
+                "Time": "Mon Jun 29 18:07:55 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.099288,
+                    42.3527865
+                ]
+            }
         }
     ]
 }
