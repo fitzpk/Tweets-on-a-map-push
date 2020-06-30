@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1272520009252851713/iWBFvli-_normal.jpg",
-                "Name": "Ross Eaglesham",
-                "Handle": "rosseaglesham",
-                "Tweet": "Bryson making a mess, DJ sticks one OB, Todd thins out of the rough and fluffs a chip.... Now this shit is relatabl\u2026 https://t.co/3KCmEnERqA",
-                "TweetLink": "1277341524158791680",
-                "Place": "East Kilbride",
-                "Time": "Sun Jun 28 20:42:05 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4.18646,
-                    55.7594635
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000854954408/7337fd2ecdbf11d2b1cf3814117949ad_normal.jpeg",
-                "Name": "SportsTrader88",
-                "Handle": "sportstrader88",
-                "Tweet": "FFS. Only DJ could see his closest challenger take triple then drive OB at the next. #Doh #TravelersChamp #pgatour",
-                "TweetLink": "1277342895977172993",
-                "Place": "Medell\u00edn",
-                "Time": "Sun Jun 28 20:47:32 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.619213,
-                    6.270883
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/904302794483617792/SMNFZHla_normal.jpg",
                 "Name": "Ryan Michael Holland",
                 "Handle": "RyanHollandGolf",
