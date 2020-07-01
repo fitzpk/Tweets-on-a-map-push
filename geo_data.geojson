@@ -24,6 +24,30 @@
                     35.1335205
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1750794963/221250_209429982424908_100000737221569_692963_8343314_o_normal.jpg",
+                "Name": "Manuela Leo",
+                "Handle": "MaLEOla",
+                "Tweet": "DO YOU HAVE A BIRDIE? \n\n#golfing #golf #golfer #golflife #golfswing #golfstagram #golfcourse #instagolf #golfaddict\u2026 https://t.co/oyFEu3XgAg",
+                "TweetLink": "1278417580051566593",
+                "Place": "Altlandsberg",
+                "Time": "Wed Jul 01 19:57:57 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.80303,
+                    52.593225
+                ]
+            }
         }
     ]
 }
