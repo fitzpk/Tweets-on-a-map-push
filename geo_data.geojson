@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/765743743307620352/ughyzq9L_normal.jpg",
+                "Name": "Marc C",
+                "Handle": "mcthekid75",
+                "Tweet": "HVIII has got a nice game. #PGATour #RocketMortgageClassic",
+                "TweetLink": "1278399294379307016",
+                "Place": "Memphis",
+                "Time": "Wed Jul 01 18:45:17 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.922029,
+                    35.1335205
+                ]
+            }
+        }
+    ]
 }
