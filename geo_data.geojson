@@ -48,6 +48,30 @@
                     52.593225
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1151166684973023232/Flwfdvtu_normal.jpg",
+                "Name": "Joshhhhh...uuua",
+                "Handle": "Josh48112306",
+                "Tweet": "Catch me on the course and i\u2019m trouble, last week fucked around got a triple bogey! \u26f3\ufe0f #Golf #PGATour #Tiger\u2026 https://t.co/9jHQY9Ofaw",
+                "TweetLink": "1278420894109466624",
+                "Place": "Westchester Driving Range",
+                "Time": "Wed Jul 01 20:11:07 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.412708,
+                    33.959389
+                ]
+            }
         }
     ]
 }
