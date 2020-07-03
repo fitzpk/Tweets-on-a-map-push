@@ -96,6 +96,30 @@
                     45.536402
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "siwookim_official &amp; khlee_golf (-6) @nohsy0529 &amp; sungjaeim330 (-5) pgatour rocketclassic \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8\u2026 https://t.co/XcgL5U12gR",
+                "TweetLink": "1279199925587382272",
+                "Place": "Detroit",
+                "Time": "Fri Jul 03 23:46:43 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.099288,
+                    42.3527865
+                ]
+            }
         }
     ]
 }
