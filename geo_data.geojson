@@ -24,6 +24,30 @@
                     46.0294105
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1193159645873033216/W1cgXm3A_normal.jpg",
+                "Name": "Aaron Steele",
+                "Handle": "steelempls",
+                "Tweet": "Sounds a little crazy, but Webb Simpson is the best player in the world right now #PGATOUR",
+                "TweetLink": "1279173924434018304",
+                "Place": "Scottsdale",
+                "Time": "Fri Jul 03 22:03:24 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8583985,
+                    33.63934
+                ]
+            }
         }
     ]
 }
