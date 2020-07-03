@@ -72,6 +72,30 @@
                     49.8538055
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1027760348613541888/ze8zYcnt_normal.jpg",
+                "Name": "Birdie 18",
+                "Handle": "Birdie18th",
+                "Tweet": "FanDuel fun #RocketMortgageClassic #pgatour https://t.co/jnYMvc427T",
+                "TweetLink": "1279198662267006977",
+                "Place": "Portland",
+                "Time": "Fri Jul 03 23:41:42 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.630908,
+                    45.536402
+                ]
+            }
         }
     ]
 }
