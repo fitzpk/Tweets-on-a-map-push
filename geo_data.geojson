@@ -120,6 +120,30 @@
                     42.3527865
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "In N Out: kevinna915 WD due to a niggling back injury pgatour rocketclassic Guess he will return soon for another T\u2026 https://t.co/4cAqVLMW9d",
+                "TweetLink": "1279205770190618624",
+                "Place": "Detroit",
+                "Time": "Sat Jul 04 00:09:56 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.099288,
+                    42.3527865
+                ]
+            }
         }
     ]
 }
