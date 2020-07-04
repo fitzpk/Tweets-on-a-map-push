@@ -288,6 +288,30 @@
                     37.7706565
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/516919804780113922/m0U5FNZ3_normal.jpeg",
+                "Name": "joseph m fiore jr",
+                "Handle": "JMFJR",
+                "Tweet": "Damn, Matt Wolfe -8 with 3 bogies, kid gonna be tough to beat tomorrow! #PGATOUR",
+                "TweetLink": "1279535613058875392",
+                "Place": "Vermont",
+                "Time": "Sat Jul 04 22:00:37 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.4511725,
+                    43.8717565
+                ]
+            }
         }
     ]
 }
