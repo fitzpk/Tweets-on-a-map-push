@@ -312,6 +312,54 @@
                     43.8717565
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1251617681494511616/7AF6wMK9_normal.jpg",
+                "Name": "Stanton Gilliland",
+                "Handle": "Stanton_G",
+                "Tweet": "Can there please be an option to block all @b_dechambeau alerts?\n\n#PGA #PGATOUR #Golf #rocketmortgage #ESPN https://t.co/WNEwdIA3mn",
+                "TweetLink": "1279541155382743041",
+                "Place": "Greenwood Village",
+                "Time": "Sat Jul 04 22:22:38 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.9238215,
+                    39.620282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/611854021498789888/KgeE2Gad_normal.jpg",
+                "Name": "Junfu Han",
+                "Handle": "junfuphoto",
+                "Tweet": "Fourth of July covering the PGA tournament in Detroit, first professional sport to cover since March #pga #pgatour\u2026 https://t.co/wSymAsFfdQ",
+                "TweetLink": "1279541395490066432",
+                "Place": "Detroit",
+                "Time": "Sat Jul 04 22:23:36 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.099288,
+                    42.3527865
+                ]
+            }
         }
     ]
 }
