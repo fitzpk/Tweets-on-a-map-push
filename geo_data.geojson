@@ -240,6 +240,54 @@
                     42.3527865
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1048929083688542208/yxl6Uerq_normal.jpg",
+                "Name": "DKT Sports",
+                "Handle": "dkt_sports",
+                "Tweet": "India's Arjun Atwal scores 6 under 66 in round 3 of Rocket Mortgage Classic\n.\nLINK OF THE ARTICLE IS GIVEN BELOW:\ud83d\udc47\u2026 https://t.co/7rROqHB7Op",
+                "TweetLink": "1279502063316033536",
+                "Place": "Detroit",
+                "Time": "Sat Jul 04 19:47:18 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.099288,
+                    42.3527865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1274069757914906626/aZQ3Wyhx_normal.jpg",
+                "Name": "Darren Wood",
+                "Handle": "FairwaysAndFood",
+                "Tweet": "\"Made a right 20 20 of that one \" \ud83d\ude02 Sir @NickFaldo006   @SkySportsGolf can you explain please. #lovegolf\u2026 https://t.co/ZJBneMDFdP",
+                "TweetLink": "1279502560857112576",
+                "Place": "Westhoughton",
+                "Time": "Sat Jul 04 19:49:17 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5159095,
+                    53.546065
+                ]
+            }
         }
     ]
 }
