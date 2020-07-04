@@ -192,6 +192,30 @@
                     39.775192
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1192491842929119232/i190CSvX_normal.jpg",
+                "Name": "Nick Bradley",
+                "Handle": "THENICKBRADLEY",
+                "Tweet": "Bryson DeChambeau is going to face a challenge.\n\nLike a heavyweight boxer, he\u2019ll be great out of the blocks. \n\nI ho\u2026 https://t.co/4BGheNHEEY",
+                "TweetLink": "1279500675953709062",
+                "Place": "Calabash",
+                "Time": "Sat Jul 04 19:41:47 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.560277,
+                    33.8938595
+                ]
+            }
         }
     ]
 }
