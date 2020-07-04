@@ -288,6 +288,30 @@
                     53.546065
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1018901907564216320/qsodj4fS_normal.jpg",
+                "Name": "Joe Shasky",
+                "Handle": "ButcherBoy415",
+                "Tweet": "Nothing pisses me off more than a 3 putt from within 5 feet! Brutal #PGATour",
+                "TweetLink": "1279505474769924096",
+                "Place": "San Francisco",
+                "Time": "Sat Jul 04 20:00:51 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4359785,
+                    37.7706565
+                ]
+            }
         }
     ]
 }
