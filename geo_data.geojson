@@ -144,6 +144,30 @@
                     42.3527865
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1140432250191978496/oJCepjyG_normal.jpg",
+                "Name": "J.J. Gosh",
+                "Handle": "JJGosh",
+                "Tweet": "Sooo maybe I still have a shot at turning pro? Right @AlexBlickle1 ??",
+                "TweetLink": "1279486018861891585",
+                "Place": "Franklin",
+                "Time": "Sat Jul 04 18:43:33 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.009557,
+                    42.8943045
+                ]
+            }
         }
     ]
 }
