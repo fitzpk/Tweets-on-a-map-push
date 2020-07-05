@@ -240,6 +240,30 @@
                     42.3527865
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1271957286865342465/uuy8pSch_normal.jpg",
+                "Name": "Hardcore FCS",
+                "Handle": "HardcoreFCS",
+                "Tweet": "Again, I like you Bryson and I love your game. But we want to see everything as fans. Good and the bad! #PGATOUR #RocketMortgageClassic",
+                "TweetLink": "1279815573631721473",
+                "Place": "Carson City",
+                "Time": "Sun Jul 05 16:33:05 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.7425635,
+                    39.150823
+                ]
+            }
         }
     ]
 }
