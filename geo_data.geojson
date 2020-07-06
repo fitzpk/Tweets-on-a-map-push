@@ -48,6 +48,30 @@
                     54.7532525
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1030028134895288321/l_aQbsic_normal.jpg",
+                "Name": "Golf Aficionado",
+                "Handle": "GolfAficionado",
+                "Tweet": "Woke up to all this talk about Bryson DeChambeau being a villain.   I\u2019ve met him more than once, always had a good\u2026 https://t.co/K7ecxxFrpR",
+                "TweetLink": "1280140371159375873",
+                "Place": "Heathrow",
+                "Time": "Mon Jul 06 14:03:42 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.370875,
+                    28.774797
+                ]
+            }
         }
     ]
 }
