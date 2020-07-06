@@ -72,6 +72,30 @@
                     28.774797
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1259881818624573446/Xo4pHtnp_normal.jpg",
+                "Name": "Tru Golf Academy",
+                "Handle": "TruGolfAcademy",
+                "Tweet": "Love this camera \ud83c\udfa5 pgatour use and who doesn\u2019t like a clubhead tracer line! Wide, narrow, wide from @b_dechambeau !\u2026 https://t.co/TPMpD9EqpD",
+                "TweetLink": "1280151004001042437",
+                "Place": "Birmingham",
+                "Time": "Mon Jul 06 14:45:58 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8906405,
+                    52.4939665
+                ]
+            }
         }
     ]
 }
