@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1271957286865342465/uuy8pSch_normal.jpg",
-                "Name": "Hardcore FCS",
-                "Handle": "HardcoreFCS",
-                "Tweet": "Again, I like you Bryson and I love your game. But we want to see everything as fans. Good and the bad! #PGATOUR #RocketMortgageClassic",
-                "TweetLink": "1279815573631721473",
-                "Place": "Carson City",
-                "Time": "Sun Jul 05 16:33:05 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -119.7425635,
-                    39.150823
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1244718676936462336/FCeBy1rN_normal.jpg",
-                "Name": "Stephen",
-                "Handle": "StephenGAWA",
-                "Tweet": "Serious question to fellow mug #punters. \u00a310 on 250/1 shot on #PGATOUR within 3 going into last round, cash out is\u2026 https://t.co/3vt4FY6HDb",
-                "TweetLink": "1279823487444692994",
-                "Place": "Randalstown",
-                "Time": "Sun Jul 05 17:04:32 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -6.317774,
-                    54.7532525
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1030028134895288321/l_aQbsic_normal.jpg",
                 "Name": "Golf Aficionado",
                 "Handle": "GolfAficionado",
