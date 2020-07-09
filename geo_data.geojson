@@ -144,6 +144,30 @@
                     40.0730405
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1216880564428406790/gX0GoSzX_normal.jpg",
+                "Name": "Michael King",
+                "Handle": "MKingGlobal",
+                "Tweet": "Great start for \ud83c\udde8\ud83c\udde6 golf this week! @ahadwingolf leading the way but 4 other Canadians are within 5 strokes #golf\u2026 https://t.co/jPNTsSsVbZ",
+                "TweetLink": "1281298009376952321",
+                "Place": "Calgary",
+                "Time": "Thu Jul 09 18:43:45 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.087851,
+                    51.027664
+                ]
+            }
         }
     ]
 }
