@@ -264,6 +264,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000666544759/bf958c8f498c35596afe3b699fa68c6c_normal.jpeg",
+                "Name": "bret israel",
+                "Handle": "bretisrael",
+                "Tweet": "Colin Morikawa (age 23) tearing up #PGATour ...currently 8 under par at #workdaycharityopen \nSuch a solid brainy game",
+                "TweetLink": "1281343675591561217",
+                "Place": "Los Angeles",
+                "Time": "Thu Jul 09 21:45:13 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
