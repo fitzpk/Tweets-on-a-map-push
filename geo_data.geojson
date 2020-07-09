@@ -48,6 +48,30 @@
                     40.004108
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1145812979385958400/4R-iVIA8_normal.png",
+                "Name": "The Four Jack Podcast",
+                "Handle": "thefourjackpod",
+                "Tweet": "Our picks for this week's Workday Charity Open! \u26f3\ud83e\udd19 \n\n.\n.\n.\n.\n#golfbuds #golfpodcast #yeggers #pgatour #workday\u2026 https://t.co/KxvZfKqPbD",
+                "TweetLink": "1281071762592149504",
+                "Place": "Dublin",
+                "Time": "Thu Jul 09 03:44:44 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.139281,
+                    40.1252735
+                ]
+            }
         }
     ]
 }
