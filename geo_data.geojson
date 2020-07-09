@@ -72,6 +72,30 @@
                     40.1252735
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1203728628191834114/w4UiCG3i_normal.jpg",
+                "Name": "rager_dutch",
+                "Handle": "Rager_Dutch",
+                "Tweet": "Live look inside the @PGATOURLIVE command center... @PGATOUR @PGATOURComms @jmazzjd @Wager_Rager\u2026 https://t.co/gtqrQ8thCC",
+                "TweetLink": "1281248190486982657",
+                "Place": "Ardmore",
+                "Time": "Thu Jul 09 15:25:47 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.297902,
+                    40.004108
+                ]
+            }
         }
     ]
 }
