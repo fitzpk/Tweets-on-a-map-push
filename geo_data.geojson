@@ -192,6 +192,30 @@
                     38.3045585
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1184264047342051328/LefxD1qU_normal.jpg",
+                "Name": "Ben Mintz",
+                "Handle": "Benmintz531",
+                "Tweet": "Great start for @Samburns66 at -4 through 10 holes.#PGATour #31Great",
+                "TweetLink": "1281334415113752576",
+                "Place": "Baton Rouge",
+                "Time": "Thu Jul 09 21:08:25 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.0907995,
+                    30.4591
+                ]
+            }
         }
     ]
 }
