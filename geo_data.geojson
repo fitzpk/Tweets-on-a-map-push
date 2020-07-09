@@ -240,6 +240,30 @@
                     36.232915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1239229880849575937/TcVFN4S6_normal.jpg",
+                "Name": "Chris",
+                "Handle": "chris515717",
+                "Tweet": "The ol mickelson meltdown \n\n#PGATour",
+                "TweetLink": "1281341381596844032",
+                "Place": "Pennsylvania",
+                "Time": "Thu Jul 09 21:36:06 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
         }
     ]
 }
