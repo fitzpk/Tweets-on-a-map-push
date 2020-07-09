@@ -216,6 +216,30 @@
                     30.4591
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
+                "Name": "VegasSquaresRadio",
+                "Handle": "VegasSquares",
+                "Tweet": "\u201cSportsbooks should list @TigerWoods at 35/1 for the #Memorial next week. Take tons of action and then print money\u2026 https://t.co/SVsAKN0oIW",
+                "TweetLink": "1281337947321544705",
+                "Place": "Las Vegas",
+                "Time": "Thu Jul 09 21:22:27 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.223125,
+                    36.232915
+                ]
+            }
         }
     ]
 }
