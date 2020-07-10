@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
-                "Name": "Tour Junkies",
-                "Handle": "Tour_Junkies",
-                "Tweet": "Special guest @TheMoosenomics from @fantasynational will be in the NUT HUT tonight taking questions the\u2026 https://t.co/2b3x4Kurxe",
-                "TweetLink": "1281006184640765962",
-                "Place": "Evans",
-                "Time": "Wed Jul 08 23:24:09 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.163663,
-                    33.536182
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1203728628191834114/w4UiCG3i_normal.jpg",
                 "Name": "rager_dutch",
                 "Handle": "Rager_Dutch",
