@@ -360,6 +360,30 @@
                     38.989014
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/749422081184444417/j2CL3gmD_normal.jpg",
+                "Name": "Trevor Cannon",
+                "Handle": "Tcannon008",
+                "Tweet": "Not too many people on the #PGATour talking about Viktor Hovlands gear ... That dude always looks fly as hell out t\u2026 https://t.co/B47N9UBF93",
+                "TweetLink": "1281682883627765761",
+                "Place": "North Salt Lake",
+                "Time": "Fri Jul 10 20:13:06 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.908219,
+                    40.8433015
+                ]
+            }
         }
     ]
 }
