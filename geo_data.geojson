@@ -360,6 +360,30 @@
                     39.775192
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1272344085177786368/iRbhIUQz_normal.jpg",
+                "Name": "Ted Pietkewicz",
+                "Handle": "PietkewiczTed",
+                "Tweet": "My man making it look easy today @collin_morikawa #PGATour #Golf #PGA",
+                "TweetLink": "1281383472381210625",
+                "Place": "Mount Carmel",
+                "Time": "Fri Jul 10 00:23:21 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.4117425,
+                    40.796136
+                ]
+            }
         }
     ]
 }
