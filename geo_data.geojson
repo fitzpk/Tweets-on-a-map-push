@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1203728628191834114/w4UiCG3i_normal.jpg",
-                "Name": "rager_dutch",
-                "Handle": "Rager_Dutch",
-                "Tweet": "\ud83d\udea8\u26f3\ufe0fGet those matchups in!! We have live golf action in the morning! \u26f3\ufe0f\ud83d\udea8#WorkdayCharityOpen #PGATour\u2026 https://t.co/Rrtaj8twvc",
-                "TweetLink": "1281028449348575232",
-                "Place": "Ardmore",
-                "Time": "Thu Jul 09 00:52:37 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.297902,
-                    40.004108
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1145812979385958400/4R-iVIA8_normal.png",
                 "Name": "The Four Jack Podcast",
                 "Handle": "thefourjackpod",
