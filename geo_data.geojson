@@ -408,6 +408,30 @@
                     32.1898025
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
+                "Name": "VegasSquaresRadio",
+                "Handle": "VegasSquares",
+                "Tweet": "2nd round plays for #WorkdayCharityOpen courtesy of @Tokentony89\n\nConners over Brooks +140\nOosthuizen over Straka -\u2026 https://t.co/mZV5aG1FFe",
+                "TweetLink": "1281409180847337478",
+                "Place": "Las Vegas",
+                "Time": "Fri Jul 10 02:05:30 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.223125,
+                    36.232915
+                ]
+            }
         }
     ]
 }
