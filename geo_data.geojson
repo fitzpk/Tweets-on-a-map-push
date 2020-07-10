@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1270098902818136067/zUDw2Pmy_normal.jpg",
-                "Name": "SJV",
-                "Handle": "SJsWorld_",
-                "Tweet": "YES SIR! \nTiger is BACK, YOU KNEW IT!\nGolf fans are you as excited as I am?\n#PGATour #TigerWoods\u2026 https://t.co/AWHPa9TkPB",
-                "TweetLink": "1281253519362793473",
-                "Place": "New York",
-                "Time": "Thu Jul 09 15:46:58 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.770041,
-                    42.746617
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1136344833092571136/ZFy04MdQ_normal.jpg",
                 "Name": "GolfTalk Live",
                 "Handle": "TLGolfTalkLive",
