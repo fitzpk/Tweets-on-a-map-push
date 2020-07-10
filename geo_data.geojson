@@ -384,6 +384,30 @@
                     39.775192
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/556198101669937152/OXurLQfZ_normal.jpeg",
+                "Name": "TPC Potomac",
+                "Handle": "TPCPotomac",
+                "Tweet": "Not having your best round of golf? Enjoy the scenery.\n\n#tpcpotomac #playtpc \n#pgatour #golf https://t.co/JvLQGFPShb",
+                "TweetLink": "1281593139854270464",
+                "Place": "TPC Potomac at Avenel Farm",
+                "Time": "Fri Jul 10 14:16:30 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.202645,
+                    38.989014
+                ]
+            }
         }
     ]
 }
