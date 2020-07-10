@@ -336,6 +336,30 @@
                     36.232915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1221935766747648000/tDo7x2gb_normal.jpg",
+                "Name": "Eric Christensen",
+                "Handle": "cbseric",
+                "Tweet": "So why did @b_dechambeau come to Colorado just hours after winning the Rocket Mortgage Challenge on Sunday? Fond ou\u2026 https://t.co/yN0QZP18PS",
+                "TweetLink": "1281381025021485057",
+                "Place": "Wheat Ridge",
+                "Time": "Fri Jul 10 00:13:37 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.1139685,
+                    39.775192
+                ]
+            }
         }
     ]
 }
