@@ -336,6 +336,30 @@
                     40.8433015
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "Two more work days \ud83d\ude09 for sungjaeim330 &amp; khlee_golf pgatour Work Day Charity Open \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8 #koreangolfnews\u2026 https://t.co/F9U8EEoppk",
+                "TweetLink": "1281731830111248385",
+                "Place": "Dublin",
+                "Time": "Fri Jul 10 23:27:36 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.139281,
+                    40.1252735
+                ]
+            }
         }
     ]
 }
