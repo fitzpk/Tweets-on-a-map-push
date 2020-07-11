@@ -96,6 +96,30 @@
                     40.8433015
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/512423720413966336/G9uHyP_q_normal.jpeg",
+                "Name": "David A Turnquist",
+                "Handle": "msu1983",
+                "Tweet": "@justinthomas34 is pretty good at golf #pgatour",
+                "TweetLink": "1282066056060829697",
+                "Place": "Farmington Hills",
+                "Time": "Sat Jul 11 21:35:42 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.377181,
+                    42.4842785
+                ]
+            }
         }
     ]
 }
