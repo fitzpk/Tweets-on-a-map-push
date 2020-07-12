@@ -144,6 +144,54 @@
                     38.498196
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1088256411375673344/Pxcp82SX_normal.jpg",
+                "Name": "Rick Donegan (Co-host The 4 Team Parlay Podcast)",
+                "Handle": "RickDonegan",
+                "Tweet": "So much fun watching @JustinThomas34 collapse at the #WorkdayCharityOpen. #Golf #PGA #PGATOUR",
+                "TweetLink": "1282377349930143744",
+                "Place": "Naperville",
+                "Time": "Sun Jul 12 18:12:40 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.1613215,
+                    41.748496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1263306030626283522/JWnPe1NH_normal.jpg",
+                "Name": "Frank \u2122",
+                "Handle": "frankandrus",
+                "Tweet": "#PGATOUR  Hovland and Morikawa putting on a SHOW. Justin Thomas being boat raced.",
+                "TweetLink": "1282378051779809280",
+                "Place": "Pennsylvania",
+                "Time": "Sun Jul 12 18:15:27 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
         }
     ]
 }
