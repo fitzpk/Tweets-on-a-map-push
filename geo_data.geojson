@@ -504,6 +504,30 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1262582969845182464/pXrvSqu4_normal.jpg",
+                "Name": "Alan Hoshida",
+                "Handle": "AHoshidaSports",
+                "Tweet": "Big when for CAL\u2019s @collin_morikawa, taking down one of the games elite in Justin Thomas. All I kept thinking is ho\u2026 https://t.co/dILdADH0rO",
+                "TweetLink": "1282396910305685504",
+                "Place": "Honolulu",
+                "Time": "Sun Jul 12 19:30:23 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.799589,
+                    21.3199435
+                ]
+            }
         }
     ]
 }
