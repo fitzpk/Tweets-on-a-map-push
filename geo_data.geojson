@@ -528,6 +528,30 @@
                     21.3199435
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1269014032658444294/D02znR7__normal.jpg",
+                "Name": "Lebronald Palmer",
+                "Handle": "lp_htx",
+                "Tweet": "2 winners picked in the last 2 weeks! #PGATour",
+                "TweetLink": "1282403767766454277",
+                "Place": "Texas",
+                "Time": "Sun Jul 12 19:57:38 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.0768885,
+                    31.1688935
+                ]
+            }
         }
     ]
 }
