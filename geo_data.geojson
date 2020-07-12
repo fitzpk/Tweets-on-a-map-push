@@ -576,6 +576,30 @@
                     35.209059
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
+                "Name": "VegasSquaresRadio",
+                "Handle": "VegasSquares",
+                "Tweet": "Congrats to @collin_morikawa on his @Workday Charity Open win. And congrats to @MardyFish on his W at the\u2026 https://t.co/YSIGYgbu98",
+                "TweetLink": "1282430112202252288",
+                "Place": "Las Vegas",
+                "Time": "Sun Jul 12 21:42:19 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.223125,
+                    36.232915
+                ]
+            }
         }
     ]
 }
