@@ -288,6 +288,78 @@
                     39.1000485
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1265717268018757632/D4DoCHZO_normal.jpg",
+                "Name": "Brian Phares Monster Mash Blog",
+                "Handle": "brian_phares",
+                "Tweet": "Justin Thomas is ridiculous #PGATOUR",
+                "TweetLink": "1282379609942773760",
+                "Place": "Irondequoit",
+                "Time": "Sun Jul 12 18:21:39 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.572455,
+                    43.211767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1203728628191834114/w4UiCG3i_normal.jpg",
+                "Name": "rager_dutch",
+                "Handle": "Rager_Dutch",
+                "Tweet": "LFG!!!! MORI AND JT ARE GIVING US A SHOW ON A SUNDAY AFTERNOON!!\n#WorkdayCharityOpen #PGATOUR #SundayFunday\u2026 https://t.co/yMHdq14GZi",
+                "TweetLink": "1282379963455479810",
+                "Place": "Ocean City",
+                "Time": "Sun Jul 12 18:23:03 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.602945,
+                    39.25661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000825737735/aa64c76ad810b50c1e08cc261a8c9c3d_normal.png",
+                "Name": "Mlark \u26be\ufe0f",
+                "Handle": "BirdlandMlark",
+                "Tweet": "Seems like something exciting is happening on the @PGATOUR   Good thing that I guess can\u2019t watch live on tv and hav\u2026 https://t.co/pICeuR2Lhl",
+                "TweetLink": "1282380318545190912",
+                "Place": "Crofton",
+                "Time": "Sun Jul 12 18:24:28 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.673273,
+                    39.0049365
+                ]
+            }
         }
     ]
 }
