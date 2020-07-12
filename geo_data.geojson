@@ -432,6 +432,54 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg",
+                "Name": "Tucker Blankinship",
+                "Handle": "TuckerBlanc",
+                "Tweet": "Today is the ultimate example of why it\u2019s probably harder to win on #PGATour than ever. JT shoots 69 on not an easy\u2026 https://t.co/TUUvKcQezS",
+                "TweetLink": "1282391830781468672",
+                "Place": "Raleigh",
+                "Time": "Sun Jul 12 19:10:12 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.657837,
+                    35.8439815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2261406979/560859_10100206242704904_14301361_43314222_503804554_n_normal.jpg",
+                "Name": "Ron Diaz",
+                "Handle": "RealRonDiaz",
+                "Tweet": "Time to start researching for Memorial now. My initial thoughts when comparing to Workday..... #pgatour #memorial https://t.co/lmFQYov3j4",
+                "TweetLink": "1282391960934850560",
+                "Place": "Hoboken",
+                "Time": "Sun Jul 12 19:10:43 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.032258,
+                    40.7463795
+                ]
+            }
         }
     ]
 }
