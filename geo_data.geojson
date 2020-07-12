@@ -360,6 +360,54 @@
                     39.0049365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1208454104483278848/FBv57lF1_normal.jpg",
+                "Name": "Doc \ud835\ude42\ud835\ude64\ud835\ude61\ud835\ude5b\ud835\ude3e\ud835\ude5a\ud835\ude63\ud835\ude69\ud835\ude67\ud835\ude56\ud835\ude61/\ud835\ude42\ud835\ude3c\ud835\ude3c \ud835\ude42\ud835\ude46 \ud835\ude3e\ud835\ude64\ud835\ude56\ud835\ude58\ud835\ude5d",
+                "Handle": "GolfCentralDoc",
+                "Tweet": "More victories than missed cuts. \nTake a bow Collin Morikawa that was brilliant! \n#PGATOUR https://t.co/ACy9LZW72k",
+                "TweetLink": "1282387085421416451",
+                "Place": "Mayo",
+                "Time": "Sun Jul 12 18:51:21 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4203375,
+                    53.9092525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1209093107075170305/uQebbqhv_normal.jpg",
+                "Name": "wazza2312 \ud83c\uddec\ud83c\udde7",
+                "Handle": "wazza2312",
+                "Tweet": "Class in the playoff there @collin_morikawa \ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\u26f3\ufe0f\u26f3\ufe0f @PGATOUR #PGATOUR",
+                "TweetLink": "1282387570102546438",
+                "Place": "Bracknell",
+                "Time": "Sun Jul 12 18:53:16 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7542615,
+                    51.410747
+                ]
+            }
         }
     ]
 }
