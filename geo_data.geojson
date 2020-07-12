@@ -408,6 +408,30 @@
                     51.410747
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1281381924359991298/eWgBe_Pd_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "JesseFlynnJr",
+                "Tweet": "Minus 8 units for my loser bets and Morikawa winning gets a nice +26  units for the #WorkdayCharityOpen . Could be\u2026 https://t.co/1gfzZuYpPg",
+                "TweetLink": "1282388823855394816",
+                "Place": "Paradise",
+                "Time": "Sun Jul 12 18:58:15 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
