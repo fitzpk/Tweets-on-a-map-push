@@ -600,6 +600,54 @@
                     36.232915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1124363122465071105/95N7JJ-8_normal.jpg",
+                "Name": "Steven J Buzza",
+                "Handle": "SteveBuzzaGolf",
+                "Tweet": "Now that was a great playoff #PGATOUR #WorkdayCharityOpen",
+                "TweetLink": "1282451479555706880",
+                "Place": "Bonita Springs",
+                "Time": "Sun Jul 12 23:07:14 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.8077615,
+                    26.3613605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "Solid week for khlee_golf (T-35th) pgatour Work Day Charity Open \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8 #koreangolfnews #pgatour #golf #pga\u2026 https://t.co/SdOvZrMmV5",
+                "TweetLink": "1282452026002153475",
+                "Place": "Dublin",
+                "Time": "Sun Jul 12 23:09:24 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.139281,
+                    40.1252735
+                ]
+            }
         }
     ]
 }
