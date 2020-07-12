@@ -480,6 +480,30 @@
                     40.7463795
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1281381924359991298/eWgBe_Pd_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "JesseFlynnJr",
+                "Tweet": "Why betting golf is fun. #WorkdayCharityOpen #GamblingTwitter @justinbailey32 @Covers_Vegas #PGATOUR\u2026 https://t.co/kQHwLIuATQ",
+                "TweetLink": "1282394852915732480",
+                "Place": "Paradise",
+                "Time": "Sun Jul 12 19:22:13 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
