@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
-                "Name": "Korean Golf News",
-                "Handle": "KoreanGolfNews",
-                "Tweet": "sungjaeim330 (T-41st) pgatour &amp; @meenwhee8493 (T-42nd) @WebDotComTour will be hoping for a strong final round, to s\u2026 https://t.co/y5HMpTsD2B",
-                "TweetLink": "1282107385884995584",
-                "Place": "Kansas",
-                "Time": "Sun Jul 12 00:19:55 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.319925,
-                    38.498196
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1088256411375673344/Pxcp82SX_normal.jpg",
                 "Name": "Rick Donegan (Co-host The 4 Team Parlay Podcast)",
                 "Handle": "RickDonegan",
