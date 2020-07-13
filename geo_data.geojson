@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/749422081184444417/j2CL3gmD_normal.jpg",
-                "Name": "Trevor Cannon",
-                "Handle": "Tcannon008",
-                "Tweet": "My mind just got blown \ud83e\udd2f\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f how is Patrick Reed 29 years old !!! Like how !?! I always thought he was 34-36. Just f\u2026 https://t.co/NWjh90vsIR",
-                "TweetLink": "1282046810001793024",
-                "Place": "North Salt Lake",
-                "Time": "Sat Jul 11 20:19:13 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -111.908219,
-                    40.8433015
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/512423720413966336/G9uHyP_q_normal.jpeg",
                 "Name": "David A Turnquist",
                 "Handle": "msu1983",
@@ -646,6 +622,30 @@
                 "coordinates": [
                     -122.1020265,
                     37.9380285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "Two wins in just 24 pro starts. \ud83c\udfc6\ud83c\udfc6\n\nCongratulations to @Collin_Morikawa on his win at the @Workday Charity Open on\u2026 https://t.co/2XtENHQ7WD",
+                "TweetLink": "1282469782894399488",
+                "Place": "Lake Park",
+                "Time": "Mon Jul 13 00:19:58 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.633465,
+                    35.0838255
                 ]
             }
         }
