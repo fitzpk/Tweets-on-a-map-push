@@ -648,6 +648,30 @@
                     36.090397
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
+                "Name": "VegasSquaresRadio",
+                "Handle": "VegasSquares",
+                "Tweet": "This week, it\u2019s Jacks Tournament at Muirfield.  @MemorialGolf preview show will be avail Wednesday morning on\u2026 https://t.co/IB2qTDP725",
+                "TweetLink": "1282752421979013120",
+                "Place": "Las Vegas",
+                "Time": "Mon Jul 13 19:03:04 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.223125,
+                    36.232915
+                ]
+            }
         }
     ]
 }
