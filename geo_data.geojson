@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1219977761227444224/MfGMNBiJ_normal.jpg",
-                "Name": "David John Wyatt",
-                "Handle": "essiterry",
-                "Tweet": "Fuck my boots just read Webb Simpson could go to world NO 1 next week at memorial #PGATOUR",
-                "TweetLink": "1282042995781636096",
-                "Place": "Camberwell",
-                "Time": "Sat Jul 11 20:04:04 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.0706035,
-                    51.464686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/749422081184444417/j2CL3gmD_normal.jpg",
                 "Name": "Trevor Cannon",
                 "Handle": "Tcannon008",
