@@ -576,6 +576,30 @@
                     46.4418605
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1264540494845140995/5M_-CAio_normal.jpg",
+                "Name": "Michelle Qualls",
+                "Handle": "mmcqualls",
+                "Tweet": "#theMemorial week is here!  Who\u2019s your fav? Morikawa? Tiger? JT?\n\n#PGATOUR #WeFanTogether https://t.co/5Zt4TZhZ5d",
+                "TweetLink": "1282673473698111490",
+                "Place": "Dublin",
+                "Time": "Mon Jul 13 13:49:21 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.139281,
+                    40.1252735
+                ]
+            }
         }
     ]
 }
