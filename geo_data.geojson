@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1230122112452628483/X0e80-y0_normal.jpg",
-                "Name": "Jack On The Range",
-                "Handle": "JackOnTheRange",
-                "Tweet": "What if his putt didn\u2019t break left ... he just mishit the putt \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f #PGATOUR #GameOfInches",
-                "TweetLink": "1282068493819686919",
-                "Place": "Charlotte",
-                "Time": "Sat Jul 11 21:45:23 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.8467855,
-                    35.209059
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1251009181697662977/x42Qlniy_normal.jpg",
                 "Name": "NATHAN BARNHART",
                 "Handle": "NATHANSPICKSWIN",
