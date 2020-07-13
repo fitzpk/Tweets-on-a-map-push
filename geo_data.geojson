@@ -624,6 +624,30 @@
                     49.8538055
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1229104210211483648/N03q0MiT_normal.jpg",
+                "Name": "Luke Lyddon",
+                "Handle": "Luke_Lyddon",
+                "Tweet": "It\u2019s an unfortunate scenario, but better safe than sorry. \n\nThe #WyndhamChampionship will be held without fans, jus\u2026 https://t.co/QS6tf7YKlh",
+                "TweetLink": "1282715618865754113",
+                "Place": "Greensboro",
+                "Time": "Mon Jul 13 16:36:49 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.8573635,
+                    36.090397
+                ]
+            }
         }
     ]
 }
