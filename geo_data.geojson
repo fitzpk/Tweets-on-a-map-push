@@ -120,6 +120,30 @@
                     36.3356125
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "Too much respect for @jacknicklaus to post a smart comment about him caddying for kevinna915 this week pgatour\u2026 https://t.co/vHlwbCNfIn",
+                "TweetLink": "1283183691896938499",
+                "Place": "Sunbury",
+                "Time": "Tue Jul 14 23:36:47 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.8645955,
+                    40.2439295
+                ]
+            }
         }
     ]
 }
