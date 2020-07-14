@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
-                "Name": "Will O'Donoghue",
-                "Handle": "Will_ODonoghue",
-                "Tweet": "Two wins in just 24 pro starts. \ud83c\udfc6\ud83c\udfc6\n\nCongratulations to @Collin_Morikawa on his win at the @Workday Charity Open on\u2026 https://t.co/2XtENHQ7WD",
-                "TweetLink": "1282469782894399488",
-                "Place": "Lake Park",
-                "Time": "Mon Jul 13 00:19:58 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.633465,
-                    35.0838255
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1246292526866354176/4EogtaF2_normal.jpg",
                 "Name": "Back 9 Indoor Golf Club MN",
                 "Handle": "Back9GolfMN",
