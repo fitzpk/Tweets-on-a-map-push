@@ -144,6 +144,30 @@
                     35.8439815
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1244003537304072193/cjftUHsE_normal.jpg",
+                "Name": "Golfbet365",
+                "Handle": "Golfbet365",
+                "Tweet": "TOP 20s #MemorialTournament #PGATOUR #GamblingTwitter https://t.co/VVw8ImYQ1x",
+                "TweetLink": "1283102180120166407",
+                "Place": "Columbus",
+                "Time": "Tue Jul 14 18:12:53 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.985772,
+                    39.9946835
+                ]
+            }
         }
     ]
 }
