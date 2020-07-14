@@ -96,6 +96,30 @@
                     36.232915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1247393370638606337/-qF95Uqx_normal.jpg",
+                "Name": "Travis David",
+                "Handle": "TDavid_21",
+                "Tweet": "The #PGATour is adding a new tournament series for players on its international tours. The series will be US based\u2026 https://t.co/irbVUSXqPC",
+                "TweetLink": "1283050280947523590",
+                "Place": "Quincy",
+                "Time": "Tue Jul 14 14:46:39 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.368036,
+                    39.926189
+                ]
+            }
         }
     ]
 }
