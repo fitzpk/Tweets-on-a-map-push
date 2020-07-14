@@ -120,6 +120,30 @@
                     39.926189
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/995975225438294016/8AL1bIj__normal.jpg",
+                "Name": "Andrew Park Golf",
+                "Handle": "TheAndrewPark",
+                "Tweet": "julianacamargot working on an in-to-out path for draws. @flightscopegolf \n\n#golfing #golf #golfer #golfswing\u2026 https://t.co/WriAYJG9kk",
+                "TweetLink": "1283086171124281344",
+                "Place": "Florida",
+                "Time": "Tue Jul 14 17:09:16 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.804475,
+                    27.698682
+                ]
+            }
         }
     ]
 }
