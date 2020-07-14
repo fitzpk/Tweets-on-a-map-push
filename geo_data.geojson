@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1246292526866354176/4EogtaF2_normal.jpg",
-                "Name": "Back 9 Indoor Golf Club MN",
-                "Handle": "Back9GolfMN",
-                "Tweet": "Sneak Peak of Hole #14 at the 3mopen @tpctwincities this is LONG! #pga #pgatour #golf #mn #mngolf #golfing\u2026 https://t.co/rA2MvMSv09",
-                "TweetLink": "1282515361783582720",
-                "Place": "Minnesota",
-                "Time": "Mon Jul 13 03:21:04 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.3613205,
-                    46.4418605
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1264540494845140995/5M_-CAio_normal.jpg",
                 "Name": "Michelle Qualls",
                 "Handle": "mmcqualls",
