@@ -144,6 +144,30 @@
                     39.9946835
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1145435931912167425/qePA7BFP_normal.jpg",
+                "Name": "Jack Jackson",
+                "Handle": "jack_jackson100",
+                "Tweet": "An afternoon of fun and laughs @topgolf with @leighjo_17 \n\n#topgolf #golf #golflife #golfer #golfaddict #golfswing\u2026 https://t.co/WVG0KLAQH9",
+                "TweetLink": "1283119499491921921",
+                "Place": "Rogers",
+                "Time": "Tue Jul 14 19:21:42 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.1480225,
+                    36.3356125
+                ]
+            }
         }
     ]
 }
