@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg",
-                "Name": "Tucker Blankinship",
-                "Handle": "TuckerBlanc",
-                "Tweet": "Bear event of the year on #PGATOUR gets edged by a race that was boring until the final 2 re-starts.  This is what\u2026 https://t.co/nqKZ5YBr4C",
-                "TweetLink": "1283098993577414656",
-                "Place": "Raleigh",
-                "Time": "Tue Jul 14 18:00:13 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -78.657837,
-                    35.8439815
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1244003537304072193/cjftUHsE_normal.jpg",
                 "Name": "Golfbet365",
                 "Handle": "Golfbet365",
