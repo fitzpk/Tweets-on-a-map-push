@@ -264,6 +264,30 @@
                     40.102243
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1135735320203419649/dTdr942c_normal.jpg",
+                "Name": "Brittany Ramsay",
+                "Handle": "BeeRamsSports",
+                "Tweet": "Brooks to Rory and Tiger before tee-off tomorrow...(probably)\n#PGATour https://t.co/wI73begFjM",
+                "TweetLink": "1283458120606347264",
+                "Place": "Thunder Bay",
+                "Time": "Wed Jul 15 17:47:16 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.237048,
+                    48.4023265
+                ]
+            }
         }
     ]
 }
