@@ -240,6 +240,30 @@
                     53.517648
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1282293078326468610/7jw_8l2k_normal.jpg",
+                "Name": "rob",
+                "Handle": "manoffrm",
+                "Tweet": "Icymi for @LastOutMedia my boy Phil has you covered to win some money while watching golf this weekend check it out",
+                "TweetLink": "1283394213506424834",
+                "Place": "Bensalem",
+                "Time": "Wed Jul 15 13:33:19 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.946407,
+                    40.102243
+                ]
+            }
         }
     ]
 }
