@@ -168,6 +168,54 @@
                     37.7706565
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1251009181697662977/x42Qlniy_normal.jpg",
+                "Name": "NATHAN BARNHART",
+                "Handle": "NATHANSPICKSWIN",
+                "Tweet": "CASHED 4 OUT OF THE LAST 5 H2H TOURNEY\u2019S AND THIS WEEKEND WILL BE NO DIFFERENT ! \ud83d\udcb0\ud83d\udcb0\ud83d\udcb0TAKE A SHOT AGAINST ME OR JUMP\u2026 https://t.co/m4YomCRmsI",
+                "TweetLink": "1283237158246113282",
+                "Place": "Wentzville",
+                "Time": "Wed Jul 15 03:09:14 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8616135,
+                    38.8168005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/749422081184444417/j2CL3gmD_normal.jpg",
+                "Name": "Trevor Cannon",
+                "Handle": "Tcannon008",
+                "Tweet": "Are you kidding me with this weeks golf tournament! This is honestly the best golf field you\u2019ll see in a long long\u2026 https://t.co/5HYHwouCcu",
+                "TweetLink": "1283237375770890240",
+                "Place": "North Salt Lake",
+                "Time": "Wed Jul 15 03:10:06 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.908219,
+                    40.8433015
+                ]
+            }
         }
     ]
 }
