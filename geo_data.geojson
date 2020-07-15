@@ -216,6 +216,30 @@
                     40.8433015
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1253303269461561350/GsCaT0zP_normal.jpg",
+                "Name": "Dana Wright",
+                "Handle": "mrswrighty76",
+                "Tweet": "Skills!!",
+                "TweetLink": "1283392982775930881",
+                "Place": "Doncaster",
+                "Time": "Wed Jul 15 13:28:26 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.13936,
+                    53.517648
+                ]
+            }
         }
     ]
 }
