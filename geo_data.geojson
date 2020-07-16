@@ -4,150 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1244003537304072193/cjftUHsE_normal.jpg",
-                "Name": "Golfbet365",
-                "Handle": "Golfbet365",
-                "Tweet": "TOP 20s #MemorialTournament #PGATOUR #GamblingTwitter https://t.co/VVw8ImYQ1x",
-                "TweetLink": "1283102180120166407",
-                "Place": "Columbus",
-                "Time": "Tue Jul 14 18:12:53 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.985772,
-                    39.9946835
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1145435931912167425/qePA7BFP_normal.jpg",
-                "Name": "Jack Jackson",
-                "Handle": "jack_jackson100",
-                "Tweet": "An afternoon of fun and laughs @topgolf with @leighjo_17 \n\n#topgolf #golf #golflife #golfer #golfaddict #golfswing\u2026 https://t.co/WVG0KLAQH9",
-                "TweetLink": "1283119499491921921",
-                "Place": "Rogers",
-                "Time": "Tue Jul 14 19:21:42 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -94.1480225,
-                    36.3356125
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
-                "Name": "Korean Golf News",
-                "Handle": "KoreanGolfNews",
-                "Tweet": "Too much respect for @jacknicklaus to post a smart comment about him caddying for kevinna915 this week pgatour\u2026 https://t.co/vHlwbCNfIn",
-                "TweetLink": "1283183691896938499",
-                "Place": "Sunbury",
-                "Time": "Tue Jul 14 23:36:47 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.8645955,
-                    40.2439295
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
-                "Name": "Korean Golf News",
-                "Handle": "KoreanGolfNews",
-                "Tweet": "No, you're not dreaming Tom...Get your 'Junior Flyer' \u2708 ticket booked ASAP joohyungkim0621 \ud83d\ude09 Less than 3 weeks unti\u2026 https://t.co/kBx9xADG8G",
-                "TweetLink": "1283190210449281036",
-                "Place": "San Francisco",
-                "Time": "Wed Jul 15 00:02:41 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.4359785,
-                    37.7706565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1251009181697662977/x42Qlniy_normal.jpg",
-                "Name": "NATHAN BARNHART",
-                "Handle": "NATHANSPICKSWIN",
-                "Tweet": "CASHED 4 OUT OF THE LAST 5 H2H TOURNEY\u2019S AND THIS WEEKEND WILL BE NO DIFFERENT ! \ud83d\udcb0\ud83d\udcb0\ud83d\udcb0TAKE A SHOT AGAINST ME OR JUMP\u2026 https://t.co/m4YomCRmsI",
-                "TweetLink": "1283237158246113282",
-                "Place": "Wentzville",
-                "Time": "Wed Jul 15 03:09:14 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.8616135,
-                    38.8168005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/749422081184444417/j2CL3gmD_normal.jpg",
-                "Name": "Trevor Cannon",
-                "Handle": "Tcannon008",
-                "Tweet": "Are you kidding me with this weeks golf tournament! This is honestly the best golf field you\u2019ll see in a long long\u2026 https://t.co/5HYHwouCcu",
-                "TweetLink": "1283237375770890240",
-                "Place": "North Salt Lake",
-                "Time": "Wed Jul 15 03:10:06 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -111.908219,
-                    40.8433015
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1253303269461561350/GsCaT0zP_normal.jpg",
                 "Name": "Dana Wright",
                 "Handle": "mrswrighty76",
@@ -214,6 +70,30 @@
                 "coordinates": [
                     -89.237048,
                     48.4023265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1275750473253875712/hAJOVRQe_normal.jpg",
+                "Name": "Bob Yanoska",
+                "Handle": "caddiegiant",
+                "Tweet": "Don\u2019t ever change that swing!!! #Awesome #Golf",
+                "TweetLink": "1283525006991831040",
+                "Place": "Pacific Grove",
+                "Time": "Wed Jul 15 22:13:03 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.92178,
+                    36.6179475
                 ]
             }
         }
