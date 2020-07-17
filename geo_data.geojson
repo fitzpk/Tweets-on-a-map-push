@@ -144,6 +144,30 @@
                     35.8439815
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1141826048188997633/th0gzOEh_normal.jpg",
+                "Name": "Justin Sandler PGA",
+                "Handle": "jsandler75",
+                "Tweet": "He\u2019s Still improving, 25 months old and hitting it 60yds. Need to get his hips moving like @McIlroyRory he then onl\u2026 https://t.co/Tz9lEh6pwH",
+                "TweetLink": "1283928388197990400",
+                "Place": "Melbourne",
+                "Time": "Fri Jul 17 00:55:56 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0531355,
+                    -37.9725665
+                ]
+            }
         }
     ]
 }
