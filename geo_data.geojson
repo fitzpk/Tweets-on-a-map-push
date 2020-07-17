@@ -120,6 +120,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg",
+                "Name": "Tucker Blankinship",
+                "Handle": "TuckerBlanc",
+                "Tweet": "There\u2019s a reason they took away fan vote Friday.  #PGATour gotta promote the bombers as everybody realizes that\u2019s n\u2026 https://t.co/jz6fzwVwre",
+                "TweetLink": "1283918723716395009",
+                "Place": "Raleigh",
+                "Time": "Fri Jul 17 00:17:32 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.657837,
+                    35.8439815
+                ]
+            }
         }
     ]
 }
