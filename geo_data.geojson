@@ -168,6 +168,30 @@
                     -37.9725665
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1182828435305041921/JymkGx0B_normal.jpg",
+                "Name": "Andy Frye",
+                "Handle": "SportyFrye",
+                "Tweet": "Tony Finau @tonyfinaugolf sits atop the leaderboard after day one of the #MemorialTournament. \n\nHe was one of many\u2026 https://t.co/To0bomqwfP",
+                "TweetLink": "1283940768181366788",
+                "Place": "Chicago",
+                "Time": "Fri Jul 17 01:45:08 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.732013,
+                    41.8335845
+                ]
+            }
         }
     ]
 }
