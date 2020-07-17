@@ -240,6 +240,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1269014032658444294/D02znR7__normal.jpg",
+                "Name": "Lebronald Palmer",
+                "Handle": "lp_htx",
+                "Tweet": "How I\u2019m going to be Sunday when I play! #Bryson #theMemorial #PGATour https://t.co/sLLw7PMfFL",
+                "TweetLink": "1284257482454568961",
+                "Place": "Texas",
+                "Time": "Fri Jul 17 22:43:38 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.0768885,
+                    31.1688935
+                ]
+            }
         }
     ]
 }
