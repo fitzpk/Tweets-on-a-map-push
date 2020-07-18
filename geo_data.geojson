@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
-                "Name": "Korean Golf News",
-                "Handle": "KoreanGolfNews",
-                "Tweet": "@ByeongHunAn (-1, T-19th) is the only \ud83c\uddf0\ud83c\uddf7\ud83c\udfcc\ufe0f\u200d\u2642\ufe0fliving under par, after a challenging opening day at the $9.3 Million\u2026 https://t.co/lLKBMV8RZZ",
-                "TweetLink": "1283893302421594112",
-                "Place": "Dublin",
-                "Time": "Thu Jul 16 22:36:31 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.139281,
-                    40.1252735
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1136344833092571136/ZFy04MdQ_normal.jpg",
                 "Name": "GolfTalk Live",
                 "Handle": "TLGolfTalkLive",
