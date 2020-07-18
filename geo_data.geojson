@@ -264,6 +264,30 @@
                     36.0042715
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1073807559906201600/WyfO58zf_normal.jpg",
+                "Name": "Soy yo Woody",
+                "Handle": "BigTasty999",
+                "Tweet": "Tony Finau playing like me at 17.  Urgh #imploding #PGATour #TheMemorial",
+                "TweetLink": "1284609638315499527",
+                "Place": "Florida",
+                "Time": "Sat Jul 18 22:02:59 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.804475,
+                    27.698682
+                ]
+            }
         }
     ]
 }
