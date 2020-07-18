@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1281381924359991298/eWgBe_Pd_normal.jpg",
-                "Name": "Jesse Flynn",
-                "Handle": "JesseFlynnJr",
-                "Tweet": "Grabbing @RyanPalmerPGA at 30/1 after day 1 looking good. Tied for 1st at -9 after round 2. Also grabbed Bryson at\u2026 https://t.co/UYQYiXOOGJ",
-                "TweetLink": "1284175447115182081",
-                "Place": "Paradise",
-                "Time": "Fri Jul 17 17:17:40 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.135165,
-                    36.0609645
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/479595292644220928/VB12hHwZ_normal.png",
                 "Name": "Mads Liab\u00f8",
                 "Handle": "madsliabo",
