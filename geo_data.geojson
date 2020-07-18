@@ -240,6 +240,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1180312463088205825/Gynz6ly__normal.jpg",
+                "Name": "Kelly Cates-Thornton",
+                "Handle": "cateskinc",
+                "Tweet": "#PGATour if and when spectators are allowed awayty tournaments again... please implement two rules... no yelling, y\u2026 https://t.co/wH9YII7TPD",
+                "TweetLink": "1284602916989526017",
+                "Place": "Clemmons",
+                "Time": "Sat Jul 18 21:36:16 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3864405,
+                    36.0042715
+                ]
+            }
         }
     ]
 }
