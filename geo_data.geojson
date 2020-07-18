@@ -312,6 +312,30 @@
                     -33.848244
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1136344833092571136/ZFy04MdQ_normal.jpg",
+                "Name": "GolfTalk Live",
+                "Handle": "TLGolfTalkLive",
+                "Tweet": "Price reduced ... in case you want to own Greg Norman\u2019s Colorado home. \ud83e\udd37\u200d\u2642\ufe0f\u26f3\ufe0f\n\n#golf #golfer #golfswing #golfcourse\u2026 https://t.co/Sbff7syfXE",
+                "TweetLink": "1284318349791506432",
+                "Place": "Pennsylvania",
+                "Time": "Sat Jul 18 02:45:30 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
         }
     ]
 }
