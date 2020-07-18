@@ -240,6 +240,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/533451346910146560/gDx45WID_normal.jpeg",
+                "Name": "allen depuy",
+                "Handle": "AllenDepuy",
+                "Tweet": "What a great place to kick back with friends on a summer evening.",
+                "TweetLink": "1284498480174714882",
+                "Place": "Pennsylvania",
+                "Time": "Sat Jul 18 14:41:17 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
         }
     ]
 }
