@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1136344833092571136/ZFy04MdQ_normal.jpg",
-                "Name": "GolfTalk Live",
-                "Handle": "TLGolfTalkLive",
-                "Tweet": "Meaningful Golf &amp; Tiger's Return\n\nGolfTalk Minute presented by 4 Yards More Golf Tees\u26f3\ufe0f\n#golf #golfswing\u2026 https://t.co/jnu13CSXq0",
-                "TweetLink": "1283912273417908225",
-                "Place": "Pennsylvania",
-                "Time": "Thu Jul 16 23:51:54 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.604684,
-                    41.1179365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg",
                 "Name": "Tucker Blankinship",
                 "Handle": "TuckerBlanc",
