@@ -336,6 +336,30 @@
                     32.6782075
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/801557901332488192/SVqxKH3p_normal.jpg",
+                "Name": "Matt de Groot",
+                "Handle": "mattdegroot_",
+                "Tweet": ".@BrendanPorath @the_woke_yolk @shanebacon what do you make of this off the tee after @b_dechambeau made 10. Looks\u2026 https://t.co/BInGm91COA",
+                "TweetLink": "1284294019338526720",
+                "Place": "Sydney",
+                "Time": "Sat Jul 18 01:08:49 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.931975,
+                    -33.848244
+                ]
+            }
         }
     ]
 }
