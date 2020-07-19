@@ -288,6 +288,30 @@
                     40.8433015
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "Hole locations for today\u2019s Final Round of the @MemorialGolf Tournament at Muirfield Village Golf Club. #TheMemorial\u2026 https://t.co/owmpdtZuTm",
+                "TweetLink": "1284881849152671746",
+                "Place": "Oak Island",
+                "Time": "Sun Jul 19 16:04:39 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.136628,
+                    33.9295795
+                ]
+            }
         }
     ]
 }
