@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000666544759/bf958c8f498c35596afe3b699fa68c6c_normal.jpeg",
-                "Name": "bret israel",
-                "Handle": "bretisrael",
-                "Tweet": "Join our club Mr",
-                "TweetLink": "1284237427964436481",
-                "Place": "Los Angeles",
-                "Time": "Fri Jul 17 21:23:57 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.4119065,
-                    34.0207895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1269014032658444294/D02znR7__normal.jpg",
                 "Name": "Lebronald Palmer",
                 "Handle": "lp_htx",
