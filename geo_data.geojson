@@ -432,6 +432,30 @@
                     26.3613605
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1220009940883869697/vfbDxiTZ_normal.jpg",
+                "Name": "henny",
+                "Handle": "hennyfudgex",
+                "Tweet": "@JordanSpieth \u2018s inconsistently is becoming almost unbearable now... but will I still continue to follow him religi\u2026 https://t.co/5TFVMMUC8z",
+                "TweetLink": "1284964240714080257",
+                "Place": "Cromer",
+                "Time": "Sun Jul 19 21:32:03 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2895385,
+                    52.926655
+                ]
+            }
         }
     ]
 }
