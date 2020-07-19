@@ -336,6 +336,30 @@
                     42.84261
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/691241447580897281/GwmWv5U5_normal.jpg",
+                "Name": "Ryan Walters",
+                "Handle": "Ryan_Walters21",
+                "Tweet": "All your lesson options covered @kingswaygc afgolfstore \n\nCoaching times available this week. Visit\nAFGOLFSTORE onl\u2026 https://t.co/IeP9FyFnVw",
+                "TweetLink": "1284938553693138944",
+                "Place": "Royston",
+                "Time": "Sun Jul 19 19:49:58 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.023097,
+                    52.0514875
+                ]
+            }
         }
     ]
 }
