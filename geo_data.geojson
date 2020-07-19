@@ -288,6 +288,30 @@
                     27.698682
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "kevinna915 (T-12th) chasing his 72nd pgatour Top 10 siwookim_official (T-24th) hoping to jump back on the \ud83d\udc25\ud83d\ude82 after\u2026 https://t.co/zI8LEKAfoQ",
+                "TweetLink": "1284640995808882701",
+                "Place": "Dublin",
+                "Time": "Sun Jul 19 00:07:35 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.139281,
+                    40.1252735
+                ]
+            }
         }
     ]
 }
