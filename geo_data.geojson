@@ -480,6 +480,30 @@
                     53.9092525
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/442660936243879938/yCFV17T8_normal.jpeg",
+                "Name": "Matt Heldstab",
+                "Handle": "mattheldstab",
+                "Tweet": "Jon Rahm had an 8 shot lead with 9 to go. Three holes later the lead over Ryan Palmer is down to 4. Rahm looks a bi\u2026 https://t.co/MF0z5EfHTs",
+                "TweetLink": "1284976371249315840",
+                "Place": "Hudson",
+                "Time": "Sun Jul 19 22:20:15 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.7238475,
+                    44.9748725
+                ]
+            }
         }
     ]
 }
