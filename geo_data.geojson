@@ -408,6 +408,30 @@
                     40.8433015
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1124363122465071105/95N7JJ-8_normal.jpg",
+                "Name": "Steven J Buzza",
+                "Handle": "SteveBuzzaGolf",
+                "Tweet": "This final round is brutal, Rahm however is looking solid \ud83d\udc4c\ud83c\udffb #TheMemorialTournament #pgatour",
+                "TweetLink": "1284960607553413120",
+                "Place": "Bonita Springs",
+                "Time": "Sun Jul 19 21:17:36 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.8077615,
+                    26.3613605
+                ]
+            }
         }
     ]
 }
