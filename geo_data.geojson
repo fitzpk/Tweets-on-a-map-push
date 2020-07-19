@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1473018671/image_normal.jpg",
-                "Name": "buck belue",
-                "Handle": "buckbelue8",
-                "Tweet": "Enjoying @Love3d being apart of @NBCSports coverage at The Memorial! Great insight &amp; good sense of humor! #PGATour @680TheFan",
-                "TweetLink": "1284292778181230592",
-                "Place": "Georgia",
-                "Time": "Sat Jul 18 01:03:53 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.1738665,
-                    32.6782075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/801557901332488192/SVqxKH3p_normal.jpg",
                 "Name": "Matt de Groot",
                 "Handle": "mattdegroot_",
