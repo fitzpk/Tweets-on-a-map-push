@@ -240,6 +240,54 @@
                     49.8538055
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1100433957445881856/WyuvqenD_normal.png",
+                "Name": "Justin Hastings",
+                "Handle": "CoachHastings",
+                "Tweet": "@MemorialGolf playing more like a US Open than a regular tour event and I\u2019m \ud83d\udcaf% here for it.  @jacknicklaus and Co.\u2026 https://t.co/K31IzExSpS",
+                "TweetLink": "1284876902755442690",
+                "Place": "Midlothian",
+                "Time": "Sun Jul 19 15:45:00 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.9655845,
+                    32.4757815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/749422081184444417/j2CL3gmD_normal.jpg",
+                "Name": "Trevor Cannon",
+                "Handle": "Tcannon008",
+                "Tweet": "The tiger is out on the prowl this morning ! Early birdie! #MemorialTournament #PGATour https://t.co/WOEEH1vWhv",
+                "TweetLink": "1284876943616176129",
+                "Place": "North Salt Lake",
+                "Time": "Sun Jul 19 15:45:09 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.908219,
+                    40.8433015
+                ]
+            }
         }
     ]
 }
