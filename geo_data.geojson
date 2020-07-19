@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/881408834908049408/RzGe9z5r_normal.jpg",
-                "Name": "The Great Wang \ud83c\udf78\ud83c\udfb8\ud83c\udccf",
-                "Handle": "realgreatwang",
-                "Tweet": "Steve Stricker and Jim Furyk are playing great golf. Both of those guys age = 137 Years Old #PGATour #theMemorial https://t.co/Hj6AxNnw0z",
-                "TweetLink": "1284221964253425664",
-                "Place": "Henderson",
-                "Time": "Fri Jul 17 20:22:30 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.038337,
-                    36.006256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/378800000666544759/bf958c8f498c35596afe3b699fa68c6c_normal.jpeg",
                 "Name": "bret israel",
                 "Handle": "bretisrael",
