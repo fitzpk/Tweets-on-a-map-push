@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/479595292644220928/VB12hHwZ_normal.png",
-                "Name": "Mads Liab\u00f8",
-                "Handle": "madsliabo",
-                "Tweet": ".@patrick_cantlay nice BRIDGIE on 11 #MemorialTournament #PGATour @GolfChannel @ESN_golf",
-                "TweetLink": "1284220556729090049",
-                "Place": "Naustdal",
-                "Time": "Fri Jul 17 20:16:55 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    5.764679,
-                    61.5468195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/881408834908049408/RzGe9z5r_normal.jpg",
                 "Name": "The Great Wang \ud83c\udf78\ud83c\udfb8\ud83c\udccf",
                 "Handle": "realgreatwang",
