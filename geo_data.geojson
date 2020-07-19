@@ -504,6 +504,54 @@
                     44.9748725
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1208454104483278848/FBv57lF1_normal.jpg",
+                "Name": "Doc \ud835\ude42\ud835\ude64\ud835\ude61\ud835\ude5b\ud835\ude3e\ud835\ude5a\ud835\ude63\ud835\ude69\ud835\ude67\ud835\ude56\ud835\ude61/\ud835\ude42\ud835\ude3c\ud835\ude3c \ud835\ude42\ud835\ude46 \ud835\ude3e\ud835\ude64\ud835\ude56\ud835\ude58\ud835\ude5d",
+                "Handle": "GolfCentralDoc",
+                "Tweet": "The Memorial is still going on and men already digging up the greens.  Couldn't help but notice the racial divide b\u2026 https://t.co/OAMQwur51N",
+                "TweetLink": "1284976812792123392",
+                "Place": "Mayo",
+                "Time": "Sun Jul 19 22:22:00 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4203375,
+                    53.9092525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1270703767013462018/_d3KLlzf_normal.jpg",
+                "Name": "Dave Elitz",
+                "Handle": "Griffdee24",
+                "Tweet": "@jacknicklaus What a complete joke you pulled today lol!!! @MemorialGolf #PGATour #theMemorial",
+                "TweetLink": "1284977799225380864",
+                "Place": "Levittown",
+                "Time": "Sun Jul 19 22:25:55 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.8553325,
+                    40.157637
+                ]
+            }
         }
     ]
 }
