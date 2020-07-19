@@ -144,6 +144,78 @@
                     26.527285
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1265301192202018817/6tuXvGDa_normal.jpg",
+                "Name": "FF_docker",
+                "Handle": "b_christ_",
+                "Tweet": "Phil Mickelson putting with the tumbler on the green is king shit #MemorialTournament #PGATour https://t.co/FhOAizehzz",
+                "TweetLink": "1284865047068475392",
+                "Place": "Long Beach",
+                "Time": "Sun Jul 19 14:57:53 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1567105,
+                    33.8091715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2635380190/e0e71499937ae3832a9095a0fcbf6d52_normal.jpeg",
+                "Name": "Bruce L",
+                "Handle": "BruceDL40",
+                "Tweet": "Carl I think the winners score will be 272.",
+                "TweetLink": "1284865327231381504",
+                "Place": "Lake Grove",
+                "Time": "Sun Jul 19 14:59:00 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.117467,
+                    40.8591315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1265301192202018817/6tuXvGDa_normal.jpg",
+                "Name": "FF_docker",
+                "Handle": "b_christ_",
+                "Tweet": "Phil Mickelson putting with the tumbler on the green is king shit #MemorialTournament #PGATour https://t.co/h6jxyu2rVZ",
+                "TweetLink": "1284865343484129287",
+                "Place": "Long Beach",
+                "Time": "Sun Jul 19 14:59:04 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1567105,
+                    33.8091715
+                ]
+            }
         }
     ]
 }
