@@ -552,6 +552,30 @@
                     40.157637
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/560276163449208835/Rk7ukSlY_normal.jpeg",
+                "Name": "Richmond_3121",
+                "Handle": "richmond_3121",
+                "Tweet": "Any golf gurus able to tell me if this should be a penalty - looks like ball moves as Rahm addresses his ball prior\u2026 https://t.co/EOxumA8zI1",
+                "TweetLink": "1284993194749390848",
+                "Place": "Melbourne",
+                "Time": "Sun Jul 19 23:27:06 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0531355,
+                    -37.9725665
+                ]
+            }
         }
     ]
 }
