@@ -384,6 +384,30 @@
                     39.25661
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/749422081184444417/j2CL3gmD_normal.jpg",
+                "Name": "Trevor Cannon",
+                "Handle": "Tcannon008",
+                "Tweet": "John Rahm is literally lapping these guys ! #MemorialTournament #PGATour @PGATOUR @PGATOURLIVE https://t.co/jZb78otEuO",
+                "TweetLink": "1284954055240896512",
+                "Place": "North Salt Lake",
+                "Time": "Sun Jul 19 20:51:34 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.908219,
+                    40.8433015
+                ]
+            }
         }
     ]
 }
