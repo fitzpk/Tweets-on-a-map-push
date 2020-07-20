@@ -312,6 +312,30 @@
                     41.6982765
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/995975225438294016/8AL1bIj__normal.jpg",
+                "Name": "Andrew Park Golf",
+                "Handle": "TheAndrewPark",
+                "Tweet": "Bruce Huang getting ready for a stretch of tournament. Swing in shape and mentally ready to do  #awesome \n\n#golfing\u2026 https://t.co/DH65jIqihm",
+                "TweetLink": "1285323960788439040",
+                "Place": "Florida",
+                "Time": "Mon Jul 20 21:21:27 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.804475,
+                    27.698682
+                ]
+            }
         }
     ]
 }
