@@ -4,78 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1180312463088205825/Gynz6ly__normal.jpg",
-                "Name": "Kelly Cates-Thornton",
-                "Handle": "cateskinc",
-                "Tweet": "#PGATour if and when spectators are allowed awayty tournaments again... please implement two rules... no yelling, y\u2026 https://t.co/wH9YII7TPD",
-                "TweetLink": "1284602916989526017",
-                "Place": "Clemmons",
-                "Time": "Sat Jul 18 21:36:16 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.3864405,
-                    36.0042715
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1073807559906201600/WyfO58zf_normal.jpg",
-                "Name": "Soy yo Woody",
-                "Handle": "BigTasty999",
-                "Tweet": "Tony Finau playing like me at 17.  Urgh #imploding #PGATour #TheMemorial",
-                "TweetLink": "1284609638315499527",
-                "Place": "Florida",
-                "Time": "Sat Jul 18 22:02:59 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.804475,
-                    27.698682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
-                "Name": "Korean Golf News",
-                "Handle": "KoreanGolfNews",
-                "Tweet": "kevinna915 (T-12th) chasing his 72nd pgatour Top 10 siwookim_official (T-24th) hoping to jump back on the \ud83d\udc25\ud83d\ude82 after\u2026 https://t.co/zI8LEKAfoQ",
-                "TweetLink": "1284640995808882701",
-                "Place": "Dublin",
-                "Time": "Sun Jul 19 00:07:35 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.139281,
-                    40.1252735
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1048929083688542208/yxl6Uerq_normal.jpg",
                 "Name": "DKT Sports",
                 "Handle": "dkt_sports",
@@ -574,6 +502,30 @@
                 "coordinates": [
                     145.0531355,
                     -37.9725665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1189296046184304642/07cCkdpK_normal.jpg",
+                "Name": "Matt Ward",
+                "Handle": "ward_mrw",
+                "Tweet": "Whether Rahm is penalized or not, something so minimal that it can only get picked up by a 4K camera should not be\u2026 https://t.co/GPYzGKc1hB",
+                "TweetLink": "1284997476152467456",
+                "Place": "Coralville",
+                "Time": "Sun Jul 19 23:44:07 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.5851905,
+                    41.6982765
                 ]
             }
         }
