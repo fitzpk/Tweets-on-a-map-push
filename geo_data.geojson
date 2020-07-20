@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1062096506151362561/Qdp3kIJj_normal.jpg",
-                "Name": "Looking Glass Brewing Co.",
-                "Handle": "LGBrewingCo",
-                "Tweet": "That\u2019s right, we got live sports #pgatour on the big screen &amp; TVs with lots of #craftbeverages to try during\u2026 https://t.co/zvAVWTkcPD",
-                "TweetLink": "1284930138740854784",
-                "Place": "Looking Glass Brewery",
-                "Time": "Sun Jul 19 19:16:32 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -84.56951,
-                    42.84261
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/691241447580897281/GwmWv5U5_normal.jpg",
                 "Name": "Ryan Walters",
                 "Handle": "Ryan_Walters21",
