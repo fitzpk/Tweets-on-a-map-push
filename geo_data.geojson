@@ -336,6 +336,30 @@
                     27.698682
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1154033153792602113/0TcKDqiT_normal.jpg",
+                "Name": "Ben Silverman",
+                "Handle": "Bsilvermangolf",
+                "Tweet": "Thankful for home rentals like this one this week... clean, new, beautiful, and it allows me to keep up with my hea\u2026 https://t.co/VlfUJe5z7J",
+                "TweetLink": "1285335823760711680",
+                "Place": "Missouri",
+                "Time": "Mon Jul 20 22:08:35 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.4367735,
+                    38.3045585
+                ]
+            }
         }
     ]
 }
