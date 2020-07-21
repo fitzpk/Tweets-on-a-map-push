@@ -48,6 +48,30 @@
                     38.3045585
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
+                "Name": "The Fit Golfer Girl",
+                "Handle": "fitgolfergirl",
+                "Tweet": "This shaded grassy area near the beach perfect was perfect for a little practice sesh with my @RukketSports chippin\u2026 https://t.co/pCVmklpBmj",
+                "TweetLink": "1285639747193450497",
+                "Place": "Ocean Ridge",
+                "Time": "Tue Jul 21 18:16:16 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0494095,
+                    26.527285
+                ]
+            }
         }
     ]
 }
