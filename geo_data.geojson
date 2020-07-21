@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/691241447580897281/GwmWv5U5_normal.jpg",
-                "Name": "Ryan Walters",
-                "Handle": "Ryan_Walters21",
-                "Tweet": "All your lesson options covered @kingswaygc afgolfstore \n\nCoaching times available this week. Visit\nAFGOLFSTORE onl\u2026 https://t.co/IeP9FyFnVw",
-                "TweetLink": "1284938553693138944",
-                "Place": "Royston",
-                "Time": "Sun Jul 19 19:49:58 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.023097,
-                    52.0514875
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1203728628191834114/w4UiCG3i_normal.jpg",
-                "Name": "rager_dutch",
-                "Handle": "Rager_Dutch",
-                "Tweet": "Welp.... Slugger White says the glass is always half full... let\u2019s get this match back on track!!\u2026 https://t.co/qWo6SGYC2b",
-                "TweetLink": "1284944440168259585",
-                "Place": "Ocean City",
-                "Time": "Sun Jul 19 20:13:22 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -74.602945,
-                    39.25661
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/749422081184444417/j2CL3gmD_normal.jpg",
                 "Name": "Trevor Cannon",
                 "Handle": "Tcannon008",
