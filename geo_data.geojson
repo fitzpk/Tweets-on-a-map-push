@@ -24,6 +24,30 @@
                     26.527285
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1251941595571564545/1RM1_8Io_normal.jpg",
+                "Name": "Bradley Valleskey \ud83e\uddc0",
+                "Handle": "FFcheesehead",
+                "Tweet": "\u26f3\ufe0f #3MOpen \u26f3\ufe0f\n\nLast week I nailed my prediction of Jon Rahm winning at Memorial \ud83d\udd25\n\nCheck out who I have winning thi\u2026 https://t.co/oLQ5nXlKFr",
+                "TweetLink": "1286009907649622016",
+                "Place": "Nebraska",
+                "Time": "Wed Jul 22 18:47:09 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.6809025,
+                    41.5007295
+                ]
+            }
         }
     ]
 }
