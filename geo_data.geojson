@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/995975225438294016/8AL1bIj__normal.jpg",
-                "Name": "Andrew Park Golf",
-                "Handle": "TheAndrewPark",
-                "Tweet": "Bruce Huang getting ready for a stretch of tournament. Swing in shape and mentally ready to do  #awesome \n\n#golfing\u2026 https://t.co/DH65jIqihm",
-                "TweetLink": "1285323960788439040",
-                "Place": "Florida",
-                "Time": "Mon Jul 20 21:21:27 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.804475,
-                    27.698682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1154033153792602113/0TcKDqiT_normal.jpg",
-                "Name": "Ben Silverman",
-                "Handle": "Bsilvermangolf",
-                "Tweet": "Thankful for home rentals like this one this week... clean, new, beautiful, and it allows me to keep up with my hea\u2026 https://t.co/VlfUJe5z7J",
-                "TweetLink": "1285335823760711680",
-                "Place": "Missouri",
-                "Time": "Mon Jul 20 22:08:35 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -92.4367735,
-                    38.3045585
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
                 "Name": "The Fit Golfer Girl",
                 "Handle": "fitgolfergirl",
