@@ -24,6 +24,30 @@
                     41.5007295
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "siwookim_official swing sequence during his prep pgatour 3mopen \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8 #koreangolfnews #pgatour #golf #pga\u2026 https://t.co/kEspLcL1fS",
+                "TweetLink": "1286102704037728258",
+                "Place": "Minnesota",
+                "Time": "Thu Jul 23 00:55:53 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.3613205,
+                    46.4418605
+                ]
+            }
         }
     ]
 }
