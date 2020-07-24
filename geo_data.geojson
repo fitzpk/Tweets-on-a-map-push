@@ -168,6 +168,30 @@
                     49.8538055
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1276750157753786370/Du3xmzbe_normal.jpg",
+                "Name": "Rick Sosa",
+                "Handle": "sosarick",
+                "Tweet": "#mnwild #MNTwins #Skol #NBA #PGATour #MLSisBack #NASCAR #WNBA ALL SPORTS ARE BACK! https://t.co/KJaGmjOBGD",
+                "TweetLink": "1286803347924824064",
+                "Place": "Target Field",
+                "Time": "Fri Jul 24 23:20:00 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.277642,
+                    44.981844
+                ]
+            }
         }
     ]
 }
