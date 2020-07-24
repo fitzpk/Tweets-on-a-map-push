@@ -120,6 +120,30 @@
                     26.527285
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1620581745/image_normal.jpg",
+                "Name": "Jimmy G",
+                "Handle": "jgayinminny",
+                "Tweet": "Who me? I was just trying to do some wicked waterski tricks to impress the locals. Aggrivated an old football injur\u2026 https://t.co/df8mhBnDOW",
+                "TweetLink": "1286772287673442304",
+                "Place": "Minnesota",
+                "Time": "Fri Jul 24 21:16:35 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.3613205,
+                    46.4418605
+                ]
+            }
         }
     ]
 }
