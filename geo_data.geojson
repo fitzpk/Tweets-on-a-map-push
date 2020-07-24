@@ -144,6 +144,30 @@
                     46.4418605
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1168668143419568128/B8Js22Du_normal.jpg",
+                "Name": "DigitalPaintCan",
+                "Handle": "DigitalPaintCan",
+                "Tweet": "@ArronOberholser @ArronOberholser\n\nAnxiety...how much does that affect #PGATOUR players?\n\nFor me, speed really gets\u2026 https://t.co/NhsOVGBMIN",
+                "TweetLink": "1286797220394815488",
+                "Place": "Winnipeg",
+                "Time": "Fri Jul 24 22:55:39 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1526765,
+                    49.8538055
+                ]
+            }
         }
     ]
 }
