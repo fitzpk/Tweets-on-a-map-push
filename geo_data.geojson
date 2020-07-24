@@ -24,6 +24,30 @@
                     33.6880475
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2992993752/95b0db8880d7bee73519ccf27b09badc_normal.jpeg",
+                "Name": "Jess Koncz",
+                "Handle": "RedDevilWine",
+                "Tweet": "I wonder what my #proset Mike Springer rookie card is worth these days? #pgatour https://t.co/4KvswBTEQ8",
+                "TweetLink": "1286705930088919048",
+                "Place": "Toronto",
+                "Time": "Fri Jul 24 16:52:54 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2725695,
+                    43.629311
+                ]
+            }
         }
     ]
 }
