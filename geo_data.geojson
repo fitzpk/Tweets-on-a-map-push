@@ -48,6 +48,30 @@
                     41.1746485
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1277795302078992384/QpnWS4x2_normal.jpg",
+                "Name": "Eric Tusler",
+                "Handle": "EricTusler",
+                "Tweet": "When did the #Dodgers sign @RickieFowler?! #ITFDB #PGATour",
+                "TweetLink": "1286527439506530305",
+                "Place": "Menifee",
+                "Time": "Fri Jul 24 05:03:38 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1970825,
+                    33.6880475
+                ]
+            }
         }
     ]
 }
