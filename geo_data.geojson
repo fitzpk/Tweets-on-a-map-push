@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
-                "Name": "VegasSquaresPodcast",
-                "Handle": "VegasSquares",
-                "Tweet": "We\u2019d love to have a female handicapper who caps golf on for our @PGAChampionship podcast? Any interested participan\u2026 https://t.co/0uydVGzCwi",
-                "TweetLink": "1286769694955851777",
-                "Place": "Las Vegas",
-                "Time": "Fri Jul 24 21:06:16 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.223125,
-                    36.232915
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
                 "Name": "The Fit Golfer Girl",
                 "Handle": "fitgolfergirl",
