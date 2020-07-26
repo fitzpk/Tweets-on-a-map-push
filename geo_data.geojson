@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
-                "Name": "The Fit Golfer Girl",
-                "Handle": "fitgolfergirl",
-                "Tweet": "Comment below if like me, you would have either chunked or bladed this shot! \ud83d\ude02\ud83d\ude4b\u200d\u2640\ufe0f\ud83e\udd37\u200d\u2640\ufe0f\n\nLove seeing new names at th\u2026 https://t.co/i0184NX6kw",
-                "TweetLink": "1286770345228345347",
-                "Place": "Ocean Ridge",
-                "Time": "Fri Jul 24 21:08:51 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.0494095,
-                    26.527285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1620581745/image_normal.jpg",
                 "Name": "Jimmy G",
                 "Handle": "jgayinminny",
