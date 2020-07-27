@@ -24,6 +24,30 @@
                     19.9387045
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1168668143419568128/B8Js22Du_normal.jpg",
+                "Name": "DigitalPaintCan",
+                "Handle": "DigitalPaintCan",
+                "Tweet": "Life...over making a living.\n\nWhat should sport do?\n\n#NHL\n#NBA\n#pgatour \n#NFL\n#MLB \n\n#Covid19\n#WearAMask https://t.co/Wh6sCXlx3x",
+                "TweetLink": "1287779340999168000",
+                "Place": "Winnipeg",
+                "Time": "Mon Jul 27 15:58:15 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1526765,
+                    49.8538055
+                ]
+            }
         }
     ]
 }
