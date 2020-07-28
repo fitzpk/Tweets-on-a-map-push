@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1285751905679884288/2sd0pQnQ_normal.jpg",
-                "Name": "Ankesh Gupta",
-                "Handle": "AnkeshGupta121",
-                "Tweet": "@MSlickGolf \nCongratulations  \ud83d\udc4d\ud83d\udc90\ud83d\udc90#MichaelThompson #PGATOUR https://t.co/bapPjm8pli",
-                "TweetLink": "1287746274163228673",
-                "Place": "India",
-                "Time": "Mon Jul 27 13:46:51 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    82.5841815,
-                    19.9387045
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1168668143419568128/B8Js22Du_normal.jpg",
                 "Name": "DigitalPaintCan",
                 "Handle": "DigitalPaintCan",
