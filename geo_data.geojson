@@ -168,6 +168,30 @@
                     39.589577
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1276750157753786370/Du3xmzbe_normal.jpg",
+                "Name": "Rick Sosa",
+                "Handle": "sosarick",
+                "Tweet": "My favorite golfers have always been Davis Love III, Phil Mickelson and Tiger Woods.. from the \u201cnew wave\u201d of player\u2026 https://t.co/EyRbUqUHpw",
+                "TweetLink": "1288506099247861762",
+                "Place": "Minnesota",
+                "Time": "Wed Jul 29 16:06:08 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.3613205,
+                    46.4418605
+                ]
+            }
         }
     ]
 }
