@@ -192,6 +192,30 @@
                     46.4418605
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1281381924359991298/eWgBe_Pd_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "JesseFlynnJr",
+                "Tweet": "@barstoolbets Make\u2019em say uhh... UHH\nKevin Na..Nanana! \u26f3\ufe0f #pgatour @DeadMoneyMedia2 @WGCFedEx #WGCFedEx https://t.co/1h1C9BgmNQ",
+                "TweetLink": "1288522366767648774",
+                "Place": "Paradise",
+                "Time": "Wed Jul 29 17:10:46 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
