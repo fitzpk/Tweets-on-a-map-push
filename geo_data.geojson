@@ -48,6 +48,30 @@
                     30.398178
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1218224296901869568/Y4w5kgKn_normal.jpg",
+                "Name": "Owen King",
+                "Handle": "OwenKin16198242",
+                "Tweet": "3 hour range session after dinner today working on closing the club face at address and at P1. Also working very ha\u2026 https://t.co/g54L1121Tq",
+                "TweetLink": "1288284643624652800",
+                "Place": "Persimmon Ridge Golf Club",
+                "Time": "Wed Jul 29 01:26:08 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.438577,
+                    38.289027
+                ]
+            }
         }
     ]
 }
