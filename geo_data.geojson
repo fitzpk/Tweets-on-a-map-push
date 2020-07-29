@@ -144,6 +144,30 @@
                     35.1335205
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/751250718124748800/6yfN3V8I_normal.jpg",
+                "Name": "Shea Curran",
+                "Handle": "sheacurran",
+                "Tweet": "I know it\u2019s a stacked field, but the 29th ranked golfer in the world is sitting at +17500 outright for WGC St Jude\u2026 https://t.co/iKnQHR6VjE",
+                "TweetLink": "1288500967197966337",
+                "Place": "Southglenn",
+                "Time": "Wed Jul 29 15:45:44 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.955612,
+                    39.589577
+                ]
+            }
         }
     ]
 }
