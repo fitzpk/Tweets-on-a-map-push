@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1282668293346689024/w2lKT3iI_normal.jpg",
-                "Name": "Arfon Carhart",
-                "Handle": "arfontweets",
-                "Tweet": "Day 1 of trying to get @joaconiemann to follow back as he is my favourite golfer! #joaconiemann #followback #fan\u2026 https://t.co/jkoxcGegIG",
-                "TweetLink": "1288124555140055044",
-                "Place": "Pontypridd",
-                "Time": "Tue Jul 28 14:50:00 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.312432,
-                    51.593558
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1045458837736738816/O-XWOARq_normal.jpg",
                 "Name": "Cody Vaughn",
                 "Handle": "GolfPro76",
