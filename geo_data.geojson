@@ -120,6 +120,30 @@
                     26.527285
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1032382701246930944/iqptWIzW_normal.jpg",
+                "Name": "Aaron Dill",
+                "Handle": "Vokeywedgerep",
+                "Tweet": "The gamers of @haotong_li this week wgcfedex titleist vokeywedges @TitleistEurope titleistca @titleist_korea titlei\u2026 https://t.co/bi0s39DPoK",
+                "TweetLink": "1288487539045793793",
+                "Place": "Memphis",
+                "Time": "Wed Jul 29 14:52:22 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.922029,
+                    35.1335205
+                ]
+            }
         }
     ]
 }
