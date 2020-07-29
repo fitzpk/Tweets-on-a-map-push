@@ -96,6 +96,30 @@
                     50.970535
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
+                "Name": "The Fit Golfer Girl",
+                "Handle": "fitgolfergirl",
+                "Tweet": "Over 500 tour pros use the @SuperSpeedGolf to increase their swing speed because they work!\n\nUse code FITGOLFERGIRL\u2026 https://t.co/VEzZaVLGjU",
+                "TweetLink": "1288472934110113793",
+                "Place": "Ocean Ridge",
+                "Time": "Wed Jul 29 13:54:20 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0494095,
+                    26.527285
+                ]
+            }
         }
     ]
 }
