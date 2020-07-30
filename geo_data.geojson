@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1255462073812877313/Qs3RFwZY_normal.jpg",
-                "Name": "Sherborne Golf Club",
-                "Handle": "sherbornegolf",
-                "Tweet": "Looking up at the 17th green \u26f3\ufe0f\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f #golfing #golf #golfer #golflife #golfswing #dorset #golfcourse #sherborne\u2026 https://t.co/3tm70EX2Fa",
-                "TweetLink": "1288365682569220096",
-                "Place": "sherborne Golf Club",
-                "Time": "Wed Jul 29 06:48:10 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.523993,
-                    50.970535
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
                 "Name": "The Fit Golfer Girl",
                 "Handle": "fitgolfergirl",
