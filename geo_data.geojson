@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1045458837736738816/O-XWOARq_normal.jpg",
-                "Name": "Cody Vaughn",
-                "Handle": "GolfPro76",
-                "Tweet": "I\u2019m always down for those personal touches. Thanks floridagolfcollective for the swag. If you haven\u2019t Followed chec\u2026 https://t.co/udtCqvEnMl",
-                "TweetLink": "1288217157059444739",
-                "Place": "Destin",
-                "Time": "Tue Jul 28 20:57:58 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.4564905,
-                    30.398178
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1218224296901869568/Y4w5kgKn_normal.jpg",
                 "Name": "Owen King",
                 "Handle": "OwenKin16198242",
