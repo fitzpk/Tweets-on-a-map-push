@@ -240,6 +240,30 @@
                     36.232915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
+                "Name": "Tour Junkies",
+                "Handle": "Tour_Junkies",
+                "Tweet": "Absolutely bananas in the Hut right now! So much good info slangin! Oh and yea we\u2019re droppin some knowledge too!\u2026 https://t.co/k5hGwPvI1b",
+                "TweetLink": "1288654154597044231",
+                "Place": "Georgia",
+                "Time": "Thu Jul 30 01:54:27 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1738665,
+                    32.6782075
+                ]
+            }
         }
     ]
 }
