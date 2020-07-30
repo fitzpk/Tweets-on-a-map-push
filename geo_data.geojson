@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/997183962182180864/4PDnzZp-_normal.jpg",
-                "Name": "The AutoValet",
-                "Handle": "The_AutoValet",
-                "Tweet": "Our great friend @jimfuryk #pgatour @PGATOUR #LiveUnderPar",
-                "TweetLink": "1288539735233830913",
-                "Place": "Florida",
-                "Time": "Wed Jul 29 18:19:47 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.804475,
-                    27.698682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/801488741277769728/G5j7-wdc_normal.jpg",
                 "Name": "MB Golf Studio \ud83c\uddec\ud83c\udde7",
                 "Handle": "markb_",
