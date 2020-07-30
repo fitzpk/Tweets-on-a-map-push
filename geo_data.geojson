@@ -168,6 +168,30 @@
                     35.1335205
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1251009181697662977/x42Qlniy_normal.jpg",
+                "Name": "NATHAN BARNHART",
+                "Handle": "NATHANSPICKSWIN",
+                "Tweet": "AFTER ONE ROUND SITTING IN THE USUAL SPOT ! \n#WGCFedEx \n#pgatour \n#FANDUEL https://t.co/AG6Ibm9bvU",
+                "TweetLink": "1288978429786939393",
+                "Place": "Wentzville",
+                "Time": "Thu Jul 30 23:23:00 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8616135,
+                    38.8168005
+                ]
+            }
         }
     ]
 }
