@@ -168,6 +168,30 @@
                     38.8168005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1242500858119626754/glWqN3tu_normal.jpg",
+                "Name": "Tim Schmitt",
+                "Handle": "TMSGolfweek",
+                "Tweet": "I could watch 8th graders play golf at this new @CudaChamp course. Oh my amazingness. #PGATour",
+                "TweetLink": "1288995293057421316",
+                "Place": "Round Rock",
+                "Time": "Fri Jul 31 00:30:00 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.672732,
+                    30.5193405
+                ]
+            }
         }
     ]
 }
