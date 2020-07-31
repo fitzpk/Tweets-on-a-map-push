@@ -168,6 +168,30 @@
                     42.9064225
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1229859666231988225/L1E01C_n_normal.jpg",
+                "Name": "\u2022 James \u2022 C \u2022",
+                "Handle": "chorlton_james",
+                "Tweet": "Excuse the handwriting because I was leaning on my own leg in a field but I\u2019m UNDER PAR!!!!...#pgatour\u2026 https://t.co/cvJN2kxspv",
+                "TweetLink": "1289198283345166337",
+                "Place": "Torbay",
+                "Time": "Fri Jul 31 13:56:37 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.545695,
+                    50.447559
+                ]
+            }
         }
     ]
 }
