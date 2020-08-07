@@ -96,6 +96,30 @@
                     37.7706565
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/298542605/omar-khalif_normal.jpg",
+                "Name": "Omar Khalif",
+                "Handle": "MrOKhalif",
+                "Tweet": "Well when the #pgatour door closes, another one will appear. #ptl peach tree love. @ Bayview-Hunters Point, San Fra\u2026 https://t.co/P7RHLjULxN",
+                "TweetLink": "1291760484970979329",
+                "Place": "San Francisco",
+                "Time": "Fri Aug 07 15:37:54 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4359785,
+                    37.7706565
+                ]
+            }
         }
     ]
 }
