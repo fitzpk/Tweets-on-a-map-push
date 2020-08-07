@@ -192,6 +192,30 @@
                     46.4418605
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/912090171679571969/D0ZVgdv6_normal.jpg",
+                "Name": "Iain Mundy",
+                "Handle": "Iain_Mundy",
+                "Tweet": "@SkySportsGolf @SkySports @ESPNGolf Can you PLEASE stop showing Tiger Woods on the range and show the actual golf?\u2026 https://t.co/EvoX5pxkC6",
+                "TweetLink": "1291833538883530753",
+                "Place": "Scotland",
+                "Time": "Fri Aug 07 20:28:11 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.200441,
+                    57.739454
+                ]
+            }
         }
     ]
 }
