@@ -216,6 +216,30 @@
                     57.739454
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1227076567207227392/_BiOLHM4_normal.jpg",
+                "Name": "Kyle Garrison",
+                "Handle": "kmgarri",
+                "Tweet": "Can @notthefakeSVP call every golf round. He needs to sell (donate to the JimmyV fund) a commentation round for 4 b\u2026 https://t.co/M4hU4HmKhY",
+                "TweetLink": "1291873807884574720",
+                "Place": "Arkansas",
+                "Time": "Fri Aug 07 23:08:12 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.131274,
+                    34.7519365
+                ]
+            }
         }
     ]
 }
