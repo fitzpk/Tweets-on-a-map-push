@@ -168,6 +168,30 @@
                     41.6538775
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1276750157753786370/Du3xmzbe_normal.jpg",
+                "Name": "Rick Sosa",
+                "Handle": "sosarick",
+                "Tweet": "Haotong Li and Tommy Fleetwood make a move this morning at the #PGAChamp ending their rounds at -8 and -6 under par\u2026 https://t.co/cauepewmKK",
+                "TweetLink": "1291824857114607617",
+                "Place": "Minnesota",
+                "Time": "Fri Aug 07 19:53:41 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.3613205,
+                    46.4418605
+                ]
+            }
         }
     ]
 }
