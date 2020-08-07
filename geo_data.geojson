@@ -144,6 +144,30 @@
                     37.2204975
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1164995427172790272/Up7oxvi5_normal.jpg",
+                "Name": "Mike Runnels",
+                "Handle": "MikeRunnels",
+                "Tweet": "Analyze This... \u26f3\ufe0f    \ud83c\udfcc\ud83c\udffe\n\n__\n#Golf #GolfLife #GolfSwing #GolfSwings #GolfStagram #SlowMotion #SlowMo #PGA #PGATour\u2026 https://t.co/h2VbjAwT4E",
+                "TweetLink": "1291808357100257282",
+                "Place": "Blue Island",
+                "Time": "Fri Aug 07 18:48:07 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6806215,
+                    41.6538775
+                ]
+            }
         }
     ]
 }
