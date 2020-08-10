@@ -168,6 +168,30 @@
                     40.7484915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/962775791187542016/T2ximSxb_normal.jpg",
+                "Name": "Wardo Golf",
+                "Handle": "wardogolf",
+                "Tweet": "Congrats to Colin Morikawa, first of many for this golf swing! Followed him for several holes at the\u2026 https://t.co/NHzl0q8uel",
+                "TweetLink": "1292835900947337216",
+                "Place": "San Diego",
+                "Time": "Mon Aug 10 14:51:13 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.104989,
+                    32.810012
+                ]
+            }
         }
     ]
 }
