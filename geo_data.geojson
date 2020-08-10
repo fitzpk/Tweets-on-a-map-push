@@ -192,6 +192,30 @@
                     32.810012
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "Congratulations to 23-year-old @Collin_Morikawa as he won his first ever @PGAChampionship after shooting a final ro\u2026 https://t.co/fkfklINEOU",
+                "TweetLink": "1292842665227235328",
+                "Place": "San Francisco",
+                "Time": "Mon Aug 10 15:18:05 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4359785,
+                    37.7706565
+                ]
+            }
         }
     ]
 }
