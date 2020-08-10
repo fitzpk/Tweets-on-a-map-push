@@ -120,6 +120,30 @@
                     42.2558025
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1086652285390934023/saZdqGXb_normal.jpg",
+                "Name": "Perico Ripiao Tours",
+                "Handle": "PeriRipiaoTours",
+                "Tweet": "Good morning \ud83c\udf0e Happy Monday \ud83d\ude0a Heading into the sunrise \ud83c\udf05 #vacationmode #caribbean #godomrep #republicadominicana\u2026 https://t.co/4ggNviygVz",
+                "TweetLink": "1292800775312117760",
+                "Place": "Hig\u00fcey",
+                "Time": "Mon Aug 10 12:31:38 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.623478,
+                    18.725815
+                ]
+            }
         }
     ]
 }
