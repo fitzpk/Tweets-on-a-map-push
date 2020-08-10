@@ -144,6 +144,30 @@
                     18.725815
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3615102110/353b3b55de5afc7f54ba4a709f5b120c_normal.jpeg",
+                "Name": "Dick Kearns",
+                "Handle": "dickkearns",
+                "Tweet": "Congrats to our @ZurichNA Ambassador @collin_morikawa !  A Champion\u2019s smile to go along with the #Wanamaker Trophy.\u2026 https://t.co/EgsA7eHO9n",
+                "TweetLink": "1292814728214065152",
+                "Place": "Mineola",
+                "Time": "Mon Aug 10 13:27:05 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.639419,
+                    40.7484915
+                ]
+            }
         }
     ]
 }
