@@ -48,6 +48,30 @@
                     37.7706565
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/755538621713772544/Lu3L1Cqo_normal.jpg",
+                "Name": "Garrett Johnston",
+                "Handle": "JohnstonGarrett",
+                "Tweet": "Good thoughts on Morikawa",
+                "TweetLink": "1292676184271015939",
+                "Place": "Millbrae",
+                "Time": "Mon Aug 10 04:16:33 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4001295,
+                    37.5984745
+                ]
+            }
         }
     ]
 }
