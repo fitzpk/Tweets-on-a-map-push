@@ -216,6 +216,30 @@
                     37.7706565
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "@Collin_Morikawa is the 3rd-youngest @PGAChampionship winner in the stroke-play era behind @McIlroyRory in 2012 and\u2026 https://t.co/aJiRSDvx2p",
+                "TweetLink": "1292851333834440704",
+                "Place": "San Francisco",
+                "Time": "Mon Aug 10 15:52:32 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4359785,
+                    37.7706565
+                ]
+            }
         }
     ]
 }
