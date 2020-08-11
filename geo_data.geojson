@@ -168,6 +168,30 @@
                     37.7706565
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1203728628191834114/w4UiCG3i_normal.jpg",
+                "Name": "rager_dutch",
+                "Handle": "Rager_Dutch",
+                "Tweet": "Let\u2019s Go!!!! Get those early odds!! #BOL\ud83d\udcb0 #Golf #PGA #pgatour #CollegeFootball #GamblingTwitter #RAGEON\u2026 https://t.co/snzVrPTojJ",
+                "TweetLink": "1293181138266140672",
+                "Place": "Ardmore",
+                "Time": "Tue Aug 11 13:43:04 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.297902,
+                    40.004108
+                ]
+            }
         }
     ]
 }
