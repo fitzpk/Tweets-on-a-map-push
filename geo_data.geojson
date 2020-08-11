@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1081210261661536257/9rsQBRhU_normal.jpg",
-                "Name": "Patrizio Daveri",
-                "Handle": "daverigolf",
-                "Tweet": "Told ya. \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
-                "TweetLink": "1292736920645185537",
-                "Place": "Tarquinia",
-                "Time": "Mon Aug 10 08:17:54 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.7547845,
-                    42.2558025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1086652285390934023/saZdqGXb_normal.jpg",
                 "Name": "Perico Ripiao Tours",
                 "Handle": "PeriRipiaoTours",
