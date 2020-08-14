@@ -72,6 +72,30 @@
                     36.090397
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1209113590885765120/j6bJ-8eL_normal.jpg",
+                "Name": "Keith Cordero Jr.",
+                "Handle": "kmcorder",
+                "Tweet": "Who completes the Grand Slam first? \u26f3\ufe0f #PGATOUR",
+                "TweetLink": "1294366704718483458",
+                "Place": "Austin",
+                "Time": "Fri Aug 14 20:14:05 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.754724,
+                    30.3233455
+                ]
+            }
         }
     ]
 }
