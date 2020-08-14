@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
-                "Name": "The Fit Golfer Girl",
-                "Handle": "fitgolfergirl",
-                "Tweet": "Brooks lost me $300 last week so I need you to help me make it up this weekend!\nGo to https://t.co/HGYoFVtjxo to ch\u2026 https://t.co/nDJ8NzTsNi",
-                "TweetLink": "1293946127138484230",
-                "Place": "Nevada",
-                "Time": "Thu Aug 13 16:22:51 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.0226945,
-                    38.502147
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1244113962528124928/UsvrRaF__normal.jpg",
                 "Name": "Lauren Walsh",
                 "Handle": "lauwalsh10",
