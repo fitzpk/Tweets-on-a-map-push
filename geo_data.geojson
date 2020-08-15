@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1244113962528124928/UsvrRaF__normal.jpg",
-                "Name": "Lauren Walsh",
-                "Handle": "lauwalsh10",
-                "Tweet": "That\u2019s a wrap on Round 1 of the @WyndhamChamp for now. \n\nRain and storms suspend play, so the first round will fini\u2026 https://t.co/Ar3tEKhoOW",
-                "TweetLink": "1294041693956845569",
-                "Place": "Sedgefield Country Club",
-                "Time": "Thu Aug 13 22:42:36 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.886811,
-                    36.014108
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/809410346603556864/u389M7ha_normal.jpg",
-                "Name": "Korean Golf News",
-                "Handle": "KoreanGolfNews",
-                "Tweet": "siwookim_official (-5, T-5th) pgatour @wyndhamchamp Round 1 suspended for the day \u26c8\ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8 #koreangolfnews\u2026 https://t.co/mCckfKFcrg",
-                "TweetLink": "1294049992244568064",
-                "Place": "Greensboro",
-                "Time": "Thu Aug 13 23:15:35 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.8573635,
-                    36.090397
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1209113590885765120/j6bJ-8eL_normal.jpg",
                 "Name": "Keith Cordero Jr.",
                 "Handle": "kmcorder",
