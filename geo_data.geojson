@@ -72,6 +72,30 @@
                     53.9318445
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/613075783289073664/W-5F5ix6_normal.jpg",
+                "Name": "Joey Barney\u2122",
+                "Handle": "barney_joey",
+                "Tweet": "Great up-and-down from the hazard on  #2 for @chessonhadley #pgatour #wyndhamchampionship #theseguysaregood https://t.co/Npf2ZcwXIf",
+                "TweetLink": "1295012361691189255",
+                "Place": "Wyndham Championship at Sedgefield CC",
+                "Time": "Sun Aug 16 14:59:41 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.886303,
+                    36.010388
+                ]
+            }
         }
     ]
 }
