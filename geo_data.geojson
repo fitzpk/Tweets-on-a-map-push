@@ -168,6 +168,54 @@
                     30.6658585
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/866359356102557696/rEnLc5sI_normal.jpg",
+                "Name": "Alex Clipsham",
+                "Handle": "AlexClipsham",
+                "Tweet": "Rough looking leaderboard today the week after a major\ud83e\udd2e.#pgatour https://t.co/8iQAWNEazm",
+                "TweetLink": "1295101685874925574",
+                "Place": "Greater Vancouver",
+                "Time": "Sun Aug 16 20:54:38 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.072515,
+                    49.288236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/866359356102557696/rEnLc5sI_normal.jpg",
+                "Name": "Alex Clipsham",
+                "Handle": "AlexClipsham",
+                "Tweet": "Rough looking leaderboard a week after a major.. \ud83e\udd2e\ud83e\udd2e #pgatour https://t.co/f4bBJtkDQf",
+                "TweetLink": "1295102067279687680",
+                "Place": "Greater Vancouver",
+                "Time": "Sun Aug 16 20:56:09 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.072515,
+                    49.288236
+                ]
+            }
         }
     ]
 }
