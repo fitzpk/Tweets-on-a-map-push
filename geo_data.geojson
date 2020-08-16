@@ -144,6 +144,30 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1198732314299252736/Hn3TR983_normal.jpg",
+                "Name": "Overfriendly Runner",
+                "Handle": "GeoffMMyers",
+                "Tweet": "...watching @roboppenheim knee deep in native grass helping his playing partner and competitor search for his lost\u2026 https://t.co/3VzWDFfTPi",
+                "TweetLink": "1295094205870637057",
+                "Place": "Bryan",
+                "Time": "Sun Aug 16 20:24:55 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.347781,
+                    30.6658585
+                ]
+            }
         }
     ]
 }
