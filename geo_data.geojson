@@ -120,6 +120,30 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1281381924359991298/eWgBe_Pd_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "JesseFlynnJr",
+                "Tweet": "Si Wo Kim just giving this tournament away! #WyndhamChamp #pgachamp #wyndhamchampionship",
+                "TweetLink": "1295086032874926080",
+                "Place": "Paradise",
+                "Time": "Sun Aug 16 19:52:26 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
