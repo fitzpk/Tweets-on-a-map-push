@@ -216,6 +216,54 @@
                     49.288236
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
+                "Name": "Tour Junkies",
+                "Handle": "Tour_Junkies",
+                "Tweet": "Your latest #PGATour Winner! #WyndhamChampionship https://t.co/NHO6Tv15xp",
+                "TweetLink": "1295119718337187840",
+                "Place": "Georgia",
+                "Time": "Sun Aug 16 22:06:17 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1738665,
+                    32.6782075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1004832549208776704/tfAESBfH_normal.jpg",
+                "Name": "Nick hinds",
+                "Handle": "nrhinds",
+                "Tweet": "Herman is gonna win this thing! #PGATour",
+                "TweetLink": "1295119782476423168",
+                "Place": "Bridgetown North",
+                "Time": "Sun Aug 16 22:06:32 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.6358615,
+                    39.157053
+                ]
+            }
         }
     ]
 }
