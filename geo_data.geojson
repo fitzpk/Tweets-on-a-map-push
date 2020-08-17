@@ -264,6 +264,30 @@
                     39.157053
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1259731095832023042/5CHAAMsN_normal.jpg",
+                "Name": "Christopher Schlueter",
+                "Handle": "CSchlueter",
+                "Tweet": "444 feet of putts this week! \u26f3\ufe0f\ud83c\udfc6@gohermie #Bettinardi @kennedyandrewm @WyndhamChamp",
+                "TweetLink": "1295160749539565568",
+                "Place": "Keauhou",
+                "Time": "Mon Aug 17 00:49:20 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.9568195,
+                    19.5763655
+                ]
+            }
         }
     ]
 }
