@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1264630692513800199/pgB_Rtsa_normal.jpg",
-                "Name": "Russell Lane",
-                "Handle": "RussellLane007",
-                "Tweet": "Wow. 25 seconds ! #PGATOUR",
-                "TweetLink": "1294905808426340353",
-                "Place": "Yorkshire and The Humber",
-                "Time": "Sun Aug 16 07:56:17 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.2074825,
-                    53.9318445
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/613075783289073664/W-5F5ix6_normal.jpg",
                 "Name": "Joey Barney\u2122",
                 "Handle": "barney_joey",
