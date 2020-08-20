@@ -72,6 +72,30 @@
                     27.698682
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/99576076/chris1_normal.jpg",
+                "Name": "Chris Split",
+                "Handle": "chrissplitphoto",
+                "Tweet": "Almost time for the Northern Trust golf championship tomorrow... the course is ready and so are we!\ntpcboston rolex\u2026 https://t.co/ECbXKh5Nrh",
+                "TweetLink": "1296246220936097803",
+                "Place": "Norton",
+                "Time": "Thu Aug 20 00:42:36 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1800995,
+                    41.9708495
+                ]
+            }
         }
     ]
 }
