@@ -48,6 +48,30 @@
                     53.841189
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1275273385581387776/wVcwG9e3_normal.jpg",
+                "Name": "Gethin Coolbaugh | Sports, Politics, Life",
+                "Handle": "GethinCoolbaugh",
+                "Tweet": "Scheffler makes postseason debut with a 59 at TPC Boston (by \u2066@dougferguson405\u2069/\u2066@AP_Sports\u2069) #TheNorthernTrust\u2026 https://t.co/v8sxQHbS4h",
+                "TweetLink": "1296874079782412290",
+                "Place": "Boston",
+                "Time": "Fri Aug 21 18:17:30 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0887125,
+                    42.3136695
+                ]
+            }
         }
     ]
 }
