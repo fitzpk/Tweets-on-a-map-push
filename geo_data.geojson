@@ -144,6 +144,30 @@
                     51.3854455
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1124363122465071105/95N7JJ-8_normal.jpg",
+                "Name": "Steven J Buzza",
+                "Handle": "SteveBuzzaGolf",
+                "Tweet": "Imagine shooting 59 and not having the low score of the day... #59watch #pgatour #FedExCup https://t.co/8QiE0PFAzx",
+                "TweetLink": "1296894355786137603",
+                "Place": "Bonita Springs",
+                "Time": "Fri Aug 21 19:38:04 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.8077615,
+                    26.3613605
+                ]
+            }
         }
     ]
 }
