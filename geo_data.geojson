@@ -168,6 +168,30 @@
                     26.3613605
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1287378663638470656/1tkjwxco_normal.jpg",
+                "Name": "Jack Layton",
+                "Handle": "JSLayton1992",
+                "Tweet": "How do I tell my Grandchildren @DJohnsonPGA didn\u2019t break 60 from here though?! \ud83d\ude2b #PGATOUR #DustinJohnson\u2026 https://t.co/kDSwDgE72E",
+                "TweetLink": "1296918925826052099",
+                "Place": "South West",
+                "Time": "Fri Aug 21 21:15:42 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.927119,
+                    50.997507
+                ]
+            }
         }
     ]
 }
