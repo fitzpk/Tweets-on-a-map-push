@@ -192,6 +192,30 @@
                     50.997507
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1229180504097738752/zJLPnMov_normal.jpg",
+                "Name": "Dana Rolles",
+                "Handle": "DanaRolles",
+                "Tweet": "A disappointing 60\n#pgatour \n#theseguysaregood",
+                "TweetLink": "1296919721955082241",
+                "Place": "Calgary",
+                "Time": "Fri Aug 21 21:18:51 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.087851,
+                    51.027664
+                ]
+            }
         }
     ]
 }
