@@ -216,6 +216,54 @@
                     51.027664
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1180570147796475904/xikyOgu0_normal.jpg",
+                "Name": "Craig Surgeon",
+                "Handle": "surge2311",
+                "Tweet": "Sounds weird but what a disappointing round of golf, so much potential to re write history \ud83d\ude48\ud83d\ude02 \n27 out is PlayStatio\u2026 https://t.co/LR32CZ7UfA",
+                "TweetLink": "1296923478940098560",
+                "Place": "Loanhead",
+                "Time": "Fri Aug 21 21:33:47 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1583645,
+                    55.8790805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1101256261373325312/RXv-YDoY_normal.jpg",
+                "Name": "John Wayne Hebel",
+                "Handle": "JohnWayneHebel",
+                "Tweet": "DJ was a Pitt away from giving us 2 golfers with 59 in one tournament, on the same day. #pgatour #TheseGuysAreGood",
+                "TweetLink": "1296924056088743936",
+                "Place": "Boise",
+                "Time": "Fri Aug 21 21:36:05 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.238001,
+                    43.598033
+                ]
+            }
         }
     ]
 }
