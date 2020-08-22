@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1220009940883869697/vfbDxiTZ_normal.jpg",
-                "Name": "henny",
-                "Handle": "hennyfudgex",
-                "Tweet": "Me updating my PGA Tour app constantly to see @DJohnsonPGA annihilate the course - right after Scottie Scheffler po\u2026 https://t.co/YzSoD1d98q",
-                "TweetLink": "1296883423525707778",
-                "Place": "Birmingham",
-                "Time": "Fri Aug 21 18:54:37 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.8906405,
-                    52.4939665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
                 "Name": "Will O'Donoghue",
                 "Handle": "Will_ODonoghue",
