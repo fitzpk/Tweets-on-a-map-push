@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1293581782105849856/uUGkTRs2_normal.jpg",
-                "Name": "GAME Blackpool",
-                "Handle": "GAME_Blackpool",
-                "Tweet": "Those told us it would be very work. They said it was chalk and cheese. Yet here we stand at the precipice of somet\u2026 https://t.co/3nHWSOqAQQ",
-                "TweetLink": "1296823576457367558",
-                "Place": "Blackpool",
-                "Time": "Fri Aug 21 14:56:49 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.032089,
-                    53.841189
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1275273385581387776/wVcwG9e3_normal.jpg",
                 "Name": "Gethin Coolbaugh | Sports, Politics, Life",
                 "Handle": "GethinCoolbaugh",
