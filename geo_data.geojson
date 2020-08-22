@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/99576076/chris1_normal.jpg",
-                "Name": "Chris Split",
-                "Handle": "chrissplitphoto",
-                "Tweet": "Round two is underway at The Northern Trust golf tournament ... what challenges await the players at hole two today\u2026 https://t.co/IF374HQWu0",
-                "TweetLink": "1296815278584553472",
-                "Place": "Norton",
-                "Time": "Fri Aug 21 14:23:50 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.1800995,
-                    41.9708495
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1293581782105849856/uUGkTRs2_normal.jpg",
                 "Name": "GAME Blackpool",
                 "Handle": "GAME_Blackpool",
