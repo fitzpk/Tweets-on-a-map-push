@@ -360,6 +360,30 @@
                     40.322583
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "These 2 guys had pretty good days at @TPCBoston. Great Playing Fellas! #DustinJohnson #ScottieScheffler #PGATour\u2026 https://t.co/PHktdHZtrB",
+                "TweetLink": "1297220748659040258",
+                "Place": "Boston",
+                "Time": "Sat Aug 22 17:15:02 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0887125,
+                    42.3136695
+                ]
+            }
         }
     ]
 }
