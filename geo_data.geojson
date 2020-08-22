@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
-                "Name": "Will O'Donoghue",
-                "Handle": "Will_ODonoghue",
-                "Tweet": "Hole locations for today\u2019s 2nd Round of the FedEx Cup Playoffs, the @TheNTGolf Tournament at @TPCBoston.\u2026 https://t.co/WXgwuwPZqh",
-                "TweetLink": "1296887843671900165",
-                "Place": "Boston",
-                "Time": "Fri Aug 21 19:12:11 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.0887125,
-                    42.3136695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1294718972408070148/PomNp3gr_normal.jpg",
                 "Name": "wazza2312 \ud83c\uddec\ud83c\udde7",
                 "Handle": "wazza2312",
