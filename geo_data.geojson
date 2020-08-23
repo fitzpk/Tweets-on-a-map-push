@@ -144,6 +144,30 @@
                     42.3136695
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1281381924359991298/eWgBe_Pd_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "JesseFlynnJr",
+                "Tweet": "Dustin Johnson against the rest of the #thenortherntrust field. #PGA #PGATOUR #pgachamp #pgachampionship2020\u2026 https://t.co/8Ngm2ZzP3U",
+                "TweetLink": "1297610428227260416",
+                "Place": "Paradise",
+                "Time": "Sun Aug 23 19:03:29 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
