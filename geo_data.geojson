@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
-                "Name": "Will O'Donoghue",
-                "Handle": "Will_ODonoghue",
-                "Tweet": "These 2 guys had pretty good days at @TPCBoston. Great Playing Fellas! #DustinJohnson #ScottieScheffler #PGATour\u2026 https://t.co/PHktdHZtrB",
-                "TweetLink": "1297220748659040258",
-                "Place": "Boston",
-                "Time": "Sat Aug 22 17:15:02 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.0887125,
-                    42.3136695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1251963710719119361/6_px0OQO_normal.jpg",
-                "Name": "Tevin Barksdale",
-                "Handle": "TevinBarksdale1",
-                "Tweet": "I\u2019m live playing #PGATOUR2K21 come join in the chat and hang out. #youtubegaming #youtube #golf #pgatour\u2026 https://t.co/Wku1rRbuog",
-                "TweetLink": "1297241079968866305",
-                "Place": "Gallatin",
-                "Time": "Sat Aug 22 18:35:49 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.4648415,
-                    36.372563
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1263828364453990403/JaN1oJzs_normal.jpg",
                 "Name": "Mackem Exile",
                 "Handle": "choppy_1991",
