@@ -168,6 +168,30 @@
                     43.2606955
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/598971823867305984/Qsa5pZnB_normal.jpg",
+                "Name": "Kuniko Tischler",
+                "Handle": "kunikogolf",
+                "Tweet": "Finally,,, BMW Championship week will start tomorrow! Course is looking good! #bmwchamps #ofcc #pgatour\u2026 https://t.co/KNDCSXAeGX",
+                "TweetLink": "1297729125050916866",
+                "Place": "Olympia Fields",
+                "Time": "Mon Aug 24 02:55:08 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.689699,
+                    41.516021
+                ]
+            }
         }
     ]
 }
