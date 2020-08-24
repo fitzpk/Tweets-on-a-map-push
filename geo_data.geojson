@@ -144,6 +144,30 @@
                     41.516021
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1296882830367174659/__SJqCBP_normal.jpg",
+                "Name": "mary hercules",
+                "Handle": "maryhercules2",
+                "Tweet": "I\u2019m on a look for a serious relationship with a loving, loyal, caring, committed man, I\u2019m tired of playing games wi\u2026 https://t.co/y6rqRcLW7R",
+                "TweetLink": "1297981752363941888",
+                "Place": "Oklahoma City",
+                "Time": "Mon Aug 24 19:38:59 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.552161,
+                    35.4828435
+                ]
+            }
         }
     ]
 }
