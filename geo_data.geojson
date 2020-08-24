@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1265059202126528521/IbkD8Wo5_normal.jpg",
-                "Name": "John Shelton IV\ud83d\udca7",
-                "Handle": "JohnSheltonIV",
-                "Tweet": "Cody\ud83d\ude02\ud83d\ude02\ud83d\ude02",
-                "TweetLink": "1297327658745778176",
-                "Place": "Mount Pleasant",
-                "Time": "Sun Aug 23 00:19:51 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -84.772176,
-                    43.593853
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
                 "Name": "Will O'Donoghue",
                 "Handle": "Will_ODonoghue",
