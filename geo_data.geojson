@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1263828364453990403/JaN1oJzs_normal.jpg",
-                "Name": "Mackem Exile",
-                "Handle": "choppy_1991",
-                "Tweet": "Up there with Phil Mickelson as the coolest man in golf. #PGATour #FedExCup",
-                "TweetLink": "1297310337008644096",
-                "Place": "Saltdean",
-                "Time": "Sat Aug 22 23:11:01 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.04978,
-                    50.8103155
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1265059202126528521/IbkD8Wo5_normal.jpg",
                 "Name": "John Shelton IV\ud83d\udca7",
                 "Handle": "JohnSheltonIV",
