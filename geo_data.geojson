@@ -120,6 +120,30 @@
                     33.8745435
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/99576076/chris1_normal.jpg",
+                "Name": "Chris Split",
+                "Handle": "chrissplitphoto",
+                "Tweet": "A scene from the 6th green pond during The Northern Trust golf tournament.\n#northerntrust2020 #northerntrust\u2026 https://t.co/WBSuo5tfeH",
+                "TweetLink": "1298055094286548992",
+                "Place": "Norton",
+                "Time": "Tue Aug 25 00:30:25 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1800995,
+                    41.9708495
+                ]
+            }
         }
     ]
 }
