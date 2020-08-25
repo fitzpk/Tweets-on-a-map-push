@@ -168,6 +168,30 @@
                     38.3045585
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/557018495196876800/8OUWcZgy_normal.jpeg",
+                "Name": "Ken May",
+                "Handle": "KMPhoto1563",
+                "Tweet": "@GolfVNGC @KornFerryTour @matts1111 @pjrturf #sunset #pgatour \nWaiting for the Championship to begin...\u2026 https://t.co/Voj2y2NUhQ",
+                "TweetLink": "1298058292137201665",
+                "Place": "Paradise",
+                "Time": "Tue Aug 25 00:43:08 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.3839735,
+                    37.9946385
+                ]
+            }
         }
     ]
 }
