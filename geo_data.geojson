@@ -168,6 +168,30 @@
                     35.0838255
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/557018495196876800/8OUWcZgy_normal.jpeg",
+                "Name": "Ken May",
+                "Handle": "KMPhoto1563",
+                "Tweet": "Stimpin Sunrise\n@GolfVNGC @VNGCAgronomy @KornFerryTour #sunrise #Golf @matts1111 @pjrturf #pgatour #groundscrew\u2026 https://t.co/vse55qSdHp",
+                "TweetLink": "1298268542781894656",
+                "Place": "Paradise",
+                "Time": "Tue Aug 25 14:38:35 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.3839735,
+                    37.9946385
+                ]
+            }
         }
     ]
 }
