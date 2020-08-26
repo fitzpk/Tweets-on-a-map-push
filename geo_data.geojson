@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
-                "Name": "Will O'Donoghue",
-                "Handle": "Will_ODonoghue",
-                "Tweet": "Quit a @ChampionsTour debut for @PhilMickelson as he cards 11 birdies en route to a 10 under 61 at @BigCedarLodge a\u2026 https://t.co/Dx7t4XUduh",
-                "TweetLink": "1298266914746064898",
-                "Place": "Lake Park",
-                "Time": "Tue Aug 25 14:32:07 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.633465,
-                    35.0838255
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/557018495196876800/8OUWcZgy_normal.jpeg",
                 "Name": "Ken May",
                 "Handle": "KMPhoto1563",
