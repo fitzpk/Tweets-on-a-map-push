@@ -24,6 +24,30 @@
                     38.3045585
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1280339090731393025/0Owz4v31_normal.jpg",
+                "Name": "Nathan",
+                "Handle": "natecheat",
+                "Tweet": "Back for a new @StatementGames Making Picks segment. This time looking at the BMW Championship of the PGA Tour. Che\u2026 https://t.co/uhzGAQXdtT",
+                "TweetLink": "1299000350201065473",
+                "Place": "New Britain",
+                "Time": "Thu Aug 27 15:06:32 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.7872745,
+                    41.679872
+                ]
+            }
         }
     ]
 }
