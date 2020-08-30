@@ -1056,6 +1056,30 @@
                     34.046252
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1268592828382208000/eyvztf_w_normal.jpg",
+                "Name": "Matt Clark",
+                "Handle": "CoachMClark",
+                "Tweet": "The best takeaway from this is that he kept his eye on the ball thru the entirety of the swing, hard to teach that",
+                "TweetLink": "1300114726173589505",
+                "Place": "Albuquerque",
+                "Time": "Sun Aug 30 16:54:40 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.632718,
+                    35.1170025
+                ]
+            }
         }
     ]
 }
