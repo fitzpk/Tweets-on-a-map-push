@@ -624,6 +624,30 @@
                     55.466068
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3783822962/43bf71580c7780458e2080258025b39a_normal.jpeg",
+                "Name": "Andy Brock",
+                "Handle": "andybrock767",
+                "Tweet": "So Funny!  Keep swinging hard young man!  You\u2019ll get it!",
+                "TweetLink": "1300018776214298624",
+                "Place": "Bernardsville",
+                "Time": "Sun Aug 30 10:33:24 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.5778395,
+                    40.715262
+                ]
+            }
         }
     ]
 }
