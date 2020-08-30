@@ -1296,6 +1296,30 @@
                     41.521222
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/871721396405243904/n_cT3LCe_normal.jpg",
+                "Name": "Nick Palich",
+                "Handle": "nickpalich",
+                "Tweet": "@Martha_Reeves reminds me of you!",
+                "TweetLink": "1300140950837174274",
+                "Place": "Read",
+                "Time": "Sun Aug 30 18:38:52 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.35637,
+                    53.807782
+                ]
+            }
         }
     ]
 }
