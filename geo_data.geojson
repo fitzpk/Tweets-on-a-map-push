@@ -744,6 +744,30 @@
                     32.571032
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1261710772838809601/yKr_DXBw_normal.jpg",
+                "Name": "Joe Simpson",
+                "Handle": "jn9simpson",
+                "Tweet": "This is me deer hunting with a big buck In front of me!!!",
+                "TweetLink": "1300062974896373761",
+                "Place": "Kingsport",
+                "Time": "Sun Aug 30 13:29:01 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5225815,
+                    36.512493
+                ]
+            }
         }
     ]
 }
