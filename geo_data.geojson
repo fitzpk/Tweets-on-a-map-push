@@ -1464,6 +1464,30 @@
                     35.054627
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/818129653705637888/rjb9u35Z_normal.jpg",
+                "Name": "Phill Gill",
+                "Handle": "Phill_Gill",
+                "Tweet": "This is why I don\u2019t do golf.",
+                "TweetLink": "1300179258921418759",
+                "Place": "Barsby",
+                "Time": "Sun Aug 30 21:11:06 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.967885,
+                    52.696337
+                ]
+            }
         }
     ]
 }
