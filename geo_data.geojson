@@ -912,6 +912,30 @@
                     53.649918
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1002143723881451521/SoNiNj8w_normal.jpg",
+                "Name": "Jeff Snyder",
+                "Handle": "RealJeffSnyder",
+                "Tweet": "It me",
+                "TweetLink": "1300094161903923201",
+                "Place": "Norfolk",
+                "Time": "Sun Aug 30 15:32:57 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.255686,
+                    36.895082
+                ]
+            }
         }
     ]
 }
