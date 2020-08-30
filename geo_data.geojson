@@ -2784,6 +2784,54 @@
                     53.393049
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
+                "Name": "VegasSquaresPodcast",
+                "Handle": "VegasSquares",
+                "Tweet": "Incredible finish to the @BMWchamps. Great match from @JonRahmpga and @DJohnsonPGA. What a tough track this week!\u2026 https://t.co/lxOT1ciYX9",
+                "TweetLink": "1300216239017439232",
+                "Place": "Las Vegas",
+                "Time": "Sun Aug 30 23:38:02 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.223125,
+                    36.232915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/707960694331736064/aP7zHax8_normal.jpg",
+                "Name": "Markdagodfather \u26f3",
+                "Handle": "markdagodfather",
+                "Tweet": "Can't remember a high stake playoff with 2 of the top rated golfers ever...this was the finish of the century #PGATOUR",
+                "TweetLink": "1300217044865081345",
+                "Place": "Georgia",
+                "Time": "Sun Aug 30 23:41:15 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1738665,
+                    32.6782075
+                ]
+            }
         }
     ]
 }
