@@ -1272,6 +1272,30 @@
                     41.927807
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1108819541923192832/vRW1JgBK_normal.jpg",
+                "Name": "PGA TOUR Communications",
+                "Handle": "PGATOURComms",
+                "Tweet": "Another season in the books for @tigerwoods, closing the @bmwchamps with rounds of 73-75-72-71. This week marked ju\u2026 https://t.co/cSK2dFlqU8",
+                "TweetLink": "1300133937377939457",
+                "Place": "Olympia Fields Country Club",
+                "Time": "Sun Aug 30 18:11:00 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.687194,
+                    41.521222
+                ]
+            }
         }
     ]
 }
