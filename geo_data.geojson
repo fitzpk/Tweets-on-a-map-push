@@ -672,6 +672,30 @@
                     39.7665555
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/929130285484134400/ZsjBCqFG_normal.jpg",
+                "Name": "Will Leatt",
+                "Handle": "Leatt90",
+                "Tweet": "Not just me then. Good to see!",
+                "TweetLink": "1300038273000239104",
+                "Place": "York",
+                "Time": "Sun Aug 30 11:50:52 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0853245,
+                    53.9662065
+                ]
+            }
         }
     ]
 }
