@@ -456,6 +456,30 @@
                     52.833704
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1274213421802758144/VPBD72MR_normal.jpg",
+                "Name": "Eric Cremeens",
+                "Handle": "ECremeens1366",
+                "Tweet": "I hope @maxhoma23  doesn\u2019t roast the little fella! He left nothing in the bag and gave it the ole college try!",
+                "TweetLink": "1299921116283244544",
+                "Place": "Kentucky",
+                "Time": "Sun Aug 30 04:05:20 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.7682405,
+                    37.822244
+                ]
+            }
         }
     ]
 }
