@@ -1368,6 +1368,30 @@
                     41.2177985
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1268935707843690497/PQY4x_Qo_normal.jpg",
+                "Name": "Leilani Price",
+                "Handle": "Leilani_Price",
+                "Tweet": "This sums up my 2020, how\u2019s yours going?",
+                "TweetLink": "1300157563367948288",
+                "Place": "Fresno",
+                "Time": "Sun Aug 30 19:44:53 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.7824645,
+                    36.786042
+                ]
+            }
         }
     ]
 }
