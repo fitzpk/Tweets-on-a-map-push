@@ -888,6 +888,30 @@
                     37.2691755
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1278418045082402817/9aTktNa1_normal.jpg",
+                "Name": "Ciano",
+                "Handle": "ferritec",
+                "Tweet": "Ah I know that feeling. #golf",
+                "TweetLink": "1300091044906831878",
+                "Place": "Meath",
+                "Time": "Sun Aug 30 15:20:34 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7754335,
+                    53.649918
+                ]
+            }
         }
     ]
 }
