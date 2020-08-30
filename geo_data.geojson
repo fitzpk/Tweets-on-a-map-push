@@ -936,6 +936,54 @@
                     36.895082
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/807066219232669697/SHuwAXLF_normal.jpg",
+                "Name": "David Phillip",
+                "Handle": "CoachDPhillip",
+                "Tweet": "This is me seven beers ... I mean holes into the course. @alexkith15 @jerome_manos @CoachFanene @kcampy3",
+                "TweetLink": "1300096000254672898",
+                "Place": "Texas",
+                "Time": "Sun Aug 30 15:40:15 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.0768885,
+                    31.1688935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1178190534797676546/fwFUlsDW_normal.jpg",
+                "Name": "\ud83e\uddf8\ud83c\udf35",
+                "Handle": "gabeIX",
+                "Tweet": "This looks like @ale_garciaa9 \ud83d\ude02",
+                "TweetLink": "1300096051215511552",
+                "Place": "Dallas",
+                "Time": "Sun Aug 30 15:40:27 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7617535,
+                    32.8198585
+                ]
+            }
         }
     ]
 }
