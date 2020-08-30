@@ -1392,6 +1392,30 @@
                     36.786042
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1214447669961084928/e8vLxTXh_normal.jpg",
+                "Name": "Patto",
+                "Handle": "pattolar",
+                "Tweet": "I still do that and I\u2019m 50 \ud83e\udd23",
+                "TweetLink": "1300165345492176896",
+                "Place": "Thousand Oaks",
+                "Time": "Sun Aug 30 20:15:48 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.9188865,
+                    34.188478
+                ]
+            }
         }
     ]
 }
