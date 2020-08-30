@@ -2568,6 +2568,150 @@
                     40.334656
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/562316668232167424/vhuG5wTZ_normal.jpeg",
+                "Name": "Tyler",
+                "Handle": "tylerrourke9",
+                "Tweet": "What a putt! Rahm! @JonRahmpga ! #PGATOUR",
+                "TweetLink": "1300213730311942144",
+                "Place": "Wood Buffalo",
+                "Time": "Sun Aug 30 23:28:04 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.000802,
+                    57.664958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1201909280510763008/XiKZFOvQ_normal.jpg",
+                "Name": "Phill Drobnick",
+                "Handle": "CoachPhill",
+                "Tweet": "Those guys make putting look easy! #PGATOUR #BMWChampionship",
+                "TweetLink": "1300213832627949568",
+                "Place": "Woodbury",
+                "Time": "Sun Aug 30 23:28:29 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.9238085,
+                    44.9054195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1286139015461298176/Rmgv4DBo_normal.jpg",
+                "Name": "Sara Ann Davis",
+                "Handle": "SADavis_89",
+                "Tweet": "OMG WHAT AN AWESOME SUDDEN DEATH BETWEEN @JonRahmpga AND @DJohnsonPGA \ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc #ThosePuttsThough #BMWChampionship #PGATOUR @PGATOUR",
+                "TweetLink": "1300213851196215296",
+                "Place": "Chattanooga",
+                "Time": "Sun Aug 30 23:28:33 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.242564,
+                    35.0919545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1248869239768875009/vF2oQ_uY_normal.jpg",
+                "Name": "Steven McDonnell PGA",
+                "Handle": "stevenmcPGA",
+                "Tweet": "Then this happens - wow \ud83e\udd37\ud83c\udffc\u200d\u2642\ufe0f\u26f3\ufe0f\ud83c\udfcc\ud83c\udffc\u200d\u2642\ufe0f Yes this did just happen \u26f3\ufe0f\u26f3\ufe0f\u26f3\ufe0f\u26f3\ufe0f\u26f3\ufe0f\u26f3\ufe0f DJ - Superstar \ud83c\udfcc\ud83c\udffc\u200d\u2642\ufe0f #Pga #pgatour\u2026 https://t.co/inzpqRE2D9",
+                "TweetLink": "1300214019006107652",
+                "Place": "Dunston",
+                "Time": "Sun Aug 30 23:29:13 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.641241,
+                    54.9438585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1208454104483278848/FBv57lF1_normal.jpg",
+                "Name": "\u1d05\u1d0f\u1d04 - \u0262\u1d0f\u029f\ua730 - \u0262\u1d00\u1d00 \u0262\u1d0b - \u026a\u0280\u1d0f\u0274\u1d0d\u1d00\u0274",
+                "Handle": "GolfCentralDoc",
+                "Tweet": "Oh. My. God.That was awesome! \n#PGATOUR #Rahm https://t.co/B4U8HPHRrX",
+                "TweetLink": "1300214035380662272",
+                "Place": "Mayo",
+                "Time": "Sun Aug 30 23:29:17 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4203375,
+                    53.9092525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1058510573191733250/BnJfG8D-_normal.jpg",
+                "Name": "Joby kelly The worlds Best Club \ud83c\udf0d",
+                "Handle": "JobyKelly",
+                "Tweet": "Some finish in the golf \u26f3\ufe0f #BMWChampionship #putts #Rham #PGATOUR",
+                "TweetLink": "1300214320987594753",
+                "Place": "Galway",
+                "Time": "Sun Aug 30 23:30:25 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1065045,
+                    53.343313
+                ]
+            }
         }
     ]
 }
