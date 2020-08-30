@@ -1248,6 +1248,30 @@
                     29.417501
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/875557691774705665/yenCvo_d_normal.jpg",
+                "Name": "Matthew N. Wells",
+                "Handle": "MatthewNWells",
+                "Tweet": "Archived video of me golfing. I forget when this was. Maybe two years ago?",
+                "TweetLink": "1300130252434354176",
+                "Place": "DeKalb",
+                "Time": "Sun Aug 30 17:56:22 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.7537095,
+                    41.927807
+                ]
+            }
         }
     ]
 }
