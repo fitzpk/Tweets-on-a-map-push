@@ -552,6 +552,54 @@
                     41.275721
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1277071136996507649/1z6oS3AZ_normal.jpg",
+                "Name": "Bryn bryn\ud83c\udf38",
+                "Handle": "blroperchick",
+                "Tweet": "How did this video of me at top golf leak?",
+                "TweetLink": "1299949802893926400",
+                "Place": "Utah",
+                "Time": "Sun Aug 30 05:59:19 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.547029,
+                    39.499762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1277071136996507649/1z6oS3AZ_normal.jpg",
+                "Name": "Bryn bryn\ud83c\udf38",
+                "Handle": "blroperchick",
+                "Tweet": "\u201cWanna go to top golf\u201d \n\n\u201cUmm sure but I\u2019m really bad at it!\u201d \n\n\u201cI\u2019m sure you\u2019re not, it\u2019ll be fun\u201d\n\nMe:",
+                "TweetLink": "1299950429724266496",
+                "Place": "Utah",
+                "Time": "Sun Aug 30 06:01:49 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.547029,
+                    39.499762
+                ]
+            }
         }
     ]
 }
