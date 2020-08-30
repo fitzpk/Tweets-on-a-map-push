@@ -720,6 +720,30 @@
                     52.715233
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1296427432522715137/M-M0dAoh_normal.jpg",
+                "Name": "Lexie Dickinson",
+                "Handle": "lexied12",
+                "Tweet": "@brandon_loden15 me trying to golf with you\ud83d\ude05",
+                "TweetLink": "1300045716811907073",
+                "Place": "Mississippi",
+                "Time": "Sun Aug 30 12:20:27 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.876449,
+                    32.571032
+                ]
+            }
         }
     ]
 }
