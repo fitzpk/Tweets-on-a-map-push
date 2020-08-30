@@ -840,6 +840,30 @@
                     37.058257
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1294675100017532930/NBmCeBZN_normal.jpg",
+                "Name": "NCHS BOYS GOLF",
+                "Handle": "nchsboysgolf",
+                "Tweet": "Coach @NeubauerNCHS trying to outdrive Coach Baldwin.",
+                "TweetLink": "1300086661569818624",
+                "Place": "Illinois",
+                "Time": "Sun Aug 30 15:03:09 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2665075,
+                    39.7393005
+                ]
+            }
         }
     ]
 }
