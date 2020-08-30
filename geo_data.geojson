@@ -1128,6 +1128,54 @@
                     33.6466545
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1271250202679222272/k0E4xQDf_normal.jpg",
+                "Name": "Mr. Marcus",
+                "Handle": "Blckjack9",
+                "Tweet": "I really thought they were setting this up to show us how far he hit the ball",
+                "TweetLink": "1300119263055929346",
+                "Place": "Houston",
+                "Time": "Sun Aug 30 17:12:42 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4464865,
+                    29.838495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1295544660644028416/KmKb9a9F_normal.jpg",
+                "Name": "Brad Croft",
+                "Handle": "BradCroft",
+                "Tweet": "Sums it up!",
+                "TweetLink": "1300119551326277637",
+                "Place": "Oklahoma",
+                "Time": "Sun Aug 30 17:13:50 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.716992,
+                    35.3090465
+                ]
+            }
         }
     ]
 }
