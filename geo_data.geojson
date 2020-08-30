@@ -648,6 +648,30 @@
                     40.715262
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/557018495196876800/8OUWcZgy_normal.jpeg",
+                "Name": "Ken May",
+                "Handle": "KMPhoto1563",
+                "Tweet": "Morning Lights...\n@GolfVNGC @VNGCAgronomy @KornFerryTour @pjrturf @matts1111 #Golf #KornFerryTour #PGATOUR #sunrise\u2026 https://t.co/YfdhBJHp2q",
+                "TweetLink": "1300033802916462598",
+                "Place": "Indiana",
+                "Time": "Sun Aug 30 11:33:06 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.441236,
+                    39.7665555
+                ]
+            }
         }
     ]
 }
