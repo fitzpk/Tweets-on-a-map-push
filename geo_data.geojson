@@ -1320,6 +1320,30 @@
                     53.807782
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000737737143/dba66ac9beb2b0217df5e74016c8cd9c_normal.jpeg",
+                "Name": "Scott Yeager",
+                "Handle": "Scott_Yeager",
+                "Tweet": "Play it where it lies.",
+                "TweetLink": "1300143355540668420",
+                "Place": "Indian Springs Village",
+                "Time": "Sun Aug 30 18:48:26 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.743778,
+                    33.3603145
+                ]
+            }
         }
     ]
 }
