@@ -816,6 +816,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1084535849570787333/ZFjfK-ia_normal.jpg",
+                "Name": "Mark Howells",
+                "Handle": "MarkHowells6",
+                "Tweet": "@tommy_beveridge @stuart63514406 oh bill \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\u26f3\ufe0f\u26f3\ufe0f\u26f3\ufe0f",
+                "TweetLink": "1300084043254566914",
+                "Place": "Bodrum",
+                "Time": "Sun Aug 30 14:52:44 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.363989,
+                    37.058257
+                ]
+            }
         }
     ]
 }
