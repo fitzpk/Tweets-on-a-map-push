@@ -600,6 +600,30 @@
                     39.499762
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1271906971403333635/3bL_gPVC_normal.jpg",
+                "Name": "Andy",
+                "Handle": "Andyscottiv",
+                "Tweet": "\u201cNext up, Gilmour Happy....\u201d",
+                "TweetLink": "1299984593186107392",
+                "Place": "Ayr",
+                "Time": "Sun Aug 30 08:17:34 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.6249165,
+                    55.466068
+                ]
+            }
         }
     ]
 }
