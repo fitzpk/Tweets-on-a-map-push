@@ -864,6 +864,30 @@
                     39.7393005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1184623825083719680/SGQ4bGF6_normal.jpg",
+                "Name": "Ty Ellis",
+                "Handle": "CoachTyEllis",
+                "Tweet": "Been there...",
+                "TweetLink": "1300089179733450752",
+                "Place": "California",
+                "Time": "Sun Aug 30 15:13:09 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3066075,
+                    37.2691755
+                ]
+            }
         }
     ]
 }
