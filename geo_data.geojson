@@ -1032,6 +1032,30 @@
                     49.111519
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/746502594399346689/qd6Smmio_normal.jpg",
+                "Name": "WILLHANS ILI",
+                "Handle": "willhansili",
+                "Tweet": "Don\u2019t worry kiddo I did that a couple weeks ago and will probably do it again soon \ud83d\ude0e",
+                "TweetLink": "1300110168089227264",
+                "Place": "South El Monte",
+                "Time": "Sun Aug 30 16:36:33 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.048242,
+                    34.046252
+                ]
+            }
         }
     ]
 }
