@@ -264,6 +264,30 @@
                     42.818917
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1278439509156380674/R6xEngiT_normal.jpg",
+                "Name": "Adam Wooldridge",
+                "Handle": "WoolyGoalie",
+                "Tweet": "Hey Jabroni, you know this would for sure be either Auston or Sid and I hope that we get it on camera.\u2026 https://t.co/aIcsNyUrcS",
+                "TweetLink": "1299877359538053120",
+                "Place": "Kawartha Lakes",
+                "Time": "Sun Aug 30 01:11:27 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.817061,
+                    44.5222745
+                ]
+            }
         }
     ]
 }
