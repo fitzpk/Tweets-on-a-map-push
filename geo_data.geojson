@@ -2160,6 +2160,30 @@
                     41.499327
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1101256261373325312/RXv-YDoY_normal.jpg",
+                "Name": "John Wayne Hebel",
+                "Handle": "JohnWayneHebel",
+                "Tweet": "DJ makes a great putt on 18. Then just got a lucky bounce #PGATOUR",
+                "TweetLink": "1300211635244548096",
+                "Place": "Boise",
+                "Time": "Sun Aug 30 23:19:45 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.238001,
+                    43.598033
+                ]
+            }
         }
     ]
 }
