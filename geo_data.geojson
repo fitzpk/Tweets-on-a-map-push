@@ -2712,6 +2712,78 @@
                     53.343313
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1236061823394291715/dvO13A7C_normal.jpg",
+                "Name": "Dan Robinson",
+                "Handle": "Racerdan",
+                "Tweet": "What a finish at the @PGATOUR @BMWchamps between @JonRahmpga and @DJohnsonPGA! Honorable mention to @MacHughesGolf\u2026 https://t.co/JrdGyLClZj",
+                "TweetLink": "1300214960476356608",
+                "Place": "Missouri",
+                "Time": "Sun Aug 30 23:32:58 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.4367735,
+                    38.3045585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226146456341487616/ZAmIZaZl_normal.jpg",
+                "Name": "Barry Glancy",
+                "Handle": "GlancyBarry",
+                "Tweet": "Holy Sh1t #PGATOUR #PGAChampionship #BMWChampionship #FedExCup https://t.co/4mOdylIVq5",
+                "TweetLink": "1300215059805810694",
+                "Place": "Frankfort",
+                "Time": "Sun Aug 30 23:33:21 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.848928,
+                    41.499327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1283745021242548225/fgrMGoyY_normal.jpg",
+                "Name": "Simon McBride",
+                "Handle": "SimonFMcBride",
+                "Tweet": "What. A. Putt. #jonrahm #golf #PGATOUR",
+                "TweetLink": "1300215415277314048",
+                "Place": "Marple",
+                "Time": "Sun Aug 30 23:34:46 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0706835,
+                    53.393049
+                ]
+            }
         }
     ]
 }
