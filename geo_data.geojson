@@ -120,6 +120,54 @@
                     35.1704985
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1199905575166980097/YMPW9l9l_normal.jpg",
+                "Name": "NightHawk",
+                "Handle": "CurtisFalcon",
+                "Tweet": "I see they found footage of me on the Par 5 on 16 at Barrhead Golf Club.",
+                "TweetLink": "1299868916303290369",
+                "Place": "Edmonton",
+                "Time": "Sun Aug 30 00:37:54 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.4926175,
+                    53.5558195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1182814619800428545/DnFFoihn_normal.jpg",
+                "Name": "Fun Times Gaming\u00a9\ufe0f",
+                "Handle": "FunTimesGC",
+                "Tweet": "Frost showed some flashes of greatness on the green in his debut. Only a matter of time until your every day,\u2026 https://t.co/cy29i6BEMQ",
+                "TweetLink": "1299869174622072833",
+                "Place": "Phoenix",
+                "Time": "Sun Aug 30 00:38:56 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.1246765,
+                    33.5528625
+                ]
+            }
         }
     ]
 }
