@@ -528,6 +528,30 @@
                     43.0606215
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976926025316581376/KtPaVMLA_normal.jpg",
+                "Name": "Adam Freeman, DC, CCSP\u00ae",
+                "Handle": "NEsportsdoc",
+                "Tweet": "This only happens when you're 3, 83, or 3 sheets. \ud83d\ude06",
+                "TweetLink": "1299936043966365697",
+                "Place": "Omaha",
+                "Time": "Sun Aug 30 05:04:39 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.053431,
+                    41.275721
+                ]
+            }
         }
     ]
 }
