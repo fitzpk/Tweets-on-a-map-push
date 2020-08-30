@@ -696,6 +696,30 @@
                     53.9662065
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1286635491111178246/htPoMBcM_normal.jpg",
+                "Name": "Kevin Bland",
+                "Handle": "kevbland",
+                "Tweet": "This should be everyone's approach to every sport",
+                "TweetLink": "1300040238799245312",
+                "Place": "Shrewsbury",
+                "Time": "Sun Aug 30 11:58:41 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7621095,
+                    52.715233
+                ]
+            }
         }
     ]
 }
