@@ -432,6 +432,30 @@
                     35.6565515
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1228774808/161106_665913012_1274365_n_normal.jpg",
+                "Name": "Kent Erickson",
+                "Handle": "tek2541",
+                "Tweet": "Evening positive vibe...",
+                "TweetLink": "1299917161515888640",
+                "Place": "Wainwright No. 61",
+                "Time": "Sun Aug 30 03:49:37 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.7180745,
+                    52.833704
+                ]
+            }
         }
     ]
 }
