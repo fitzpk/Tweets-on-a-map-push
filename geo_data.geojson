@@ -1488,6 +1488,30 @@
                     52.696337
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/328443765/Feas3_normal.jpg",
+                "Name": "John Feasel",
+                "Handle": "CoachFeasel",
+                "Tweet": "@gbramosjr @Feazgod george this is duck after I hit a good drive!!",
+                "TweetLink": "1300179795893014535",
+                "Place": "Lewis Center",
+                "Time": "Sun Aug 30 21:13:14 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.9974245,
+                    40.2023965
+                ]
+            }
         }
     ]
 }
