@@ -408,6 +408,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/497119276688347136/zgv8whUQ_normal.jpeg",
+                "Name": "Scott Hood",
+                "Handle": "ScottHood63",
+                "Tweet": "That time I decided it would be a good thing to play in Steve Spurrier's annual golf outing in late July. It wasn't.",
+                "TweetLink": "1299911054311399426",
+                "Place": "Santa Fe",
+                "Time": "Sun Aug 30 03:25:21 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.9991065,
+                    35.6565515
+                ]
+            }
         }
     ]
 }
