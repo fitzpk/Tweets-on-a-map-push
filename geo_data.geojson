@@ -480,6 +480,30 @@
                     37.822244
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1287534079290703872/RavNjmKG_normal.jpg",
+                "Name": "Lauren \u270c\ud83c\udffd",
+                "Handle": "Lauren_lovvee",
+                "Tweet": "Goals \ud83d\ude02\ud83d\ude0d\u2764\ufe0f",
+                "TweetLink": "1299930363838394368",
+                "Place": "Albuquerque",
+                "Time": "Sun Aug 30 04:42:04 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.632718,
+                    35.1170025
+                ]
+            }
         }
     ]
 }
