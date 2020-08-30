@@ -1080,6 +1080,54 @@
                     35.1170025
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1260913634303074304/LamtF3Ca_normal.jpg",
+                "Name": "guillermo",
+                "Handle": "ohhGMO",
+                "Tweet": "Grand slam",
+                "TweetLink": "1300115475913826307",
+                "Place": "Los Angeles",
+                "Time": "Sun Aug 30 16:57:39 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1190759515446226944/5o2nR3wy_normal.jpg",
+                "Name": "Kingston  Johnson",
+                "Handle": "CoachKJ15",
+                "Tweet": "Live look at me on the first hole of the day",
+                "TweetLink": "1300115541571502083",
+                "Place": "Surprise",
+                "Time": "Sun Aug 30 16:57:54 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.379447,
+                    33.6466545
+                ]
+            }
         }
     ]
 }
