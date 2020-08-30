@@ -768,6 +768,30 @@
                     36.512493
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3529307672/883cdc81ff1838eee20362fab6156e33_normal.jpeg",
+                "Name": "David Horton",
+                "Handle": "dave38857",
+                "Tweet": "Bless it!  #keepswinging",
+                "TweetLink": "1300075029481299968",
+                "Place": "Mississippi",
+                "Time": "Sun Aug 30 14:16:55 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.876449,
+                    32.571032
+                ]
+            }
         }
     ]
 }
