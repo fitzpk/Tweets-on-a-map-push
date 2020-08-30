@@ -1536,6 +1536,30 @@
                     32.364145
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1124363122465071105/95N7JJ-8_normal.jpg",
+                "Name": "Steven J Buzza",
+                "Handle": "SteveBuzzaGolf",
+                "Tweet": "Rahm yesterday after penalty for picking up his ball without marking it: \u201cI just hope I don\u2019t lose by one\u201d\n\nCurrent\u2026 https://t.co/F4OhrIhoJ9",
+                "TweetLink": "1300189829444055046",
+                "Place": "Bonita Springs",
+                "Time": "Sun Aug 30 21:53:06 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.8077615,
+                    26.3613605
+                ]
+            }
         }
     ]
 }
