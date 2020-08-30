@@ -1008,6 +1008,30 @@
                     32.58263
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1298060649965056000/1EHmRivH_normal.jpg",
+                "Name": "Hardev Virk",
+                "Handle": "Darkman66",
+                "Tweet": "Nice.  Swing and and miss.  But get up and try it again !!",
+                "TweetLink": "1300108377964425216",
+                "Place": "Surrey",
+                "Time": "Sun Aug 30 16:29:26 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.818486,
+                    49.111519
+                ]
+            }
         }
     ]
 }
