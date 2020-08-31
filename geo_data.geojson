@@ -2952,6 +2952,54 @@
                     30.1376745
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1241837656985624577/y_oVvCoF_normal.jpg",
+                "Name": "Troy Klongerbo",
+                "Handle": "troyklongerbo",
+                "Tweet": "Those Vinings! \ud83d\ude02",
+                "TweetLink": "1300239300764762112",
+                "Place": "Sioux Falls",
+                "Time": "Mon Aug 31 01:09:41 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7311425,
+                    43.5410145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/454104141397106688/dF0ddAIx_normal.jpeg",
+                "Name": "Craig Shand",
+                "Handle": "chinookag",
+                "Tweet": "Totally reminds me of someone I know on the tee box....wait a minute it's me!!!  \ud83d\ude02",
+                "TweetLink": "1300240020133957633",
+                "Place": "Mountain View County",
+                "Time": "Mon Aug 31 01:12:32 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.318005,
+                    51.6928565
+                ]
+            }
         }
     ]
 }
