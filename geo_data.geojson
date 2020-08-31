@@ -3024,6 +3024,30 @@
                     35.935017
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1299884429947678720/4D02klSL_normal.jpg",
+                "Name": "No Justice No Peace",
+                "Handle": "tjzmommy",
+                "Tweet": "@GmanTheHeMan74 - me golfing",
+                "TweetLink": "1300280044200304640",
+                "Place": "Richmond Hill",
+                "Time": "Mon Aug 31 03:51:35 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.4283755,
+                    43.903509
+                ]
+            }
         }
     ]
 }
