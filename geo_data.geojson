@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2816581121/8a4d2b87343346fc2659f67c0e3dfb59_normal.jpeg",
-                "Name": "Jason Tryfon",
-                "Handle": "jasontryfon",
-                "Tweet": "Basically 2020 in a nutshell for me!\n\nBut what conviction and what a swing!! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
-                "TweetLink": "1299893353312649222",
-                "Place": "Oakville",
-                "Time": "Sun Aug 30 02:15:00 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.645081,
-                    43.4181905
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1261330095907786752/D8H3fHSz_normal.jpg",
-                "Name": "Marc MacLean",
-                "Handle": "whomp7",
-                "Tweet": "Going for the big send! \ud83e\udd23",
-                "TweetLink": "1299893752409067520",
-                "Place": "Florida",
-                "Time": "Sun Aug 30 02:16:36 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.804475,
-                    27.698682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/557018495196876800/8OUWcZgy_normal.jpeg",
                 "Name": "Ken May",
                 "Handle": "KMPhoto1563",
