@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1288781924937457664/H4SugHcZ_normal.jpg",
-                "Name": "Shane",
-                "Handle": "ShaneRojek",
-                "Tweet": "@ariana43093 I\u2019m dying",
-                "TweetLink": "1299875016931192832",
-                "Place": "Lackawanna",
-                "Time": "Sun Aug 30 01:02:09 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -78.8329015,
-                    42.818917
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1278439509156380674/R6xEngiT_normal.jpg",
                 "Name": "Adam Wooldridge",
                 "Handle": "WoolyGoalie",
