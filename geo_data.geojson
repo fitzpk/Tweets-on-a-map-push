@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1182500119528312834/bfmG8TyL_normal.jpg",
-                "Name": "Cam",
-                "Handle": "CameronAnguiano",
-                "Tweet": "Little man down!! \ud83d\ude02",
-                "TweetLink": "1299866516905758721",
-                "Place": "Muncie",
-                "Time": "Sun Aug 30 00:28:22 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.39135,
-                    40.1972405
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1207880229521223680/U-o0OIDs_normal.jpg",
                 "Name": "Kyle Schass",
                 "Handle": "KyleSchass",
