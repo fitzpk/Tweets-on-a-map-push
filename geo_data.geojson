@@ -2808,6 +2808,30 @@
                     43.903509
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1221829996869640192/7vld414Z_normal.jpg",
+                "Name": "OCPGI",
+                "Handle": "ocpgi",
+                "Tweet": "That sound!!! \ud83d\udd0a\ud83d\udd0a\ud83d\udd0a\n@joaconiemann sending\ud83d\udca3\ud83e\udde8\ud83d\udca3\ud83e\udde8 and frisbees\ud83e\udd4f\ud83d\ude09 @OFCCClubhouse \n#strong \ud83d\udcaa\ud83c\udffc and #fast \ud83e\udde0 \nboth sides!\n.\n.\u2026 https://t.co/0wFSCM3Ac4",
+                "TweetLink": "1300297031592955904",
+                "Place": "Newport Beach",
+                "Time": "Mon Aug 31 04:59:05 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.874032,
+                    33.617638
+                ]
+            }
         }
     ]
 }
