@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/557018495196876800/8OUWcZgy_normal.jpeg",
-                "Name": "Ken May",
-                "Handle": "KMPhoto1563",
-                "Tweet": "Tools of the trade...@pjrturf \nEnsuring @GolfVNGC is ready for final round of @KornFerryTour . \n#PGATOUR #Golf\u2026 https://t.co/nBntJEwBqn",
-                "TweetLink": "1299896232303882241",
-                "Place": "Paradise",
-                "Time": "Sun Aug 30 02:26:27 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.3839735,
-                    37.9946385
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
-                "Name": "Korean Golf News",
-                "Handle": "KoreanGolfNews",
-                "Tweet": "pgatour fedex playoffs protected standings for playofffinale One round to go bmwchamps @OFCCClubhouse \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8\u2026 https://t.co/dolUxC4KRY",
-                "TweetLink": "1299896562496212995",
-                "Place": "Pennsylvania",
-                "Time": "Sun Aug 30 02:27:46 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.604684,
-                    41.1179365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/497119276688347136/zgv8whUQ_normal.jpeg",
                 "Name": "Scott Hood",
                 "Handle": "ScottHood63",
