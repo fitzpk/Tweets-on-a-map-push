@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1297740359154520065/nZvsovbA_normal.jpg",
-                "Name": "Kamree Jo",
-                "Handle": "kamree_jo",
-                "Tweet": "How I imagine things go for @WillyCrabill when he golfs",
-                "TweetLink": "1299859146326638592",
-                "Place": "Kansas",
-                "Time": "Sat Aug 29 23:59:05 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.319925,
-                    38.498196
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1233025537276366848/9j1AfO-h_normal.jpg",
                 "Name": "Simon Andrews",
                 "Handle": "simontandrews",
