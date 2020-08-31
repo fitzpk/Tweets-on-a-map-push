@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1207880229521223680/U-o0OIDs_normal.jpg",
-                "Name": "Kyle Schass",
-                "Handle": "KyleSchass",
-                "Tweet": "Amazing.",
-                "TweetLink": "1299868368149852160",
-                "Place": "North Carolina",
-                "Time": "Sun Aug 30 00:35:44 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.861034,
-                    35.1704985
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1199905575166980097/YMPW9l9l_normal.jpg",
                 "Name": "NightHawk",
                 "Handle": "CurtisFalcon",
