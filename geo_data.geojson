@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1266565967628427265/fJ3L-mKb_normal.jpg",
-                "Name": "Tyler Pickle",
-                "Handle": "Pick18TheSequel",
-                "Tweet": "actual footage of @benwolfson3",
-                "TweetLink": "1299884091526057984",
-                "Place": "West Hartford",
-                "Time": "Sun Aug 30 01:38:12 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -72.7502315,
-                    41.762317
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2816581121/8a4d2b87343346fc2659f67c0e3dfb59_normal.jpeg",
                 "Name": "Jason Tryfon",
                 "Handle": "jasontryfon",
