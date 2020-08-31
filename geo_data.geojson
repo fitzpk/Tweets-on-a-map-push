@@ -3000,6 +3000,30 @@
                     51.6928565
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1179372320860884996/8tR4ZiFS_normal.jpg",
+                "Name": "CU Golf",
+                "Handle": "Cumberland_golf",
+                "Tweet": "Thanks Scott Wilkerson @USTMamiya for helping the team out today! You\u2019re the best in the business. #letsfly #riseup\u2026 https://t.co/0iHPqUx6Yo",
+                "TweetLink": "1300241162771496960",
+                "Place": "Franklin",
+                "Time": "Mon Aug 31 01:17:05 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8511765,
+                    35.935017
+                ]
+            }
         }
     ]
 }
