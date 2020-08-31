@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/792234036546514944/fq2EnlYy_normal.jpg",
-                "Name": "Paul A. York",
-                "Handle": "paulyork",
-                "Tweet": "This me on the 18th tee hitting my drive to the next County!",
-                "TweetLink": "1299863739613806592",
-                "Place": "St Peters",
-                "Time": "Sun Aug 30 00:17:20 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.6006005,
-                    38.7578375
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1182500119528312834/bfmG8TyL_normal.jpg",
                 "Name": "Cam",
                 "Handle": "CameronAnguiano",
