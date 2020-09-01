@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/770476058852388865/qLSqE_uF_normal.jpg",
-                "Name": "Luke22",
-                "Handle": "PaulLuchau",
-                "Tweet": "@GolfChannel - 53 of 53 inside 5 feet for DJ!  Who does that?  On cement greens no less?  #BMWChampionship #PGATOUR",
-                "TweetLink": "1300204838764994560",
-                "Place": "Denver",
-                "Time": "Sun Aug 30 22:52:44 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.9220935,
-                    39.713563
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1268891090633076739/pNW79g6X_normal.jpg",
                 "Name": "Xander \ud83d\udca1",
                 "Handle": "XanderMumbles",
