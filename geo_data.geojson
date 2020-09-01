@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1300065994984091649/ftyuZ0Wk_normal.jpg",
-                "Name": "Rylee Grudzien",
-                "Handle": "GrudzienRylee",
-                "Tweet": "This is so great for so many reasons.",
-                "TweetLink": "1300223248127471618",
-                "Place": "Prien",
-                "Time": "Mon Aug 31 00:05:53 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.248186,
-                    30.1376745
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1241837656985624577/y_oVvCoF_normal.jpg",
                 "Name": "Troy Klongerbo",
                 "Handle": "troyklongerbo",
