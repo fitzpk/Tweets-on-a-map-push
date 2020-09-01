@@ -7,30 +7,6 @@
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1226146456341487616/ZAmIZaZl_normal.jpg",
                 "Name": "Barry Glancy",
                 "Handle": "GlancyBarry",
-                "Tweet": "Money Money #PGATOUR #FedExCup #BMWChampionship https://t.co/uGXA2xhp9t",
-                "TweetLink": "1300209469079597057",
-                "Place": "Frankfort",
-                "Time": "Sun Aug 30 23:11:08 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.848928,
-                    41.499327
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1226146456341487616/ZAmIZaZl_normal.jpg",
-                "Name": "Barry Glancy",
-                "Handle": "GlancyBarry",
                 "Tweet": "DJ is money.  Flush.  1 v 2.\n#PGATOUR #BMWChampionship #FedExCup https://t.co/RSSiFyzx30",
                 "TweetLink": "1300210357957472258",
                 "Place": "Frankfort",
