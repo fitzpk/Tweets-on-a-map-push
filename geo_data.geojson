@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1299015956967108610/RxXbkvtZ_normal.jpg",
-                "Name": "Jake Gremillion",
-                "Handle": "SCARENCRO",
-                "Tweet": "@PGATOUR2K Will a 69-footer do??? More of that over on https://t.co/ek0BnMhyVc \ud83c\udfcc\ud83c\udffb#PGATOUR #PGATOUR2K21 https://t.co/ZfoOOiNk3Q",
-                "TweetLink": "1300219703944765440",
-                "Place": "Louisiana",
-                "Time": "Sun Aug 30 23:51:48 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -91.4010085,
-                    30.937336
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1300065994984091649/ftyuZ0Wk_normal.jpg",
                 "Name": "Rylee Grudzien",
                 "Handle": "GrudzienRylee",
