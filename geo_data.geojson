@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/514451579857281024/ZvKbppbH_normal.jpeg",
-                "Name": "Adrian Rietveld",
-                "Handle": "Adrianrietveld",
-                "Tweet": "@JonRahmpga during Tuesday\u2019s practice round! #bmwchampionship #playoffs #pgatour @ Olympia Fields Country Club https://t.co/Up7B55I4Ju",
-                "TweetLink": "1300218110935478274",
-                "Place": "Olympia Fields",
-                "Time": "Sun Aug 30 23:45:29 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.689699,
-                    41.516021
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1182814619800428545/DnFFoihn_normal.jpg",
-                "Name": "Fun Times Gaming\u00a9\ufe0f",
-                "Handle": "FunTimesGC",
-                "Tweet": "Fun Times Golfing\u203c\ufe0f\ud83c\udfcc\ufe0f\u26f3\ufe0f\n\nThe event deadline is winding down...\n\nWill @ShamrockScam secure his first win on the gree\u2026 https://t.co/ZeC9DhjkWK",
-                "TweetLink": "1300218871849332738",
-                "Place": "Phoenix",
-                "Time": "Sun Aug 30 23:48:30 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -112.1246765,
-                    33.5528625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1299015956967108610/RxXbkvtZ_normal.jpg",
                 "Name": "Jake Gremillion",
                 "Handle": "SCARENCRO",
