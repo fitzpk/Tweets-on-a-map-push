@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1286139015461298176/Rmgv4DBo_normal.jpg",
-                "Name": "Sara Ann Davis",
-                "Handle": "SADavis_89",
-                "Tweet": "COME ON DJ!!! #BMWChampionship #PGATOUR @DJohnsonPGA @PGATOUR",
-                "TweetLink": "1300203016029704192",
-                "Place": "Chattanooga",
-                "Time": "Sun Aug 30 22:45:30 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.242564,
-                    35.0919545
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/770476058852388865/qLSqE_uF_normal.jpg",
                 "Name": "Luke22",
                 "Handle": "PaulLuchau",
