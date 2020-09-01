@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/707960694331736064/aP7zHax8_normal.jpg",
-                "Name": "Markdagodfather \u26f3",
-                "Handle": "markdagodfather",
-                "Tweet": "Can't remember a high stake playoff with 2 of the top rated golfers ever...this was the finish of the century #PGATOUR",
-                "TweetLink": "1300217044865081345",
-                "Place": "Georgia",
-                "Time": "Sun Aug 30 23:41:15 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.1738665,
-                    32.6782075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1086302372152987648/3jRxHRSh_normal.jpg",
-                "Name": "Caroline Blair",
-                "Handle": "CarolineBNews",
-                "Tweet": "If you weren't watching @PGATOUR #golf tonight YOU MISSED OUT. My GOSH that was some of the best putting I've ever\u2026 https://t.co/8vkoySv7k0",
-                "TweetLink": "1300217410406973440",
-                "Place": "North Carolina",
-                "Time": "Sun Aug 30 23:42:42 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.861034,
-                    35.1704985
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/514451579857281024/ZvKbppbH_normal.jpeg",
                 "Name": "Adrian Rietveld",
                 "Handle": "Adrianrietveld",
