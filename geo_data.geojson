@@ -96,6 +96,30 @@
                     36.461186
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1299761027932762112/CuB-HNUi_normal.jpg",
+                "Name": "Javy",
+                "Handle": "Javyfit",
+                "Tweet": "Screw #pga championship projections... I want rory's dr's projections of the baby being born during the tournament\u2026 https://t.co/QK6AZ7Ewyc",
+                "TweetLink": "1301225342628016128",
+                "Place": "Solvang",
+                "Time": "Wed Sep 02 18:27:51 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.138004,
+                    34.595854
+                ]
+            }
         }
     ]
 }
