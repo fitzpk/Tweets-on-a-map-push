@@ -48,6 +48,30 @@
                     32.319115
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1105653936063549440/C1gjF_b6_normal.png",
+                "Name": "Dr. Stuart Love",
+                "Handle": "theHealthyGolfr",
+                "Tweet": "Marking \ud83d\udcdd my 2020-21 #PGATOUR travel calendar \ud83d\udcc6",
+                "TweetLink": "1301212514177495043",
+                "Place": "Langford",
+                "Time": "Wed Sep 02 17:36:53 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.5213815,
+                    48.45597
+                ]
+            }
         }
     ]
 }
