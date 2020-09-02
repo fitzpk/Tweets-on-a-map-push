@@ -24,6 +24,30 @@
                     32.319115
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1224400788568625153/KS1bY8Ga_normal.jpg",
+                "Name": "Hon Michael H. Dunkley JP, MP",
+                "Handle": "BDAMilkman",
+                "Tweet": "This is good news!",
+                "TweetLink": "1300955598335475712",
+                "Place": "Bermuda",
+                "Time": "Wed Sep 02 00:35:59 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.76731,
+                    32.319115
+                ]
+            }
         }
     ]
 }
