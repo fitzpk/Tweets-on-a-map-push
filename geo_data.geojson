@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1299780553659613191/fk1Nq2sy_normal.jpg",
-                "Name": "BrewNymph\u00ae Run.Golf.Beer.\u2122",
-                "Handle": "BrewNymph",
-                "Tweet": "Very cool! \u26f3 #PayneStewartAward \u26f3 Congrats @ZachJohnsonPGA \ud83d\udc4f Very much needed right now and so heartwarming \ud83d\udc4d\ud83c\udfcc\ufe0f\u2026 https://t.co/ZHHNVaWGtD",
-                "TweetLink": "1301295908550828033",
-                "Place": "Florida",
-                "Time": "Wed Sep 02 23:08:16 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.804475,
-                    27.698682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1138994117537607680/MjSyx9wl_normal.jpg",
                 "Name": "Vikki V. Vanderpool",
                 "Handle": "vvanderpool",
