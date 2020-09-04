@@ -48,6 +48,30 @@
                     51.6118845
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1033448535461687296/poxJa2Ar_normal.jpg",
+                "Name": "John SuperTramp",
+                "Handle": "TronCat__209",
+                "Tweet": "Stoked for my new golf shoes , bout to break em in , in a bout 20 minutes lol\n\u26f3\n\u26f3\n\u26f3\n#golfing #golf #golfer\u2026 https://t.co/HrgKxdZ0Yp",
+                "TweetLink": "1302000920218218498",
+                "Place": "Erie",
+                "Time": "Fri Sep 04 21:49:44 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.087032,
+                    42.110703
+                ]
+            }
         }
     ]
 }
