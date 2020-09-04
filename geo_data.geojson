@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1138994117537607680/MjSyx9wl_normal.jpg",
-                "Name": "Vikki V. Vanderpool",
-                "Handle": "vvanderpool",
-                "Tweet": "Everyone take a look at this! This is @PGATOUR player @marcleish and his wife Audreys charity. They are incredibly\u2026 https://t.co/o5BTf3Kgf5",
-                "TweetLink": "1301604736303591427",
-                "Place": "Virginia Beach",
-                "Time": "Thu Sep 03 19:35:26 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.069946,
-                    36.8025415
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1232365025425346561/7vQ4zY-c_normal.jpg",
                 "Name": "Nikhil Saglani",
                 "Handle": "NikhilSaglani",
