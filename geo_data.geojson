@@ -24,6 +24,30 @@
                     36.8025415
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1232365025425346561/7vQ4zY-c_normal.jpg",
+                "Name": "Nikhil Saglani",
+                "Handle": "NikhilSaglani",
+                "Tweet": "This round between @JonRahmpga and @DJohnsonPGA is like the title race between #MCFC &amp; #LFC in 2018/19, one raises\u2026 https://t.co/97wBc2OQX0",
+                "TweetLink": "1301995930049183747",
+                "Place": "Barnet",
+                "Time": "Fri Sep 04 21:29:54 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2108945,
+                    51.6118845
+                ]
+            }
         }
     ]
 }
