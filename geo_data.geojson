@@ -96,6 +96,30 @@
                     29.838495
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
+                "Name": "The Fit Golfer Girl",
+                "Handle": "fitgolfergirl",
+                "Tweet": "Who is your pick for the weekend!\nI\u2019m going with DJ (Duh) but need a couple hedge bets! Suggestions?\n\nCome play wit\u2026 https://t.co/m2AGp1j0sd",
+                "TweetLink": "1302072630665674752",
+                "Place": "Ocean Ridge",
+                "Time": "Sat Sep 05 02:34:41 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0494095,
+                    26.527285
+                ]
+            }
         }
     ]
 }
