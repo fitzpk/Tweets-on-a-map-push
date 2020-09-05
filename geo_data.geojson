@@ -120,6 +120,30 @@
                     26.527285
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/935527702378852352/hAjELu0W_normal.jpg",
+                "Name": "Kris Strauss",
+                "Handle": "krisstrauss",
+                "Tweet": "Exited for the Tour Champ this weekend but next week the @PGATOUR comes to @Troon Turf for the @SafewayOpen at\u2026 https://t.co/JoHkEcHfy5",
+                "TweetLink": "1302273234063163393",
+                "Place": "Arizona",
+                "Time": "Sat Sep 05 15:51:48 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.931711,
+                    34.1682535
+                ]
+            }
         }
     ]
 }
