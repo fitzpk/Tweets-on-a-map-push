@@ -72,6 +72,30 @@
                     33.7671945
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1120582696680345601/lCjli1uc_normal.jpg",
+                "Name": "Joel",
+                "Handle": "_J0EL_",
+                "Tweet": "Dustin Johnson just in another stratosphere at present. When he finds form he usually holds it and his past fortnig\u2026 https://t.co/ftZRoivgyr",
+                "TweetLink": "1302716830406995969",
+                "Place": "Sydney",
+                "Time": "Sun Sep 06 21:14:30 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.931975,
+                    -33.848244
+                ]
+            }
         }
     ]
 }
