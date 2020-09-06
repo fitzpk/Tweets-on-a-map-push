@@ -96,6 +96,30 @@
                     -33.848244
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/893674291245588480/8hJTrbF4_normal.jpg",
+                "Name": "Garrett McInerney",
+                "Handle": "G87Mac",
+                "Tweet": "Azinger rarely if ever says anything insightful #PGATour",
+                "TweetLink": "1302722213326589952",
+                "Place": "Bracebridge",
+                "Time": "Sun Sep 06 21:35:53 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.189872,
+                    45.047623
+                ]
+            }
         }
     ]
 }
