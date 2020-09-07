@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
-                "Name": "Will O'Donoghue",
-                "Handle": "Will_ODonoghue",
-                "Tweet": "Hole locations for today\u2019s 3rd Round of the @PlayoffFinale at @EastLakeGC. #TourChampionship #PGATour #EuropeanTour\u2026 https://t.co/DGBizJWhCS",
-                "TweetLink": "1302689040928473088",
-                "Place": "Atlanta",
-                "Time": "Sun Sep 06 19:24:04 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -84.433106,
-                    33.7671945
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1144764350730608640/eCKnmp5v_normal.jpg",
                 "Name": "Raul Marquez Hdz.",
                 "Handle": "raulmarquezlv",
