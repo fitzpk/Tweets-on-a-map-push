@@ -72,6 +72,30 @@
                     26.3613605
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "The 2019/2020 pgatour season has just finished and a new one starts this week (1st of 50) safewayopen Tom's regular\u2026 https://t.co/RC4NOlFwBb",
+                "TweetLink": "1303136146092888064",
+                "Place": "California",
+                "Time": "Tue Sep 08 01:00:42 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3066075,
+                    37.2691755
+                ]
+            }
         }
     ]
 }
