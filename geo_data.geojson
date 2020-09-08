@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1144764350730608640/eCKnmp5v_normal.jpg",
-                "Name": "Raul Marquez Hdz.",
-                "Handle": "raulmarquezlv",
-                "Tweet": "SEPTEMBER 2020 THE greatest sports month in history . #NHL #NBA\u00a0 #MLB #NFL #NCAAF #MLS #EPL #LALIGA #LIGUE1 #UFC\u2026 https://t.co/NWC03fDRH9",
-                "TweetLink": "1302706491208511488",
-                "Place": "Enterprise",
-                "Time": "Sun Sep 06 20:33:25 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.2344355,
-                    36.0188045
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1045256960763924481/jKWIrgwp_normal.jpg",
-                "Name": "PRG Golf",
-                "Handle": "PRG_Golf",
-                "Tweet": "This year, the Tour Championship @playofffinale will be celebrating the 20th playing of the event at @eastlakegc in\u2026 https://t.co/7rKps2GWAD",
-                "TweetLink": "1302706888010805249",
-                "Place": "Atlanta",
-                "Time": "Sun Sep 06 20:34:59 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -84.433106,
-                    33.7671945
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1120582696680345601/lCjli1uc_normal.jpg",
                 "Name": "Joel",
                 "Handle": "_J0EL_",
