@@ -24,6 +24,30 @@
                     38.3506095
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/920780235561246720/-zFCiME__normal.jpg",
+                "Name": "Brian Young PLLC REALTOR\u00ae\ufe0f",
+                "Handle": "linkshomesearch",
+                "Tweet": "Hey...@stewartcink  @SteveSandsGC and I could have told you - It\u2019s AWLAYS #TheBunkersFault   \ud83e\udd23 #PGATOUR\u2026 https://t.co/DGBc50bZOS",
+                "TweetLink": "1304910458025992192",
+                "Place": "Arizona",
+                "Time": "Sat Sep 12 22:31:11 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.931711,
+                    34.1682535
+                ]
+            }
         }
     ]
 }
