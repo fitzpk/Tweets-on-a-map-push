@@ -96,6 +96,30 @@
                     38.2970715
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1299344164891443200/Hh0Ns7fr_normal.jpg",
+                "Name": "\ud83c\udde6\ud83c\uddfaKez Sparks\ud83c\udde8\ud83c\udde6",
+                "Handle": "kez_sparks",
+                "Tweet": "@PGATOUR @cameronpercy1 Let\u2019s go get it #Percy we\u2019re all with ya mate #SideBySide #pgatour \ud83c\udde6\ud83c\uddfa\ud83d\udcaa",
+                "TweetLink": "1305122029201485824",
+                "Place": "Mississauga",
+                "Time": "Sun Sep 13 12:31:54 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.616073,
+                    43.555244
+                ]
+            }
         }
     ]
 }
