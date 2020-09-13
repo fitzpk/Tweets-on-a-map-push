@@ -48,6 +48,30 @@
                     34.1682535
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/847530744318631936/kKIOEDb5_normal.jpg",
+                "Name": "Kevin Sprecher",
+                "Handle": "KevinSprecher",
+                "Tweet": "Has fun playing with @jazzjanewattananond  and his coach, and my friend @terryrowles at @sleepyhollowcountryclub th\u2026 https://t.co/9qwNB4OeIg",
+                "TweetLink": "1304947246060929024",
+                "Place": "Briarcliff Manor",
+                "Time": "Sun Sep 13 00:57:22 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.839202,
+                    41.142636
+                ]
+            }
         }
     ]
 }
