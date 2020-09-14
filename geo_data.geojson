@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1171824745316114432/AadtWakQ_normal.jpg",
-                "Name": "Safeway Open",
-                "Handle": "SafewayOpen",
-                "Tweet": "FINAL ROUND ACTION! Catch all of the drama on the Golf Channel beginning at 3pm\ud83d\udcfa\u26f3\ufe0f Plenty of players in contention\u2026 https://t.co/6NxyHTHGqp",
-                "TweetLink": "1305171731523407872",
-                "Place": "California",
-                "Time": "Sun Sep 13 15:49:24 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -119.3066075,
-                    37.2691755
-                ]
-            }
-        }
-    ]
+    "features": []
 }
