@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/847530744318631936/kKIOEDb5_normal.jpg",
-                "Name": "Kevin Sprecher",
-                "Handle": "KevinSprecher",
-                "Tweet": "Has fun playing with @jazzjanewattananond  and his coach, and my friend @terryrowles at @sleepyhollowcountryclub th\u2026 https://t.co/9qwNB4OeIg",
-                "TweetLink": "1304947246060929024",
-                "Place": "Briarcliff Manor",
-                "Time": "Sun Sep 13 00:57:22 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.839202,
-                    41.142636
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/748538557283827714/NTmhUN4g_normal.jpg",
-                "Name": "Kay Cockerill",
-                "Handle": "KayCockerill",
-                "Tweet": "Smoky sundown @silveradoresort &amp; an end to round 3 @safewayopen With 32 players within 5 shots of the lead, it\u2019s go\u2026 https://t.co/1n6MPqtJZV",
-                "TweetLink": "1304959883582808064",
-                "Place": "Napa",
-                "Time": "Sun Sep 13 01:47:35 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.306264,
-                    38.2970715
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1299344164891443200/Hh0Ns7fr_normal.jpg",
                 "Name": "\ud83c\udde6\ud83c\uddfaKez Sparks\ud83c\udde8\ud83c\udde6",
                 "Handle": "kez_sparks",
