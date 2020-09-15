@@ -24,6 +24,30 @@
                     33.901311
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1192491842929119232/i190CSvX_normal.jpg",
+                "Name": "Nick Bradley",
+                "Handle": "THENICKBRADLEY",
+                "Tweet": "SQAIRZ GOLF TIP OF THE WEEK!!\n\n@sqairz \n\nShape of the swing and how you can easily keep an EYE on it..!! \ud83d\udc47\ud83c\udffb #sqairz\u2026 https://t.co/YKolc0qJ3C",
+                "TweetLink": "1305843202700840960",
+                "Place": "Sunset Beach",
+                "Time": "Tue Sep 15 12:17:35 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5164375,
+                    33.901311
+                ]
+            }
         }
     ]
 }
