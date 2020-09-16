@@ -72,6 +72,30 @@
                     43.358157
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1291762053154250758/_3FjF-1P_normal.jpg",
+                "Name": "Ricardo Melo Gouveia",
+                "Handle": "MelinhoGolf",
+                "Tweet": "Ready to start the week @opendeportugal with this guy by my side \ud83d\udc4a weather please behave!\n\n#golfing #golf #golfer\u2026 https://t.co/pFiCIb5b27",
+                "TweetLink": "1306293317479661569",
+                "Place": "\u00d3bidos",
+                "Time": "Wed Sep 16 18:06:11 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1751535,
+                    39.3681595
+                ]
+            }
         }
     ]
 }
