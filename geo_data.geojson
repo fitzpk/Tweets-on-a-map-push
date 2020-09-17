@@ -120,6 +120,30 @@
                     37.745426
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1187415096546353152/LQYsbz52_normal.jpg",
+                "Name": "Vinny Pelillo BS, CSCS",
+                "Handle": "CoachVinnyAPL",
+                "Tweet": "All the hours in the gym are truly paying off for this kid!",
+                "TweetLink": "1306576915050840064",
+                "Place": "Pleasanton",
+                "Time": "Thu Sep 17 12:53:06 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.877735,
+                    37.6629475
+                ]
+            }
         }
     ]
 }
