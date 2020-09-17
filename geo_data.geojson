@@ -168,6 +168,30 @@
                     41.1577735
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1199375767400042497/5erkjZd5_normal.jpg",
+                "Name": "Okwara",
+                "Handle": "oaks_legend",
+                "Tweet": "Tomorrow #usopen #PGATour I don't see tiger making it",
+                "TweetLink": "1306644034895708161",
+                "Place": "Nairobi",
+                "Time": "Thu Sep 17 17:19:48 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.86362,
+                    -1.2748635
+                ]
+            }
         }
     ]
 }
