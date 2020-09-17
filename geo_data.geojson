@@ -96,6 +96,30 @@
                     39.3681595
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1300467200369684480/pC_st-kG_normal.jpg",
+                "Name": "Suga Shane",
+                "Handle": "DJSugaShane",
+                "Tweet": "Mase getting his work in with his coach/mentor/guru Shelley O\u2019Keefe this evening. \n#Golf\n#USkidsGolf\u2026 https://t.co/Zlxght2dlK",
+                "TweetLink": "1306459995052023808",
+                "Place": "Spring Creek Country Club",
+                "Time": "Thu Sep 17 05:08:30 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.106113,
+                    37.745426
+                ]
+            }
         }
     ]
 }
