@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1221690424399749122/1ZhEOHns_normal.jpg",
-                "Name": "Paul Carroll",
-                "Handle": "Gr8tDanejr",
-                "Tweet": "If 2020 was a putt...\n#USOpen #pgatour #Golf @A_Carroll14 @dvilledawg @CraigHowardCSA @BarbareeShane https://t.co/taT1sQtfmy",
-                "TweetLink": "1307000317423185920",
-                "Place": "Phenix City",
-                "Time": "Fri Sep 18 16:55:33 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.026365,
-                    32.438372
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/981305019570913281/Rc0aOhsX_normal.jpg",
                 "Name": "Hoag Classic",
                 "Handle": "HoagClassic",
