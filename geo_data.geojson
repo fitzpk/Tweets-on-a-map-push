@@ -7,30 +7,6 @@
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
                 "Name": "Will O'Donoghue",
                 "Handle": "Will_ODonoghue",
-                "Tweet": "Hole locations for today\u2019s 1st Round of the @USOpenGolf Championship at @WingedFoot_GC in Mamaroneck, New York.\u2026 https://t.co/3v8duRDf9X",
-                "TweetLink": "1306686809821380610",
-                "Place": "Mamaroneck",
-                "Time": "Thu Sep 17 20:09:47 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.743164,
-                    40.9507045
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
-                "Name": "Will O'Donoghue",
-                "Handle": "Will_ODonoghue",
                 "Tweet": "Here\u2019s @PReedGolf and his caddie Kessler\u2019s yardage book notes for hole #7 today. Star for the ace. Good work on thi\u2026 https://t.co/XPksYUa9LT",
                 "TweetLink": "1306796853913157633",
                 "Place": "Mamaroneck",
