@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1846914524/image_normal.jpg",
-                "Name": "Richard Zollinger MD,FACS",
-                "Handle": "ZooDoc",
-                "Tweet": ".@Johnson_wagner Pickin' 'n Puttin' with Gary Sobba, Wells Fargo Championship Ep 16 https://t.co/zNfrgm08Qb via\u2026 https://t.co/peNjuPoUt1",
-                "TweetLink": "1306985908621713412",
-                "Place": "Charlotte",
-                "Time": "Fri Sep 18 15:58:17 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.8467855,
-                    35.209059
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1221690424399749122/1ZhEOHns_normal.jpg",
                 "Name": "Paul Carroll",
                 "Handle": "Gr8tDanejr",
