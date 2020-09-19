@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/981305019570913281/Rc0aOhsX_normal.jpg",
-                "Name": "Hoag Classic",
-                "Handle": "HoagClassic",
-                "Tweet": "Happy 73rd Birthday to the @usairforce ! In honor of the day, here's a video of the flyover of the \"Willa Dean\" cou\u2026 https://t.co/S0Y3u0y9CG",
-                "TweetLink": "1307037428054589441",
-                "Place": "Newport Beach",
-                "Time": "Fri Sep 18 19:23:01 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.874032,
-                    33.617638
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1730899098/image_normal.jpg",
                 "Name": "Kent Oszmanski",
                 "Handle": "kentcansell",
