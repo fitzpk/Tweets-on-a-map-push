@@ -72,6 +72,30 @@
                     37.918552
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1222971918099402752/x1TCwIHw_normal.jpg",
+                "Name": "Mark Stoffel",
+                "Handle": "M_Stoffel1984",
+                "Tweet": "@PaulAzinger with the most stupid comment ever on air \ud83e\udd23 #USOpen #WingedFoot #pgatour #NBCSports https://t.co/sqhLq64ACU",
+                "TweetLink": "1307449350113591298",
+                "Place": "North Myrtle Beach",
+                "Time": "Sat Sep 19 22:39:50 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.688827,
+                    33.824514
+                ]
+            }
         }
     ]
 }
