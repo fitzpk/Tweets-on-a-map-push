@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1730899098/image_normal.jpg",
-                "Name": "Kent Oszmanski",
-                "Handle": "kentcansell",
-                "Tweet": "#WingedFoot #USOpen #pgatour #golf 1922 membership from @newyorkac voted no on building new golf course.  Members w\u2026 https://t.co/nhBvqbk1qQ",
-                "TweetLink": "1307398696863227906",
-                "Place": "Manhattan",
-                "Time": "Sat Sep 19 19:18:34 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.9685415,
-                    40.780709
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1226306395483463680/J_KbCytu_normal.jpg",
                 "Name": "Philip Dangler",
                 "Handle": "phildangler",
