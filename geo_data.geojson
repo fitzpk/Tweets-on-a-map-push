@@ -72,6 +72,30 @@
                     33.824514
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226013242524422144/n9MVRvlj_normal.jpg",
+                "Name": "David Johnson Jr",
+                "Handle": "djjunior0525",
+                "Tweet": "2nd PAR this week! 104 yds to the pin and over water! He really wants a \ud83d\udc26 as you can see in the second video! \ud83d\ude02\u2026 https://t.co/znauohctX8",
+                "TweetLink": "1307490733205721088",
+                "Place": "South Jordan",
+                "Time": "Sun Sep 20 01:24:17 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.9632775,
+                    40.5594805
+                ]
+            }
         }
     ]
 }
