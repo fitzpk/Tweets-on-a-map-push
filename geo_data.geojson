@@ -144,6 +144,30 @@
                     42.746617
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1304387764176195584/WT59d3ar_normal.jpg",
+                "Name": "\ud83c\udd73\ud83c\udd74\ud83c\udd81\ud83c\udd74\ud83c\udd7a \ud83c\uddfa\ud83c\uddf8",
+                "Handle": "mercurySEVEN_",
+                "Tweet": "Congrats @b_dechambeau  winning the #USOpen. Only player to finish under par at -6. #Crazy  \n\n#pgatour \n#USOpengolf\u2026 https://t.co/GpREU83Ny1",
+                "TweetLink": "1307802599857565697",
+                "Place": "The Colony",
+                "Time": "Sun Sep 20 22:03:32 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.8917385,
+                    33.079014
+                ]
+            }
         }
     ]
 }
