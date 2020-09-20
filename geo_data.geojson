@@ -96,6 +96,30 @@
                     40.5594805
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1267720111441534976/kWgkjKGw_normal.jpg",
+                "Name": "William D. Burage Sr",
+                "Handle": "mreaglesr",
+                "Tweet": "Sunday Dinner! #livephoto #usopen2020 #brysondechambeau   #rootingforbryson #pgatour #golf @ Dothan, Alabama https://t.co/sX32sV61Sy",
+                "TweetLink": "1307789343243730944",
+                "Place": "Dothan",
+                "Time": "Sun Sep 20 21:10:51 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.425011,
+                    31.232221
+                ]
+            }
         }
     ]
 }
