@@ -120,6 +120,30 @@
                     31.232221
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1215310954214326274/2uPnh6wh_normal.jpg",
+                "Name": "Brad Beckwith",
+                "Handle": "b_rad701577",
+                "Tweet": "Dechambeau is the worst #pgatour #USOpen",
+                "TweetLink": "1307796585212981252",
+                "Place": "New York",
+                "Time": "Sun Sep 20 21:39:38 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.770041,
+                    42.746617
+                ]
+            }
         }
     ]
 }
