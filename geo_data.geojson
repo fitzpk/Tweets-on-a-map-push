@@ -120,6 +120,30 @@
                     33.079014
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "Congratulations to @BDeChambeau as he wins his first major golf title with a dominating 6 stroke victory in the\u2026 https://t.co/QHsC511SVQ",
+                "TweetLink": "1307855925819121664",
+                "Place": "Mamaroneck",
+                "Time": "Mon Sep 21 01:35:26 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.743164,
+                    40.9507045
+                ]
+            }
         }
     ]
 }
