@@ -168,6 +168,30 @@
                     27.698682
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1306412564729991175/0LpEHhjO_normal.jpg",
+                "Name": "Enjoy The Walk Podcast",
+                "Handle": "enjoythewalkpod",
+                "Tweet": "So many courses to choose from yet we continue to play at these open courses because they\u2019re main focus is to pack\u2026 https://t.co/PG1vBQQQtP",
+                "TweetLink": "1308099702907428868",
+                "Place": "Delaware",
+                "Time": "Mon Sep 21 17:44:07 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3864605,
+                    39.1450235
+                ]
+            }
         }
     ]
 }
