@@ -144,6 +144,54 @@
                     40.9507045
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1183375972374056961/axTIFBur_normal.jpg",
+                "Name": "Ryan Jamison",
+                "Handle": "RyanJamison1",
+                "Tweet": "You heard it here FIRST.  @b_dechambeau \ud83d\ude02\ud83d\ude02",
+                "TweetLink": "1307871126949900288",
+                "Place": "Fort Lauderdale",
+                "Time": "Mon Sep 21 02:35:50 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1491725,
+                    26.150368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1183375972374056961/axTIFBur_normal.jpg",
+                "Name": "Ryan Jamison",
+                "Handle": "RyanJamison1",
+                "Tweet": "You heard it here FIRST!  @b_dechambeau",
+                "TweetLink": "1307871413727096832",
+                "Place": "Fort Lauderdale",
+                "Time": "Mon Sep 21 02:36:58 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1491725,
+                    26.150368
+                ]
+            }
         }
     ]
 }
