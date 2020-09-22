@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1154033153792602113/0TcKDqiT_normal.jpg",
+                "Name": "Ben Silverman",
+                "Handle": "Bsilvermangolf",
+                "Tweet": "This week in Wichita is @chervousa showcase week. I\u2019ll be showing a great mix of outfits from my new clothing spons\u2026 https://t.co/UZmXtwPDVB",
+                "TweetLink": "1308530386729725952",
+                "Place": "Wichita",
+                "Time": "Tue Sep 22 22:15:30 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.343915,
+                    37.6838965
+                ]
+            }
+        }
+    ]
 }
