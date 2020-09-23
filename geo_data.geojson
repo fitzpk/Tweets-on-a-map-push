@@ -24,6 +24,30 @@
                     37.6838965
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
+                "Name": "VegasSquaresPodcast",
+                "Handle": "VegasSquares",
+                "Tweet": "Check us out tomorrow on @zingotv ch761 at 4pm et as we recap the @usopengolf and preview the @CoralesChamp from Pu\u2026 https://t.co/1jHdclXiYD",
+                "TweetLink": "1308611665865318402",
+                "Place": "Las Vegas",
+                "Time": "Wed Sep 23 03:38:28 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.223125,
+                    36.232915
+                ]
+            }
         }
     ]
 }
