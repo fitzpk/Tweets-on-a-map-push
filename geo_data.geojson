@@ -24,6 +24,30 @@
                     36.232915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1145812979385958400/4R-iVIA8_normal.png",
+                "Name": "The Four Jack Podcast",
+                "Handle": "thefourjackpod",
+                "Tweet": "Our picks for this week's Corales Puntacana Resort and Club Championship \ud83d\udcaa\u26f3 \n\n.\n.\n.\n.\n#golfbuds #golfpodcast\u2026 https://t.co/LE1KcUFJUt",
+                "TweetLink": "1308961133592600576",
+                "Place": "Hig\u00fcey",
+                "Time": "Thu Sep 24 02:47:08 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.623478,
+                    18.725815
+                ]
+            }
         }
     ]
 }
