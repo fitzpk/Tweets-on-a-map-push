@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1261713634/Alp-Portrait_normal.jpg",
+                "Name": "Angel Luis Peguero",
+                "Handle": "angelluispp",
+                "Tweet": "Volunteering at the PGA #coraleschampionship #pga #pgatour #pgachampionship #coralesgolfcourse #coralespuntacana\u2026 https://t.co/T4AbjDAYed",
+                "TweetLink": "1309886358639521792",
+                "Place": "Hig\u00fcey",
+                "Time": "Sat Sep 26 16:03:39 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.623478,
+                    18.725815
+                ]
+            }
+        }
+    ]
 }
