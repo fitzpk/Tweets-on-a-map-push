@@ -24,6 +24,30 @@
                     18.725815
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1138994117537607680/MjSyx9wl_normal.jpg",
+                "Name": "Vikki V. Vanderpool",
+                "Handle": "vvanderpool",
+                "Tweet": "Ever wanted to play the exclusive Forrest Creek golf club in Pinehurst?!  A @tomfazio2golf course bid now for\u2026 https://t.co/x47W76tMrS",
+                "TweetLink": "1310576279335448578",
+                "Place": "Virginia Beach",
+                "Time": "Mon Sep 28 13:45:08 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.069946,
+                    36.8025415
+                ]
+            }
         }
     ]
 }
