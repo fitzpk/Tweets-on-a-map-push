@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1304471211477475328/TYcbazRb_normal.jpg",
-                "Name": "KIMBROPLAYS",
-                "Handle": "KimbroPlays",
-                "Tweet": "Sad Kimbro. We are entering the toughest stretch of episodes in the #careermode so far! #pgatour2k21 #golf #pgatour\u2026 https://t.co/XZjqI7lQ8U",
-                "TweetLink": "1310989012157562881",
-                "Place": "Hilliard",
-                "Time": "Tue Sep 29 17:05:12 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.1433925,
-                    40.0408125
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/925369734786363394/R0uO5lWy_normal.jpg",
                 "Name": "kraken golf",
                 "Handle": "krakengolf",
