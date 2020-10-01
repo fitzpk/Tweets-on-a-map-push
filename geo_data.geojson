@@ -24,6 +24,30 @@
                     33.4407175
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/758234175740731392/Ir7XZlbN_normal.jpg",
+                "Name": "Pedro Lemos",
+                "Handle": "PedroLemosGolf",
+                "Tweet": "Drills with Allan Jarrett @foxhillssurrey Getting better everyday \ud83c\udfaf #golfcoach #golfswing #golflife\u2026 https://t.co/RGCOQyFMsv",
+                "TweetLink": "1311777299830837252",
+                "Place": "South East",
+                "Time": "Thu Oct 01 21:17:34 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.252754,
+                    51.3854455
+                ]
+            }
         }
     ]
 }
