@@ -96,6 +96,30 @@
                     32.571032
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/952315414884761600/0Nslr0iA_normal.jpg",
+                "Name": "Rob Labritz, PGA",
+                "Handle": "roblabritzgolf",
+                "Tweet": "@mark_yan19 making some great strides in his golf game! Very proud of you kiddo! Keep@up the hard work and dedicati\u2026 https://t.co/octaCY8tc1",
+                "TweetLink": "1312034634725761024",
+                "Place": "New York",
+                "Time": "Fri Oct 02 14:20:08 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.770041,
+                    42.746617
+                ]
+            }
         }
     ]
 }
