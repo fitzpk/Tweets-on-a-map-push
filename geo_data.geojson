@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
-                "Name": "Will O'Donoghue",
-                "Handle": "Will_ODonoghue",
-                "Tweet": "44 days until the opening round of @TheMasters. This is what Augusta National Golf Club currently looks like.\u2026 https://t.co/2yITUW6gAs",
-                "TweetLink": "1311509177169326080",
-                "Place": "Augusta",
-                "Time": "Thu Oct 01 03:32:09 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.063185,
-                    33.4407175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/758234175740731392/Ir7XZlbN_normal.jpg",
                 "Name": "Pedro Lemos",
                 "Handle": "PedroLemosGolf",
