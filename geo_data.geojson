@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
-                "Name": "Korean Golf News",
-                "Handle": "KoreanGolfNews",
-                "Tweet": "@khlee_golf (-4, T-17th) @pgatour \n@sanderson_champ \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf2 #koreangolfnews #pgatour #golf #pga #instagolf\u2026 https://t.co/VwBq8Tx1Z6",
-                "TweetLink": "1311816776171294721",
-                "Place": "Mississippi",
-                "Time": "Thu Oct 01 23:54:26 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.876449,
-                    32.571032
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/952315414884761600/0Nslr0iA_normal.jpg",
                 "Name": "Rob Labritz, PGA",
                 "Handle": "roblabritzgolf",
