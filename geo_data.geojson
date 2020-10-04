@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1209171278646718465/_f5ANhFP_normal.jpg",
-                "Name": "La Tetilla De Mario\u00ae",
-                "Handle": "TetillaDeMario",
-                "Tweet": "@realDonaldTrump @FLOTUS Oh, while at it don\u2019t forget the #uplight up his @asshole without lube!! #TrumpCovid\u2026 https://t.co/D0Q3NmIPCu",
-                "TweetLink": "1312140146548957184",
-                "Place": "Philadelphia",
-                "Time": "Fri Oct 02 21:19:23 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.117998,
-                    40.0048655
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1192491842929119232/i190CSvX_normal.jpg",
                 "Name": "Nick Bradley",
                 "Handle": "THENICKBRADLEY",
