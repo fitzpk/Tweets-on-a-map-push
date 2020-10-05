@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
-                "Name": "Tour Junkies",
-                "Handle": "Tour_Junkies",
-                "Tweet": "3 live outrights going into the final round today with Ventura, Davis, and Hoffman on DB\u2019s Betting Card for the\u2026 https://t.co/mCgeRRaqfI",
-                "TweetLink": "1312766643974660097",
-                "Place": "Martinez",
-                "Time": "Sun Oct 04 14:48:52 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.095304,
-                    33.526322
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/711324658247847940/8Hm95osY_normal.jpg",
                 "Name": "Golf Event Planning",
                 "Handle": "Golfeventplan",
