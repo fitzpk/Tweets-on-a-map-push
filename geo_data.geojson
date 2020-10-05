@@ -24,6 +24,30 @@
                     33.526322
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/711324658247847940/8Hm95osY_normal.jpg",
+                "Name": "Golf Event Planning",
+                "Handle": "Golfeventplan",
+                "Tweet": "The US Open trophy\n#USOpen #trophy #golf #PGA #PGATour #NY #newyork #usa #hardware @ Winged Foot Golf Club https://t.co/W3DkDlrngg",
+                "TweetLink": "1313160053185302531",
+                "Place": "Mamaroneck",
+                "Time": "Mon Oct 05 16:52:08 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.743164,
+                    40.9507045
+                ]
+            }
         }
     ]
 }
