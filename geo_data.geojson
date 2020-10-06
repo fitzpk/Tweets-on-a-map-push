@@ -48,6 +48,30 @@
                     51.5144805
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/971370902465196032/d5IclvpN_normal.jpg",
+                "Name": "Alfonso Castillo Golf Academy",
+                "Handle": "ACGolfAcademy",
+                "Tweet": "Rory \ud83d\ude80 #rorymcilroy #power #rocket #golf #bomb #magic #espa\u00f1a #spaingolf #passion #amazing #pgatour #pga\u2026 https://t.co/PLFCldtk7T",
+                "TweetLink": "1313565001882443778",
+                "Place": "Palma",
+                "Time": "Tue Oct 06 19:41:15 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.769968,
+                    39.391698
+                ]
+            }
         }
     ]
 }
