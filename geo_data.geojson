@@ -24,6 +24,30 @@
                     40.9507045
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1250450002117382150/ohVKFyeg_normal.jpg",
+                "Name": "James Heard Golf",
+                "Handle": "james_heard_",
+                "Tweet": "PLAY IN THE BMW CHAMPIONSHIP WITH THE PROS! \u26f3\ufe0f\u2800\n\u2800\nTee Box have the best virtual golf in the industry \ud83d\udfe7 #trackman \u2800\u2026 https://t.co/MxgTk2QF2y",
+                "TweetLink": "1313539487163723776",
+                "Place": "City of London",
+                "Time": "Tue Oct 06 17:59:52 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0929105,
+                    51.5144805
+                ]
+            }
         }
     ]
 }
