@@ -48,6 +48,30 @@
                     39.391698
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1055649910492663808/q8ExakDt_normal.jpg",
+                "Name": "Amanda",
+                "Handle": "amanda_kemmerer",
+                "Tweet": "Fianc\u00e9 just did his first podcast! Please like, comment, subscribe... you know \ud83e\udd2a",
+                "TweetLink": "1313674115375656961",
+                "Place": "Florida",
+                "Time": "Wed Oct 07 02:54:50 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.804475,
+                    27.698682
+                ]
+            }
         }
     ]
 }
