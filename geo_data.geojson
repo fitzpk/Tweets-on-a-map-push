@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/746774335214477313/7UQkrwM6_normal.jpg",
-                "Name": "OITW",
-                "Handle": "OITW_Golf",
-                "Tweet": "\ud83d\udc40 \ud83d\udc40 \ud83d\udc40 on Friday",
-                "TweetLink": "1313966353246638080",
-                "Place": "Nevada",
-                "Time": "Wed Oct 07 22:16:05 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.0226945,
-                    38.502147
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/836278077361635328/633SkruI_normal.jpg",
                 "Name": "Christian Tamker",
                 "Handle": "tamker",
