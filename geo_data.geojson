@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1046694399286161408/yyGLOb4I_normal.jpg",
+                "Name": "La Manga Club",
+                "Handle": "LaMangaClub",
+                "Tweet": "\ud83c\uddea\ud83c\uddf8 @marcuskinhult hoy en la tercera ronda del #bmw championship en Wentworth.\n\n\ud83c\uddec\ud83c\udde7 #MarcusKinhult doing well today i\u2026 https://t.co/Hy4VZQuC98",
+                "TweetLink": "1314995089899499524",
+                "Place": "Cartagena",
+                "Time": "Sat Oct 10 18:23:55 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.956809,
+                    37.632516
+                ]
+            }
+        }
+    ]
 }
