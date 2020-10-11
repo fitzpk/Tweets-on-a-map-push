@@ -24,6 +24,30 @@
                     37.632516
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1304583210005917696/qbsUY_Ww_normal.jpg",
+                "Name": "Trevor Freeman",
+                "Handle": "trevorfreeman67",
+                "Tweet": "Anyone up for #ShrinersOpen tonight on #SkySportsGolf @matthew_wolff5 to win methinx! \ud83d\udc3a ArrArrOuuuuu!!!! #PGATour \ud83c\udfcc\ud83c\udffc\u200d\u2642\ufe0f",
+                "TweetLink": "1315372265782026241",
+                "Place": "South Dublin",
+                "Time": "Sun Oct 11 19:22:41 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.399521,
+                    53.2735025
+                ]
+            }
         }
     ]
 }
