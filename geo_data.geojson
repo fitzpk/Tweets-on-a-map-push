@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1145812979385958400/4R-iVIA8_normal.png",
+                "Name": "The Four Jack Podcast",
+                "Handle": "thefourjackpod",
+                "Tweet": "Our picks for this week's CJ Cup \u26f3\ud83d\udcaa\ud83c\udf99\n\n.\n.\n.\n.\n#golfbuds #golfpodcast #pgatour #fantasygolf #shadowcreek #lasvegas\u2026 https://t.co/R9Cp8KIUmx",
+                "TweetLink": "1316428406343565313",
+                "Place": "North Las Vegas",
+                "Time": "Wed Oct 14 17:19:24 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.133373,
+                    36.2491245
+                ]
+            }
+        }
+    ]
 }
