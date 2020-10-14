@@ -24,6 +24,30 @@
                     36.2491245
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/787973221018722304/Parhjd8-_normal.jpg",
+                "Name": "Kevin Rafferty",
+                "Handle": "kevinrafferty1",
+                "Tweet": "Great day on the #pga #pgatour #pgagolf #pgachampionship #gleneagleshotel #gleneagles WITH @ross_con1101 @ Gleneagl\u2026 https://t.co/YZFYDUwOn7",
+                "TweetLink": "1316435558395248641",
+                "Place": "Muirton",
+                "Time": "Wed Oct 14 17:47:49 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.745154,
+                    56.2854215
+                ]
+            }
         }
     ]
 }
