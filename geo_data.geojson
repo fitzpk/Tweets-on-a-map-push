@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1105653936063549440/C1gjF_b6_normal.png",
-                "Name": "Dr. Stuart Love",
-                "Handle": "theHealthyGolfr",
-                "Tweet": "Clear the range...\n\ud83d\ude4c\nPractice...over.\nTime. To. Play.\nGo time at The CJ Cup at Shadow Creek!!\n\ud83d\udc4a\nBring on the great\u2026 https://t.co/riwmwZkgWA",
-                "TweetLink": "1316793826539786240",
-                "Place": "Las Vegas",
-                "Time": "Thu Oct 15 17:31:27 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.223125,
-                    36.232915
-                ]
-            }
-        }
-    ]
+    "features": []
 }
