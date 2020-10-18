@@ -120,6 +120,54 @@
                     39.2512115
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1126600982777884673/s_g3G27Y_normal.jpg",
+                "Name": "ShelDK",
+                "Handle": "shel1099",
+                "Tweet": "Sorry, but not a fan of #Golf playing through.  The golf coverage box should be larger vs commercials box.\n\nAlso pl\u2026 https://t.co/JvAIPGAskC",
+                "TweetLink": "1317976400628908032",
+                "Place": "Edmonton",
+                "Time": "Sun Oct 18 23:50:35 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.4926175,
+                    53.5558195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
+                "Name": "Tour Junkies",
+                "Handle": "Tour_Junkies",
+                "Tweet": "Long Shot SZN\u2122\ufe0f Continues!\nPat touts Kokrak at 80/1 to win the #PGATour #CJCup \n\nPat\u2019s Not That Anyone Really Cares\u2026 https://t.co/IAA8zp44xf",
+                "TweetLink": "1317976792435752960",
+                "Place": "Georgia",
+                "Time": "Sun Oct 18 23:52:08 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1738665,
+                    32.6782075
+                ]
+            }
         }
     ]
 }
