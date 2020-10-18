@@ -1,4 +1,53 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1295184341925007360/nrwQgoEP_normal.jpg",
+                "Name": "D. Ross",
+                "Handle": "DBRoss4",
+                "Tweet": "Let\u2019s go @jaykokrak!!!! We\u2019re rooting for you!!! #pgatour",
+                "TweetLink": "1317970821374185473",
+                "Place": "Warren",
+                "Time": "Sun Oct 18 23:28:25 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8172445,
+                    41.2353315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "@kjchoigolf (T-6th) @pgatourchampions @deccgolf \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf2 #koreangolfnews #pgatour #championstour #pga #instagolf\u2026 https://t.co/ZzH1wsgp6M",
+                "TweetLink": "1317971480198619137",
+                "Place": "Tuckahoe",
+                "Time": "Sun Oct 18 23:31:02 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5888935,
+                    37.599557
+                ]
+            }
+        }
+    ]
 }
