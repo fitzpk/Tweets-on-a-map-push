@@ -72,6 +72,54 @@
                     33.3060465
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/849380004702158849/2LkeDYyF_normal.jpg",
+                "Name": "Tucker Blankinship",
+                "Handle": "TuckerBlanc",
+                "Tweet": "Xander\u2019s nervy finishes are becoming a concerning theme: TOC, Colonial, Shadow Creek this year now.  US Open Sunday\u2026 https://t.co/WaOXvANBNE",
+                "TweetLink": "1317975407598145536",
+                "Place": "Raleigh",
+                "Time": "Sun Oct 18 23:46:38 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.657837,
+                    35.8439815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1009924995034812416/UbRXEuFX_normal.jpg",
+                "Name": "Brian Hicks",
+                "Handle": "XUmktgguy",
+                "Tweet": "Let\u2019s gooooo!  So pumped for @jaykokrak \ud83d\udc4a\ud83c\udffc #PGATOUR #LetsGoX",
+                "TweetLink": "1317975472865742848",
+                "Place": "Loveland",
+                "Time": "Sun Oct 18 23:46:54 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2718295,
+                    39.2512115
+                ]
+            }
         }
     ]
 }
