@@ -48,6 +48,30 @@
                     37.599557
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "Sunday 66 with \ud83d\udc25\ud83d\udc25\ud83d\udc25\ud83d\udc25\ud83d\udc25\ud83d\udc25\ud83d\udc25\ud83d\udc25\ud83d\udc25 and \u261d\ufe0f\ud83d\udca9\u26f3\ud83d\ude09\ud83e\udd23 \ud83d\udc4f @99jaekyeong @kimhozz_i @pgatour @thecjcup \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8 #koreangolfnews\u2026 https://t.co/aS7QXTSnuv",
+                "TweetLink": "1317972769037078528",
+                "Place": "Seogwipo-si",
+                "Time": "Sun Oct 18 23:36:09 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.555559,
+                    33.3060465
+                ]
+            }
         }
     ]
 }
