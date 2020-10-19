@@ -216,6 +216,30 @@
                     40.2951135
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "@hanbyeol_123 (-1, T-48th) beats the course by one... @pgatour @thecjcup \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8 #koreangolfnews #pgatour #golf\u2026 https://t.co/ccpVrfvxgk",
+                "TweetLink": "1318046337418596352",
+                "Place": "Seogwipo-si",
+                "Time": "Mon Oct 19 04:28:29 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.555559,
+                    33.3060465
+                ]
+            }
         }
     ]
 }
