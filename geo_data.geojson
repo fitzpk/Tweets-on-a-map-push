@@ -192,6 +192,30 @@
                     33.3060465
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1113499744477691905/BQ9ZzWde_normal.png",
+                "Name": "Yatta Golf",
+                "Handle": "YattaGolf",
+                "Tweet": "Congratulations to Jason Kokrak on winning the CJ Cup at Shadow Creek! #cjcup #shadowcreek #jasonkokrak #pgatour\u2026 https://t.co/thG0QDTh1k",
+                "TweetLink": "1318043145863458816",
+                "Place": "Orem",
+                "Time": "Mon Oct 19 04:15:48 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.6964685,
+                    40.2951135
+                ]
+            }
         }
     ]
 }
