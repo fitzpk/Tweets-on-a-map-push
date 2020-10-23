@@ -48,6 +48,30 @@
                     45.8533785
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1316623032451035145/hd4oijXv_normal.jpg",
+                "Name": "maxlezar",
+                "Handle": "maxlezar123",
+                "Tweet": "Really hoping @TigerWoods @McIlroyRory start today strong. \ud83c\udfcc\ufe0f\u200d\u2642\ufe0f always great to watch these two playing well. @ChampionsTour #pgatour",
+                "TweetLink": "1319743687170138112",
+                "Place": "Newport",
+                "Time": "Fri Oct 23 20:53:09 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.025835,
+                    51.585661
+                ]
+            }
         }
     ]
 }
