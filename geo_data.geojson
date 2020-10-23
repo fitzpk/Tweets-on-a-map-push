@@ -24,6 +24,30 @@
                     53.2908355
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/722565169973436416/zXIqXNrz_normal.jpg",
+                "Name": "Jacopo Crivellari",
+                "Handle": "JacoCrivellari",
+                "Tweet": "Treble, triplete, hat trick. tiger woods. #PGATour https://t.co/NshOvqum7R",
+                "TweetLink": "1319741821916938240",
+                "Place": "Coldrerio",
+                "Time": "Fri Oct 23 20:45:44 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9850285,
+                    45.8533785
+                ]
+            }
         }
     ]
 }
