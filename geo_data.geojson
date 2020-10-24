@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1141816181650800648/8j3tz3hU_normal.jpg",
-                "Name": "Ross McNamara",
-                "Handle": "RossyMc07",
-                "Tweet": "Cracking first round again from @scottyritchie32 easy this PGA tour nonsense eh @TyrrellHatton #tyrrellhatton\u2026 https://t.co/Fyqtewp9bK",
-                "TweetLink": "1319409193011548160",
-                "Place": "Frodsham",
-                "Time": "Thu Oct 22 22:43:59 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.7181025,
-                    53.2908355
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/722565169973436416/zXIqXNrz_normal.jpg",
                 "Name": "Jacopo Crivellari",
                 "Handle": "JacoCrivellari",
