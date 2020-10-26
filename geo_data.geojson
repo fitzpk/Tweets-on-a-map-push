@@ -120,6 +120,30 @@
                     33.617638
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1080472399861239808/F-Ou5OcU_normal.jpg",
+                "Name": "JustinCarlton",
+                "Handle": "JustCLW",
+                "Tweet": "I really enjoy island life and Bermuda is a very special place. Working with the Port Royal family a year ago to he\u2026 https://t.co/rtsmt7huLR",
+                "TweetLink": "1320845308667056129",
+                "Place": "Barbados",
+                "Time": "Mon Oct 26 21:50:36 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -59.5354945,
+                    13.1892995
+                ]
+            }
         }
     ]
 }
