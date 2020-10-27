@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
-                "Name": "Will O'Donoghue",
-                "Handle": "Will_ODonoghue",
-                "Tweet": "On cloud nine. \ud83c\udfc6 \n\n@Patrick_Cantlay wins the @ZOZOChamp today after shooting a final round 7 under par 65 which inc\u2026 https://t.co/2uClOdvc3W",
-                "TweetLink": "1320575416504123394",
-                "Place": "Lake Park",
-                "Time": "Mon Oct 26 03:58:09 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.633465,
-                    35.0838255
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1292337765317636096/GNFoU5wi_normal.jpg",
                 "Name": "Allan Cooper",
                 "Handle": "AllanCooper",
