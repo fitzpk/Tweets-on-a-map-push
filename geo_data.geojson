@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1296245995513057281/xIU9h_1v_normal.jpg",
-                "Name": "Kevin Johnson",
-                "Handle": "kjohnsob",
-                "Tweet": "Any course where the winner finishes below -20 should be removed from @PGATOUR #golf #pgatour",
-                "TweetLink": "1320500673096548353",
-                "Place": "Edmonton",
-                "Time": "Sun Oct 25 23:01:08 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -113.4926175,
-                    53.5558195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1124363122465071105/95N7JJ-8_normal.jpg",
                 "Name": "Steven J Buzza",
                 "Handle": "SteveBuzzaGolf",
