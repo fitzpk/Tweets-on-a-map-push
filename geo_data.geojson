@@ -168,6 +168,30 @@
                     32.319115
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "This Week in Sports. #NFL #Football #MLB #Baseball #NASCAR #Racing #PGATour #Golf #Soccer #WWE #Wrestling https://t.co/KoBB4Xy1W0",
+                "TweetLink": "1320920510306332672",
+                "Place": "Lake Park",
+                "Time": "Tue Oct 27 02:49:25 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.633465,
+                    35.0838255
+                ]
+            }
         }
     ]
 }
