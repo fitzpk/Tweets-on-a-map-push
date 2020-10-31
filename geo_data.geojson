@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1260279380028375040/8e_kuLQb_normal.jpg",
+                "Name": "Derek Griffin",
+                "Handle": "derekgriffin",
+                "Tweet": "Any chance we can get the band back together #funkspunks #baller #pgatour #64 Fred Funk at 64 years of age makes th\u2026 https://t.co/SXff3S9Iow",
+                "TweetLink": "1322329681601961984",
+                "Place": "Cork",
+                "Time": "Sat Oct 31 00:08:58 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0333065,
+                    51.903863
+                ]
+            }
+        }
+    ]
 }
