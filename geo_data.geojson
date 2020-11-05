@@ -24,6 +24,30 @@
                     29.838495
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1195578363/Golf_Bag_006_normal.JPG",
+                "Name": "John Meikle",
+                "Handle": "m30kle",
+                "Tweet": "@GOLFTV What the crap is a Houston Cougar Golfer Allum? Honestly, you Americans love all the wrong things \ud83d\ude02\ud83d\ude02 #golf #pgatour #golfer",
+                "TweetLink": "1324215905170214920",
+                "Place": "Holbeach",
+                "Time": "Thu Nov 05 05:04:09 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0134425,
+                    52.8077445
+                ]
+            }
         }
     ]
 }
