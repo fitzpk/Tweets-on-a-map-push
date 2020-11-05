@@ -72,6 +72,30 @@
                     29.838495
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1248869239768875009/vF2oQ_uY_normal.jpg",
+                "Name": "Steven McDonnell PGA",
+                "Handle": "stevenmcPGA",
+                "Tweet": "Is Carlos Ortiz the spitting image of Jordan Speith ? or is it just me who thinks that \ud83d\ude31\ud83c\udfcc\ud83c\udffc\u200d\u2642\ufe0f\u26f3\ufe0f\u2026 https://t.co/LS3LUrHaC0",
+                "TweetLink": "1324434763386511361",
+                "Place": "Dunston",
+                "Time": "Thu Nov 05 19:33:49 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.641241,
+                    54.9438585
+                ]
+            }
         }
     ]
 }
