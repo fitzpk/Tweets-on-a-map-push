@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1105653936063549440/C1gjF_b6_normal.png",
-                "Name": "Dr. Stuart Love",
-                "Handle": "theHealthyGolfr",
-                "Tweet": "GAME ON!\n(No car. Borrowing from my Canadian heritage. Ask me, if you don\u2019t know.)\n\ud83c\udfd2\nGolf (not hockey \ud83d\ude09) is underwa\u2026 https://t.co/HE1xEjO26p",
-                "TweetLink": "1324374476289531909",
-                "Place": "Houston",
-                "Time": "Thu Nov 05 15:34:15 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -95.4464865,
-                    29.838495
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1248869239768875009/vF2oQ_uY_normal.jpg",
                 "Name": "Steven McDonnell PGA",
                 "Handle": "stevenmcPGA",
