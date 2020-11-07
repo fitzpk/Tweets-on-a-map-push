@@ -48,6 +48,30 @@
                     53.2735025
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/897252184424726528/aL7fgatb_normal.jpg",
+                "Name": "The Outlaw Tour",
+                "Handle": "outlawgolftour",
+                "Tweet": "It\u2019s people like @JOXSports that help us continue to grow and continue to create future opportunities for our playe\u2026 https://t.co/gUyi0NGJQV",
+                "TweetLink": "1325152563172319235",
+                "Place": "Gilbert",
+                "Time": "Sat Nov 07 19:06:05 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7385665,
+                    33.295215
+                ]
+            }
         }
     ]
 }
