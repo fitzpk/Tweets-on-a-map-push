@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1109930872181006339/bkkS2ZqV_normal.jpg",
-                "Name": "Brad Holdgreve",
-                "Handle": "FindlayBuckeye",
-                "Tweet": "I watched the #PGATour earlier with real live fans in attendance. It actually caught me off guard at first. But awesome to see.",
-                "TweetLink": "1324535894930501633",
-                "Place": "Findlay",
-                "Time": "Fri Nov 06 02:15:40 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.6339035,
-                    41.0550135
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1316835626986205185/0vg0iM5m_normal.jpg",
                 "Name": "Sarah Wilmore",
                 "Handle": "sjdwilmore",
