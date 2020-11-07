@@ -72,6 +72,30 @@
                     33.295215
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/876985919907278848/rznWhUr5_normal.jpg",
+                "Name": "Two Guys With Balls",
+                "Handle": "2GuysWithBalls",
+                "Tweet": "Who's ready for the @themasters? Let us know in the comments who will wear the green jacket... #themasters\u2026 https://t.co/QtvhKxbQAf",
+                "TweetLink": "1325197690809020416",
+                "Place": "Augusta",
+                "Time": "Sat Nov 07 22:05:25 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.063185,
+                    33.4407175
+                ]
+            }
         }
     ]
 }
