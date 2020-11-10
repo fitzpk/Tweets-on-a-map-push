@@ -48,6 +48,30 @@
                     35.0838255
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "Congratulations to Mexico native @CarlosOrtizGolf who wins for the first time on the @PGATour at the @Vivint\u2026 https://t.co/LpCMbnXJHW",
+                "TweetLink": "1326007459639676935",
+                "Place": "Lake Park",
+                "Time": "Tue Nov 10 03:43:09 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.633465,
+                    35.0838255
+                ]
+            }
         }
     ]
 }
