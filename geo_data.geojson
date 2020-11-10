@@ -72,6 +72,30 @@
                     35.0838255
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1291172581475856386/qw_C2FgL_normal.jpg",
+                "Name": "Justin",
+                "Handle": "BuckeyeJC714",
+                "Tweet": "@greg_kirchner \nCall in Live at 1pm 330-595-1600\nText/Voicemail line 330-333-5265",
+                "TweetLink": "1326176686250012672",
+                "Place": "Boardman",
+                "Time": "Tue Nov 10 14:55:35 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.657593,
+                    41.01594
+                ]
+            }
         }
     ]
 }
