@@ -24,6 +24,30 @@
                     27.698682
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "The first winner of the 2020-21 season is @StewartCink! \ud83c\udfc6 \n\nThe 47-year-old claims the @SafewayOpen for his 7th car\u2026 https://t.co/ROwb5HNpUG",
+                "TweetLink": "1326007137634541569",
+                "Place": "Lake Park",
+                "Time": "Tue Nov 10 03:41:52 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.633465,
+                    35.0838255
+                ]
+            }
         }
     ]
 }
