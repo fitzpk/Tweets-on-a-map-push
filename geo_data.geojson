@@ -72,6 +72,30 @@
                     49.257639
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/979110791688339456/QPWV4uRP_normal.jpg",
+                "Name": "Colin Weston",
+                "Handle": "ColinWeston01",
+                "Tweet": "Loved my energetic conversation with @DraftKings #PGATour analyst @reidtfowler on this week\u2019s episode of The\u2026 https://t.co/gS0zqPJfKk",
+                "TweetLink": "1326689503923236864",
+                "Place": "Vancouver",
+                "Time": "Thu Nov 12 00:53:21 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.123581,
+                    49.257639
+                ]
+            }
         }
     ]
 }
