@@ -192,6 +192,30 @@
                     35.9909825
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1128456215166472193/TtbPir8v_normal.jpg",
+                "Name": "Bernie & Dahlby Talking Golf",
+                "Handle": "OutofboundsBD",
+                "Tweet": "Well Well ! Ron Mintze is the best bar none ! Enjoy",
+                "TweetLink": "1326742965654466563",
+                "Place": "Scottsdale",
+                "Time": "Thu Nov 12 04:25:47 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8583985,
+                    33.63934
+                ]
+            }
         }
     ]
 }
