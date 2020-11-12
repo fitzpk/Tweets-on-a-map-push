@@ -48,6 +48,30 @@
                     33.4407175
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/855203907642867713/vtQaTnjH_normal.jpg",
+                "Name": "The ModGolf Podcast",
+                "Handle": "ModGolfPodcast",
+                "Tweet": "Need some inspiration before choosing your #fantasygolf team for #themasters? We get the inside scoop from\u2026 https://t.co/Y2ITtF5BN5",
+                "TweetLink": "1326688523966017536",
+                "Place": "Vancouver",
+                "Time": "Thu Nov 12 00:49:27 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.123581,
+                    49.257639
+                ]
+            }
         }
     ]
 }
