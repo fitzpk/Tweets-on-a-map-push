@@ -168,6 +168,30 @@
                     53.5558195
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/920558452/twitter_normal.jpg",
+                "Name": "Daniel Burapavong \ud83c\udfae",
+                "Handle": "TD2timeMVP",
+                "Tweet": "Would be fun to see @b_dechambeau render Augusta obsolete this week like Tiger in 1997. Per @espn, most 350-yard dr\u2026 https://t.co/uVlwCMHmKv",
+                "TweetLink": "1326735902408908800",
+                "Place": "Durham",
+                "Time": "Thu Nov 12 03:57:43 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8954405,
+                    35.9909825
+                ]
+            }
         }
     ]
 }
