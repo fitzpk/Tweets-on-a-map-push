@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1324564232676007937/GWtesRg7_normal.jpg",
-                "Name": "Terry Wilson",
-                "Handle": "terrywilson3",
-                "Tweet": "Just your standard 150 yard 4 skip shot across the pond to a hole in one. Nothing to see here. \ud83d\ude02 #holycrap\u2026 https://t.co/GeF3W97Qer",
-                "TweetLink": "1326557093655162885",
-                "Place": "Boiling Springs",
-                "Time": "Wed Nov 11 16:07:12 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.9562835,
-                    35.05897
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1145812979385958400/4R-iVIA8_normal.png",
                 "Name": "The Four Jack Podcast",
                 "Handle": "thefourjackpod",
