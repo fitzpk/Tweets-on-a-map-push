@@ -216,6 +216,30 @@
                     33.63934
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "Masters Thursday, The Tournament Begins. \u26f3\ufe0f\ud83c\udf38\ud83c\udf40 #TheMasters  #AugustaNational #AmenCorner #SpringTradition\u2026 https://t.co/6HS25v16Tb",
+                "TweetLink": "1326978516211146776",
+                "Place": "Augusta",
+                "Time": "Thu Nov 12 20:01:46 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.063185,
+                    33.4407175
+                ]
+            }
         }
     ]
 }
