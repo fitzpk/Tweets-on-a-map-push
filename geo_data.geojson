@@ -144,6 +144,30 @@
                     35.0838255
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1127315590329159680/88FVPrNM_normal.jpg",
+                "Name": "@1strnd",
+                "Handle": "1strnd",
+                "Tweet": "The Masters start tomorrow. Come to 1st RND to catch all the PGA action. Call ahead to book your reservation. #pga\u2026 https://t.co/xZZq6xL2Kg",
+                "TweetLink": "1326716105461657600",
+                "Place": "Edmonton",
+                "Time": "Thu Nov 12 02:39:03 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.4926175,
+                    53.5558195
+                ]
+            }
         }
     ]
 }
