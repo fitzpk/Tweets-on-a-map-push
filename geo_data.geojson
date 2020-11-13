@@ -192,6 +192,30 @@
                     -11.9320415
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1148605217811894275/HRDD30MO_normal.png",
+                "Name": "Hollman Lockers",
+                "Handle": "HollmanLockers",
+                "Tweet": "Luxury lockers complete this iconic golf club's locker room! Best of luck to @TigerWoods for this years @TheMasters\u2026 https://t.co/P1Sdm0lTrZ",
+                "TweetLink": "1327356753823010817",
+                "Place": "Hollman Lockers",
+                "Time": "Fri Nov 13 21:04:45 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.972044,
+                    32.873602
+                ]
+            }
         }
     ]
 }
