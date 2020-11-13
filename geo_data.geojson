@@ -216,6 +216,30 @@
                     32.873602
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "Masters Friday, Making the Cut. \u26f3\ufe0f\ud83c\udf38\ud83c\udf40 #TheMasters  #AugustaNational #AmenCorner #SpringTradition #FallClassic\u2026 https://t.co/Q6DYYupJoq",
+                "TweetLink": "1327359059742384131",
+                "Place": "Augusta",
+                "Time": "Fri Nov 13 21:13:55 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.063185,
+                    33.4407175
+                ]
+            }
         }
     ]
 }
