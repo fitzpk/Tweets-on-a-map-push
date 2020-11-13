@@ -336,6 +336,30 @@
                     31.2098305
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1251009181697662977/x42Qlniy_normal.jpg",
+                "Name": "NATHAN BARNHART",
+                "Handle": "NATHANSPICKSWIN",
+                "Tweet": "1 DAY IN THE BOOKS ! \n#PGATour \n#TheMasters2020 \n#ROTOGRINDERS https://t.co/8Ieb1UDF6Q",
+                "TweetLink": "1327051680182112256",
+                "Place": "Wentzville",
+                "Time": "Fri Nov 13 00:52:30 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.8616135,
+                    38.8168005
+                ]
+            }
         }
     ]
 }
