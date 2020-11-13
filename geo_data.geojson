@@ -168,6 +168,30 @@
                     38.8168005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1325523364740538368/yAH0qS-f_normal.jpg",
+                "Name": "Floreshitazz SJ \ud83c\udf3a YYS fan",
+                "Handle": "flor_fromperu",
+                "Tweet": "He Is a Papacito !!\u2764\ufe0f #YooYeonSeok",
+                "TweetLink": "1327296897518874624",
+                "Place": "Comas",
+                "Time": "Fri Nov 13 17:06:55 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.029245,
+                    -11.9320415
+                ]
+            }
         }
     ]
 }
