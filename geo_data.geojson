@@ -144,6 +144,30 @@
                     33.4407175
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
+                "Name": "The Fit Golfer Girl",
+                "Handle": "fitgolfergirl",
+                "Tweet": "My @themasters bets are looking pretty damn good!\nNot too late for you to make some!\nGo to https://t.co/HGYoFVbIFQ\u2026 https://t.co/3aGk27UhiR",
+                "TweetLink": "1327685899124154372",
+                "Place": "Ocean Ridge",
+                "Time": "Sat Nov 14 18:52:40 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.0494095,
+                    26.527285
+                ]
+            }
         }
     ]
 }
