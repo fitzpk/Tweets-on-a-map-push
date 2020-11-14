@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
-                "Name": "Will O'Donoghue",
-                "Handle": "Will_ODonoghue",
-                "Tweet": "Masters Thursday, The Tournament Begins. \u26f3\ufe0f\ud83c\udf38\ud83c\udf40 #TheMasters  #AugustaNational #AmenCorner #SpringTradition\u2026 https://t.co/6HS25v16Tb",
-                "TweetLink": "1326978516211146776",
-                "Place": "Augusta",
-                "Time": "Thu Nov 12 20:01:46 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.063185,
-                    33.4407175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1274066800779689984/ndS8tBj9_normal.jpg",
-                "Name": "Joel Hall Golf",
-                "Handle": "joelhallgolf",
-                "Tweet": "How good was this? #masters #augusta2020 #PGATour https://t.co/yuZm0CtNiI",
-                "TweetLink": "1327007599389265921",
-                "Place": "Worksop",
-                "Time": "Thu Nov 12 21:57:20 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.121609,
-                    53.310681
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
                 "Name": "Korean Golf News",
                 "Handle": "KoreanGolfNews",
