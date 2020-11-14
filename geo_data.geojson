@@ -7,30 +7,6 @@
                 "ProfilePic": "http://pbs.twimg.com/profile_images/937351840441782277/r3k4BOoc_normal.jpg",
                 "Name": "Corinne Pulitzer",
                 "Handle": "CorinnePulitzer",
-                "Tweet": "It\u2019s a soggy night in #NYC w chilly temps &amp; the #EmpireStateBuilding is lit in Green for the  #PGATour as the\u2026 https://t.co/9F4P8eHGuQ",
-                "TweetLink": "1327025002730893318",
-                "Place": "Manhattan",
-                "Time": "Thu Nov 12 23:06:30 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.9685415,
-                    40.780709
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/937351840441782277/r3k4BOoc_normal.jpg",
-                "Name": "Corinne Pulitzer",
-                "Handle": "CorinnePulitzer",
                 "Tweet": "It\u2019s a soggy night in #NYC w chilly temps &amp; the #EmpireStateBuilding is lit in Green for the  #PGATour as the\u2026 https://t.co/rESNnSH4IP",
                 "TweetLink": "1327029633737510914",
                 "Place": "Manhattan",
