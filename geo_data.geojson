@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1287604646870167552/PBnh5gMH_normal.jpg",
-                "Name": "Savannah Leigh",
-                "Handle": "SportsGirlSL",
-                "Tweet": "Just some thoughts about Day 1 at the Masters! #TheMasters  #TigerWoods #BrysonDeChambeau #paulcasey #pgatour https://t.co/5VZe3ersxY",
-                "TweetLink": "1327040170504425472",
-                "Place": "Country Club Estates",
-                "Time": "Fri Nov 13 00:06:46 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.459222,
-                    31.2098305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1251009181697662977/x42Qlniy_normal.jpg",
                 "Name": "NATHAN BARNHART",
                 "Handle": "NATHANSPICKSWIN",
