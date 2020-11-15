@@ -240,6 +240,30 @@
                     33.4407175
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/971370902465196032/d5IclvpN_normal.jpg",
+                "Name": "Alfonso Castillo Golf Academy",
+                "Handle": "ACGolfAcademy",
+                "Tweet": "Masters Champion 2020 #dj #dustinjohnson #amazing #pgatour #pga #europeantour #rydercup #golf #golfworld #golflife\u2026 https://t.co/5euHsyhMVW",
+                "TweetLink": "1328090136895246336",
+                "Place": "Palma",
+                "Time": "Sun Nov 15 21:38:58 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.769968,
+                    39.391698
+                ]
+            }
         }
     ]
 }
