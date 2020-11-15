@@ -144,6 +144,30 @@
                     32.8198585
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1126582679842041856/lesOJNea_normal.jpg",
+                "Name": "Ben Smith",
+                "Handle": "BenSmithBend",
+                "Tweet": "@DJohnsonPGA biggest victory today was not letting Jim Nantz make him cry in Butler Cabin. Good on you Dustin. I wo\u2026 https://t.co/s6hHHYgQzC",
+                "TweetLink": "1328070680198475777",
+                "Place": "Bend",
+                "Time": "Sun Nov 15 20:21:39 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.311582,
+                    44.059938
+                ]
+            }
         }
     ]
 }
