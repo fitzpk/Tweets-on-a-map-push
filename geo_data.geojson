@@ -216,6 +216,30 @@
                     26.527285
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "\ud83d\udc4dSolid week for @kevinna915 (T-13th) @themasters \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf2 #koreangolfnews #pgatour #themasters #pga #golf\u2026 https://t.co/BI0XFbckA8",
+                "TweetLink": "1328077195047096320",
+                "Place": "Augusta",
+                "Time": "Sun Nov 15 20:47:32 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.063185,
+                    33.4407175
+                ]
+            }
         }
     ]
 }
