@@ -96,6 +96,30 @@
                     33.4407175
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1249350591492612097/kpDykBdm_normal.jpg",
+                "Name": "Teetalk",
+                "Handle": "teetalktom",
+                "Tweet": "#pgatour #dustinjohnson #themastets #newenglandgolf Winner\u2019s Circle: Dustin Johnson Claims Masters Victory\u2026 https://t.co/rCOt3K78q5",
+                "TweetLink": "1328068463705911302",
+                "Place": "Dedham",
+                "Time": "Sun Nov 15 20:12:50 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1839105,
+                    42.2445985
+                ]
+            }
         }
     ]
 }
