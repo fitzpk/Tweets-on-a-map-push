@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
-                "Name": "Will O'Donoghue",
-                "Handle": "Will_ODonoghue",
-                "Tweet": "Hole Locations for today\u2019s 3rd Round, aka \u2018Moving Day\u2019, of the 2020 @TheMasters Golf Tournament. \u26f3\ufe0f\ud83c\udf38\ud83c\udf40 #TheMasters\u2026 https://t.co/LDSMCZR2BX",
-                "TweetLink": "1327690661609562119",
-                "Place": "Augusta",
-                "Time": "Sat Nov 14 19:11:35 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.063185,
-                    33.4407175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1249350591492612097/kpDykBdm_normal.jpg",
                 "Name": "Teetalk",
                 "Handle": "teetalktom",
