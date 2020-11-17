@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/941315479024660481/D66rFcD0_normal.jpg",
-                "Name": "Lamberhurst GolfClub",
-                "Handle": "LamberhurstGolf",
-                "Tweet": "Congratulations Mr Johnson \u26f3\ufe0f\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f#themasters #dustinjohnson #pgatour @ Lamberhurst Golf Club https://t.co/KqzyALFjfz",
-                "TweetLink": "1328074274545029122",
-                "Place": "South East",
-                "Time": "Sun Nov 15 20:35:56 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.252754,
-                    51.3854455
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
                 "Name": "The Fit Golfer Girl",
                 "Handle": "fitgolfergirl",
