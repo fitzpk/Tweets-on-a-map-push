@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1315309564573745152/YNGmK1L7_normal.jpg",
+                "Name": "KIMBROPLAYS",
+                "Handle": "KimbroPlays",
+                "Tweet": "Season 2 finale is up on the YouTube channel!\n\nhttps://t.co/rrDMULU0Hn | #golf #pga2k21 #careermode #golfer\u2026 https://t.co/1vM6rDDpnY",
+                "TweetLink": "1329089924314791939",
+                "Place": "Hilliard",
+                "Time": "Wed Nov 18 15:51:45 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1433925,
+                    40.0408125
+                ]
+            }
+        }
+    ]
 }
