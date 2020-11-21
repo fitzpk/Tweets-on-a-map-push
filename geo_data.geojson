@@ -7,30 +7,6 @@
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
                 "Name": "Korean Golf News",
                 "Handle": "KoreanGolfNews",
-                "Tweet": "@sungjaeim330 &amp; @jameshahnpga (E) @pgatour @thersmclassic \ud83d\ude09\ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf2 #koreangolfnews #pgatour #golf #pga\u2026 https://t.co/dDtakeKrzU",
-                "TweetLink": "1329570092879908865",
-                "Place": "Georgia",
-                "Time": "Thu Nov 19 23:39:47 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.1738665,
-                    32.6782075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
-                "Name": "Korean Golf News",
-                "Handle": "KoreanGolfNews",
                 "Tweet": "@johnhuh21 (-5) @dougghim (-4) @pgatour @thersmclassic \ud83d\ude09\ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf2 #koreangolfnews #pgatour #golf #pga #instagolf\u2026 https://t.co/MNCLABWbm9",
                 "TweetLink": "1329938222089166857",
                 "Place": "Georgia",
