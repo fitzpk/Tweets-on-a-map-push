@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1269414358704173057/KN16USIh_normal.jpg",
-                "Name": "John Klingenstein",
-                "Handle": "klingensteinj",
-                "Tweet": "Nice moment this week at the #pgatour\u2019s #mayakobaclassic when the bridge between the 16th and 17th holes was was de\u2026 https://t.co/ZZPISiRLuR",
-                "TweetLink": "1334694953642057734",
-                "Place": "Franklin",
-                "Time": "Fri Dec 04 03:04:09 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.4077465,
-                    42.078873
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1328341993337073665/-7q6x93E_normal.jpg",
                 "Name": "Rusty Hale\ud83c\uddfa\ud83c\uddf8",
                 "Handle": "RustyHale1966",
