@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1328341993337073665/-7q6x93E_normal.jpg",
-                "Name": "Rusty Hale\ud83c\uddfa\ud83c\uddf8",
-                "Handle": "RustyHale1966",
-                "Tweet": "I \ud83d\udc40 #Dufdaddy on the leader board of the #MayakobaGolfClassic #Dufmas #pgatour Good luck this weekend! @JasonDufner",
-                "TweetLink": "1334955603249270784",
-                "Place": "Virginia",
-                "Time": "Fri Dec 04 20:19:52 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.420865,
-                    38.0033755
-                ]
-            }
-        }
-    ]
+    "features": []
 }
