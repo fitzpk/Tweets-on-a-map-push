@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/854566902110109696/7K5yE9aG_normal.jpg",
+                "Name": "The Golf Station",
+                "Handle": "thegolfstation",
+                "Tweet": "Going above and beyond to make Christmas dreams come true! #GetGolfStationFit #Younext #instagolf #golfstagram\u2026 https://t.co/obkxcltEmS",
+                "TweetLink": "1338957484594225165",
+                "Place": "Hurst",
+                "Time": "Tue Dec 15 21:21:55 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1742045,
+                    32.8467245
+                ]
+            }
+        }
+    ]
 }
