@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1245126169281740806/-SdjkVXe_normal.jpg",
-                "Name": "Brent Weisflock",
-                "Handle": "bweisflock25",
-                "Tweet": "\ud83e\udd9a.... so if I do the math here... \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f why not just make it easy to watch golf.",
-                "TweetLink": "1339326988088066051",
-                "Place": "Edmonton",
-                "Time": "Wed Dec 16 21:50:12 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -113.4926175,
-                    53.5558195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/829157104954904576/hXfgQzYg_normal.jpg",
                 "Name": "JOX SPORTS\u26f3",
                 "Handle": "JOXSports",
