@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/829157104954904576/hXfgQzYg_normal.jpg",
-                "Name": "JOX SPORTS\u26f3",
-                "Handle": "JOXSports",
-                "Tweet": "LATEST DETAILS REGARDING... @WMPhoenixOpen Spectators \n#azgolf #pgatour #WMPhoenixOpen \nhttps://t.co/2R8Enaz2iU",
-                "TweetLink": "1339331186095636480",
-                "Place": "Prescott",
-                "Time": "Wed Dec 16 22:06:52 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -112.45553,
-                    34.569472
-                ]
-            }
-        }
-    ]
+    "features": []
 }
