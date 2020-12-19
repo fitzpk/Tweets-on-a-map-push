@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1073605075556335616/QgV403h-_normal.jpg",
-                "Name": "Cara Banks",
-                "Handle": "CaraBanksGC",
-                "Tweet": "Fun to talk to this team while in Houston for @uswomensopen last week \ud83c\udfa7",
-                "TweetLink": "1339780954567684096",
-                "Place": "Orlando",
-                "Time": "Fri Dec 18 03:54:06 +0000 2020",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.3677725,
-                    28.5016785
-                ]
-            }
-        }
-    ]
+    "features": []
 }
