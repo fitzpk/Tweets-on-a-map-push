@@ -48,6 +48,30 @@
                     31.1688935
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/716328704335589384/l8mc0F6M_normal.jpg",
+                "Name": "Ben Leaver",
+                "Handle": "benjl69",
+                "Tweet": "Mandolorian then Charlie and Tiger, 2020 looking up #Mandolarian #PGATour",
+                "TweetLink": "1340437318998450178",
+                "Place": "Melbourne",
+                "Time": "Sat Dec 19 23:22:15 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0531355,
+                    -37.9725665
+                ]
+            }
         }
     ]
 }
