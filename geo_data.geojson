@@ -24,6 +24,30 @@
                     37.822244
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1319060804357050369/M9ME9_fY_normal.jpg",
+                "Name": "Thomas H Valdez",
+                "Handle": "hawkeyegolf",
+                "Tweet": "The excitement is so big around Charlie Woods. As a dad what makes me smile the most is watching @TigerWoods as a d\u2026 https://t.co/omziVTMAH6",
+                "TweetLink": "1340431730709295105",
+                "Place": "Texas",
+                "Time": "Sat Dec 19 23:00:03 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.0768885,
+                    31.1688935
+                ]
+            }
         }
     ]
 }
