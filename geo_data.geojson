@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "100 Days til the 2021 @TheMasters Golf Tournament! \ud83c\udf3a\u26f3\ufe0f #TheMasters #AugustaNational #ATraditionUnlikeAnyOther #PGA\u2026 https://t.co/VR4HQbDegf",
+                "TweetLink": "1343329890205126667",
+                "Place": "Augusta",
+                "Time": "Sun Dec 27 22:56:18 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.063185,
+                    33.4407175
+                ]
+            }
+        }
+    ]
 }
