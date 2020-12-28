@@ -24,6 +24,30 @@
                     33.4407175
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1037370469777907714/q9iAInUS_normal.jpg",
+                "Name": "Eddie Fernandes",
+                "Handle": "FastEddie480",
+                "Tweet": "Great job pal! #awesome #growthmindset",
+                "TweetLink": "1343632197241233408",
+                "Place": "Florida",
+                "Time": "Mon Dec 28 18:57:33 +0000 2020",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.804475,
+                    27.698682
+                ]
+            }
         }
     ]
 }
