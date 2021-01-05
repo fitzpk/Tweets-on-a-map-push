@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
-                "Name": "Korean Golf News",
-                "Handle": "KoreanGolfNews",
-                "Tweet": "Swinging in America \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\u200d\u2642\ufe0f#korea #pgatour #golf #pga #instagolf #golfing #media #korea @progolfswings @ United St\u2026 https://t.co/RajMCZo3Xq",
-                "TweetLink": "1345921101705207808",
-                "Place": "Boston",
-                "Time": "Mon Jan 04 02:32:51 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.0887125,
-                    42.3136695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1345383305810767872/UzSCmVTP_normal.jpg",
                 "Name": "STS Golf",
                 "Handle": "STSGolf1",
