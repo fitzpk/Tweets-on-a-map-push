@@ -72,6 +72,30 @@
                     35.0838255
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1318722279208005633/FeNxCJWS_normal.jpg",
+                "Name": "Sean",
+                "Handle": "Sean_L_Brooks",
+                "Tweet": "@amandagolf59 Thanks because I\u2019ve forgotten with all that\u2019s happened this week. #golf #PGATour #ThursdayThoughts",
+                "TweetLink": "1347265150072614914",
+                "Place": "Randallstown",
+                "Time": "Thu Jan 07 19:33:37 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.794891,
+                    39.368037
+                ]
+            }
         }
     ]
 }
