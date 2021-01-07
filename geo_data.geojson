@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1140364434839363586/7WKM-C3s_normal.jpg",
-                "Name": "Brent Martineau",
-                "Handle": "BrentASJax",
-                "Tweet": "Part of the Dream 18 Card for discounted golf. Check it out at https://t.co/ejenFiTi1h",
-                "TweetLink": "1346843786878582786",
-                "Place": "Florida",
-                "Time": "Wed Jan 06 15:39:16 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.804475,
-                    27.698682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
                 "Name": "Will O'Donoghue",
                 "Handle": "Will_ODonoghue",
