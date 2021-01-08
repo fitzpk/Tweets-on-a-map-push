@@ -216,6 +216,30 @@
                     33.901311
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/730121665586319360/d-FPykKV_normal.jpg",
+                "Name": "thomas lewis",
+                "Handle": "tommylewis92",
+                "Tweet": "Happy Gilmore proving that distance is everything to get on the tour #PGATour #HappyGilmore",
+                "TweetLink": "1347546307565645825",
+                "Place": "Nuneaton",
+                "Time": "Fri Jan 08 14:10:50 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4813515,
+                    52.516657
+                ]
+            }
         }
     ]
 }
