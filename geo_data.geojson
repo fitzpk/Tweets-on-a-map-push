@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
-                "Name": "Will O'Donoghue",
-                "Handle": "Will_ODonoghue",
-                "Tweet": "@PGATour Stats Leaders for 2020. #PGATour #Stats #PGA #Golf https://t.co/JYMMjsrpqG",
-                "TweetLink": "1346905007061348353",
-                "Place": "Lake Park",
-                "Time": "Wed Jan 06 19:42:32 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.633465,
-                    35.0838255
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1318722279208005633/FeNxCJWS_normal.jpg",
                 "Name": "Sean",
                 "Handle": "Sean_L_Brooks",
