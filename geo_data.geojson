@@ -120,6 +120,30 @@
                     53.9092525
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1088581463182782464/2tBUCG0I_normal.jpg",
+                "Name": "Mike Onn",
+                "Handle": "mike_onn",
+                "Tweet": "People of greater Brisbane. NFL all day Sunday &amp; Monday. Test cricket. Golf in Hawaii. Horse racing. Bbl all weeken\u2026 https://t.co/Qm3GuxwQ6Z",
+                "TweetLink": "1347334983589928964",
+                "Place": "Gold Coast",
+                "Time": "Fri Jan 08 00:11:07 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.3693615,
+                    -27.9542215
+                ]
+            }
         }
     ]
 }
