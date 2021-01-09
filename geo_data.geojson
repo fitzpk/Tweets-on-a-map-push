@@ -144,6 +144,30 @@
                     20.9980275
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "@Harris_English has a 2 shot lead after 2 Rounds of the @Sentry_TOC at the Plantation Course at Kapalua. \u26f3\ufe0f #PGA\u2026 https://t.co/Iy25OC1VkO",
+                "TweetLink": "1347921485730619399",
+                "Place": "Kapalua",
+                "Time": "Sat Jan 09 15:01:40 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -156.6574085,
+                    20.9980275
+                ]
+            }
         }
     ]
 }
