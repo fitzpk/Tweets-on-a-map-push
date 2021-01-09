@@ -264,6 +264,30 @@
                     35.209059
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/515366992786628608/7E-cSA5q_normal.jpeg",
+                "Name": "Robert Byrne",
+                "Handle": "robertbyrneoz",
+                "Tweet": "Stop saying @b_dechambeau is \u201cbreaking\u201d golf or it\u2019s an unfair fight. The bloke isn\u2019t even leading the tournament!\u2026 https://t.co/0LkOgVadUR",
+                "TweetLink": "1347739951241207809",
+                "Place": "Sydney",
+                "Time": "Sat Jan 09 03:00:18 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.931975,
+                    -33.848244
+                ]
+            }
         }
     ]
 }
