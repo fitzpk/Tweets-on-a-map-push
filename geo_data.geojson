@@ -240,6 +240,30 @@
                     32.8479465
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "58 years ago Jack Nicklaus earned $33.33 in his 1st pro tournament. My, how times have changed! #JackNicklaus\u2026 https://t.co/Ybc1kUk7fH",
+                "TweetLink": "1347729332144386048",
+                "Place": "Charlotte",
+                "Time": "Sat Jan 09 02:18:07 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8467855,
+                    35.209059
+                ]
+            }
         }
     ]
 }
