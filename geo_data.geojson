@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1326237487791022080/sWo-lwoL_normal.jpg",
-                "Name": "Nick Bradley",
-                "Handle": "THENICKBRADLEY",
-                "Tweet": "@ClubProGuy @aboutGOLF_ So great to see you wearing your @sqairz golf shoes Club Pro Guy.\n\nThat\u2019s your feet sorted\u2026 https://t.co/i7EPTwUGRn",
-                "TweetLink": "1347526355919974402",
-                "Place": "Sunset Beach",
-                "Time": "Fri Jan 08 12:51:33 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -78.5164375,
-                    33.901311
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/730121665586319360/d-FPykKV_normal.jpg",
                 "Name": "thomas lewis",
                 "Handle": "tommylewis92",
