@@ -96,6 +96,30 @@
                     33.901311
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
+                "Name": "Yatta Golf",
+                "Handle": "YattaGolf",
+                "Tweet": "The Sentry tournament is coming down to the wire! Justin Thomas is one shot from the lead with 5 holes left. #golf\u2026 https://t.co/4ojS2NJZCN",
+                "TweetLink": "1348411999781232640",
+                "Place": "Illinois",
+                "Time": "Sun Jan 10 23:30:47 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2665075,
+                    39.7393005
+                ]
+            }
         }
     ]
 }
