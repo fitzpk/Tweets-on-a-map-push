@@ -144,6 +144,30 @@
                     42.746617
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/926575049930354690/pzKFD4yK_normal.jpg",
+                "Name": "Strange Brew",
+                "Handle": "strangebrew101",
+                "Tweet": "@GolfCentral @GolfChannel Well, this is one way to change the subject after JTs comments over the wkd. Damage control engaged #PGATour",
+                "TweetLink": "1348749836112297984",
+                "Place": "Dover",
+                "Time": "Mon Jan 11 21:53:14 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.477839,
+                    40.5150695
+                ]
+            }
         }
     ]
 }
