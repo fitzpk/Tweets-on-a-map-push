@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
-                "Name": "Will O'Donoghue",
-                "Handle": "Will_ODonoghue",
-                "Tweet": "Hole locations for today\u2019s Final Round of the @Sentry_TOC at the Plantation Course at Kapalua. \u26f3\ufe0f #PGA #Golf\u2026 https://t.co/RhjWWWyoy6",
-                "TweetLink": "1348360505048629260",
-                "Place": "Kapalua",
-                "Time": "Sun Jan 10 20:06:10 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -156.6574085,
-                    20.9980275
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/920558452/twitter_normal.jpg",
                 "Name": "Daniel Burapavong \ud83c\udfae",
                 "Handle": "TD2timeMVP",
