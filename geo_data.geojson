@@ -48,6 +48,30 @@
                     33.2824505
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
+                "Name": "Yatta Golf",
+                "Handle": "YattaGolf",
+                "Tweet": "The @SonyOpenHawaii is coming up this weekend. I\u2019d give anything to get out there, seeing those beautiful greens on\u2026 https://t.co/Yay1lpPTd6",
+                "TweetLink": "1349116055524765696",
+                "Place": "Illinois",
+                "Time": "Tue Jan 12 22:08:27 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2665075,
+                    39.7393005
+                ]
+            }
         }
     ]
 }
