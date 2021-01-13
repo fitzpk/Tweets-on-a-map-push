@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/532005762391080960/tvKJI9dj_normal.jpeg",
-                "Name": "Lynda Jones",
-                "Handle": "JonesRammer61",
-                "Tweet": "Thank you Bill Belichick for have the CAHONAS to refuse the presidential medal of from from Donald Trump. I only wi\u2026 https://t.co/CoyRhf2vTU",
-                "TweetLink": "1348807571621117954",
-                "Place": "Chandler",
-                "Time": "Tue Jan 12 01:42:39 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -111.8808735,
-                    33.2824505
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
                 "Name": "Yatta Golf",
                 "Handle": "YattaGolf",
