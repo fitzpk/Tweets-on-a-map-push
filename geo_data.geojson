@@ -168,6 +168,30 @@
                     33.4407175
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1082358591376355328/h3Sksa_l_normal.jpg",
+                "Name": "Michael",
+                "Handle": "davezavu",
+                "Tweet": "@briantylercohen Add to that, the #PGA removing him from it\u2019s #PGATour. #BillBelichick of the #NewEngland #Patriots\u2026 https://t.co/3pleiwkogG",
+                "TweetLink": "1349477180481232896",
+                "Place": "Carlsbad",
+                "Time": "Wed Jan 13 22:03:26 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.2879235,
+                    33.121484
+                ]
+            }
         }
     ]
 }
