@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1224810740776951808/fsGA2dqF_normal.jpg",
-                "Name": "Iain Lowdean",
-                "Handle": "IainLowdeanPGA",
-                "Tweet": "Great to see Europeans up there leading the way!! @europeantour #stats \n\n.\n.\n.\n.\n.\n#pga #pgatour @mattfitz94\u2026 https://t.co/oYKfo6YMSq",
-                "TweetLink": "1349410304447442947",
-                "Place": "Augusta",
-                "Time": "Wed Jan 13 17:37:42 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.063185,
-                    33.4407175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1082358591376355328/h3Sksa_l_normal.jpg",
                 "Name": "Michael",
                 "Handle": "davezavu",
