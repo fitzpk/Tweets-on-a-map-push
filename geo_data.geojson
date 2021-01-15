@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1429928019/14mIr6DM_normal",
-                "Name": "Joe A. Rodriguez",
-                "Handle": "jrodin915",
-                "Tweet": "@K_Kisner quickly climbing the charts on his way to one of my Top 5 players on Tour. #PGATour",
-                "TweetLink": "1349483648626675712",
-                "Place": "El Paso",
-                "Time": "Wed Jan 13 22:29:08 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -106.4174305,
-                    31.793368
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1105653936063549440/C1gjF_b6_normal.png",
                 "Name": "Dr. Stuart Love",
                 "Handle": "theHealthyGolfr",
