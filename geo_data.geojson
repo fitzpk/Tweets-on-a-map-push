@@ -120,6 +120,30 @@
                     21.3199435
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/893142253253738497/Idegi72i_normal.jpg",
+                "Name": "J-DOGG",
+                "Handle": "JaredAndela",
+                "Tweet": "Looking forward to the @SonyOpenHawaii #PGATour",
+                "TweetLink": "1349905882713350145",
+                "Place": "Branson",
+                "Time": "Fri Jan 15 02:26:57 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2662515,
+                    36.6548395
+                ]
+            }
         }
     ]
 }
