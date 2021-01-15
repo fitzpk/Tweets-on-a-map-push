@@ -168,6 +168,54 @@
                     41.703775
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1336381730807304192/jVw4HDne_normal.jpg",
+                "Name": "Kit Mann",
+                "Handle": "fringegolfcast",
+                "Tweet": "Ok... Episode 1 is up!!!\nhttps://t.co/FMFMUc34gl\n\n#golfing #golf #golfer #golflife #golfswing #golfstagram\u2026 https://t.co/Oy8cvbEXXu",
+                "TweetLink": "1350200501413974017",
+                "Place": "Oregon",
+                "Time": "Fri Jan 15 21:57:39 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.5834015,
+                    44.1454365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1330536546139844608/vE390C_4_normal.jpg",
+                "Name": "Cody",
+                "Handle": "Codeman209",
+                "Tweet": "Putt preview.....SMH",
+                "TweetLink": "1350200783799635970",
+                "Place": "Patterson",
+                "Time": "Fri Jan 15 21:58:47 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.1358805,
+                    37.48521
+                ]
+            }
         }
     ]
 }
