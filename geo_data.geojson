@@ -120,6 +120,30 @@
                     21.3199435
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1048929083688542208/yxl6Uerq_normal.jpg",
+                "Name": "DKT Sports",
+                "Handle": "dkt_sports",
+                "Tweet": "2021 Sony Open in Hawaii Preview\n.\nhttps://t.co/dbdkDkWrAX\n.\n#dktsports \n#sonyopenhawaii #sonyopen #pga\u2026 https://t.co/FTlXhooX4y",
+                "TweetLink": "1349925655866032132",
+                "Place": "Hawaii",
+                "Time": "Fri Jan 15 03:45:31 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -166.5996925,
+                    23.6913645
+                ]
+            }
         }
     ]
 }
