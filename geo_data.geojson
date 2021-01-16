@@ -192,6 +192,30 @@
                     37.48521
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1336381730807304192/jVw4HDne_normal.jpg",
+                "Name": "Kit Mann",
+                "Handle": "fringegolfcast",
+                "Tweet": "We only need 69 (NICE) more followers before the giveaway....\n\n#golfing #golf #golfer #golflife #golfswing\u2026 https://t.co/xWTELmFWR5",
+                "TweetLink": "1350284430955331587",
+                "Place": "Oregon",
+                "Time": "Sat Jan 16 03:31:10 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.5834015,
+                    44.1454365
+                ]
+            }
         }
     ]
 }
