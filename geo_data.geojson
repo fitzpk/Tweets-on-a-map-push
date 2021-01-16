@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1105653936063549440/C1gjF_b6_normal.png",
-                "Name": "Dr. Stuart Love",
-                "Handle": "theHealthyGolfr",
-                "Tweet": "The sun rises \ud83c\udf05 on a new day...AND we\u2019re off!\n#SonyOpenHawaii is underway at #WaialaeCountryClub!\nBring on the golf\u2026 https://t.co/0Lt3NxbotW",
-                "TweetLink": "1349833649743511552",
-                "Place": "Honolulu",
-                "Time": "Thu Jan 14 21:39:55 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -157.799589,
-                    21.3199435
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
                 "Name": "Korean Golf News",
                 "Handle": "KoreanGolfNews",
