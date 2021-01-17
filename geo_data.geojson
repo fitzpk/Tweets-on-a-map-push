@@ -24,6 +24,30 @@
                     21.3199435
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "Hole locations for today\u2019s Final Round of the @SonyOpenHawaii at the Waialae Country Club in Honolulu. \u26f3\ufe0f #PGA\u2026 https://t.co/KLrsjivECG",
+                "TweetLink": "1350901350322872330",
+                "Place": "Honolulu",
+                "Time": "Sun Jan 17 20:22:35 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.799589,
+                    21.3199435
+                ]
+            }
         }
     ]
 }
