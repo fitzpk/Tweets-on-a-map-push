@@ -72,6 +72,30 @@
                     33.7661365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1336381730807304192/jVw4HDne_normal.jpg",
+                "Name": "Kit Mann",
+                "Handle": "fringegolfcast",
+                "Tweet": "Just 16 more to go..... And wait then we'll countdown to the next giveaway.\n\n#golfing #golf #golfer #golflife\u2026 https://t.co/wkfl758XuK",
+                "TweetLink": "1351301965708312576",
+                "Place": "Oregon",
+                "Time": "Mon Jan 18 22:54:29 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.5834015,
+                    44.1454365
+                ]
+            }
         }
     ]
 }
