@@ -72,6 +72,30 @@
                     44.1454365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1287191384236138503/j8xbuvFR_normal.jpg",
+                "Name": "Phil Stiefel",
+                "Handle": "Beardaknowledge",
+                "Tweet": "All new show\nFairway to Heaven \n\n#pga #PGATour #fantasygolf #DraftKings \n@heatratiosports @AATBirds @AthletesHub\u2026 https://t.co/fIY5SAiEaj",
+                "TweetLink": "1351349290388619264",
+                "Place": "Pennsylvania",
+                "Time": "Tue Jan 19 02:02:32 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
         }
     ]
 }
