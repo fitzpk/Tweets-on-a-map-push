@@ -96,6 +96,30 @@
                     39.462172
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1345383305810767872/UzSCmVTP_normal.jpg",
+                "Name": "STS Golf",
+                "Handle": "STSGolf1",
+                "Tweet": "Is anything better than Golf at Sunset?\n\n#golfing #golf #golfer #golflife #golfswing #golfstagram #golfcourse\u2026 https://t.co/RLmlcw8IIf",
+                "TweetLink": "1351647986875510788",
+                "Place": "Milton Keynes",
+                "Time": "Tue Jan 19 21:49:27 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7640635,
+                    52.033567
+                ]
+            }
         }
     ]
 }
