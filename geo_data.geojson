@@ -72,6 +72,30 @@
                     3.1565125
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/560132950516199426/Ptgd77dj_normal.jpeg",
+                "Name": "Sam Moynihan",
+                "Handle": "sam_moynihan",
+                "Tweet": "Love seeing the leadership @Cody_Trunkle &amp; @BenWord5 building the new drop zone tee on #8 #TheseGuysAreGood\u2026 https://t.co/1D8YbOBVHp",
+                "TweetLink": "1351583343196975109",
+                "Place": "Caves Valley Golf Club",
+                "Time": "Tue Jan 19 17:32:34 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.743589,
+                    39.462172
+                ]
+            }
         }
     ]
 }
