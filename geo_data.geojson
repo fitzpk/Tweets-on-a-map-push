@@ -48,6 +48,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/745512711241359360/0SDiednb_normal.jpg",
+                "Name": "David Wong",
+                "Handle": "davidwpy",
+                "Tweet": "Some news update from @DeemplesGolf",
+                "TweetLink": "1351554301852839939",
+                "Place": "Sungai Buloh",
+                "Time": "Tue Jan 19 15:37:10 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.578495,
+                    3.1565125
+                ]
+            }
         }
     ]
 }
