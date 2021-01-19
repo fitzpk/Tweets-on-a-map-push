@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1343262398803795968/ibrhK8wv_normal.jpg",
-                "Name": "Mark Stoffel",
-                "Handle": "M_Stoffel1984",
-                "Tweet": "Kevin Na is a class act! #pgatour",
-                "TweetLink": "1350976079310299136",
-                "Place": "Red Hill",
-                "Time": "Mon Jan 18 01:19:31 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -78.976213,
-                    33.7661365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1336381730807304192/jVw4HDne_normal.jpg",
                 "Name": "Kit Mann",
                 "Handle": "fringegolfcast",
