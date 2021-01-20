@@ -120,6 +120,30 @@
                     36.232915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
+                "Name": "Yatta Golf",
+                "Handle": "YattaGolf",
+                "Tweet": "Tough news for @TigerWoods fans, he won\u2019t be playing in this year\u2019s Farmer\u2019s Insurance Open, or at the Genesis Invi\u2026 https://t.co/lu3gmNwIPL",
+                "TweetLink": "1351966919696535554",
+                "Place": "Illinois",
+                "Time": "Wed Jan 20 18:56:46 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2665075,
+                    39.7393005
+                ]
+            }
         }
     ]
 }
