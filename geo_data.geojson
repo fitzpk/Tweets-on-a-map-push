@@ -120,6 +120,30 @@
                     32.6782075
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3424476909/118327a30d8c1efa782beb7acd66cc99_normal.jpeg",
+                "Name": "Lee Jordan",
+                "Handle": "LeeJordan79",
+                "Tweet": "@rebeccaearl00 making some good improvements on her backswing @woffordwgolf @hertfordshiregolf @england.golf #usa\u2026 https://t.co/j5Ttsmk3Sp",
+                "TweetLink": "1352360408796049419",
+                "Place": "Carolina",
+                "Time": "Thu Jan 21 21:00:21 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.9573835,
+                    18.3589435
+                ]
+            }
         }
     ]
 }
