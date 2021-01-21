@@ -96,6 +96,30 @@
                     27.698682
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/963853240918921216/exgMQhx3_normal.jpg",
+                "Name": "Mountain View Seeds",
+                "Handle": "MtnView_Seeds",
+                "Tweet": "IT\u2019S GAMEDAY! MVS PRG &amp; Poa Triv grace both courses @theamexgolf today, &amp; the entire complex @PGAWESTGOLF! \n\nAll cr\u2026 https://t.co/rhyLwbDmZS",
+                "TweetLink": "1352308576434458625",
+                "Place": "Georgia",
+                "Time": "Thu Jan 21 17:34:23 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1738665,
+                    32.6782075
+                ]
+            }
         }
     ]
 }
