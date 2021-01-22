@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
-                "Name": "Korean Golf News",
-                "Handle": "KoreanGolfNews",
-                "Tweet": "Nicely positioned for the \ud83d\udcf8 \ud83d\udc40\ud83d\ude09 as 'The Kevin Na Express' chases down back to back \ud83c\udfc6's @theamexgolf @pga_west \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\u2026 https://t.co/QmHwmX7PCg",
-                "TweetLink": "1352035594717822979",
-                "Place": "La Quinta",
-                "Time": "Wed Jan 20 23:29:40 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -116.2781615,
-                    33.6680455
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1327372483738050560/NFx0S9YQ_normal.jpg",
                 "Name": "Mike in Boise",
                 "Handle": "BSUFan7",
