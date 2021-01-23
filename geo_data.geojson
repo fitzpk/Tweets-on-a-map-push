@@ -96,6 +96,30 @@
                     35.0838255
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/920558452/twitter_normal.jpg",
+                "Name": "Daniel Burapavong \ud83c\udfae",
+                "Handle": "TD2timeMVP",
+                "Tweet": "Another golf rule that should be changed, @USGA @RandA. Sorry, @matthew_wolff5. #PGATOUR\n\nhttps://t.co/7ZRJIzJOoE",
+                "TweetLink": "1353036088076627968",
+                "Place": "Durham",
+                "Time": "Sat Jan 23 17:45:16 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8954405,
+                    35.9909825
+                ]
+            }
         }
     ]
 }
