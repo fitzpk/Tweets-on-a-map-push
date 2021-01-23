@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1339056850965131265/wZjWI6Jz_normal.jpg",
-                "Name": "eric anderson",
-                "Handle": "pangea_FourFive",
-                "Tweet": "Is this real? Can I buy a ball like this today? My wallet could use a break.\n@TigerWoods @McIlroyRory @DJohnsonPGA\u2026 https://t.co/wEivhHP7Vr",
-                "TweetLink": "1352487834922303488",
-                "Place": "Burien",
-                "Time": "Fri Jan 22 05:26:42 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.347285,
-                    47.465059
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/925369734786363394/R0uO5lWy_normal.jpg",
                 "Name": "kraken golf",
                 "Handle": "krakengolf",
