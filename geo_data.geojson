@@ -96,6 +96,30 @@
                     33.5528625
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "@PhilMickelson just carded a round of 18 consecutive pars. \n\nIt's the first time he's achieved that feat in 2,201 r\u2026 https://t.co/OqqiM7g5kc",
+                "TweetLink": "1352862738180141057",
+                "Place": "Lake Park",
+                "Time": "Sat Jan 23 06:16:26 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.633465,
+                    35.0838255
+                ]
+            }
         }
     ]
 }
