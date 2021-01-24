@@ -96,6 +96,30 @@
                     46.730822
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/680892189107425280/1zzovQmg_normal.jpg",
+                "Name": "Evan Farha",
+                "Handle": "EFarha",
+                "Tweet": "Patrick Cantlay have a DAY! Absolute clinic out there #PGATour",
+                "TweetLink": "1353478342729740289",
+                "Place": "Travilah",
+                "Time": "Sun Jan 24 23:02:37 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.241208,
+                    39.0560385
+                ]
+            }
         }
     ]
 }
