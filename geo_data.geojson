@@ -72,6 +72,30 @@
                     33.6680455
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1291212884224045056/4MzpFGLV_normal.jpg",
+                "Name": "SteveWave",
+                "Handle": "stevewave",
+                "Tweet": "Go get it @maxhoma23!!  Wish I could be at @PGAWESTGOLF this week to watch in person.",
+                "TweetLink": "1353417352428146688",
+                "Place": "Meridian",
+                "Time": "Sun Jan 24 19:00:16 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.399697,
+                    43.6120725
+                ]
+            }
         }
     ]
 }
