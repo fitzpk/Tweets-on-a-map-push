@@ -96,6 +96,30 @@
                     43.6120725
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2934231106/946afe9f8f1482a6527ae871e1c1ee1e_normal.png",
+                "Name": "Rajiv Krishnan",
+                "Handle": "aarkay123",
+                "Tweet": "No PR curse excuse for Tony today. Get it done. #PGAtour",
+                "TweetLink": "1353440152689905665",
+                "Place": "Pullman",
+                "Time": "Sun Jan 24 20:30:52 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1542695,
+                    46.730822
+                ]
+            }
         }
     ]
 }
