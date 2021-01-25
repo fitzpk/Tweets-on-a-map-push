@@ -144,6 +144,30 @@
                     53.2735025
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2486061350/ljit9abiosyel5ocrouv_normal.jpeg",
+                "Name": "Mikey D",
+                "Handle": "miggalooch",
+                "Tweet": "BOOOM!! All of a sudden my #nfl bets magically turned to gravy. The Si is for YES!!! #ftw #PGATour\u2026 https://t.co/xOzUt3wZjR",
+                "TweetLink": "1353498180831342592",
+                "Place": "Rutherford",
+                "Time": "Mon Jan 25 00:21:27 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1030275,
+                    40.81686
+                ]
+            }
         }
     ]
 }
