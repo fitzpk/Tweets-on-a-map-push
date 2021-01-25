@@ -240,6 +240,30 @@
                     52.4939665
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/430342799821508609/x67Xt50q_normal.jpeg",
+                "Name": "Rich Moyer",
+                "Handle": "Rimoyer",
+                "Tweet": "When are you going to have an @JawsCEOQB show from Ramblewood golf course?",
+                "TweetLink": "1353772039107129345",
+                "Place": "Philadelphia",
+                "Time": "Mon Jan 25 18:29:40 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.117998,
+                    40.0048655
+                ]
+            }
         }
     ]
 }
