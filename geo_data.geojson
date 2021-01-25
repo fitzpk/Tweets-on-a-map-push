@@ -264,6 +264,30 @@
                     40.0048655
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg",
+                "Name": "Ed Coleman (He/Him)",
+                "Handle": "edcolemangolf",
+                "Tweet": "Starting to get concerned about @McIlroyRory \u2018s ability to close out a tournament. He\u2019s too world class to be a non\u2026 https://t.co/HvaQ6vda24",
+                "TweetLink": "1353845133679144960",
+                "Place": "South Burlington",
+                "Time": "Mon Jan 25 23:20:07 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.18414,
+                    44.4547525
+                ]
+            }
         }
     ]
 }
