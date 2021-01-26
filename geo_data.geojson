@@ -168,6 +168,30 @@
                     42.9847445
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/502824086738075648/wWU_N168_normal.jpeg",
+                "Name": "Mike Ryan",
+                "Handle": "mryan311",
+                "Tweet": "Am I crazy to ask that the @PGATOUR and @PGA get together and use the Presidents Cup as a place to groom future Ryd\u2026 https://t.co/PPR49RlEs2",
+                "TweetLink": "1354117119949082627",
+                "Place": "Greenwich",
+                "Time": "Tue Jan 26 17:20:54 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.63941,
+                    41.050217
+                ]
+            }
         }
     ]
 }
