@@ -240,6 +240,30 @@
                     44.4547525
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/925369734786363394/R0uO5lWy_normal.jpg",
+                "Name": "kraken golf",
+                "Handle": "krakengolf",
+                "Tweet": "First titanium neck ... can you guess how not will be finished? #krakengolf #ti #titaniumneck #golfstagram\u2026 https://t.co/I5TD68hVBq",
+                "TweetLink": "1353897945050083328",
+                "Place": "Acushnet",
+                "Time": "Tue Jan 26 02:49:58 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9112125,
+                    41.703775
+                ]
+            }
         }
     ]
 }
