@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/680892189107425280/1zzovQmg_normal.jpg",
-                "Name": "Evan Farha",
-                "Handle": "EFarha",
-                "Tweet": "Patrick Cantlay have a DAY! Absolute clinic out there #PGATour",
-                "TweetLink": "1353478342729740289",
-                "Place": "Travilah",
-                "Time": "Sun Jan 24 23:02:37 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.241208,
-                    39.0560385
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1291659966378651650/78TlPdTv_normal.jpg",
-                "Name": "Mark",
-                "Handle": "jacko_mark",
-                "Tweet": "@tonyfinaugolf wets his bed #pgatour #americanexpress #passiton",
-                "TweetLink": "1353479844554821634",
-                "Place": "South Dublin",
-                "Time": "Sun Jan 24 23:08:36 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -6.399521,
-                    53.2735025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2486061350/ljit9abiosyel5ocrouv_normal.jpeg",
                 "Name": "Mikey D",
                 "Handle": "miggalooch",
