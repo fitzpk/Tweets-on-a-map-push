@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/768155965334163456/N3hiGTbF_normal.jpg",
-                "Name": "Lee Brotherhood",
-                "Handle": "LBrotherhoodPGA",
-                "Tweet": "A victory for the @callawaygolfeu Epic Speed at The American Express! \ud83c\udfc6\nOur full custom fitting solution will be re\u2026 https://t.co/JW7vHdCU2W",
-                "TweetLink": "1353764539943288834",
-                "Place": "Birmingham",
-                "Time": "Mon Jan 25 17:59:52 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.8906405,
-                    52.4939665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/430342799821508609/x67Xt50q_normal.jpeg",
                 "Name": "Rich Moyer",
                 "Handle": "Rimoyer",
