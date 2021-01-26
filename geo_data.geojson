@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1329557397728268288/QpZ5-tho_normal.jpg",
-                "Name": "TourBet",
-                "Handle": "Tour_bet",
-                "Tweet": "Congratulations @siwookim_official \n\n3rd Tour title in the bag \n\n\u26f3\ufe0f : FOLLOW @tour_bet for more : \n#golf #pga\u2026 https://t.co/SOvppSYoaM",
-                "TweetLink": "1353500627356291078",
-                "Place": "La Quinta",
-                "Time": "Mon Jan 25 00:31:11 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -116.2781615,
-                    33.6680455
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
                 "Name": "Korean Golf News",
                 "Handle": "KoreanGolfNews",
