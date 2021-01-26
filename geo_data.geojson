@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1291212884224045056/4MzpFGLV_normal.jpg",
-                "Name": "SteveWave",
-                "Handle": "stevewave",
-                "Tweet": "Go get it @maxhoma23!!  Wish I could be at @PGAWESTGOLF this week to watch in person.",
-                "TweetLink": "1353417352428146688",
-                "Place": "Meridian",
-                "Time": "Sun Jan 24 19:00:16 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -116.399697,
-                    43.6120725
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2934231106/946afe9f8f1482a6527ae871e1c1ee1e_normal.png",
-                "Name": "Rajiv Krishnan",
-                "Handle": "aarkay123",
-                "Tweet": "No PR curse excuse for Tony today. Get it done. #PGAtour",
-                "TweetLink": "1353440152689905665",
-                "Place": "Pullman",
-                "Time": "Sun Jan 24 20:30:52 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.1542695,
-                    46.730822
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/680892189107425280/1zzovQmg_normal.jpg",
                 "Name": "Evan Farha",
                 "Handle": "EFarha",
