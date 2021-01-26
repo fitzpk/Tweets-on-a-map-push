@@ -144,6 +144,30 @@
                     35.8305215
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1164541517555482625/D_d7-2fc_normal.jpg",
+                "Name": "JimmyJam #falnation",
+                "Handle": "jimmyjamny",
+                "Tweet": "Nuttin but \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+                "TweetLink": "1354100310411780097",
+                "Place": "Malta",
+                "Time": "Tue Jan 26 16:14:06 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7908615,
+                    42.9847445
+                ]
+            }
         }
     ]
 }
