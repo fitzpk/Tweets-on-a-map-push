@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1164541517555482625/D_d7-2fc_normal.jpg",
-                "Name": "JimmyJam #falnation",
-                "Handle": "jimmyjamny",
-                "Tweet": "Nuttin but \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
-                "TweetLink": "1354100310411780097",
-                "Place": "Malta",
-                "Time": "Tue Jan 26 16:14:06 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.7908615,
-                    42.9847445
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/502824086738075648/wWU_N168_normal.jpeg",
                 "Name": "Mike Ryan",
                 "Handle": "mryan311",
@@ -166,6 +142,30 @@
                 "coordinates": [
                     -86.1429225,
                     39.7795625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1203728628191834114/w4UiCG3i_normal.jpg",
+                "Name": "rager_dutch",
+                "Handle": "Rager_Dutch",
+                "Tweet": "Let\u2019s get this shindig started!! Outright Winner Picks for the @FarmersInsOpen @Wager_Rager Golf is BACK!!\u2026 https://t.co/sRdtVIqR5m",
+                "TweetLink": "1354538845602271232",
+                "Place": "Devon",
+                "Time": "Wed Jan 27 21:16:41 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.444661,
+                    40.0441085
                 ]
             }
         }
