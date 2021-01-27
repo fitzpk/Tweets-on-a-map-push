@@ -96,6 +96,30 @@
                     40.760591
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/83659023/jason_headshot_web_normal.JPG",
+                "Name": "Jason Black",
+                "Handle": "jasonablack",
+                "Tweet": "They have the best humor!  #PGATour",
+                "TweetLink": "1354487931763884037",
+                "Place": "Austin",
+                "Time": "Wed Jan 27 17:54:22 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.754724,
+                    30.3233455
+                ]
+            }
         }
     ]
 }
