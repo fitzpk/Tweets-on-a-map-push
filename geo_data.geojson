@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1285032007953719298/rc1QBicL_normal.jpg",
-                "Name": "Joe Nicely",
-                "Handle": "JoeNicely",
-                "Tweet": "Don\u2019t let the questionable guest stop you from checking out the @FarmersInsOpen edition of @preferredlines",
-                "TweetLink": "1354075333054619648",
-                "Place": "Tennessee",
-                "Time": "Tue Jan 26 14:34:51 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.9785995,
-                    35.8305215
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1164541517555482625/D_d7-2fc_normal.jpg",
                 "Name": "JimmyJam #falnation",
                 "Handle": "jimmyjamny",
