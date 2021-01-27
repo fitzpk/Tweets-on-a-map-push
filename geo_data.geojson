@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/925369734786363394/R0uO5lWy_normal.jpg",
-                "Name": "kraken golf",
-                "Handle": "krakengolf",
-                "Tweet": "First titanium neck ... can you guess how not will be finished? #krakengolf #ti #titaniumneck #golfstagram\u2026 https://t.co/I5TD68hVBq",
-                "TweetLink": "1353897945050083328",
-                "Place": "Acushnet",
-                "Time": "Tue Jan 26 02:49:58 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.9112125,
-                    41.703775
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1285032007953719298/rc1QBicL_normal.jpg",
-                "Name": "Joe Nicely",
-                "Handle": "JoeNicely",
-                "Tweet": "Had fun talking @FarmersInsOpen with my friends Joe &amp; Chad on their @preferredlines podcast! \n\nCheck it out to see\u2026 https://t.co/YeFu4O0yL8",
-                "TweetLink": "1353909430774063107",
-                "Place": "Knoxville",
-                "Time": "Tue Jan 26 03:35:37 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.9638415,
-                    35.9824705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1285032007953719298/rc1QBicL_normal.jpg",
                 "Name": "Joe Nicely",
                 "Handle": "JoeNicely",
