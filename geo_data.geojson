@@ -168,6 +168,30 @@
                     32.810012
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000439560677/23ff4e3b41029a5de391656b0c63f742_normal.jpeg",
+                "Name": "Adrian Bennett",
+                "Handle": "BoomACB",
+                "Tweet": "That @McIlroyRory can play a bit of golf #FarmersInsuranceOpen #PGATour",
+                "TweetLink": "1354898177737043968",
+                "Place": "Silloth",
+                "Time": "Thu Jan 28 21:04:33 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3785255,
+                    54.873163
+                ]
+            }
         }
     ]
 }
