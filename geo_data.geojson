@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/3615102110/353b3b55de5afc7f54ba4a709f5b120c_normal.jpeg",
-                "Name": "Dick Kearns",
-                "Handle": "dickkearns",
-                "Tweet": "2020 @FarmersInsOpen ProAm; great day with @JordanSpieth on #TorreyPines South Course. Missing the @WeAreFarmers ex\u2026 https://t.co/Ivlalg4Dwe",
-                "TweetLink": "1354469495042174979",
-                "Place": "East Williston",
-                "Time": "Wed Jan 27 16:41:07 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.6331535,
-                    40.760591
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/83659023/jason_headshot_web_normal.JPG",
                 "Name": "Jason Black",
                 "Handle": "jasonablack",
