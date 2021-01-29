@@ -72,6 +72,30 @@
                     54.873163
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1326237487791022080/sWo-lwoL_normal.jpg",
+                "Name": "Nick Bradley",
+                "Handle": "THENICKBRADLEY",
+                "Tweet": "I want you golf teachers to watch this clip again &amp; again &amp; again.\n\nPlease observe Bubbas belt A. Staying level in\u2026 https://t.co/6bVuYFltqN",
+                "TweetLink": "1354973028585766914",
+                "Place": "Sunset Beach",
+                "Time": "Fri Jan 29 02:01:58 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5164375,
+                    33.901311
+                ]
+            }
         }
     ]
 }
