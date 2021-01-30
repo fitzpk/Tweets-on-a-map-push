@@ -360,6 +360,30 @@
                     53.3549025
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1334358622403317761/4znS6B2__normal.jpg",
+                "Name": "Trevor Cannon",
+                "Handle": "Tcannon008",
+                "Tweet": "Patrick Reed - see gif #PGATour https://t.co/3RhTBGQqhA",
+                "TweetLink": "1355657019345133573",
+                "Place": "North Salt Lake",
+                "Time": "Sat Jan 30 23:19:54 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.908219,
+                    40.8433015
+                ]
+            }
         }
     ]
 }
