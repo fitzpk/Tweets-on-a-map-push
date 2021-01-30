@@ -384,6 +384,30 @@
                     40.8433015
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1182777706678759424/guH6WzWR_normal.jpg",
+                "Name": "Denise Wilson",
+                "Handle": "Denisewilson47",
+                "Tweet": "Patrick Reed at it again! Cheats never prosper. Period. #PGATour #FarmersInsuranceOpen https://t.co/SR1Em7kCtG",
+                "TweetLink": "1355658665043369986",
+                "Place": "Dunfermline",
+                "Time": "Sat Jan 30 23:26:27 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.452863,
+                    56.06718
+                ]
+            }
         }
     ]
 }
