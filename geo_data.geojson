@@ -240,6 +240,30 @@
                     49.898776
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/894712043277864961/W-8RgBVq_normal.jpg",
+                "Name": "Dietmar Perez",
+                "Handle": "Steeldiet",
+                "Tweet": "#PGATOUR Patrick Reed should be DQ\u2019d for touching his ball and moving it prior to official deeming it embedded. His\u2026 https://t.co/d8kMmmWhh7",
+                "TweetLink": "1355643619340910600",
+                "Place": "Evans",
+                "Time": "Sat Jan 30 22:26:40 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.163663,
+                    33.536182
+                ]
+            }
         }
     ]
 }
