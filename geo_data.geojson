@@ -336,6 +336,30 @@
                     46.730822
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/814390473901113345/eyJ0k9KR_normal.jpg",
+                "Name": "Robin French",
+                "Handle": "Robin_Essex",
+                "Tweet": "Wow @PReedGolf ain't even hiding his cheating no more! Couldn't be more blatant. Should be DQ'd without a doubt!\u2026 https://t.co/wgocTMJcU8",
+                "TweetLink": "1355655485534445571",
+                "Place": "Dublin City",
+                "Time": "Sat Jan 30 23:13:49 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2476215,
+                    53.3549025
+                ]
+            }
         }
     ]
 }
