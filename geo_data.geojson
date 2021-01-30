@@ -72,6 +72,30 @@
                     37.499596
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/965794885348585472/Tpq7DcFd_normal.jpg",
+                "Name": "David Krzepicki",
+                "Handle": "krzepickidj",
+                "Tweet": "@GOLFonCBS debuting the role of an on-air rules analyst seems like a great choice with Patrick Reed in the lead! #PGATour",
+                "TweetLink": "1355612401010434054",
+                "Place": "Hoffman Estates",
+                "Time": "Sat Jan 30 20:22:37 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.151832,
+                    42.072284
+                ]
+            }
         }
     ]
 }
