@@ -288,6 +288,30 @@
                     -33.848244
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/502824086738075648/wWU_N168_normal.jpeg",
+                "Name": "Mike Ryan",
+                "Handle": "mryan311",
+                "Tweet": "Waiting on a Patrick Reed interview...does he or doesn\u2019t he? #golf #PGATour #golfoncbs",
+                "TweetLink": "1355653308652912641",
+                "Place": "Fairfield",
+                "Time": "Sat Jan 30 23:05:10 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.2781465,
+                    41.1746485
+                ]
+            }
         }
     ]
 }
