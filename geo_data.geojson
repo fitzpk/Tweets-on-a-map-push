@@ -168,6 +168,30 @@
                     31.1688935
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/753209264018161664/wAXkQDxd_normal.jpg",
+                "Name": "Ray Scott",
+                "Handle": "rayscott353",
+                "Tweet": "A dubious \"plugged\" ball and then claims a free drop by a green with a wide stance by a sprinkler when he then proc\u2026 https://t.co/epLGlcEqzb",
+                "TweetLink": "1355623481019346944",
+                "Place": "Waterford",
+                "Time": "Sat Jan 30 21:06:38 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.556151,
+                    52.150999
+                ]
+            }
         }
     ]
 }
