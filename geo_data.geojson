@@ -408,6 +408,54 @@
                     56.06718
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3185063190/1610b41a3f44f57640efd68ed8970982_normal.jpeg",
+                "Name": "Stephen Falcus",
+                "Handle": "s_falcus",
+                "Tweet": "Official: Patrick Reed leads the tour in Strokes Gained: Cheating\n#patrickreed \n#PGATour \n#reedcheats \n@NoLayingUp",
+                "TweetLink": "1355660264247537665",
+                "Place": "Newburn",
+                "Time": "Sat Jan 30 23:32:48 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.724596,
+                    54.988777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/512857464/Mike_small_square_normal.jpg",
+                "Name": "Michael High",
+                "Handle": "michaelhigh",
+                "Tweet": "How can anyone be a Patrick Reed fan? #PGATour",
+                "TweetLink": "1355660715399536643",
+                "Place": "Edmond",
+                "Time": "Sat Jan 30 23:34:36 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.455741,
+                    35.695222
+                ]
+            }
         }
     ]
 }
