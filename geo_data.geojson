@@ -48,6 +48,30 @@
                     30.27988
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1354101005026172929/oQPVBspS_normal.jpg",
+                "Name": "Erick Schlimmer",
+                "Handle": "stanfordpegolf",
+                "Tweet": "I am cheering hard for @tonyfinaugolf these days \ud83d\udc4f\ud83c\udfaf\ud83d\udcaa #pgatour",
+                "TweetLink": "1355602822394302470",
+                "Place": "Turlock",
+                "Time": "Sat Jan 30 19:44:33 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.8624785,
+                    37.499596
+                ]
+            }
         }
     ]
 }
