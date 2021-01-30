@@ -264,6 +264,30 @@
                     33.536182
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/909369452344393728/EdJndYFP_normal.jpg",
+                "Name": "Steve Merrill",
+                "Handle": "sgredv",
+                "Tweet": "Watching Adam Scott in the @FarmersInsOpen @PGATOUR on @kayosports \ud83c\udfcc\ufe0f\u200d\u2642\ufe0f #pgatour https://t.co/7Igsx5MZ1P",
+                "TweetLink": "1355646055388352518",
+                "Place": "Sydney",
+                "Time": "Sat Jan 30 22:36:20 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.931975,
+                    -33.848244
+                ]
+            }
         }
     ]
 }
