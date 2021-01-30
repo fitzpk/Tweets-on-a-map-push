@@ -312,6 +312,30 @@
                     41.1746485
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2934231106/946afe9f8f1482a6527ae871e1c1ee1e_normal.png",
+                "Name": "Rajiv Krishnan",
+                "Handle": "aarkay123",
+                "Tweet": "Track the volunteer down #PGATour  #TorreyPines #CheatersRemainCheaters #Reed",
+                "TweetLink": "1355654855315005440",
+                "Place": "Pullman",
+                "Time": "Sat Jan 30 23:11:19 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1542695,
+                    46.730822
+                ]
+            }
         }
     ]
 }
