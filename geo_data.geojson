@@ -672,6 +672,30 @@
                     50.8103155
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1348365540809588736/H2k8Q4X-_normal.jpg",
+                "Name": "Matt Skraby",
+                "Handle": "MattSkraby",
+                "Tweet": "After lots of reading and thought about the Patrick Reed thing...I don't think he cheated. If the volunteer said it\u2026 https://t.co/zncmyYnneo",
+                "TweetLink": "1355976148342042625",
+                "Place": "Carlsbad",
+                "Time": "Sun Jan 31 20:28:01 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.2879235,
+                    33.121484
+                ]
+            }
         }
     ]
 }
