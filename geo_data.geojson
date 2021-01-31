@@ -840,6 +840,54 @@
                     28.1095625
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1843425799/mnf9_normal.jpg",
+                "Name": "craig bullis",
+                "Handle": "craig_bullis",
+                "Tweet": "Give it a rest CBS, he won by 5, you've gone over yesterday's ruling 50 times!  #pgatour #FarmersInsuranceOpen #TeamCaptAmerica",
+                "TweetLink": "1356024027039592450",
+                "Place": "Overland Park",
+                "Time": "Sun Jan 31 23:38:16 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.6750935,
+                    38.931549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1180570147796475904/xikyOgu0_normal.jpg",
+                "Name": "Craig Surgeon",
+                "Handle": "surge2311",
+                "Tweet": "@PGATOUR @PReedGolf @FarmersInsOpen The same people booing and not happy now will quickly forget about it and cheer\u2026 https://t.co/5y5KKGzMrt",
+                "TweetLink": "1356024153325920259",
+                "Place": "Loanhead",
+                "Time": "Sun Jan 31 23:38:46 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1583645,
+                    55.8790805
+                ]
+            }
         }
     ]
 }
