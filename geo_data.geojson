@@ -720,6 +720,54 @@
                     42.746617
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1265014279260037120/e-5FxYo1_normal.jpg",
+                "Name": "Peter Tinetti",
+                "Handle": "peter_tinetti",
+                "Tweet": "Caddies always do a great job of getting in between the camera and the hole so it is impossible to see if the ball went in. #PGATour",
+                "TweetLink": "1355980323738308611",
+                "Place": "Orion",
+                "Time": "Sun Jan 31 20:44:36 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.2656345,
+                    42.7539075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1251705774218391554/P-sUsfOi_normal.jpg",
+                "Name": "Ryan Branham",
+                "Handle": "JustCallMeRyno",
+                "Tweet": "CBS and the PGA need to start calling  Viktor Hovland the Possum. That kid is always grinning. Hopefully he\u2019s grinn\u2026 https://t.co/YQzZrOuNtN",
+                "TweetLink": "1355980451664551938",
+                "Place": "Lugoff",
+                "Time": "Sun Jan 31 20:45:07 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.699969,
+                    34.2124765
+                ]
+            }
         }
     ]
 }
