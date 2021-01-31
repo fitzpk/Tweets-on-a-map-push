@@ -648,6 +648,30 @@
                     52.150999
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1263828364453990403/JaN1oJzs_normal.jpg",
+                "Name": "Mackem Exile",
+                "Handle": "choppy_1991",
+                "Tweet": "Really like watching Viktor Hovland. Looks constantly stoned to bits and class at golf. Get him to the Ryder Cup\u2026 https://t.co/8TpAFUp3EA",
+                "TweetLink": "1355973679583272961",
+                "Place": "Saltdean",
+                "Time": "Sun Jan 31 20:18:12 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.04978,
+                    50.8103155
+                ]
+            }
         }
     ]
 }
