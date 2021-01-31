@@ -600,6 +600,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1315398452201877512/1vKlNuXW_normal.jpg",
+                "Name": "Aoife Kenny",
+                "Handle": "kenzy88",
+                "Tweet": "Come awwwwwn anyone bar @PReedGolf \u26f3\u26f3\u26f3\u26f3\u26f3\u26f3\u26f3#toreypines #PGATour \nMy money is on @JonRahmpga \ud83e\udd1e\ud83e\udd1e\ud83e\udd1e https://t.co/hfCZHWuANk",
+                "TweetLink": "1355970506290245633",
+                "Place": "Carlow",
+                "Time": "Sun Jan 31 20:05:36 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8059495,
+                    52.69074
+                ]
+            }
         }
     ]
 }
