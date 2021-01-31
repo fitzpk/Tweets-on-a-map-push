@@ -792,6 +792,30 @@
                     51.903863
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/518833004886917121/tHQEyp4E_normal.jpeg",
+                "Name": "Golf & Science & Bulldogs",
+                "Handle": "BrianMcGolf",
+                "Tweet": "She can't stomach watching any more. \n\n#golf\n#FarmersInsurance\n#PGATour https://t.co/5YBowrALSd",
+                "TweetLink": "1355998413700083716",
+                "Place": "Pennsylvania",
+                "Time": "Sun Jan 31 21:56:29 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
         }
     ]
 }
