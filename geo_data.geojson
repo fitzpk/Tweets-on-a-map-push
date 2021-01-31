@@ -696,6 +696,30 @@
                     33.121484
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1271233208345124864/esxEYIoo_normal.jpg",
+                "Name": "Michael Charbonneau",
+                "Handle": "mcharbonteacher",
+                "Tweet": "@CBSSports golf analysts just spent ten minutes explaining why #PatrickReed is a cheater while doing their best not\u2026 https://t.co/VvqWGQq8hN",
+                "TweetLink": "1355977767754620933",
+                "Place": "New York",
+                "Time": "Sun Jan 31 20:34:27 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.770041,
+                    42.746617
+                ]
+            }
         }
     ]
 }
