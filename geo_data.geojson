@@ -816,6 +816,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/663482872402194432/LcGJPZNf_normal.jpg",
+                "Name": "Denise Watson",
+                "Handle": "d1watson",
+                "Tweet": "Come on @ianmeah it\u2019s the Pacific, not the Atlantic #FarmersInsurance #PGATour",
+                "TweetLink": "1356004862312505345",
+                "Place": "East Lake",
+                "Time": "Sun Jan 31 22:22:07 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.7011465,
+                    28.1095625
+                ]
+            }
         }
     ]
 }
