@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1337143218220244995/JDXC47cf_normal.jpg",
-                "Name": "John Vik",
-                "Handle": "ElVickos",
-                "Tweet": "Cheating Reed!! #PGATour",
-                "TweetLink": "1355618352400576519",
-                "Place": "Oslo",
-                "Time": "Sat Jan 30 20:46:16 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    10.721526,
-                    59.9724055
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1144250717047328768/HCoVY_vu_normal.jpg",
                 "Name": "Simon Keeping",
                 "Handle": "Flakeycherry",
