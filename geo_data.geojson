@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1287522934794252288/pSU-eaan_normal.jpg",
-                "Name": "Mike Hauser",
-                "Handle": "Hauser_Mike",
-                "Tweet": "Golf Rule 16.7 If you are Patrick Reed you can pick up your embedded ball to see if it's embedded.  #Gardening\u2026 https://t.co/aP7LGXm1SU",
-                "TweetLink": "1355629539360038912",
-                "Place": "Melbourne",
-                "Time": "Sat Jan 30 21:30:43 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    145.0531355,
-                    -37.9725665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1318641338762526722/Afeg0rj1_normal.jpg",
-                "Name": "Alex Remond",
-                "Handle": "RemondAlex",
-                "Tweet": "It seems that Patrick Reed is a bit touchy when it comes to talk about cheating...@PGATOUR #pgatour #FarmersInsOpen\u2026 https://t.co/fVwsvmOnL6",
-                "TweetLink": "1355629705635000324",
-                "Place": "Amiens",
-                "Time": "Sat Jan 30 21:31:22 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.284683,
-                    49.898776
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/894712043277864961/W-8RgBVq_normal.jpg",
                 "Name": "Dietmar Perez",
                 "Handle": "Steeldiet",
