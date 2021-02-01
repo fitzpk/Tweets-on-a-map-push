@@ -336,6 +336,30 @@
                     55.8790805
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1072953667895128065/bIZrtRsO_normal.jpg",
+                "Name": "Jess",
+                "Handle": "slowrideWillis",
+                "Tweet": "@PReedGolf should have waited for the official before touching the ball. If you have nothing to hide then you would\u2026 https://t.co/RH5EBxTjGW",
+                "TweetLink": "1356263428474732546",
+                "Place": "Rockville",
+                "Time": "Mon Feb 01 15:29:34 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.4559195,
+                    41.865809
+                ]
+            }
         }
     ]
 }
