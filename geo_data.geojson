@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1051549057972359170/Q6eQU1OL_normal.jpg",
-                "Name": "Jack and Sadie\u2019s Papa Mike Chaudron",
-                "Handle": "jcbama85",
-                "Tweet": "How many drops does Reed get? Dang. #pgatour",
-                "TweetLink": "1355621676059398150",
-                "Place": "Texas",
-                "Time": "Sat Jan 30 20:59:28 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -100.0768885,
-                    31.1688935
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/753209264018161664/wAXkQDxd_normal.jpg",
                 "Name": "Ray Scott",
                 "Handle": "rayscott353",
