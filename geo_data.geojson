@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1144250717047328768/HCoVY_vu_normal.jpg",
-                "Name": "Simon Keeping",
-                "Handle": "Flakeycherry",
-                "Tweet": "Patrick Reed is a blatant cheat. There, I've said it #PGATour #FarmersInsOpen",
-                "TweetLink": "1355620461921644547",
-                "Place": "Christchurch",
-                "Time": "Sat Jan 30 20:54:38 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.746066,
-                    50.743913
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1051549057972359170/Q6eQU1OL_normal.jpg",
                 "Name": "Jack and Sadie\u2019s Papa Mike Chaudron",
                 "Handle": "jcbama85",
