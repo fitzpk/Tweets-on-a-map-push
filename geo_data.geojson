@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/753209264018161664/wAXkQDxd_normal.jpg",
-                "Name": "Ray Scott",
-                "Handle": "rayscott353",
-                "Tweet": "Oh please no. Not @golffacts (@PReedGolf ) to win the Farmers. Come on @JonRahmpga , @HovlandViktor or\u2026 https://t.co/KbZgk4z1ms",
-                "TweetLink": "1355972301406294021",
-                "Place": "Waterford",
-                "Time": "Sun Jan 31 20:12:44 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -7.556151,
-                    52.150999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1263828364453990403/JaN1oJzs_normal.jpg",
                 "Name": "Mackem Exile",
                 "Handle": "choppy_1991",
