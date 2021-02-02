@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/786337803751784448/517nCS-__normal.jpg",
-                "Name": "Kate O'Herlihy",
-                "Handle": "kateoherlihy8",
-                "Tweet": "Nancy and she glued to the #PGATour https://t.co/BXSMpRB2aK",
-                "TweetLink": "1355995155761946624",
-                "Place": "Cork",
-                "Time": "Sun Jan 31 21:43:32 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -9.0333065,
-                    51.903863
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/518833004886917121/tHQEyp4E_normal.jpeg",
                 "Name": "Golf & Science & Bulldogs",
                 "Handle": "BrianMcGolf",
