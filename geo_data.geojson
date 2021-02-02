@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1287191384236138503/j8xbuvFR_normal.jpg",
-                "Name": "Phil Stiefel",
-                "Handle": "Beardaknowledge",
-                "Tweet": "Patrick Reed better not blow this event\n\nPlaying too passively today\n\n#FarmersInsuranceOpen #PGATour #setthetrends\u2026 https://t.co/CmuqiipK1u",
-                "TweetLink": "1355969228206170112",
-                "Place": "Pennsylvania",
-                "Time": "Sun Jan 31 20:00:31 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.604684,
-                    41.1179365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1315398452201877512/1vKlNuXW_normal.jpg",
                 "Name": "Aoife Kenny",
                 "Handle": "kenzy88",
