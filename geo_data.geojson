@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1199772462663290880/qzWYdGZC_normal.jpg",
-                "Name": "Yxng \ud835\udd76\ud835\udd9e\ud835\udd91\ud835\udd8a",
-                "Handle": "kyle_gfc",
-                "Tweet": "have a 5er on Patrick Reed to win here after yesterdays controversy #mosthated #PGATour",
-                "TweetLink": "1355964954390704131",
-                "Place": "Belfast",
-                "Time": "Sun Jan 31 19:43:32 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -5.928413,
-                    54.595869
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1287191384236138503/j8xbuvFR_normal.jpg",
                 "Name": "Phil Stiefel",
                 "Handle": "Beardaknowledge",
