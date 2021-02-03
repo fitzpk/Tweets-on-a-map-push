@@ -24,6 +24,30 @@
                     40.7922005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/920780235561246720/-zFCiME__normal.jpg",
+                "Name": "Brian Young PLLC REALTOR\u00ae\ufe0f",
+                "Handle": "linkshomesearch",
+                "Tweet": "It\u2019s #wastemanagementopen week in sunny #Scottsdale #Arizona at #TPCScottsdale  Many of the local #PGATour pros hav\u2026 https://t.co/pIMU3Cyefq",
+                "TweetLink": "1356845442500157444",
+                "Place": "Scottsdale",
+                "Time": "Wed Feb 03 06:02:17 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8583985,
+                    33.63934
+                ]
+            }
         }
     ]
 }
