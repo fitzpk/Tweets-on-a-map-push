@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1118665585074823173/OnayiO2c_normal.jpg",
-                "Name": "Nagels Bagels",
-                "Handle": "nagelbagels",
-                "Tweet": "I joined my good friend @TourPicks to talk a little WMPO. Thanks to @EdinaRealCHE for letting me keep his seat warm\u2026 https://t.co/2yQwQBlAE7",
-                "TweetLink": "1356434129693343744",
-                "Place": "Lyndhurst",
-                "Time": "Tue Feb 02 02:47:52 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -74.1119715,
-                    40.7922005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/920780235561246720/-zFCiME__normal.jpg",
                 "Name": "Brian Young PLLC REALTOR\u00ae\ufe0f",
                 "Handle": "linkshomesearch",
