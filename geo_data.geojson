@@ -168,6 +168,30 @@
                     36.200008
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1315076315423408129/v3cFtdYs_normal.jpg",
+                "Name": "Mac Kittelson",
+                "Handle": "macdaddydiesell",
+                "Tweet": "Webb Simpson just bent a club around a tree \ud83d\udc80 #PGATour https://t.co/VRWxMQGNrb",
+                "TweetLink": "1357451487190876167",
+                "Place": "Minneapolis",
+                "Time": "Thu Feb 04 22:10:29 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2620465,
+                    44.9706105
+                ]
+            }
         }
     ]
 }
