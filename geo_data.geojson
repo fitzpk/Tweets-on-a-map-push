@@ -216,6 +216,30 @@
                     40.7484915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/925369734786363394/R0uO5lWy_normal.jpg",
+                "Name": "kraken golf",
+                "Handle": "krakengolf",
+                "Tweet": "Tomorrow noon ET the TI Kraken Divot with a little surprise available as well! #krakengolf #golfstagram #divottool\u2026 https://t.co/j2IJmuVUaD",
+                "TweetLink": "1357501031303819267",
+                "Place": "Acushnet",
+                "Time": "Fri Feb 05 01:27:21 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9112125,
+                    41.703775
+                ]
+            }
         }
     ]
 }
