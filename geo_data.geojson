@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
-                "Name": "Yatta Golf",
-                "Handle": "YattaGolf",
-                "Tweet": "The Phoenix Open starts tomorrow! \nWho\u2019s taking the trophy home? #golf #phoenixopen #thephoenixopen #golfing\u2026 https://t.co/26BcDA4IP2",
-                "TweetLink": "1357158537072316416",
-                "Place": "Illinois",
-                "Time": "Thu Feb 04 02:46:24 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.2665075,
-                    39.7393005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1356731800333156354/2eLoGibO_normal.jpg",
                 "Name": "Life's journey",
                 "Handle": "Ohana_078",
