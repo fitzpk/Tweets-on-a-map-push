@@ -240,6 +240,30 @@
                     41.703775
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1352441840964939776/1bM8z7ZV_normal.jpg",
+                "Name": "Nick Daugherty",
+                "Handle": "nickdaugherty1",
+                "Tweet": "@McIlroyRory always holds himself to a high standard. Even when following the rules he questions himself, to protec\u2026 https://t.co/Ttt7SudBiY",
+                "TweetLink": "1357507224671825921",
+                "Place": "Paducah",
+                "Time": "Fri Feb 05 01:51:58 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.643038,
+                    37.074757
+                ]
+            }
         }
     ]
 }
