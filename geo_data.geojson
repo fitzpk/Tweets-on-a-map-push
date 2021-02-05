@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1209113590885765120/j6bJ-8eL_normal.jpg",
-                "Name": "Keith Cordero Jr.",
-                "Handle": "kmcorder",
-                "Tweet": "#WMPO #thepeoplesOpen is such a great #PGATour event. Next 4 days are going to be wild. Final round should end righ\u2026 https://t.co/rZVdi2sh1P",
-                "TweetLink": "1357337354252529664",
-                "Place": "Texas",
-                "Time": "Thu Feb 04 14:36:58 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -100.0768885,
-                    31.1688935
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1313299524249702401/ljeMTX3a_normal.jpg",
                 "Name": "Andy Wlazewski",
                 "Handle": "AndyWalnuts",
