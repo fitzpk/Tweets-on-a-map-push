@@ -216,6 +216,30 @@
                     33.63934
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1326919578153349122/rjEGKWbw_normal.jpg",
+                "Name": "Gillian Johnston",
+                "Handle": "DunfanaghyGJ",
+                "Tweet": "Jeepers what an unbelievable putt for par from @McIlroyRory from 40ft #takeabow #PGATour #WasteManagementPhoenixOpen \u26f3\ufe0f\ud83d\udc4f\ud83d\udc4f",
+                "TweetLink": "1357814189297967104",
+                "Place": "Dublin City",
+                "Time": "Fri Feb 05 22:11:44 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2476215,
+                    53.3549025
+                ]
+            }
         }
     ]
 }
