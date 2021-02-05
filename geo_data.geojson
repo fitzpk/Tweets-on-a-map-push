@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1204959246682447873/omT8qm2m_normal.jpg",
-                "Name": "Anthony Moy",
-                "Handle": "AnthonyMoy10",
-                "Tweet": "Throwing it back to when @jennymoy84 and I were at the @wmphoenixopen. There\u2019s definitely no PGA Tour event like it\u2026 https://t.co/WkZn35uSZq",
-                "TweetLink": "1357393143105282059",
-                "Place": "Phoenix",
-                "Time": "Thu Feb 04 18:18:39 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -112.1246765,
-                    33.5528625
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1221986228293316608/C1fT98x0_normal.jpg",
                 "Name": "Cahill",
                 "Handle": "ChrisCahill3940",
