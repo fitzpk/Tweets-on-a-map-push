@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1247171769674289152/yG5BfMsD_normal.jpg",
-                "Name": "Shane O'Brien",
-                "Handle": "ShaneO_Brien",
-                "Tweet": "We just added a bunch of new shirts to our #Golf page at https://t.co/AvWT7CBHcA check it out! #pga #PGATour\u2026 https://t.co/vARBrcKtAz",
-                "TweetLink": "1357322099237392391",
-                "Place": "Turlock",
-                "Time": "Thu Feb 04 13:36:20 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -120.8624785,
-                    37.499596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1209113590885765120/j6bJ-8eL_normal.jpg",
                 "Name": "Keith Cordero Jr.",
                 "Handle": "kmcorder",
