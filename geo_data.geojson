@@ -216,6 +216,30 @@
                     53.3549025
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1209113590885765120/j6bJ-8eL_normal.jpg",
+                "Name": "Keith Cordero Jr.",
+                "Handle": "kmcorder",
+                "Tweet": "Xander is going to win his first Major in 2021. #PGATour #WMPhoenixOpen",
+                "TweetLink": "1357845033202966529",
+                "Place": "Texas",
+                "Time": "Sat Feb 06 00:14:18 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.0768885,
+                    31.1688935
+                ]
+            }
         }
     ]
 }
