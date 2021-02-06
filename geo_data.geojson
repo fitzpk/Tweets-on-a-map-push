@@ -456,6 +456,78 @@
                     29.982601
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1610539730/image_normal.jpg",
+                "Name": "Simon Peacock",
+                "Handle": "simski75",
+                "Tweet": "Brilliant golf from @JordanSpieth  today, like a good roast, low\u2019n\u2019slow.\n#PGATour #61 #runwitthepunches",
+                "TweetLink": "1358175466243444736",
+                "Place": "Northern Ireland",
+                "Time": "Sat Feb 06 22:07:19 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.81351,
+                    54.667202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1281544754220728324/ln08-CUC_normal.jpg",
+                "Name": "Edu M",
+                "Handle": "edumorato_",
+                "Tweet": "Welcome back @JordanSpieth ! #PGATour #Golf",
+                "TweetLink": "1358175880435105795",
+                "Place": "St Petersburg",
+                "Time": "Sat Feb 06 22:08:58 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.672903,
+                    27.7957195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1341843931550654464/SFkNvL_k_normal.jpg",
+                "Name": "Bill Arey",
+                "Handle": "areyshelby",
+                "Tweet": "Good too see Jordan Spieth with a lead after 3 at the Waste Management Open #PGATour",
+                "TweetLink": "1358175941638451201",
+                "Place": "Shelby",
+                "Time": "Sat Feb 06 22:09:12 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.536125,
+                    35.2921905
+                ]
+            }
         }
     ]
 }
