@@ -240,6 +240,30 @@
                     49.8538055
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/613413442934812672/TP5PaIMb_normal.jpg",
+                "Name": "Katie On Kicks \u2b50\ufe0f",
+                "Handle": "RadioKatie1",
+                "Tweet": "The golf fan in me is so happy to see @JordanSpieth kicking ass this weekend. \ud83d\udc4f#PGATour",
+                "TweetLink": "1358142296190046209",
+                "Place": "Cookeville",
+                "Time": "Sat Feb 06 19:55:31 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.510207,
+                    36.1395275
+                ]
+            }
         }
     ]
 }
