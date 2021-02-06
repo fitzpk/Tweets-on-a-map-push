@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/3615102110/353b3b55de5afc7f54ba4a709f5b120c_normal.jpeg",
-                "Name": "Dick Kearns",
-                "Handle": "dickkearns",
-                "Tweet": "It\u2019s #ThrowbackThursday at @WasteManagement in 2018;\nMo &amp; @ShaneLowryGolf at @GolfChannel 16th hole studio\u2026 https://t.co/XOmptAwWiL",
-                "TweetLink": "1357459214214590466",
-                "Place": "Mineola",
-                "Time": "Thu Feb 04 22:41:11 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.639419,
-                    40.7484915
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/925369734786363394/R0uO5lWy_normal.jpg",
                 "Name": "kraken golf",
                 "Handle": "krakengolf",
