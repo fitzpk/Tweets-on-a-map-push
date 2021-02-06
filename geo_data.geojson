@@ -312,6 +312,102 @@
                     53.612388
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1246294906739421184/tt2KKeTe_normal.jpg",
+                "Name": "RBlount",
+                "Handle": "RBlount",
+                "Tweet": "@JordanSpieth oh my #PGATour",
+                "TweetLink": "1358170780878659587",
+                "Place": "Houston",
+                "Time": "Sat Feb 06 21:48:42 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4464865,
+                    29.838495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000111577732/7d73179fc0f286ace1a4b50acf973d03_normal.jpeg",
+                "Name": "Bob Lane",
+                "Handle": "RobertWLane",
+                "Tweet": "@JordanSpieth is on \ud83d\udd25\ud83d\udd25#PGATour \ud83d\udc4a\ud83c\udffb",
+                "TweetLink": "1358171027159846913",
+                "Place": "Long Beach",
+                "Time": "Sat Feb 06 21:49:41 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1567105,
+                    33.8091715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1338904636338532352/YwNTIQfI_normal.jpg",
+                "Name": "Mattias",
+                "Handle": "FoothillsCounty",
+                "Tweet": "Ladies &amp; gentlemen, Jordan Spieth is back in business! #PGATour",
+                "TweetLink": "1358171110077038593",
+                "Place": "Calgary",
+                "Time": "Sat Feb 06 21:50:00 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.087851,
+                    51.027664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1287522934794252288/pSU-eaan_normal.jpg",
+                "Name": "Mike Hauser",
+                "Handle": "Hauser_Mike",
+                "Tweet": "Even Jordan Spieth can't believe Jordan Spieths third round at #phoenixopen!  #PGATour https://t.co/tHt3s1p5Qj",
+                "TweetLink": "1358171149104865281",
+                "Place": "Melbourne",
+                "Time": "Sat Feb 06 21:50:10 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0531355,
+                    -37.9725665
+                ]
+            }
         }
     ]
 }
