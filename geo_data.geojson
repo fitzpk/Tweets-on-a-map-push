@@ -144,6 +144,30 @@
                     29.417501
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1083560421477502977/4Gc4rvWm_normal.jpg",
+                "Name": "Go To Caddie",
+                "Handle": "GotoCaddie",
+                "Tweet": "New samples for Augusta National caddie crew. Which design would you choose? \n\n#augustanational #themasters\u2026 https://t.co/aBWjyasKDT",
+                "TweetLink": "1358085097677877260",
+                "Place": "Melrose Park",
+                "Time": "Sat Feb 06 16:08:13 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5467855,
+                    42.90196
+                ]
+            }
         }
     ]
 }
