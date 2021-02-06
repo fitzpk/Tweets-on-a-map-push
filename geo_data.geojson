@@ -216,6 +216,30 @@
                     33.63934
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1168668143419568128/B8Js22Du_normal.jpg",
+                "Name": "Digital Paint Can Inc.",
+                "Handle": "DigitalPaintCan",
+                "Tweet": "Will #JordanSpieth win the #WMPO?\n\n\"YODA\"...man!\n\n#PGATour https://t.co/LIV7c9Y4O2",
+                "TweetLink": "1358138997084684294",
+                "Place": "Winnipeg",
+                "Time": "Sat Feb 06 19:42:24 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1526765,
+                    49.8538055
+                ]
+            }
         }
     ]
 }
