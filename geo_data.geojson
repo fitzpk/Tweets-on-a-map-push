@@ -600,6 +600,30 @@
                     35.5390725
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1093456769656020993/bhhZ0CZg_normal.jpg",
+                "Name": "Mike Keller",
+                "Handle": "MikeKellerWEEU",
+                "Tweet": "I\u2019ve missed seeing him hole putts from all over the planet.  #PGATour",
+                "TweetLink": "1358179463280939008",
+                "Place": "Wyomissing Hills",
+                "Time": "Sat Feb 06 22:23:12 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.983629,
+                    40.334656
+                ]
+            }
         }
     ]
 }
