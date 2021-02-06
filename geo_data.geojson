@@ -624,6 +624,54 @@
                     40.334656
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1168668143419568128/B8Js22Du_normal.jpg",
+                "Name": "Digital Paint Can Inc.",
+                "Handle": "DigitalPaintCan",
+                "Tweet": "Will #JordanSpieth win the #wmpo?\n(Poll Attached)\n#PGATour https://t.co/LXTeLUfL8k",
+                "TweetLink": "1358180923351646208",
+                "Place": "Winnipeg",
+                "Time": "Sat Feb 06 22:29:00 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1526765,
+                    49.8538055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1168668143419568128/B8Js22Du_normal.jpg",
+                "Name": "Digital Paint Can Inc.",
+                "Handle": "DigitalPaintCan",
+                "Tweet": "Will #JordanSpieth win the #wmpo?\n#PGATour",
+                "TweetLink": "1358180927894077442",
+                "Place": "Winnipeg",
+                "Time": "Sat Feb 06 22:29:01 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1526765,
+                    49.8538055
+                ]
+            }
         }
     ]
 }
