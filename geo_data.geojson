@@ -432,6 +432,30 @@
                     49.8538055
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1290398908301139976/V0JKnqsH_normal.jpg",
+                "Name": "JT Hannan",
+                "Handle": "jthannan",
+                "Tweet": "This has been the best golf on TV since 2019. #WMOpen #PGATour",
+                "TweetLink": "1358173724743204870",
+                "Place": "New Orleans",
+                "Time": "Sat Feb 06 22:00:24 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.011008,
+                    29.982601
+                ]
+            }
         }
     ]
 }
