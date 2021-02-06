@@ -264,6 +264,30 @@
                     44.1454365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1340316743986769926/qTxglrU-_normal.jpg",
+                "Name": "The Sports Rundown \ud83c\udf99",
+                "Handle": "_sportsrundown",
+                "Tweet": "The Waste Management Phoenix Open would be Happy Gilmore\u2019s favorite tournament! Full story on today\u2019s episode, link\u2026 https://t.co/ra07Op341d",
+                "TweetLink": "1357874378164363265",
+                "Place": "San Antonio",
+                "Time": "Sat Feb 06 02:10:54 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.5406515,
+                    29.417501
+                ]
+            }
         }
     ]
 }
