@@ -264,6 +264,30 @@
                     36.1395275
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1120582696680345601/lCjli1uc_normal.jpg",
+                "Name": "Joel",
+                "Handle": "_J0EL_",
+                "Tweet": "Jordan Spieth has just tied for the lead in the Phoenix Open at 14 under. Fair to say his game has been up and down\u2026 https://t.co/NvhsbN9MNZ",
+                "TweetLink": "1358148253137555456",
+                "Place": "Sydney",
+                "Time": "Sat Feb 06 20:19:11 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.931975,
+                    -33.848244
+                ]
+            }
         }
     ]
 }
