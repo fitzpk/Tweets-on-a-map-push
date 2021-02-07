@@ -792,6 +792,30 @@
                     47.664707
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "66, 66, 66 for @khlee_golf (T-3rd) who is in line for his career best @pgatour finish (currently T-5th at 2019 RSM\u2026 https://t.co/3Sl4hRFqmh",
+                "TweetLink": "1358207920362586113",
+                "Place": "Phoenix",
+                "Time": "Sun Feb 07 00:16:17 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.1246765,
+                    33.5528625
+                ]
+            }
         }
     ]
 }
