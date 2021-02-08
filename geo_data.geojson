@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1223721943704186884/_p_xerTs_normal.jpg",
-                "Name": "Sophie Morrison",
-                "Handle": "SophMorrison10",
-                "Tweet": "What a putt from @JordanSpieth #PGATour",
-                "TweetLink": "1358168705935552519",
-                "Place": "Hemsworth",
-                "Time": "Sat Feb 06 21:40:27 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.354046,
-                    53.612388
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1246294906739421184/tt2KKeTe_normal.jpg",
                 "Name": "RBlount",
                 "Handle": "RBlount",
