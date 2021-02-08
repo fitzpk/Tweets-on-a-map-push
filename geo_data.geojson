@@ -72,6 +72,30 @@
                     45.424547
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1032382701246930944/iqptWIzW_normal.jpg",
+                "Name": "Aaron Dill",
+                "Handle": "Vokeywedgerep",
+                "Tweet": "@titleist brand ambassador @ctpan63 caught me red handed checking out his @vokeywedges   It may be time for some fr\u2026 https://t.co/IHm7JMpYY6",
+                "TweetLink": "1358924691017146369",
+                "Place": "Del Monte Forest",
+                "Time": "Mon Feb 08 23:44:28 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.945574,
+                    36.587838
+                ]
+            }
         }
     ]
 }
