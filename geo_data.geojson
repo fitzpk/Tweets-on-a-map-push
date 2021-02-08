@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1093456769656020993/bhhZ0CZg_normal.jpg",
-                "Name": "Mike Keller",
-                "Handle": "MikeKellerWEEU",
-                "Tweet": "I\u2019ve missed seeing him hole putts from all over the planet.  #PGATour",
-                "TweetLink": "1358179463280939008",
-                "Place": "Wyomissing Hills",
-                "Time": "Sat Feb 06 22:23:12 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.983629,
-                    40.334656
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1168668143419568128/B8Js22Du_normal.jpg",
                 "Name": "Digital Paint Can Inc.",
                 "Handle": "DigitalPaintCan",
@@ -262,6 +238,30 @@
                 "coordinates": [
                     -112.1246765,
                     33.5528625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/802708391965536256/SLdrfY2e_normal.jpg",
+                "Name": "Burt Iwata",
+                "Handle": "Spot4SC",
+                "Tweet": "@JamesHahnPGA Welcome back. Congratulations on the strong finish. Nothing more precious than family n health. @WasteManagement #PGATour",
+                "TweetLink": "1358617473134731264",
+                "Place": "Pasadena",
+                "Time": "Mon Feb 08 03:23:42 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.131964,
+                    34.17731
                 ]
             }
         }
