@@ -48,6 +48,30 @@
                     34.17731
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/725586395314683904/dDJmQVbs_normal.jpg",
+                "Name": "ValGrine",
+                "Handle": "VALGRINE",
+                "Tweet": "Balance, rigor, hard work are foundations of continuous improvement, progress, and putting performance... Another v\u2026 https://t.co/0W66RblMBf",
+                "TweetLink": "1358819905160814595",
+                "Place": "Saint-Etienne",
+                "Time": "Mon Feb 08 16:48:05 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3665095,
+                    45.424547
+                ]
+            }
         }
     ]
 }
