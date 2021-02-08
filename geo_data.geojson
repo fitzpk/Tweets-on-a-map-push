@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1168668143419568128/B8Js22Du_normal.jpg",
-                "Name": "Digital Paint Can Inc.",
-                "Handle": "DigitalPaintCan",
-                "Tweet": "Will #JordanSpieth win the #WMPO?\n\n\"YODA\"...man!\n\n#PGATour https://t.co/LIV7c9Y4O2",
-                "TweetLink": "1358138997084684294",
-                "Place": "Winnipeg",
-                "Time": "Sat Feb 06 19:42:24 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.1526765,
-                    49.8538055
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/613413442934812672/TP5PaIMb_normal.jpg",
                 "Name": "Katie On Kicks \u2b50\ufe0f",
                 "Handle": "RadioKatie1",
@@ -611,6 +587,30 @@
                 "TweetLink": "1358207920362586113",
                 "Place": "Phoenix",
                 "Time": "Sun Feb 07 00:16:17 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.1246765,
+                    33.5528625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
+                "Name": "Korean Golf News",
+                "Handle": "KoreanGolfNews",
+                "Tweet": "\ud83d\udc4f\ud83e\udd48 and @pgatour career best finish for @khlee_golf (T-2nd) @wmphoenixopen \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf2 #koreangolfnews #pgatour #golf\u2026 https://t.co/KwSqK9WSVb",
+                "TweetLink": "1358576464304742403",
+                "Place": "Phoenix",
+                "Time": "Mon Feb 08 00:40:44 +0000 2021",
                 "Reply Count": 0,
                 "Retweet Count": 0,
                 "Favorite Count": 0,
