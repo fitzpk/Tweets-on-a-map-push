@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1326237487791022080/sWo-lwoL_normal.jpg",
-                "Name": "Nick Bradley",
-                "Handle": "THENICKBRADLEY",
-                "Tweet": "It\u2019s amazing what an athlete can do when they shift from believing and thus clinging to having faith and finally le\u2026 https://t.co/rk2vbGLpJj",
-                "TweetLink": "1358193074720157698",
-                "Place": "North Myrtle Beach",
-                "Time": "Sat Feb 06 23:17:17 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -78.688827,
-                    33.824514
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2934231106/946afe9f8f1482a6527ae871e1c1ee1e_normal.png",
                 "Name": "Rajiv Krishnan",
                 "Handle": "aarkay123",
