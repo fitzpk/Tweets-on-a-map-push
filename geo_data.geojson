@@ -96,6 +96,30 @@
                     35.0838255
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1348339653947105284/yevdc3UC_normal.jpg",
+                "Name": "\ud83e\udd2b",
+                "Handle": "TULK12",
+                "Tweet": "Range finders allowed on the PGA?? #PGATour",
+                "TweetLink": "1359194009718120450",
+                "Place": "Toronto",
+                "Time": "Tue Feb 09 17:34:39 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2725695,
+                    43.629311
+                ]
+            }
         }
     ]
 }
