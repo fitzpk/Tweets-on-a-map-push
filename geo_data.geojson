@@ -72,6 +72,30 @@
                     36.587838
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "@DJohnsonPGA, has withdrawn from the @PGATour\u2019s @ATTProAm at @PebbleBeachGolf after what must have been an exhausti\u2026 https://t.co/eCQpKj7RM6",
+                "TweetLink": "1359187424061046787",
+                "Place": "Lake Park",
+                "Time": "Tue Feb 09 17:08:29 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.633465,
+                    35.0838255
+                ]
+            }
         }
     ]
 }
