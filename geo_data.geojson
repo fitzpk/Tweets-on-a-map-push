@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/802708391965536256/SLdrfY2e_normal.jpg",
-                "Name": "Burt Iwata",
-                "Handle": "Spot4SC",
-                "Tweet": "@JamesHahnPGA Welcome back. Congratulations on the strong finish. Nothing more precious than family n health. @WasteManagement #PGATour",
-                "TweetLink": "1358617473134731264",
-                "Place": "Pasadena",
-                "Time": "Mon Feb 08 03:23:42 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.131964,
-                    34.17731
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/725586395314683904/dDJmQVbs_normal.jpg",
                 "Name": "ValGrine",
                 "Handle": "VALGRINE",
