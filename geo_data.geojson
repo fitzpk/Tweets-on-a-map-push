@@ -24,6 +24,30 @@
                     40.780709
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1352411058355515396/Tdpm0izo_normal.jpg",
+                "Name": "Emily Van Buskirk",
+                "Handle": "Emilnem",
+                "Tweet": "One of my favorite @attproam @PGATOUR moments thanks to @JDayGolf \u26f3\ufe0f #ATTProAm #PebbleBeach #PGATour https://t.co/wIdo7gH6ZY",
+                "TweetLink": "1359972413946032130",
+                "Place": "Del Monte Forest",
+                "Time": "Thu Feb 11 21:07:45 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.945574,
+                    36.587838
+                ]
+            }
         }
     ]
 }
