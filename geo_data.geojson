@@ -96,6 +96,30 @@
                     32.0172845
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1326237487791022080/sWo-lwoL_normal.jpg",
+                "Name": "Nick Bradley",
+                "Handle": "THENICKBRADLEY",
+                "Tweet": "Don\u2019t want to change your golf swing?\n\nWant science under your feet?\n\nWant what others say but don\u2019t deliver?\n\nWatc\u2026 https://t.co/DwZihOQPF3",
+                "TweetLink": "1360267007254528000",
+                "Place": "Sunset Beach",
+                "Time": "Fri Feb 12 16:38:21 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5164375,
+                    33.901311
+                ]
+            }
         }
     ]
 }
