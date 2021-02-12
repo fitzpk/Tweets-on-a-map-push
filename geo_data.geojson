@@ -120,6 +120,30 @@
                     33.901311
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1357607777498140674/mwZac_L4_normal.jpg",
+                "Name": "HalfAssedPlays",
+                "Handle": "HalfAssedPlays",
+                "Tweet": "Phil with the hole out from the bunker for birdie on 10! Back to even par on the day. Needs to play his last 8 in 3\u2026 https://t.co/3FhbG9BcCG",
+                "TweetLink": "1360329808886943746",
+                "Place": "Carmel Beach City Park",
+                "Time": "Fri Feb 12 20:47:54 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.929896,
+                    36.550776
+                ]
+            }
         }
     ]
 }
