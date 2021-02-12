@@ -144,6 +144,30 @@
                     36.550776
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1324803227968135168/NwXMVSL8_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "DeadMoneyJesse",
+                "Tweet": "Taking Homa over Casey H2H for round 2 has not gone as expected. \ud83e\udd74 #PebbleBeach #PGATour #ATTProAm https://t.co/Y08Hgb3fHn",
+                "TweetLink": "1360333374993301507",
+                "Place": "Paradise",
+                "Time": "Fri Feb 12 21:02:05 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
