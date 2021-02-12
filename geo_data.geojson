@@ -168,6 +168,30 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1287522934794252288/pSU-eaan_normal.jpg",
+                "Name": "Mike Hauser",
+                "Handle": "Hauser_Mike",
+                "Tweet": "Look out... Spieth has remembered how to play golf  #pgatour #golf #ATTProAm https://t.co/0upLhQ3wP1",
+                "TweetLink": "1360344892321325059",
+                "Place": "Melbourne",
+                "Time": "Fri Feb 12 21:47:50 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0531355,
+                    -37.9725665
+                ]
+            }
         }
     ]
 }
