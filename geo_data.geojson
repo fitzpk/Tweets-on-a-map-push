@@ -240,6 +240,30 @@
                     37.919526
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/730121665586319360/d-FPykKV_normal.jpg",
+                "Name": "thomas lewis",
+                "Handle": "tommylewis92",
+                "Tweet": "@MattHolbrook86 Can you confirm, did he have his cock out for the rest of the hole? #PGATour",
+                "TweetLink": "1360734748503666688",
+                "Place": "Coventry",
+                "Time": "Sat Feb 13 23:36:59 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5186515,
+                    52.411913
+                ]
+            }
         }
     ]
 }
