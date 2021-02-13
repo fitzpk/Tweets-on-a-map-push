@@ -192,6 +192,30 @@
                     32.415051
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/985320822440103942/gyec5jFF_normal.jpg",
+                "Name": "Conor Burns",
+                "Handle": "cburns1989",
+                "Tweet": "Jordan Speith \ud83d\ude0d Welcome back big guy #pebble #PGATour #speith https://t.co/OlEtVmD5oV",
+                "TweetLink": "1360721170182660096",
+                "Place": "Dublin City",
+                "Time": "Sat Feb 13 22:43:02 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2476215,
+                    53.3549025
+                ]
+            }
         }
     ]
 }
