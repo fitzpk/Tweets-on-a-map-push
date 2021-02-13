@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1359745373280096258/bMt4PZRE_normal.jpg",
-                "Name": "Amy Zimmer",
-                "Handle": "AmyZimmerWJCL",
-                "Tweet": "Love the West Coast Swing but the #pgatour needs to make its way to the Lowcountry already! #rbcheritage https://t.co/3Oyft11ave",
-                "TweetLink": "1360248253686677513",
-                "Place": "Savannah",
-                "Time": "Fri Feb 12 15:23:50 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.1096165,
-                    32.0172845
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1326237487791022080/sWo-lwoL_normal.jpg",
                 "Name": "Nick Bradley",
                 "Handle": "THENICKBRADLEY",
