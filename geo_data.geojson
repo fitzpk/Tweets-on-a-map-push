@@ -168,6 +168,54 @@
                     52.411913
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
+                "Name": "VegasSquaresPodcast",
+                "Handle": "VegasSquares",
+                "Tweet": "Lashley tryna make @Tokentony89 look like a genius!\n\n#PebbleBeachProAm #PebbleBeach #PGATour https://t.co/pHklGzPkoi",
+                "TweetLink": "1361066185777836034",
+                "Place": "Las Vegas",
+                "Time": "Sun Feb 14 21:34:00 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.223125,
+                    36.232915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000666544759/bf958c8f498c35596afe3b699fa68c6c_normal.jpeg",
+                "Name": "bret israel",
+                "Handle": "bretisrael",
+                "Tweet": "@CBSSports must own stock in Jordan Spieth lol #PGATour #PebbleBeach \n(Admittedly nice to see him back in form)",
+                "TweetLink": "1361066652209537026",
+                "Place": "Los Angeles",
+                "Time": "Sun Feb 14 21:35:51 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
