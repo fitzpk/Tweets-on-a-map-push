@@ -360,6 +360,30 @@
                     26.251895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3615102110/353b3b55de5afc7f54ba4a709f5b120c_normal.jpeg",
+                "Name": "Dick Kearns",
+                "Handle": "dickkearns",
+                "Tweet": "Congrats to @DanielBerger59 and team @excelsm on an exciting @attproam finish! From your friends @copperhillNY grea\u2026 https://t.co/2af1jjPLkr",
+                "TweetLink": "1361089483836391430",
+                "Place": "East Williston",
+                "Time": "Sun Feb 14 23:06:35 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6331535,
+                    40.760591
+                ]
+            }
         }
     ]
 }
