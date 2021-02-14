@@ -408,6 +408,54 @@
                     51.796608
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1345055573541330945/AuMhgMEU_normal.jpg",
+                "Name": "\ud83c\udf99\ufe0f IndyCarTim \ud83c\udf99\ufe0f",
+                "Handle": "IndyCarTim",
+                "Tweet": "Nice win!",
+                "TweetLink": "1361093810688823296",
+                "Place": "Texas",
+                "Time": "Sun Feb 14 23:23:47 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.0768885,
+                    31.1688935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1323729102420004865/q-T2AQe__normal.jpg",
+                "Name": "Marc Scarratt",
+                "Handle": "stokiemarc",
+                "Tweet": "Fantastic performance from @JordanSpieth again. Only a matter of time before he wins again. Would be a fairytale to\u2026 https://t.co/x0OWjqaaPx",
+                "TweetLink": "1361094713781157888",
+                "Place": "Congleton",
+                "Time": "Sun Feb 14 23:27:22 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.214051,
+                    53.1630785
+                ]
+            }
         }
     ]
 }
