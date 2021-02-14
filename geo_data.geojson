@@ -480,6 +480,54 @@
                     31.1688935
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/821079496279269376/CALL0pP7_normal.jpg",
+                "Name": "Dave Klewan",
+                "Handle": "DaveKlewan",
+                "Tweet": "May be my favorite view in the world.   T-minus 18 hours until the start of the @activepdf Monday Pro-Am kicks off\u2026 https://t.co/yDMl0dLnrI",
+                "TweetLink": "1361096728968101895",
+                "Place": "Los Angeles",
+                "Time": "Sun Feb 14 23:35:22 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1354790534901084165/kmZ-jKPp_normal.jpg",
+                "Name": "Candy Blair",
+                "Handle": "MissCandyBlair",
+                "Tweet": "@R_Barnes407 I love it! \u26f3\ufe0f\ud83c\udf62\ud83e\ude93 #PGATour",
+                "TweetLink": "1361097328766169090",
+                "Place": "Mississippi",
+                "Time": "Sun Feb 14 23:37:45 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.876449,
+                    32.571032
+                ]
+            }
         }
     ]
 }
