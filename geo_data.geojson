@@ -264,6 +264,30 @@
                     33.2334335
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1345055573541330945/AuMhgMEU_normal.jpg",
+                "Name": "\ud83c\udf99\ufe0f IndyCarTim \ud83c\udf99\ufe0f",
+                "Handle": "IndyCarTim",
+                "Tweet": "I believe with that bogie, @JordanSpieth's goose is cooked. 3 back now with 4 to play. #ATTProAm #PGATour https://t.co/gwYZxLn9sX",
+                "TweetLink": "1361078653405306883",
+                "Place": "Paloma Creek Park",
+                "Time": "Sun Feb 14 22:23:33 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.924842,
+                    33.212669
+                ]
+            }
         }
     ]
 }
