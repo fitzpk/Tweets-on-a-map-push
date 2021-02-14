@@ -240,6 +240,30 @@
                     43.555244
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1341174067358035969/BIXqolVB_normal.jpg",
+                "Name": "Santiago Canepa",
+                "Handle": "canepas",
+                "Tweet": "@DanielBerger59 dude, we can see you on tv spitting and grabbing your genitals all the time. So disgusting. Get a grip. #PGATour #ATTProAm",
+                "TweetLink": "1361078204832878604",
+                "Place": "Prosper",
+                "Time": "Sun Feb 14 22:21:46 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7850185,
+                    33.2334335
+                ]
+            }
         }
     ]
 }
