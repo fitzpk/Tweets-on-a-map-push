@@ -216,6 +216,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1287877133776441344/7WihKUKt_normal.jpg",
+                "Name": "The Full Nelson \ud83c\udde8\ud83c\udde6",
+                "Handle": "n_santos25",
+                "Tweet": "Listening to Spieth and his caddie discuss his approach shot is what we golf fans need more of. #PebbleBeachProAm #PGATour",
+                "TweetLink": "1361074997012402178",
+                "Place": "Mississauga",
+                "Time": "Sun Feb 14 22:09:01 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.616073,
+                    43.555244
+                ]
+            }
         }
     ]
 }
