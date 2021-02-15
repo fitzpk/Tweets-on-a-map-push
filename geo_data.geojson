@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1258225196349128710/zfyCIRE0_normal.jpg",
-                "Name": "JAMISON EQUITY",
-                "Handle": "HBCDonnyMurlins",
-                "Tweet": "@CBSSports @CBS why in the hell are you changing from @PGATOUR @attproam to #impeachment ?? This is absolute nonsen\u2026 https://t.co/uE2se6NNoR",
-                "TweetLink": "1360691352263139334",
-                "Place": "Nashville",
-                "Time": "Sat Feb 13 20:44:33 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.791549,
-                    36.200008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1232464303846019074/N0vDZosb_normal.jpg",
                 "Name": "Max Preston",
                 "Handle": "MaxPrestonTV",
