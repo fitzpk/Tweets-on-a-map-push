@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1232464303846019074/N0vDZosb_normal.jpg",
-                "Name": "Max Preston",
-                "Handle": "MaxPrestonTV",
-                "Tweet": "Daniel Berger earns his 4th PGA Tour victory at Pebble Beach and is only 27 years old. He\u2019s playing some great golf\u2026 https://t.co/Cd3kxFW1jG",
-                "TweetLink": "1361097484395819008",
-                "Place": "Abilene",
-                "Time": "Sun Feb 14 23:38:22 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -99.750556,
-                    32.415051
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
                 "Name": "Tour Junkies",
                 "Handle": "Tour_Junkies",
