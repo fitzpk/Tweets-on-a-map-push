@@ -72,6 +72,30 @@
                     35.0838255
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1276152593857892360/NmHUs6bE_normal.jpg",
+                "Name": "Steve Hamblin",
+                "Handle": "fatcat42",
+                "Tweet": "Love this. He\u2019s a great talker and isn\u2019t afraid to speak out.",
+                "TweetLink": "1361799835695865856",
+                "Place": "Sleaford",
+                "Time": "Tue Feb 16 22:09:16 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4117375,
+                    52.9993195
+                ]
+            }
         }
     ]
 }
