@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/930473149459849218/VAXzc51K_normal.jpg",
-                "Name": "James Carr",
-                "Handle": "roddersncc",
-                "Tweet": "This Nate Lashley fella is box office. And when I say box office I mean a complete arsehole #PGATOUR",
-                "TweetLink": "1361087982434988033",
-                "Place": "Longbenton",
-                "Time": "Sun Feb 14 23:00:37 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.5616905,
-                    55.0267175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1285842165743132672/K7lkz7x4_normal.jpg",
-                "Name": "Michael Lorenz",
-                "Handle": "mikelorenz924",
-                "Tweet": "DANIEL BERGER EAGLE WINNER \n14-1!!!!!! Happy to get our first winner in 2021 #gamblingtwitter #PGAtour #Golfbets @gamblersanonym6",
-                "TweetLink": "1361088276363370499",
-                "Place": "Pompano Beach",
-                "Time": "Sun Feb 14 23:01:47 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.1386455,
-                    26.251895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3615102110/353b3b55de5afc7f54ba4a709f5b120c_normal.jpeg",
                 "Name": "Dick Kearns",
                 "Handle": "dickkearns",
