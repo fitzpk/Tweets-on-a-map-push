@@ -144,6 +144,30 @@
                     35.0838255
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1082690196376817664/ZQASEu6M_normal.jpg",
+                "Name": "James King",
+                "Handle": "jamesg_king",
+                "Tweet": "Mad that peoples jobs are to play places like Pebble Beach and Riviera in consecutive weeks \ud83e\udd72 #pgatour",
+                "TweetLink": "1362129225059336200",
+                "Place": "Pencoed",
+                "Time": "Wed Feb 17 19:58:09 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.503399,
+                    51.523466
+                ]
+            }
         }
     ]
 }
