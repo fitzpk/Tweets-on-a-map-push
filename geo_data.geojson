@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000076886105/7811fa215540928186b2b9f31bd113f8_normal.jpeg",
-                "Name": "Georg Roth",
-                "Handle": "GeorgRothLA",
-                "Tweet": "YES, Entire Site 20% OFF\nUse code:  Twitter20  at Checkout \nhttps://t.co/Ut9Vpzj24U\nYour https://t.co/uuG4HnFzQV Te\u2026 https://t.co/SzMbNE6ROv",
-                "TweetLink": "1361512207121408004",
-                "Place": "Los Angeles",
-                "Time": "Tue Feb 16 03:06:20 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.4119065,
-                    34.0207895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
                 "Name": "Will O'Donoghue",
                 "Handle": "Will_ODonoghue",
