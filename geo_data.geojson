@@ -120,6 +120,30 @@
                     40.0785255
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "@McIlroyRory has been elected as chairman of @PGATour's Player Advisory Council. Rory becomes the first Internation\u2026 https://t.co/WaciSFUILV",
+                "TweetLink": "1362128010963542022",
+                "Place": "Lake Park",
+                "Time": "Wed Feb 17 19:53:19 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.633465,
+                    35.0838255
+                ]
+            }
         }
     ]
 }
