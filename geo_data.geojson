@@ -168,6 +168,54 @@
                     51.523466
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/976926025316581376/KtPaVMLA_normal.jpg",
+                "Name": "Adam Freeman, DC, CCSP\u00ae",
+                "Handle": "NEsportsdoc",
+                "Tweet": "Lastly - With #PGATour hip velocity ranges in the 400-500+ range where do you think his velocities fell? 200-300. H\u2026 https://t.co/FlPHmiFbON",
+                "TweetLink": "1362131264564846598",
+                "Place": "Nebraska",
+                "Time": "Wed Feb 17 20:06:15 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.6809025,
+                    41.5007295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1184283931484528640/hLvIkJPd_normal.jpg",
+                "Name": "Mr. Barron",
+                "Handle": "MRB_AP_ECON",
+                "Tweet": "Let\u2019s gooooo @JordanSpieth   Awesome stuff.",
+                "TweetLink": "1362131451349712900",
+                "Place": "Lynn Haven",
+                "Time": "Wed Feb 17 20:06:59 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.640517,
+                    30.227684
+                ]
+            }
         }
     ]
 }
