@@ -96,6 +96,30 @@
                     39.7393005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1285842165743132672/K7lkz7x4_normal.jpg",
+                "Name": "Michael Lorenz",
+                "Handle": "mikelorenz924",
+                "Tweet": "Sam Burns Keep the train ROLLLIN!!!!\n-11 Babbbyyyy #GamblingTwitter #PGATour #Golfbets",
+                "TweetLink": "1362813392575213568",
+                "Place": "Pompano Beach",
+                "Time": "Fri Feb 19 17:16:47 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1386455,
+                    26.251895
+                ]
+            }
         }
     ]
 }
