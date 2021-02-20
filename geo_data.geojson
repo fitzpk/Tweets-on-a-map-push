@@ -264,6 +264,54 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/951134112110333952/2Hd2EzBH_normal.jpg",
+                "Name": "Brendan Young",
+                "Handle": "byoung408",
+                "Tweet": "Watching the PGA Genesis Invitational and they stop play for 25-30 MPH wind gusts as unplayable conditions. REALLY!\u2026 https://t.co/OUw1H1qRCG",
+                "TweetLink": "1363190480566108160",
+                "Place": "North Platte",
+                "Time": "Sat Feb 20 18:15:12 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.7906725,
+                    41.1242885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/951134112110333952/2Hd2EzBH_normal.jpg",
+                "Name": "Brendan Young",
+                "Handle": "byoung408",
+                "Tweet": "Watching the PGA Genesis Invitational and they stop play for 25-30 MPH wind gusts as unplayable conditions. REALLY!\u2026 https://t.co/p8fgNrLrGb",
+                "TweetLink": "1363191012676542466",
+                "Place": "North Platte",
+                "Time": "Sat Feb 20 18:17:18 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.7906725,
+                    41.1242885
+                ]
+            }
         }
     ]
 }
