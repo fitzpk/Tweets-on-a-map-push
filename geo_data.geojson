@@ -144,6 +144,30 @@
                     44.9706105
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1342128104991559680/xxtdVjNI_normal.jpg",
+                "Name": "houseofdayne",
+                "Handle": "houseofdayne",
+                "Tweet": "I wish I could say this video is on a loop. My god is golf frustrating. \nWith that being said, can\u2019t wait to learn\u2026 https://t.co/FmguIa09tp",
+                "TweetLink": "1362966114234425350",
+                "Place": "Mechanicsburg",
+                "Time": "Sat Feb 20 03:23:38 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0055005,
+                    40.2110595
+                ]
+            }
         }
     ]
 }
