@@ -240,6 +240,30 @@
                     53.3549025
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1324803227968135168/NwXMVSL8_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "DeadMoneyJesse",
+                "Tweet": "Live look at the wind from #GenesisInvitational Gonna make for an interesting day. #PGATour @thegenesisinv @PGATOUR\u2026 https://t.co/ytXW7WsA5Y",
+                "TweetLink": "1363188792866140163",
+                "Place": "Paradise",
+                "Time": "Sat Feb 20 18:08:29 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
