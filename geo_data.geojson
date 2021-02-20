@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1193032057556885504/rIWQSLnP_normal.jpg",
-                "Name": "Golf Volunteers",
-                "Handle": "Volunteer4golf",
-                "Tweet": "Round 2 of @thegenesisinv about to start.  This is what 120 players are aiming for. #PGATour #golf #FedExCup https://t.co/zRNhBrVS10",
-                "TweetLink": "1362770688910630912",
-                "Place": "Riviera Country Club",
-                "Time": "Fri Feb 19 14:27:05 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.502312,
-                    34.050242
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1285842165743132672/K7lkz7x4_normal.jpg",
                 "Name": "Michael Lorenz",
                 "Handle": "mikelorenz924",
