@@ -696,6 +696,30 @@
                     46.730822
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2934231106/946afe9f8f1482a6527ae871e1c1ee1e_normal.png",
+                "Name": "Rajiv Krishnan",
+                "Handle": "aarkay123",
+                "Tweet": "Oh my Max @maxhoma23 #Clutch #Mamba #LA #Riviera #pgatour",
+                "TweetLink": "1363625750578925570",
+                "Place": "Pullman",
+                "Time": "Sun Feb 21 23:04:48 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1542695,
+                    46.730822
+                ]
+            }
         }
     ]
 }
