@@ -456,6 +456,30 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/418806676624388096/WQmMIVeQ_normal.jpeg",
+                "Name": "Eamonn O Donnell",
+                "Handle": "eamonnodGolf",
+                "Tweet": "Let's go @maxhoma23 , low one on the cards today #PGATour #GenesisInvitational",
+                "TweetLink": "1363550345876627457",
+                "Place": "Clare",
+                "Time": "Sun Feb 21 18:05:10 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1100495,
+                    52.858974
+                ]
+            }
         }
     ]
 }
