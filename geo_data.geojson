@@ -432,6 +432,30 @@
                     43.8660115
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1324803227968135168/NwXMVSL8_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "DeadMoneyJesse",
+                "Tweet": "The weather has made this anyone\u2019s game. Still got some players within striking distance. Round 4 of @thegenesisinv\u2026 https://t.co/3GrSmKvoBj",
+                "TweetLink": "1363534159340208131",
+                "Place": "Paradise",
+                "Time": "Sun Feb 21 17:00:51 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
