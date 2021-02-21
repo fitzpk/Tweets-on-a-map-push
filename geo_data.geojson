@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/814390473901113345/eyJ0k9KR_normal.jpg",
-                "Name": "Robin French",
-                "Handle": "Robin_Essex",
-                "Tweet": ".... And now he's shouting at the @TheRivieraCC staff. #MattWolf don't deserve to be on the #PGATOUR \u26f3 \ud83d\ude14",
-                "TweetLink": "1363179657894494213",
-                "Place": "Dublin City",
-                "Time": "Sat Feb 20 17:32:11 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -6.2476215,
-                    53.3549025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1324803227968135168/NwXMVSL8_normal.jpg",
                 "Name": "Jesse Flynn",
                 "Handle": "DeadMoneyJesse",
@@ -646,6 +622,54 @@
                 "coordinates": [
                     -115.135165,
                     36.0609645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/641823681669259264/EVXCVcOR_normal.jpg",
+                "Name": "robert schwinn",
+                "Handle": "robertschwinn",
+                "Tweet": "Tony Finau, Max Homa or Sam Burns,  I would love to see any of theses guys win The Genesis invitational #pgatour I\u2026 https://t.co/4eCcinjk4G",
+                "TweetLink": "1363616910877675521",
+                "Place": "Los Angeles",
+                "Time": "Sun Feb 21 22:29:40 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1263828364453990403/JaN1oJzs_normal.jpg",
+                "Name": "Mackem Exile \ud83c\udde8\ud83c\uddf5",
+                "Handle": "choppy_1991",
+                "Tweet": "Want @tonyfinaugolf to win so bad #PGATour #GenesisInvitational",
+                "TweetLink": "1363617759301689347",
+                "Place": "Saltdean",
+                "Time": "Sun Feb 21 22:33:03 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.04978,
+                    50.8103155
                 ]
             }
         }
