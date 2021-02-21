@@ -984,6 +984,150 @@
                     31.1688935
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/711967707927805953/ty9uUSjc_normal.jpg",
+                "Name": "Anthony",
+                "Handle": "anthonyvilla_17",
+                "Tweet": "@maxhoma23 HOMA GAWD!! Nice work kid. Congrats on the win. #PGATour",
+                "TweetLink": "1363636714279960576",
+                "Place": "Pine Ridge at Crestwood",
+                "Time": "Sun Feb 21 23:48:22 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.3139365,
+                    39.9553925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1154532932691906560/M31PyG7T_normal.jpg",
+                "Name": "CarrotStickSports",
+                "Handle": "CarrotStickShop",
+                "Tweet": "Wow. What a finish at the #genesisopen! Congratulations @maxhoma23, great round @tonyfinaugolf. #exciting #PGATour",
+                "TweetLink": "1363636746932654084",
+                "Place": "Dearborn",
+                "Time": "Sun Feb 21 23:48:30 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.213557,
+                    42.314732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1332081783085666305/hgeC7Czq_normal.jpg",
+                "Name": "Th\u00e1igh Morley",
+                "Handle": "thaigher99",
+                "Tweet": "Tony \u2639\ud83e\udd7a\ud83e\udd7a\ud83d\ude2d\ud83d\ude22\ud83d\ude13 #GenesisInvitational #PGATour",
+                "TweetLink": "1363636919377285120",
+                "Place": "Mayo",
+                "Time": "Sun Feb 21 23:49:11 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4203375,
+                    53.9092525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/560824976991731712/pa0MEmAI_normal.jpeg",
+                "Name": "Brian Knowles",
+                "Handle": "bknowles10",
+                "Tweet": "Still got it done ... Congratulations @maxhoma23 !! #PGATour",
+                "TweetLink": "1363637045755858947",
+                "Place": "Edmonton",
+                "Time": "Sun Feb 21 23:49:41 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.4926175,
+                    53.5558195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1313479869087571974/UvNDNhCk_normal.jpg",
+                "Name": "Noah Silverman",
+                "Handle": "noahsilverman",
+                "Tweet": "Happy for you, @maxhoma23. Congratulations on a special victory. #GenesisInvitational #PGATour",
+                "TweetLink": "1363637202421432326",
+                "Place": "North Potomac",
+                "Time": "Sun Feb 21 23:50:18 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.2308695,
+                    39.0984355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/418806676624388096/WQmMIVeQ_normal.jpeg",
+                "Name": "Eamonn O Donnell",
+                "Handle": "eamonnodGolf",
+                "Tweet": "That a boy @maxhoma23 said it last week win was close by, playing serious golf the last month #winnerwinner #PGATour #GenesisInvitational",
+                "TweetLink": "1363637207081365505",
+                "Place": "Clare",
+                "Time": "Sun Feb 21 23:50:19 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1100495,
+                    52.858974
+                ]
+            }
         }
     ]
 }
