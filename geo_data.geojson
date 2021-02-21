@@ -600,6 +600,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000076886105/7811fa215540928186b2b9f31bd113f8_normal.jpeg",
+                "Name": "Georg Roth",
+                "Handle": "GeorgRothLA",
+                "Tweet": "Golfer in @WilshireCC @brentwoodcc5123 @hillcrestcclnk @HillcrestCCGolf @SevenBridgesGC and many more playing in\u2026 https://t.co/Lt8zU0ZWJj",
+                "TweetLink": "1363595405879959555",
+                "Place": "California",
+                "Time": "Sun Feb 21 21:04:13 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3066075,
+                    37.2691755
+                ]
+            }
         }
     ]
 }
