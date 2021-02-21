@@ -480,6 +480,30 @@
                     52.858974
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1314601294607327235/_Si9y7R-_normal.jpg",
+                "Name": "Ben Mintz",
+                "Handle": "BarstoolMintzy",
+                "Tweet": "GLGLGL @Samburns66 in PGA Riviera final round today! Has a one shot lead &amp; continues to put himself in good positio\u2026 https://t.co/pITmwbHqvF",
+                "TweetLink": "1363563137774071812",
+                "Place": "Manhattan",
+                "Time": "Sun Feb 21 18:56:00 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9685415,
+                    40.780709
+                ]
+            }
         }
     ]
 }
