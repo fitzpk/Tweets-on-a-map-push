@@ -360,6 +360,30 @@
                     26.251895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/591615488603643904/fT6VQnXu_normal.jpg",
+                "Name": "Todd Meyer",
+                "Handle": "ToddMeyer2019",
+                "Tweet": "This is the hardest I've seen a #PGATour course play in a single day in a long time. These guys looked beat when th\u2026 https://t.co/3LF97iSISO",
+                "TweetLink": "1363305197074870272",
+                "Place": "South Carolina",
+                "Time": "Sun Feb 21 01:51:02 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.926628,
+                    33.6311395
+                ]
+            }
         }
     ]
 }
