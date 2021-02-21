@@ -312,6 +312,30 @@
                     31.1688935
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000076886105/7811fa215540928186b2b9f31bd113f8_normal.jpeg",
+                "Name": "Georg Roth",
+                "Handle": "GeorgRothLA",
+                "Tweet": "YES, Entire Site 20% OFF\nUse code:  Twitter20  at Checkout \n-\nYour https://t.co/uuG4HnFzQV Team\n- \n#GeorgRoth\u2026 https://t.co/fyF28o5ndt",
+                "TweetLink": "1363289282811584514",
+                "Place": "Los Angeles",
+                "Time": "Sun Feb 21 00:47:48 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
