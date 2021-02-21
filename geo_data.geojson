@@ -528,6 +528,54 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1287522934794252288/pSU-eaan_normal.jpg",
+                "Name": "Mike Hauser",
+                "Handle": "Hauser_Mike",
+                "Tweet": "Can Smith is on the charge at Riviera #pgatour #TheGenesis @camsmith9 https://t.co/AMoTtdF9sA",
+                "TweetLink": "1363581447878049795",
+                "Place": "Melbourne",
+                "Time": "Sun Feb 21 20:08:45 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0531355,
+                    -37.9725665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1120582696680345601/lCjli1uc_normal.jpg",
+                "Name": "Joel",
+                "Handle": "_J0EL_",
+                "Tweet": "Some shot from @Samburns66 there. #PGATour",
+                "TweetLink": "1363581974275710976",
+                "Place": "Sydney",
+                "Time": "Sun Feb 21 20:10:51 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.931975,
+                    -33.848244
+                ]
+            }
         }
     ]
 }
