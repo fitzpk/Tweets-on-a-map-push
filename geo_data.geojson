@@ -408,6 +408,30 @@
                     38.5691135
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1079880403807293440/9EQUKEW2_normal.jpg",
+                "Name": "Todd",
+                "Handle": "Rusty0967",
+                "Tweet": "@odognine2 @HayesTSN Sunday Hoodie Day #PGATour #GenesisInvitational https://t.co/50qk7LA2bD",
+                "TweetLink": "1363519512730025985",
+                "Place": "Clarington",
+                "Time": "Sun Feb 21 16:02:39 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.636469,
+                    43.8660115
+                ]
+            }
         }
     ]
 }
