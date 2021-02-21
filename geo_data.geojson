@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1315076315423408129/v3cFtdYs_normal.jpg",
-                "Name": "Mac Kittelson",
-                "Handle": "macdaddydiesell",
-                "Tweet": "Hey @XSchauffele where\u2019d you get your mock turtleneck?? #iwantit #PGATour https://t.co/a3Bdpr4TXg",
-                "TweetLink": "1362849052807856129",
-                "Place": "Minneapolis",
-                "Time": "Fri Feb 19 19:38:29 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.2620465,
-                    44.9706105
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1342128104991559680/xxtdVjNI_normal.jpg",
                 "Name": "houseofdayne",
                 "Handle": "houseofdayne",
