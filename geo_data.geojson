@@ -504,6 +504,30 @@
                     40.780709
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1105653936063549440/C1gjF_b6_normal.png",
+                "Name": "Dr. Stuart Love",
+                "Handle": "theHealthyGolfr",
+                "Tweet": "To the victor goes the spoils\u2026and the really cool trophy. \ud83d\ude2c\n\ud83c\udfc6\n#ChampionshipSunday at the #GenesisInvitational.\nWho\u2026 https://t.co/yEmnWklwag",
+                "TweetLink": "1363571606858047488",
+                "Place": "Los Angeles",
+                "Time": "Sun Feb 21 19:29:39 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
