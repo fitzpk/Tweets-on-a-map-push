@@ -792,6 +792,78 @@
                     33.536182
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2934231106/946afe9f8f1482a6527ae871e1c1ee1e_normal.png",
+                "Name": "Rajiv Krishnan",
+                "Handle": "aarkay123",
+                "Tweet": "What a tough break for Max, all but over. #PGAtour #Riviera",
+                "TweetLink": "1363631924896391169",
+                "Place": "Pullman",
+                "Time": "Sun Feb 21 23:29:20 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1542695,
+                    46.730822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1271198818240024577/6Jk8PdTx_normal.jpg",
+                "Name": "Bryan Harris",
+                "Handle": "bhnoles",
+                "Tweet": "I\u2019ve never seen a guy smile so much that completely choked off the golf tournament. #PGATour #GenesisInvitational",
+                "TweetLink": "1363631934681845761",
+                "Place": "Georgia",
+                "Time": "Sun Feb 21 23:29:22 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1738665,
+                    32.6782075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1317696781497425920/aRVP1ZRt_normal.jpg",
+                "Name": "James Montessi",
+                "Handle": "Montessi",
+                "Tweet": "Bump.",
+                "TweetLink": "1363632098326708224",
+                "Place": "Mesa",
+                "Time": "Sun Feb 21 23:30:01 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7375655,
+                    33.4057545
+                ]
+            }
         }
     ]
 }
