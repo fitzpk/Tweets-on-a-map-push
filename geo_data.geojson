@@ -384,6 +384,30 @@
                     32.6782075
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1247171769674289152/yG5BfMsD_normal.jpg",
+                "Name": "Shane O'Brien",
+                "Handle": "ShaneO_Brien",
+                "Tweet": "Hey everyone check out my #Golf #website at https://t.co/7TSJiQQ666 we just added a bunch of new gear! Use discount\u2026 https://t.co/TaIhWxSd8g",
+                "TweetLink": "1363504078060331012",
+                "Place": "La Riviera",
+                "Time": "Sun Feb 21 15:01:19 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.358006,
+                    38.5691135
+                ]
+            }
         }
     ]
 }
