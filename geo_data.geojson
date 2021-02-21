@@ -360,6 +360,30 @@
                     33.6311395
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1273598417789284353/FxERgPI9_normal.jpg",
+                "Name": "Dwight Hansen, PGA",
+                "Handle": "dhansenAGG",
+                "Tweet": "Times have changed! #PGATour https://t.co/gK7af6Zcgy",
+                "TweetLink": "1363489988529242113",
+                "Place": "Georgia",
+                "Time": "Sun Feb 21 14:05:20 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1738665,
+                    32.6782075
+                ]
+            }
         }
     ]
 }
