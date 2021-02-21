@@ -7,30 +7,6 @@
                 "ProfilePic": "http://pbs.twimg.com/profile_images/814390473901113345/eyJ0k9KR_normal.jpg",
                 "Name": "Robin French",
                 "Handle": "Robin_Essex",
-                "Tweet": "Cannot stand watching @MattWolfAB play... \u26f3 He's moaning about the wind \ud83c\udf43. Be grateful you're able to be out playin\u2026 https://t.co/wRev1PWMaQ",
-                "TweetLink": "1363174838341410820",
-                "Place": "Dublin City",
-                "Time": "Sat Feb 20 17:13:02 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -6.2476215,
-                    53.3549025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/814390473901113345/eyJ0k9KR_normal.jpg",
-                "Name": "Robin French",
-                "Handle": "Robin_Essex",
                 "Tweet": "Cannot stand watching #MattWolf play... \u26f3 He's moaning about the wind \ud83c\udf43. Be grateful you're able to be out playing.\u2026 https://t.co/LMHvi8vN4i",
                 "TweetLink": "1363175190474223616",
                 "Place": "Dublin City",
