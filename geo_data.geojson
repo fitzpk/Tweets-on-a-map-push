@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/951134112110333952/2Hd2EzBH_normal.jpg",
-                "Name": "Brendan Young",
-                "Handle": "byoung408",
-                "Tweet": "Watching the PGA Genesis Invitational and they stop play for 25-30 MPH wind gusts as unplayable conditions. REALLY!\u2026 https://t.co/OUw1H1qRCG",
-                "TweetLink": "1363190480566108160",
-                "Place": "North Platte",
-                "Time": "Sat Feb 20 18:15:12 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -100.7906725,
-                    41.1242885
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/951134112110333952/2Hd2EzBH_normal.jpg",
-                "Name": "Brendan Young",
-                "Handle": "byoung408",
-                "Tweet": "Watching the PGA Genesis Invitational and they stop play for 25-30 MPH wind gusts as unplayable conditions. REALLY!\u2026 https://t.co/p8fgNrLrGb",
-                "TweetLink": "1363191012676542466",
-                "Place": "North Platte",
-                "Time": "Sat Feb 20 18:17:18 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -100.7906725,
-                    41.1242885
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1355185796555354113/PmAb6Ebg_normal.jpg",
                 "Name": "Scott Fitzhugh",
                 "Handle": "fitzpoker",
@@ -694,6 +646,54 @@
                 "coordinates": [
                     -117.1542695,
                     46.730822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1287191384236138503/j8xbuvFR_normal.jpg",
+                "Name": "Phil Stiefel",
+                "Handle": "Beardaknowledge",
+                "Tweet": "Max Homa trying to get himself added to the dead to me list \n\n@thegenesisinv @PGATOUR @AATBirds @Fairway2Heaven_\u2026 https://t.co/kRWHgdjaCE",
+                "TweetLink": "1363628135611133953",
+                "Place": "Pennsylvania",
+                "Time": "Sun Feb 21 23:14:17 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/979783458200440832/DyexPTHe_normal.jpg",
+                "Name": "Picto",
+                "Handle": "ShaunReynard",
+                "Tweet": "Homa misses the gimmie FTW on the 18th #Scenes #PGATour #GenshinImapct",
+                "TweetLink": "1363628248077398016",
+                "Place": "Newcastle Upon Tyne",
+                "Time": "Sun Feb 21 23:14:43 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6453615,
+                    54.9920555
                 ]
             }
         }
