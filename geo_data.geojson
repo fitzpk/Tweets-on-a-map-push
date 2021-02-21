@@ -768,6 +768,30 @@
                     35.8305215
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
+                "Name": "Tour Junkies",
+                "Handle": "Tour_Junkies",
+                "Tweet": "Team DB\u2019s Big Balls Card with Homa at 70/1\n\nVS\n\nPat\u2019s Not That Anyone Really Cares Card with Finau at 25/1\n\nWinners\u2026 https://t.co/PE0QGCKO4d",
+                "TweetLink": "1363631139722788865",
+                "Place": "Evans",
+                "Time": "Sun Feb 21 23:26:13 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.163663,
+                    33.536182
+                ]
+            }
         }
     ]
 }
