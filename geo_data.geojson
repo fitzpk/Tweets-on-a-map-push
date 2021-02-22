@@ -1200,6 +1200,30 @@
                     41.748496
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2513873705/h88qjb2tqetyvjtxa7et_normal.jpeg",
+                "Name": "Mike Rodriguez",
+                "Handle": "Bulls_1177",
+                "Tweet": "@iansgold love me some tipsy Tiger",
+                "TweetLink": "1363688453922316289",
+                "Place": "Naperville",
+                "Time": "Mon Feb 22 03:13:58 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.1613215,
+                    41.748496
+                ]
+            }
         }
     ]
 }
