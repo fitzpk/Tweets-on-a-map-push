@@ -1128,6 +1128,30 @@
                     33.385555
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1287191384236138503/j8xbuvFR_normal.jpg",
+                "Name": "Phil Stiefel",
+                "Handle": "Beardaknowledge",
+                "Tweet": "Cashed in 5 of 7 #FantasyGolf lineups on @DraftKings this weekend\n\nMake sure your watching @Fairway2Heaven_ Tuesday\u2026 https://t.co/8guMcjP5Tq",
+                "TweetLink": "1363857082290700297",
+                "Place": "Pennsylvania",
+                "Time": "Mon Feb 22 14:24:02 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
         }
     ]
 }
