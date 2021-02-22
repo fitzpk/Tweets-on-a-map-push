@@ -1176,6 +1176,30 @@
                     34.685827
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2513873705/h88qjb2tqetyvjtxa7et_normal.jpeg",
+                "Name": "Mike Rodriguez",
+                "Handle": "Bulls_1177",
+                "Tweet": "@BarstoolBigCat Winning on the #PGATour is the single hardest sports achievement. #finau is not cursed, he\u2019s just not good enough to win.",
+                "TweetLink": "1363686814821863426",
+                "Place": "Naperville",
+                "Time": "Mon Feb 22 03:07:27 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.1613215,
+                    41.748496
+                ]
+            }
         }
     ]
 }
