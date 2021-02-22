@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1291659966378651650/78TlPdTv_normal.jpg",
-                "Name": "Mark",
-                "Handle": "jacko_mark",
-                "Tweet": "Dustin Johnson reading the greens #GenesisInvitational #PGATour https://t.co/tAxGY7LUUf",
-                "TweetLink": "1363261024145727488",
-                "Place": "South Dublin",
-                "Time": "Sat Feb 20 22:55:30 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -6.399521,
-                    53.2735025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1209113590885765120/j6bJ-8eL_normal.jpg",
                 "Name": "Keith Cordero Jr.",
                 "Handle": "kmcorder",
