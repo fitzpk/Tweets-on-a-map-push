@@ -1176,6 +1176,30 @@
                     30.3233455
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1055969890933358592/vAesGPfs_normal.jpg",
+                "Name": "Kenneth Gee",
+                "Handle": "kennygeezer7",
+                "Tweet": "Max Homa showed legends are built on fallibility, not infallibility. Right? #pgatour #riviera",
+                "TweetLink": "1363678466546171905",
+                "Place": "Lancaster",
+                "Time": "Mon Feb 22 02:34:17 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.1632765,
+                    34.685827
+                ]
+            }
         }
     ]
 }
