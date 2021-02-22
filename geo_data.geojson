@@ -1152,6 +1152,30 @@
                     36.0188045
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/326018236/l_c46d06fc385106ade6fc1a01528d7754_normal.jpg",
+                "Name": "Rye one",
+                "Handle": "Romeorye",
+                "Tweet": "@tonyfinaugolf Brotha! Awesome round! Wanted you to take it!! Proud! Next time! #PGAtour #genesisopen #islandlife",
+                "TweetLink": "1363645890641108993",
+                "Place": "California",
+                "Time": "Mon Feb 22 00:24:50 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3066075,
+                    37.2691755
+                ]
+            }
         }
     ]
 }
