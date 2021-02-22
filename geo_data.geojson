@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1209113590885765120/j6bJ-8eL_normal.jpg",
-                "Name": "Keith Cordero Jr.",
-                "Handle": "kmcorder",
-                "Tweet": "Cantlay is always right there. He\u2019s due for a major. #PGATour #GenesisInvitational",
-                "TweetLink": "1363281979299405824",
-                "Place": "Texas",
-                "Time": "Sun Feb 21 00:18:47 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -100.0768885,
-                    31.1688935
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/378800000076886105/7811fa215540928186b2b9f31bd113f8_normal.jpeg",
                 "Name": "Georg Roth",
                 "Handle": "GeorgRothLA",
