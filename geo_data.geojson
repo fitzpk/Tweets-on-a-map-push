@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1307655413802979329/wkCzKEfs_normal.jpg",
-                "Name": "Kira K. Dixon",
-                "Handle": "KiraDixon",
-                "Tweet": "Nothing like reporting a weather delay in my first week \ud83d\ude4c\ud83c\udffc Live TV, man. Ain\u2019t nothing like it.",
-                "TweetLink": "1363214269815287816",
-                "Place": "Los Angeles",
-                "Time": "Sat Feb 20 19:49:43 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.4119065,
-                    34.0207895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/378800000813981342/ef07e9cc4095c88322d86e0a7aaf2e86_normal.jpeg",
                 "Name": "Tim in Houston",
                 "Handle": "tx1iron",
