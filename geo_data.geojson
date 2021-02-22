@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000813981342/ef07e9cc4095c88322d86e0a7aaf2e86_normal.jpeg",
-                "Name": "Tim in Houston",
-                "Handle": "tx1iron",
-                "Tweet": "The RIV.  Pure.  Gonna be tough on the boys this weekend\ud83d\udca8.\n.\n.#genesisinvitational #pgatour @ Riviera Country Club https://t.co/K7VMsCI2sm",
-                "TweetLink": "1363239494590164992",
-                "Place": "Holly Hill",
-                "Time": "Sat Feb 20 21:29:57 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.0963155,
-                    29.289812
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/502824086738075648/wWU_N168_normal.jpeg",
                 "Name": "Mike Ryan",
                 "Handle": "mryan311",
