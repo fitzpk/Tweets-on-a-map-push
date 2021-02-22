@@ -1176,6 +1176,30 @@
                     42.759745
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1294283322131193856/xaQDXsg-_normal.jpg",
+                "Name": "Matt Pretti",
+                "Handle": "MattPretti",
+                "Tweet": "Are you sure @Google?! \ud83e\udd14 Pretty sure you didn\u2019t watch the @thegenesisinv. #MaxHomaWon #PGATour #GenesisInvitational https://t.co/H7AFdplUTe",
+                "TweetLink": "1363669436071219206",
+                "Place": "Austin",
+                "Time": "Mon Feb 22 01:58:23 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.754724,
+                    30.3233455
+                ]
+            }
         }
     ]
 }
