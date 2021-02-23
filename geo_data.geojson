@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1317696781497425920/aRVP1ZRt_normal.jpg",
-                "Name": "James Montessi",
-                "Handle": "Montessi",
-                "Tweet": "Bump.",
-                "TweetLink": "1363632098326708224",
-                "Place": "Mesa",
-                "Time": "Sun Feb 21 23:30:01 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -111.7375655,
-                    33.4057545
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1093456769656020993/bhhZ0CZg_normal.jpg",
                 "Name": "Mike Keller",
                 "Handle": "MikeKellerWEEU",
