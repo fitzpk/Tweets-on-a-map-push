@@ -96,6 +96,30 @@
                     40.2110595
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1331772948093480961/qDeOGf7L_normal.jpg",
+                "Name": "Joshua Albarran",
+                "Handle": "JoshuaX1993",
+                "Tweet": "Hope Tiger's ok! #PGATour\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f https://t.co/TMKafty0ZS",
+                "TweetLink": "1364299009670660102",
+                "Place": "Manhattan",
+                "Time": "Tue Feb 23 19:40:06 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9685415,
+                    40.780709
+                ]
+            }
         }
     ]
 }
