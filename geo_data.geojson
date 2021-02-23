@@ -168,6 +168,30 @@
                     25.9056055
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1283229762903658497/iC08wJtA_normal.jpg",
+                "Name": "ProPics Canada Media Ltd",
+                "Handle": "SoundmaxDJlive",
+                "Tweet": "Thoughts and prayers are with @TigerWoods and his family. Wishing him a sucessful surgery and full recovery.\u2026 https://t.co/Dfnz3QqqAW",
+                "TweetLink": "1364312239730094081",
+                "Place": "Surrey",
+                "Time": "Tue Feb 23 20:32:40 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.818486,
+                    49.111519
+                ]
+            }
         }
     ]
 }
