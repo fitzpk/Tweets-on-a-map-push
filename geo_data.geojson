@@ -120,6 +120,30 @@
                     40.780709
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1057689855516442624/5_KSZrOR_normal.jpg",
+                "Name": "Brent Laing",
+                "Handle": "blaing99",
+                "Tweet": "Leave that silky in-turn and smooth out turn at home please! And definitely bring @waynemiddaugh a helmet cause he\u2019\u2026 https://t.co/3SniQYxhYl",
+                "TweetLink": "1364300974773436417",
+                "Place": "Oro-Medonte",
+                "Time": "Tue Feb 23 19:47:54 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.5484645,
+                    44.545816
+                ]
+            }
         }
     ]
 }
