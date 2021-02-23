@@ -1,12 +1,12 @@
 [
     {
         "sentiment": "Positive",
-        "tweets": 37,
+        "tweets": 27,
         "symbol": "+"
     },
     {
         "sentiment": "Negative",
-        "tweets": 11,
+        "tweets": 7,
         "symbol": "-"
     }
 ]
