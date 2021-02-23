@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1098325681501540352/QerxF5WB_normal.jpg",
-                "Name": "Brian Stultz",
-                "Handle": "brianjstultz",
-                "Tweet": "That shadow was killer for Finau. Onto the next sudden death hole. #PGATour #GenesisInvitational",
-                "TweetLink": "1363634355856420864",
-                "Place": "Villas",
-                "Time": "Sun Feb 21 23:39:00 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.8705045,
-                    26.551447
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1333534643837136897/uDuUp_jo_normal.jpg",
                 "Name": "Scarlett Prudence Biddle ( R.A.H.E.M.E\ud83c\udf77\ud83c\udf77\u2665)",
                 "Handle": "bawbbzz",
