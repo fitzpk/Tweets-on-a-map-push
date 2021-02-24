@@ -360,6 +360,54 @@
                     41.5578115
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1338411226175594496/2ReBkF2k_normal.jpg",
+                "Name": "Art by Manisha",
+                "Handle": "Art_By_Manisha",
+                "Tweet": "Wishing for his speedy recovery get well soon big cat #TigerWoods #Golf #PGA #pgatour #europeantour #USA #GOAT\u2026 https://t.co/REh53vgdrD",
+                "TweetLink": "1364681098953916417",
+                "Place": "Scotland",
+                "Time": "Wed Feb 24 20:58:23 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.200441,
+                    57.739454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1355627876150865926/MRsNZizD_normal.jpg",
+                "Name": "Inspector Jim_Elves, Ottawa Police Service \ud83c\udde8\ud83c\udde6",
+                "Handle": "Jim_Elves",
+                "Tweet": "If #TigerWoods isn't able to continue playing on the #pgatour \n\nGolf will never be the same. Sure there are great y\u2026 https://t.co/MnQJxZlRBN",
+                "TweetLink": "1364681210157498378",
+                "Place": "Ottawa",
+                "Time": "Wed Feb 24 20:58:49 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8001415,
+                    45.248791
+                ]
+            }
         }
     ]
 }
