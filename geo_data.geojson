@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1340672523156025349/Qx03vOnk_normal.jpg",
-                "Name": "JonLee",
-                "Handle": "JonLeeOSC",
-                "Tweet": "Things you know are true:\n1. Death \n2. Taxes\n3. Tony Finau not finishing on Sunday!\n#PGATour #JustSayin #Live4Golf #PGA",
-                "TweetLink": "1363966403297087493",
-                "Place": "Newmarket",
-                "Time": "Mon Feb 22 21:38:26 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.4605805,
-                    44.0501965
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1342128104991559680/xxtdVjNI_normal.jpg",
                 "Name": "houseofdayne",
                 "Handle": "houseofdayne",
