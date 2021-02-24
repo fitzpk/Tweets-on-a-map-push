@@ -192,6 +192,30 @@
                     18.22844
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "Thoughts and Prayers going out to @TigerWoods for a full and speedy recovery. #TigerWoods #PGATour #Golf\u2026 https://t.co/0szKdknerN",
+                "TweetLink": "1364385311275556864",
+                "Place": "Los Angeles",
+                "Time": "Wed Feb 24 01:23:01 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
