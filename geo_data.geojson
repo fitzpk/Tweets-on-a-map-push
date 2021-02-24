@@ -288,6 +288,30 @@
                     42.9072065
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1311368374337888256/DZM8-qBB_normal.jpg",
+                "Name": "J A C K  B O E H M",
+                "Handle": "jackhammer3",
+                "Tweet": "Love this",
+                "TweetLink": "1364614653222019073",
+                "Place": "Winnetka",
+                "Time": "Wed Feb 24 16:34:21 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.741282,
+                    42.1084705
+                ]
+            }
         }
     ]
 }
