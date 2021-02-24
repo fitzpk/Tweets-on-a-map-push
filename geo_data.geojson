@@ -216,6 +216,30 @@
                     36.232915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1287191384236138503/j8xbuvFR_normal.jpg",
+                "Name": "Phil Stiefel",
+                "Handle": "Beardaknowledge",
+                "Tweet": "Here is last nights @Fairway2Heaven_ ep\n\nCashed 5/7 lineups last week on @DraftKings\n\n@JSulli2121 or I picked outri\u2026 https://t.co/wOIqS3J5wq",
+                "TweetLink": "1364575174654312453",
+                "Place": "Pennsylvania",
+                "Time": "Wed Feb 24 13:57:28 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
         }
     ]
 }
