@@ -192,6 +192,30 @@
                     32.8919145
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
+                "Name": "VegasSquaresPodcast",
+                "Handle": "VegasSquares",
+                "Tweet": "Scheduling conflicts this week, no #Golf Podcast for @WGCWorkday. But next week we start the #FloridaSwing at\u2026 https://t.co/GE9q39niW4",
+                "TweetLink": "1364454450262200327",
+                "Place": "Las Vegas",
+                "Time": "Wed Feb 24 05:57:45 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.223125,
+                    36.232915
+                ]
+            }
         }
     ]
 }
