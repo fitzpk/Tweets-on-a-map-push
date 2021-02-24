@@ -240,6 +240,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/549390480602300418/wrb8zTDl_normal.jpeg",
+                "Name": "Paul Tighe",
+                "Handle": "taggertighe",
+                "Tweet": "Very honest and insightful interview with @SoftCoGroup brand ambassador @TROYMERRITT_PGA , some great advice on mak\u2026 https://t.co/3dE34DW6G1",
+                "TweetLink": "1364585654651346946",
+                "Place": "Fingal",
+                "Time": "Wed Feb 24 14:39:07 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.23572,
+                    53.494598
+                ]
+            }
         }
     ]
 }
