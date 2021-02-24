@@ -264,6 +264,30 @@
                     53.494598
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1174154070497603584/0anAKwlD_normal.jpg",
+                "Name": "WNY Girls Ice Hockey",
+                "Handle": "WNYGirlsHockey",
+                "Tweet": "Great advice. Be nice. Don't say anything if you have nothing nice to offer up.",
+                "TweetLink": "1364601322826305542",
+                "Place": "Cheektowaga",
+                "Time": "Wed Feb 24 15:41:23 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.748399,
+                    42.9072065
+                ]
+            }
         }
     ]
 }
