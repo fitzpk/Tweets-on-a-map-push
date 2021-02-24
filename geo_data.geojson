@@ -168,6 +168,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1197766918016557057/Lk_X_0RV_normal.jpg",
+                "Name": "Jake janowczyk",
+                "Handle": "jjnowczyk",
+                "Tweet": "My prayers \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f go out to the #PGATour @PGATOUR family &amp; @TigerWoods #PrayersForTigerWoods y\u2019all\ud83d\ude14 https://t.co/pnq7gxifGg",
+                "TweetLink": "1364420401024000002",
+                "Place": "Colleyville",
+                "Time": "Wed Feb 24 03:42:27 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1432935,
+                    32.8919145
+                ]
+            }
         }
     ]
 }
