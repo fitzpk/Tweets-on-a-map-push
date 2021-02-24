@@ -408,6 +408,30 @@
                     45.248791
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000460508807/27aeae124dbe4c6b148ad9cbec3796f0_normal.jpeg",
+                "Name": "GolfTripXMitch",
+                "Handle": "MitchLaurance",
+                "Tweet": "Truth from Ted. \ud83d\udc4d",
+                "TweetLink": "1364689822539988992",
+                "Place": "South Carolina",
+                "Time": "Wed Feb 24 21:33:03 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.926628,
+                    33.6311395
+                ]
+            }
         }
     ]
 }
