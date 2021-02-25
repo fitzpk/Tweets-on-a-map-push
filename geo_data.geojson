@@ -504,6 +504,30 @@
                     39.7393005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1362394553496592387/er8nsKQk_normal.jpg",
+                "Name": "\uff23\uff21\uff32\uff2c\uff21",
+                "Handle": "VolGirl_4Life",
+                "Tweet": "What a great idea!!!",
+                "TweetLink": "1365001817701064705",
+                "Place": "Jacksonville Beach",
+                "Time": "Thu Feb 25 18:12:48 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.404855,
+                    30.27988
+                ]
+            }
         }
     ]
 }
