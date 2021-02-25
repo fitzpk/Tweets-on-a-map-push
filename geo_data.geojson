@@ -528,6 +528,30 @@
                     30.27988
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1154532932691906560/M31PyG7T_normal.jpg",
+                "Name": "CarrotStickSports",
+                "Handle": "CarrotStickShop",
+                "Tweet": "@DonnieTrosper Eagles the second at the #PuertoRicoOpen. Through 4 holes he is -2. We are hoping to start following\u2026 https://t.co/M4pW19nh7H",
+                "TweetLink": "1365005338836168704",
+                "Place": "Garden City",
+                "Time": "Thu Feb 25 18:26:48 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.34512,
+                    42.325387
+                ]
+            }
         }
     ]
 }
