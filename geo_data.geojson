@@ -552,6 +552,30 @@
                     42.325387
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/933444401631723522/YIDukTzq_normal.jpg",
+                "Name": "Chelsea Lynn Pezzola",
+                "Handle": "clpezzola",
+                "Tweet": "24 years old, ranked #48 in the WORLD. A must see interview now live on @WGCWorkday. @WillZalatoris #WGCworkday\u2026 https://t.co/tiR9U6r0K2",
+                "TweetLink": "1365008184100986881",
+                "Place": "Lakewood Ranch",
+                "Time": "Thu Feb 25 18:38:06 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.420464,
+                    27.4133895
+                ]
+            }
         }
     ]
 }
