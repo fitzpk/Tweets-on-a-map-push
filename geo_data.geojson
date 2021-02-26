@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1240756503918895105/J5TTyExC_normal.jpg",
-                "Name": "Carlos Marquez Jr",
-                "Handle": "carlosmarquezjr",
-                "Tweet": "All @PGATOUR players @ @WGCWorkday and @PuertoRicoOpen this Sunday we wear Red top/black bottom in support of\u2026 https://t.co/qTqb4l6nz5",
-                "TweetLink": "1364753573964369925",
-                "Place": "Florida",
-                "Time": "Thu Feb 25 01:46:22 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.804475,
-                    27.698682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1195880356962013186/ezj2Ll_Q_normal.jpg",
                 "Name": "Coach G\u2122",
                 "Handle": "TGolfer83",
