@@ -312,6 +312,30 @@
                     40.3651595
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/901557832742576129/ub-LbgIP_normal.jpg",
+                "Name": "DeclanD71",
+                "Handle": "DecD71",
+                "Tweet": "Patrick Reeds caddy lying down on the green to read the line ur thoughts \ud83d\udcad #WGCWorkday #golfmates #pgatour",
+                "TweetLink": "1365391742707589128",
+                "Place": "Waterford",
+                "Time": "Fri Feb 26 20:02:13 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.556151,
+                    52.150999
+                ]
+            }
         }
     ]
 }
