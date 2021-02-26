@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1226351071510970369/axtkrQ79_normal.jpg",
-                "Name": "Billey",
-                "Handle": "ColterBilley",
-                "Tweet": "What\u2019s better than one golf tournament Thursday morning?! Make that two!! #WGCWorkday #PuertoRicoOpen #PGATour\u2026 https://t.co/MO90Ym9Ljp",
-                "TweetLink": "1364972408222879744",
-                "Place": "Calgary",
-                "Time": "Thu Feb 25 16:15:56 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -114.087851,
-                    51.027664
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
                 "Name": "Yatta Golf",
                 "Handle": "YattaGolf",
