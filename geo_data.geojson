@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1105653936063549440/C1gjF_b6_normal.png",
-                "Name": "Dr. Stuart Love",
-                "Handle": "theHealthyGolfr",
-                "Tweet": "Love the history at #TheConcession Golf Club!\nInspiring here at the #WGCWorkday.\n\ud83d\ude0c\n\n#golf #golffitness #pgatour https://t.co/v6TwBetou8",
-                "TweetLink": "1364650916222103553",
-                "Place": "Bradenton",
-                "Time": "Wed Feb 24 18:58:27 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.573675,
-                    27.4739745
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1350129051059499008/lV_J8iKj_normal.jpg",
                 "Name": "mike wardlow",
                 "Handle": "mikewardlow",
