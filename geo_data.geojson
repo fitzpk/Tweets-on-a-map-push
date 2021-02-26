@@ -288,6 +288,30 @@
                     37.9380095
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1348089734082527233/3aMfZf1b_normal.jpg",
+                "Name": "Anthony",
+                "Handle": "anthonymedaglia",
+                "Tweet": "This is why we do what we do. Nice words from @GolfSchy on V1 and how we\u2019ve helped him and Bryson along the way.\u2026 https://t.co/E408A21MRG",
+                "TweetLink": "1365342515319042048",
+                "Place": "Ohio",
+                "Time": "Fri Feb 26 16:46:37 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.6694675,
+                    40.3651595
+                ]
+            }
         }
     ]
 }
