@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1355627876150865926/MRsNZizD_normal.jpg",
-                "Name": "Inspector Jim_Elves, Ottawa Police Service \ud83c\udde8\ud83c\udde6",
-                "Handle": "Jim_Elves",
-                "Tweet": "If #TigerWoods isn't able to continue playing on the #pgatour \n\nGolf will never be the same. Sure there are great y\u2026 https://t.co/MnQJxZlRBN",
-                "TweetLink": "1364681210157498378",
-                "Place": "Ottawa",
-                "Time": "Wed Feb 24 20:58:49 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.8001415,
-                    45.248791
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/378800000460508807/27aeae124dbe4c6b148ad9cbec3796f0_normal.jpeg",
                 "Name": "GolfTripXMitch",
                 "Handle": "MitchLaurance",
