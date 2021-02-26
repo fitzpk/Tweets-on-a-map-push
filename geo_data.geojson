@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1304226074742718472/-jZIzNR2_normal.jpg",
-                "Name": "Cedric Lockhart",
-                "Handle": "cedriclockhart",
-                "Tweet": "Amen!  Words to live by",
-                "TweetLink": "1364715684564004868",
-                "Place": "Virginia",
-                "Time": "Wed Feb 24 23:15:49 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.420865,
-                    38.0033755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1329625174254047233/sN7Gq-qm_normal.jpg",
                 "Name": "Tucker Booth",
                 "Handle": "tuckerdalebooth",
