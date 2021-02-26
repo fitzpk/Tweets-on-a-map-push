@@ -192,6 +192,30 @@
                     52.150999
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1324803227968135168/NwXMVSL8_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "DeadMoneyJesse",
+                "Tweet": "Day 1 Matsuyama melted down on the last hole. Today Hovland is ruining a great round on the last hole. #WGCWorkday #pgatour",
+                "TweetLink": "1365418371991314433",
+                "Place": "Paradise",
+                "Time": "Fri Feb 26 21:48:02 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
