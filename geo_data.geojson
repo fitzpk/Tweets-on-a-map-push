@@ -192,6 +192,30 @@
                     30.1901485
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/925369734786363394/R0uO5lWy_normal.jpg",
+                "Name": "kraken golf",
+                "Handle": "krakengolf",
+                "Tweet": "Bundle of goodies! #krakengolf #golfswag #golfchannel #golfporn #golfisfun #pgatour #golfswag #golfstagram\u2026 https://t.co/9wTZFePKhg",
+                "TweetLink": "1365776097485475840",
+                "Place": "Acushnet",
+                "Time": "Sat Feb 27 21:29:31 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9112125,
+                    41.703775
+                ]
+            }
         }
     ]
 }
