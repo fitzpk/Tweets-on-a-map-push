@@ -144,6 +144,30 @@
                     41.703775
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1328248994334707712/4D8ybQKe_normal.jpg",
+                "Name": "Brandi Ray PT\ud83d\udcaa\ud83c\udffd\ud83c\udfcb\ud83c\udffd\u200d\u2640\ufe0f\ud83d\udc5f\ud83d\udcca/BRPT Consulting Group",
+                "Handle": "thebrandiray",
+                "Tweet": "So THIS is how we're gonna Sunday huh? OMG!!!!!!! \u2764\ufe0f\ud83d\udc05\ud83c\udfcc\ud83c\udffd\u200d\u2642\ufe0f\ud83d\udc10\ud83d\ude4f\ud83c\udffd\n#PGATOUR \n#PuertoRicoOpen https://t.co/hnyfozlIgW",
+                "TweetLink": "1366054264041320457",
+                "Place": "Port Charlotte",
+                "Time": "Sun Feb 28 15:54:51 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.116175,
+                    26.992598
+                ]
+            }
         }
     ]
 }
