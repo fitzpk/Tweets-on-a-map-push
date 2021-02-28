@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1360390069228613633/J7ZKBbzB_normal.jpg",
-                "Name": "UGAMikey",
-                "Handle": "ga_mpl",
-                "Tweet": "Would love to see this happen.",
-                "TweetLink": "1365685959854067715",
-                "Place": "Georgia",
-                "Time": "Sat Feb 27 15:31:20 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.1738665,
-                    32.6782075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/779800811857596416/hPYzdf21_normal.jpg",
                 "Name": "Froggy \ud83c\udf99",
                 "Handle": "froggyradio",
