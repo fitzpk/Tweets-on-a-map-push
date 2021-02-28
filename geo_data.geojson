@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/779800811857596416/hPYzdf21_normal.jpg",
-                "Name": "Froggy \ud83c\udf99",
-                "Handle": "froggyradio",
-                "Tweet": "If you\u2019re looking for me...I\u2019ll be right here...we\u2019re just 12 days away from @THEPLAYERSChamp at @TPCSawgrass!\u2026 https://t.co/voSFeIVbX0",
-                "TweetLink": "1365723966862729218",
-                "Place": "Sawgrass",
-                "Time": "Sat Feb 27 18:02:22 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.3681705,
-                    30.1901485
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/925369734786363394/R0uO5lWy_normal.jpg",
                 "Name": "kraken golf",
                 "Handle": "krakengolf",
