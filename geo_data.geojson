@@ -144,6 +144,30 @@
                     30.937336
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1272508808363941893/21TUXZQh_normal.jpg",
+                "Name": "Richard",
+                "Handle": "richardnh33",
+                "Tweet": "Too bad there aren\u2019t other ways of accessing that info.",
+                "TweetLink": "1366121495244795916",
+                "Place": "New Hampshire",
+                "Time": "Sun Feb 28 20:22:00 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.566171,
+                    44.00123
+                ]
+            }
         }
     ]
 }
