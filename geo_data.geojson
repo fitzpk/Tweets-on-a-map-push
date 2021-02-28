@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/711967707927805953/ty9uUSjc_normal.jpg",
-                "Name": "Anthony",
-                "Handle": "anthonyvilla_17",
-                "Tweet": "This Concession course IS nails pro @jjkilleentcu your right. I\u2019m here spotting for NBC. The greens are tough. They\u2026 https://t.co/1q1l7xv4MJ",
-                "TweetLink": "1365646790813433856",
-                "Place": "Carrollwood",
-                "Time": "Sat Feb 27 12:55:42 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.5117855,
-                    28.0591025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1061819281531432960/_KFLDzm2_normal.jpg",
-                "Name": "CJ Koller",
-                "Handle": "ckoller8589",
-                "Tweet": "Going to get the bourbon and bud light out today and watch @jaykokrak go low. #pgatour #brownstwitter #FebruaryInOhio",
-                "TweetLink": "1365668841171386369",
-                "Place": "Lancaster",
-                "Time": "Sat Feb 27 14:23:19 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.596627,
-                    39.736975
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1105653936063549440/C1gjF_b6_normal.png",
                 "Name": "Dr. Stuart Love",
                 "Handle": "theHealthyGolfr",
