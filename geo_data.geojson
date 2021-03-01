@@ -216,6 +216,30 @@
                     39.7393005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000076886105/7811fa215540928186b2b9f31bd113f8_normal.jpeg",
+                "Name": "Georg Roth",
+                "Handle": "GeorgRothLA",
+                "Tweet": "NEW NEW NEW ALL NEW ARRIVALS \ud83d\udca5 - https://t.co/6ICHPIOohI\u2026\n-\n-\n#GeorgRoth #100DaysOfCode #bitcoins #WorkFromHome\u2026 https://t.co/MMa0coYuDb",
+                "TweetLink": "1366246600452923392",
+                "Place": "Los Angeles",
+                "Time": "Mon Mar 01 04:39:07 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
