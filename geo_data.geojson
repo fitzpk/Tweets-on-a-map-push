@@ -240,6 +240,54 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg",
+                "Name": "Ed Coleman",
+                "Handle": "edcolemangolf",
+                "Tweet": "Colin Morikawa is a generational iron player that when putting well is almost impossible to beat. Multiple major career. #PGATOUR #Cal",
+                "TweetLink": "1366405147128176644",
+                "Place": "Vermont",
+                "Time": "Mon Mar 01 15:09:08 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.4511725,
+                    43.8717565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg",
+                "Name": "Ed Coleman",
+                "Handle": "edcolemangolf",
+                "Tweet": "If anyone wants to enlighten me on the demise of @McIlroyRory, I\u2019m all ears. That being said, Seve was best in his late teens. #pgatour",
+                "TweetLink": "1366405924643078147",
+                "Place": "Vermont",
+                "Time": "Mon Mar 01 15:12:13 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.4511725,
+                    43.8717565
+                ]
+            }
         }
     ]
 }
