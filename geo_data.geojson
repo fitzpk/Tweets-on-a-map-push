@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1285842165743132672/K7lkz7x4_normal.jpg",
-                "Name": "Michael Lorenz",
-                "Handle": "mikelorenz924",
-                "Tweet": "Last day at the #WGCWorkday and here are the 4 matchups I\u2019m taking all double unit #GamblingTwitter #PGATOUR \n\n2 un\u2026 https://t.co/BfHBNqHJdB",
-                "TweetLink": "1366070146419351564",
-                "Place": "Pompano Beach",
-                "Time": "Sun Feb 28 16:57:57 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.1386455,
-                    26.251895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1279502650455834624/es3HjaUr_normal.jpg",
                 "Name": "Josh LeBert",
                 "Handle": "JLeBert01",
