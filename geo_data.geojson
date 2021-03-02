@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
-                "Name": "Yatta Golf",
-                "Handle": "YattaGolf",
-                "Tweet": "\"I don't think we say thank you enough, so I want to say thank you to Tiger.\u201d -Collin Morikawa\n\nCollin joins Tiger\u2026 https://t.co/G0fIr7v3B7",
-                "TweetLink": "1366200680369643520",
-                "Place": "Illinois",
-                "Time": "Mon Mar 01 01:36:39 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.2665075,
-                    39.7393005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/378800000076886105/7811fa215540928186b2b9f31bd113f8_normal.jpeg",
                 "Name": "Georg Roth",
                 "Handle": "GeorgRothLA",
