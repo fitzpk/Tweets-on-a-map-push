@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1279502650455834624/es3HjaUr_normal.jpg",
-                "Name": "Josh LeBert",
-                "Handle": "JLeBert01",
-                "Tweet": "All these athletes wearing red and black on Tiger Sunday on both LPGA and PGA is amazing. Confirms how much he mean\u2026 https://t.co/mVw3P8ymcG",
-                "TweetLink": "1366115775493378051",
-                "Place": "Louisiana",
-                "Time": "Sun Feb 28 19:59:16 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -91.4010085,
-                    30.937336
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1272508808363941893/21TUXZQh_normal.jpg",
                 "Name": "Richard",
                 "Handle": "richardnh33",
@@ -334,6 +310,30 @@
                 "coordinates": [
                     -3.503399,
                     51.523466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
+                "Name": "Tour Junkies",
+                "Handle": "Tour_Junkies",
+                "Tweet": "30 minutes out.",
+                "TweetLink": "1366554501780496385",
+                "Place": "Georgia",
+                "Time": "Tue Mar 02 01:02:37 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1738665,
+                    32.6782075
                 ]
             }
         }
