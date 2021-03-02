@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1152568535656407042/Zcymze3K_normal.jpg",
-                "Name": "Joe Graham",
-                "Handle": "flyfission",
-                "Tweet": "Showing @tigerwoods some get well love! Get well soon. #HappySunday @pgatour #Pgatour #golf #Goodtimes\u2026 https://t.co/YGG6YBhUyP",
-                "TweetLink": "1366147818222714880",
-                "Place": "South Carolina",
-                "Time": "Sun Feb 28 22:06:36 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.926628,
-                    33.6311395
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1355731153081298945/Gr0EeBqD_normal.jpg",
                 "Name": "Chris Bibby Golf",
                 "Handle": "chrisbibbygolf",
