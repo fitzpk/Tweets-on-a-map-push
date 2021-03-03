@@ -48,6 +48,30 @@
                     19.9387045
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1335005382939467776/rQELiRPf_normal.jpg",
+                "Name": "Course Scout",
+                "Handle": "publiclinksgems",
+                "Tweet": "A few plays for this week. \n\n#PGATour #LPGATour \n#golfbets #DraftKings https://t.co/JxuEZNecoj",
+                "TweetLink": "1367097374385045508",
+                "Place": "Indianapolis",
+                "Time": "Wed Mar 03 12:59:48 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1429225,
+                    39.7795625
+                ]
+            }
         }
     ]
 }
