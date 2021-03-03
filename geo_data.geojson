@@ -48,6 +48,30 @@
                     45.424547
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1048929083688542208/yxl6Uerq_normal.jpg",
+                "Name": "DKT Sports",
+                "Handle": "dkt_sports",
+                "Tweet": "2021 March Golf Tournament List\n.\nhttps://t.co/JoSJmdf6Sb\n.\n@PGATourAus\n#dktsports \n#golftournament #golfcalendar\u2026 https://t.co/nIMjwbXrqg",
+                "TweetLink": "1367058951326429189",
+                "Place": "India",
+                "Time": "Wed Mar 03 10:27:07 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.5841815,
+                    19.9387045
+                ]
+            }
         }
     ]
 }
