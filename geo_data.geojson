@@ -72,6 +72,30 @@
                     40.0408125
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1283449915495059462/cbDBiA3K_normal.jpg",
+                "Name": "Pat",
+                "Handle": "patricknicklaus",
+                "Tweet": "They'll understand when they're older.",
+                "TweetLink": "1367510671617908739",
+                "Place": "Fishers",
+                "Time": "Thu Mar 04 16:22:05 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.9500505,
+                    39.963761
+                ]
+            }
         }
     ]
 }
