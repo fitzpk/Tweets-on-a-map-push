@@ -72,6 +72,30 @@
                     40.7922005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1315309564573745152/YNGmK1L7_normal.jpg",
+                "Name": "KIMBROPLAYS",
+                "Handle": "KimbroPlays",
+                "Tweet": "I am still looking for my 1st hole-in-one! \ud83e\udd2c\n\n\ud83d\udd17 \u27a1\ufe0f https://t.co/VUSNq2SYI5 | #PGATour #pga #golf #golfswing #golfer\u2026 https://t.co/Zxf9A1IKQz",
+                "TweetLink": "1367481149149315086",
+                "Place": "Hilliard",
+                "Time": "Thu Mar 04 14:24:47 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.1433925,
+                    40.0408125
+                ]
+            }
         }
     ]
 }
