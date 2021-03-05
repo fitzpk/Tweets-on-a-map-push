@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/876985919907278848/rznWhUr5_normal.jpg",
-                "Name": "Two Guys With Balls",
-                "Handle": "2GuysWithBalls",
-                "Tweet": "Get 10% off during the Arnold Palmer Invitational! Use coupon API2021 at checkout. #arnoldpalmerinvitational\u2026 https://t.co/rLGGprQfrd",
-                "TweetLink": "1367513726874611715",
-                "Place": "Bay Hill",
-                "Time": "Thu Mar 04 16:34:14 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.511232,
-                    28.4593125
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/3615102110/353b3b55de5afc7f54ba4a709f5b120c_normal.jpeg",
                 "Name": "Dick Kearns",
                 "Handle": "dickkearns",
