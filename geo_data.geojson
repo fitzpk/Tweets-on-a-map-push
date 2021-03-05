@@ -72,6 +72,30 @@
                     28.4593125
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/3615102110/353b3b55de5afc7f54ba4a709f5b120c_normal.jpeg",
+                "Name": "Dick Kearns",
+                "Handle": "dickkearns",
+                "Tweet": "#TBT in #2012 @APinv ; Mo &amp; I got to spend some time with Mr Palmer. He was gracious and fun! What a wonderful afte\u2026 https://t.co/D3LxdbKpUC",
+                "TweetLink": "1367637109549449216",
+                "Place": "East Williston",
+                "Time": "Fri Mar 05 00:44:31 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6331535,
+                    40.760591
+                ]
+            }
         }
     ]
 }
