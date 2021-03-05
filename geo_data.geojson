@@ -96,6 +96,30 @@
                     40.760591
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg",
+                "Name": "Ed Coleman",
+                "Handle": "edcolemangolf",
+                "Tweet": "You could lose a small child in the rough at #BayHill this week. #PGATour",
+                "TweetLink": "1367658036500832260",
+                "Place": "South Burlington",
+                "Time": "Fri Mar 05 02:07:40 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.18414,
+                    44.4547525
+                ]
+            }
         }
     ]
 }
