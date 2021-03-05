@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1283449915495059462/cbDBiA3K_normal.jpg",
-                "Name": "Pat",
-                "Handle": "patricknicklaus",
-                "Tweet": "They'll understand when they're older.",
-                "TweetLink": "1367510671617908739",
-                "Place": "Fishers",
-                "Time": "Thu Mar 04 16:22:05 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.9500505,
-                    39.963761
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/876985919907278848/rznWhUr5_normal.jpg",
                 "Name": "Two Guys With Balls",
                 "Handle": "2GuysWithBalls",
@@ -214,6 +190,30 @@
                 "coordinates": [
                     -77.604684,
                     41.1179365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1060330777022472193/KAj5uqQS_normal.jpg",
+                "Name": "\u2022._.\u2022\u2022\u00b4\u00af` \u24d2\u043d\u211d\u24d8\ud835\udd30 \u043c\u00a2\ud835\udd56\u03c9\ud835\udd38\u0147 `\u2022.\u00b8\u00b8.\u2022\u00b4\u00b4",
+                "Handle": "Realchrismcewan",
+                "Tweet": "@TyrrellHatton , the bloke just fuckin tremendous \ud83d\udc4f\ud83d\udc4f #usgolf #PGATour",
+                "TweetLink": "1367947737136791555",
+                "Place": "Greenock",
+                "Time": "Fri Mar 05 21:18:50 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.755876,
+                    55.939201
                 ]
             }
         }
