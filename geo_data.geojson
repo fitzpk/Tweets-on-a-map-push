@@ -144,6 +144,30 @@
                     28.4593125
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1067432415289720832/DKnJpv7Z_normal.jpg",
+                "Name": "Michael Russell",
+                "Handle": "mwrinc",
+                "Tweet": "Yes. And my anniversary. And maybe a funeral. @courseoflife1",
+                "TweetLink": "1367669608799481859",
+                "Place": "Savannah",
+                "Time": "Fri Mar 05 02:53:39 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1096165,
+                    32.0172845
+                ]
+            }
         }
     ]
 }
