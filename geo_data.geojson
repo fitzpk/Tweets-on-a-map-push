@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1315309564573745152/YNGmK1L7_normal.jpg",
-                "Name": "KIMBROPLAYS",
-                "Handle": "KimbroPlays",
-                "Tweet": "I am still looking for my 1st hole-in-one! \ud83e\udd2c\n\n\ud83d\udd17 \u27a1\ufe0f https://t.co/VUSNq2SYI5 | #PGATour #pga #golf #golfswing #golfer\u2026 https://t.co/Zxf9A1IKQz",
-                "TweetLink": "1367481149149315086",
-                "Place": "Hilliard",
-                "Time": "Thu Mar 04 14:24:47 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.1433925,
-                    40.0408125
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1283449915495059462/cbDBiA3K_normal.jpg",
                 "Name": "Pat",
                 "Handle": "patricknicklaus",
@@ -214,6 +190,30 @@
                 "coordinates": [
                     -80.1386455,
                     26.251895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1287191384236138503/j8xbuvFR_normal.jpg",
+                "Name": "Phil Stiefel",
+                "Handle": "Beardaknowledge",
+                "Tweet": "I do not know how long #BrysonDeChambeau can swing with the force he does before his body breaks down... but its da\u2026 https://t.co/YU8a94AtQ8",
+                "TweetLink": "1367919322354552835",
+                "Place": "Pennsylvania",
+                "Time": "Fri Mar 05 19:25:55 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
                 ]
             }
         }
