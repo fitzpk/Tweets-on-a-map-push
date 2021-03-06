@@ -240,6 +240,30 @@
                     52.150999
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1248102354777444354/Mx_QW5QU_normal.jpg",
+                "Name": "Joe Horowitz",
+                "Handle": "JoeHorowitzMuse",
+                "Tweet": "Between @b_dechambeau and @JordanSpieth March Madness has officially started!! #PGATour #APInv #MarchMadness",
+                "TweetLink": "1368284540603621376",
+                "Place": "Lawrence",
+                "Time": "Sat Mar 06 19:37:10 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7160765,
+                    40.606717
+                ]
+            }
         }
     ]
 }
