@@ -288,6 +288,30 @@
                     45.630589
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1318641338762526722/Afeg0rj1_normal.jpg",
+                "Name": "Alex Remond",
+                "Handle": "RemondAlex",
+                "Tweet": "@JordanSpieth \ud83d\ude0d\ud83d\ude0d\ud83d\ude0dcrazy #pgatour @GolfCanalPlus",
+                "TweetLink": "1368293912192892930",
+                "Place": "Amiens",
+                "Time": "Sat Mar 06 20:14:24 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.284683,
+                    49.898776
+                ]
+            }
         }
     ]
 }
