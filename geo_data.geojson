@@ -336,6 +336,30 @@
                     42.1186685
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1287522934794252288/pSU-eaan_normal.jpg",
+                "Name": "Mike Hauser",
+                "Handle": "Hauser_Mike",
+                "Tweet": "Brythagoras Theorem - the length of his drive is equal to the sum of the three shots of mortal golfers #PGAtour\u2026 https://t.co/quO4GO04ml",
+                "TweetLink": "1368319982388400130",
+                "Place": "Melbourne",
+                "Time": "Sat Mar 06 21:58:00 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0531355,
+                    -37.9725665
+                ]
+            }
         }
     ]
 }
