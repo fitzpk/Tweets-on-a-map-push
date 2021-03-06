@@ -168,6 +168,30 @@
                     41.703775
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1365786691043135488/8OdegGxK_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "DeadMoneyJesse",
+                "Tweet": "Spieth just dropped a hole in one! He\u2019s now 1 shot off the lead. #ArnoldPalmerInvitational #PGATour @CS_Murph\u2026 https://t.co/oiuWm6NlQl",
+                "TweetLink": "1368265935472136192",
+                "Place": "Paradise",
+                "Time": "Sat Mar 06 18:23:14 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
