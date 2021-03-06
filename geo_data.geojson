@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
-                "Name": "Yatta Golf",
-                "Handle": "YattaGolf",
-                "Tweet": "@McIlroyRory and @coreconn share the lead after day one at the Arnold Palmer Invitational. Both are 6 under par, wh\u2026 https://t.co/Txt6yILx4i",
-                "TweetLink": "1367683865309945859",
-                "Place": "Illinois",
-                "Time": "Fri Mar 05 03:50:18 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.2665075,
-                    39.7393005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1285842165743132672/K7lkz7x4_normal.jpg",
                 "Name": "Michael Lorenz",
                 "Handle": "mikelorenz924",
