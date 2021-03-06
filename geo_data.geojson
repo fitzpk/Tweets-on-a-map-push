@@ -312,6 +312,30 @@
                     49.898776
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000064446976/8d736d0a491c90f5535b06c9aeec7367_normal.jpeg",
+                "Name": "Chetan Rakieten",
+                "Handle": "chetanrakieten",
+                "Tweet": "bryson dechambeau just destroyed a golf ball! What a drive! #QuickHits #PGA #pgatour",
+                "TweetLink": "1368313311826227205",
+                "Place": "Sharon",
+                "Time": "Sat Mar 06 21:31:30 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1783595,
+                    42.1186685
+                ]
+            }
         }
     ]
 }
