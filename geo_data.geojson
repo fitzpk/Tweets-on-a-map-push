@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/925369734786363394/R0uO5lWy_normal.jpg",
-                "Name": "kraken golf",
-                "Handle": "krakengolf",
-                "Tweet": "What is your vote for the next colorway on tool holders? Comment below! #krakengolf #golflife #golfstagram\u2026 https://t.co/3pdWq5H12O",
-                "TweetLink": "1368231933369585667",
-                "Place": "Acushnet",
-                "Time": "Sat Mar 06 16:08:08 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.9112125,
-                    41.703775
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1365786691043135488/8OdegGxK_normal.jpg",
                 "Name": "Jesse Flynn",
                 "Handle": "DeadMoneyJesse",
