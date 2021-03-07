@@ -1056,6 +1056,78 @@
                     30.39153
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1332861201789968384/877PdRjC_normal.jpg",
+                "Name": "Mike Cahill",
+                "Handle": "mt_cahill",
+                "Tweet": "Love the fans back on the #PGATour",
+                "TweetLink": "1368704137030991875",
+                "Place": "Greece",
+                "Time": "Sun Mar 07 23:24:30 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.6885355,
+                    43.2514515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1314601294607327235/_Si9y7R-_normal.jpg",
+                "Name": "Ben Mintz",
+                "Handle": "BarstoolMintzy",
+                "Tweet": "Heckuva putt by @b_dechambeau to win the Arnold Palmer Classic. #PGATour",
+                "TweetLink": "1368704222057922560",
+                "Place": "Manhattan",
+                "Time": "Sun Mar 07 23:24:50 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9685415,
+                    40.780709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1315043726503350272/eWhqxYoV_normal.jpg",
+                "Name": "Andrew Ryan",
+                "Handle": "buffalosports_",
+                "Tweet": "Hearing a little roar on 18 at the #PGATour bay hill had me a little choked up missed hearing that sound!!!! Congra\u2026 https://t.co/iju16kYres",
+                "TweetLink": "1368704704922841091",
+                "Place": "BUFFALO",
+                "Time": "Sun Mar 07 23:26:45 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6801185,
+                    42.4255745
+                ]
+            }
         }
     ]
 }
