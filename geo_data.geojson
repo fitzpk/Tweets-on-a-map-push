@@ -7,30 +7,6 @@
                 "ProfilePic": "http://pbs.twimg.com/profile_images/901557832742576129/ub-LbgIP_normal.jpg",
                 "Name": "DeclanD71",
                 "Handle": "DecD71",
-                "Tweet": "#Spieth putter on fire \ud83d\udd25 #PGATour  #golf #ArnoldPalmerInvitational",
-                "TweetLink": "1368271360846422023",
-                "Place": "Waterford",
-                "Time": "Sat Mar 06 18:44:48 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -7.556151,
-                    52.150999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/901557832742576129/ub-LbgIP_normal.jpg",
-                "Name": "DeclanD71",
-                "Handle": "DecD71",
                 "Tweet": "@padraig_h third round 69 monster putt on the 18th \ud83d\udc4f\ud83d\udc4f  \ud83c\uddee\ud83c\uddea #PGATour #Golf #ArnoldPalmerInvitational",
                 "TweetLink": "1368274945449603077",
                 "Place": "Waterford",
