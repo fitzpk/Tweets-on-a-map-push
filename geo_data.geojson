@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1810799462/image_normal.jpg",
-                "Name": "7 Golf Hire",
-                "Handle": "7_golf_hire",
-                "Tweet": "Great idea \ud83d\udca1",
-                "TweetLink": "1368936202708152322",
-                "Place": "Arucas",
-                "Time": "Mon Mar 08 14:46:38 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -15.5226515,
-                    28.1187045
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1223721943704186884/_p_xerTs_normal.jpg",
                 "Name": "Sophie Morrison",
                 "Handle": "SophMorrison10",
