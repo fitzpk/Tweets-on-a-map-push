@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg",
-                "Name": "Ed Coleman",
-                "Handle": "edcolemangolf",
-                "Tweet": "@WestwoodLee great week Stallion! #TPCSawgrass is in your sights yo! #pgatour #EuropeanTour",
-                "TweetLink": "1368729649128366082",
-                "Place": "South Burlington",
-                "Time": "Mon Mar 08 01:05:52 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.18414,
-                    44.4547525
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1810799462/image_normal.jpg",
                 "Name": "7 Golf Hire",
                 "Handle": "7_golf_hire",
