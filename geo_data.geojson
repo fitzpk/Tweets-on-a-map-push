@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/701066104882520064/1ijAs3ee_normal.png",
-                "Name": "Dakota in Braintree (Steve Happas)",
-                "Handle": "Dakotadamus",
-                "Tweet": "When a batter steps into batters box they are allowed to smooth it out for fitting(same with pitchers mound)  - the\u2026 https://t.co/gnO70zY5nw",
-                "TweetLink": "1368703267010707459",
-                "Place": "Braintree",
-                "Time": "Sun Mar 07 23:21:02 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.00536,
-                    42.203364
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1363856871904342017/HxvW6xhP_normal.jpg",
-                "Name": "Keith Cordero Jr.",
-                "Handle": "kmcorder",
-                "Tweet": "#playerschampionship next week! #PGATour",
-                "TweetLink": "1368703293938143237",
-                "Place": "Miramar Beach",
-                "Time": "Sun Mar 07 23:21:09 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.3507385,
-                    30.39153
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1332861201789968384/877PdRjC_normal.jpg",
                 "Name": "Mike Cahill",
                 "Handle": "mt_cahill",
