@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1195578363/Golf_Bag_006_normal.JPG",
-                "Name": "John Meikle",
-                "Handle": "m30kle",
-                "Tweet": "@APBayHill @b_dechambeau #PGATour #golf #golfer just when Bryson had won me over he went and moaned about the bunke\u2026 https://t.co/zJyB1zzBqb",
-                "TweetLink": "1368694138233831425",
-                "Place": "Lowestoft",
-                "Time": "Sun Mar 07 22:44:46 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.723524,
-                    52.4761045
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/2940749813/3d0c1e56a58328685e9802a2f0a52c14_normal.jpeg",
                 "Name": "al palladino",
                 "Handle": "acaa1001",
