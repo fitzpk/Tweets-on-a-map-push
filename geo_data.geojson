@@ -96,6 +96,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/925369734786363394/R0uO5lWy_normal.jpg",
+                "Name": "kraken golf",
+                "Handle": "krakengolf",
+                "Tweet": "Golf drip?? 100% @thesultanofswine #krakengolf #golflife #golf #golfporn #putter #putterporn #mokumegane #golfswag\u2026 https://t.co/92syVizsWE",
+                "TweetLink": "1369350361723539456",
+                "Place": "Acushnet",
+                "Time": "Tue Mar 09 18:12:22 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9112125,
+                    41.703775
+                ]
+            }
         }
     ]
 }
