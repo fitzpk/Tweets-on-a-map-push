@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1223721943704186884/_p_xerTs_normal.jpg",
-                "Name": "Sophie Morrison",
-                "Handle": "SophMorrison10",
-                "Tweet": "First major of the year \ud83d\ude4c\ud83d\ude4c\n#ThePlayers #PGATour",
-                "TweetLink": "1368947544567517187",
-                "Place": "Hemsworth",
-                "Time": "Mon Mar 08 15:31:43 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.354046,
-                    53.612388
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1363978231292993540/JnGI-ojS_normal.jpg",
                 "Name": "GraigGolfs",
                 "Handle": "GolfsGraig",
