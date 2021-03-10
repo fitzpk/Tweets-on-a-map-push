@@ -120,6 +120,30 @@
                     38.7765535
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1361725859552522244/wZc35ihA_normal.jpg",
+                "Name": "\"Fore\"word Press",
+                "Handle": "ForePress",
+                "Tweet": "Didn\u2019t get a chance to read this week\u2019s post yet? Check it out below! \ud83d\udcf0\ud83d\udcf0\ud83d\udcf0#PGATour #arnoldpalmerinvitational @APinv \n\nhttps://t.co/mkGaPmV5hb",
+                "TweetLink": "1369453025534877700",
+                "Place": "Spring House",
+                "Time": "Wed Mar 10 01:00:19 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2283825,
+                    40.186814
+                ]
+            }
         }
     ]
 }
