@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1365064675705110528/DVi_c6Pl_normal.jpg",
-                "Name": "Memphis Mike",
-                "Handle": "Memphis__Mike",
-                "Tweet": "I can only imagine how much more popular #BrysonDeChambeau is after #BayHill. Here's my reaction video. #Facebook\u2026 https://t.co/nkLo0RSb5d",
-                "TweetLink": "1369112468472147974",
-                "Place": "Pennsylvania",
-                "Time": "Tue Mar 09 02:27:04 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.604684,
-                    41.1179365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/925369734786363394/R0uO5lWy_normal.jpg",
                 "Name": "kraken golf",
                 "Handle": "krakengolf",
