@@ -144,6 +144,30 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/725586395314683904/dDJmQVbs_normal.jpg",
+                "Name": "ValGrine",
+                "Handle": "VALGRINE",
+                "Tweet": "The Strength, Power and Stability of the Delta Epsilon ValGrine VG002...\n\n#golf #putting #handcrafted #putter\u2026 https://t.co/fNvwX7FpH7",
+                "TweetLink": "1369640176281137157",
+                "Place": "Saint-Etienne",
+                "Time": "Wed Mar 10 13:23:59 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3665095,
+                    45.424547
+                ]
+            }
         }
     ]
 }
