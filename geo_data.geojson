@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1363978231292993540/JnGI-ojS_normal.jpg",
-                "Name": "GraigGolfs",
-                "Handle": "GolfsGraig",
-                "Tweet": "When your ready to go low, @blue_tees_golf has you covered. Check out the best rangefinders around at a great price\u2026 https://t.co/ejmbtBdhCo",
-                "TweetLink": "1369018105750376449",
-                "Place": "Clayton",
-                "Time": "Mon Mar 08 20:12:06 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -121.934114,
-                    37.9380095
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1365064675705110528/DVi_c6Pl_normal.jpg",
                 "Name": "Memphis Mike",
                 "Handle": "Memphis__Mike",
