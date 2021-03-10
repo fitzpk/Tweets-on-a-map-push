@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1008797814057398272/BZzrFVgo_normal.jpg",
-                "Name": "Alberta Games Inc.",
-                "Handle": "AlbertaGamesinc",
-                "Tweet": "Have you heard? We're sure you have! Coming this spring @GoldenTee @PGATOUR edition with the first confirmed PGA co\u2026 https://t.co/FBKpK77sB2",
-                "TweetLink": "1369351904833191944",
-                "Place": "Foothills No. 31",
-                "Time": "Tue Mar 09 18:18:30 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -114.063311,
-                    50.615957
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1294305083572674561/WZ-5XCL9_normal.jpg",
                 "Name": "\u26a1\ufe0fCody Allred\u26a1\ufe0f",
                 "Handle": "CoachAllred_91",
