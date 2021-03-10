@@ -168,6 +168,30 @@
                     45.424547
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
+                "Name": "VegasSquaresPodcast",
+                "Handle": "VegasSquares",
+                "Tweet": ".@THEPLAYERSChamp, how about a RT for our #playerschampionship preview show? All the gamblers can get their last mi\u2026 https://t.co/jtocpmqK1h",
+                "TweetLink": "1369773541973921793",
+                "Place": "Las Vegas",
+                "Time": "Wed Mar 10 22:13:56 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.223125,
+                    36.232915
+                ]
+            }
         }
     ]
 }
