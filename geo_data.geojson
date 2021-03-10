@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1294305083572674561/WZ-5XCL9_normal.jpg",
-                "Name": "\u26a1\ufe0fCody Allred\u26a1\ufe0f",
-                "Handle": "CoachAllred_91",
-                "Tweet": "Players Week \ud83c\udfcc\ud83c\udffc\u26f3\ufe0f \n#PGATour #ThePlayers https://t.co/Gmj1Jd3Jt3",
-                "TweetLink": "1369352326331330560",
-                "Place": "Granite Bay",
-                "Time": "Tue Mar 09 18:20:10 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -121.166248,
-                    38.7765535
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1361725859552522244/wZc35ihA_normal.jpg",
                 "Name": "\"Fore\"word Press",
                 "Handle": "ForePress",
