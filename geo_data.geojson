@@ -168,6 +168,30 @@
                     38.579524
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1365786691043135488/8OdegGxK_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "DeadMoneyJesse",
+                "Tweet": "The 17th is eating up players in Round 1! #theplayerschampionship #PGATour",
+                "TweetLink": "1370080168371396612",
+                "Place": "Paradise",
+                "Time": "Thu Mar 11 18:32:21 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
