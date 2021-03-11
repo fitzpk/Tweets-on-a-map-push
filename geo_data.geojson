@@ -216,6 +216,30 @@
                     30.193203
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1333826332170575872/YdGDr7yn_normal.jpg",
+                "Name": "Ashley Finney",
+                "Handle": "ashfin69",
+                "Tweet": "There is going to be a hell of a lake ball sale at Sawgrass next week #THEPLAYERS #PGATour #Sawgrass",
+                "TweetLink": "1370102823933898754",
+                "Place": "Rotherham",
+                "Time": "Thu Mar 11 20:02:23 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.3668675,
+                    53.4330035
+                ]
+            }
         }
     ]
 }
