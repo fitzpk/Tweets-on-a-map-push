@@ -240,6 +240,30 @@
                     53.4330035
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1365786691043135488/8OdegGxK_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "DeadMoneyJesse",
+                "Tweet": "Anyone with Victor Hovland in H2H round 1 matchups. #THEPLAYERS #PGATour @CS_Murph @joshuaperry22 https://t.co/ehBfZW81na",
+                "TweetLink": "1370121864866004993",
+                "Place": "Paradise",
+                "Time": "Thu Mar 11 21:18:02 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
