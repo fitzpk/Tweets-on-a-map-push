@@ -288,6 +288,30 @@
                     48.4267305
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1309256417560481800/KC9Sv5Jz_normal.jpg",
+                "Name": "WeDrive Chauffeur Travel - Golf Wild Ireland",
+                "Handle": "wild_golf",
+                "Tweet": "A little gentle breeze on the southwest coast of Ireland!!! @BallybunionGN \ud83c\uddee\ud83c\uddea\n#theplayerschampionship #THEPLAYERS\u2026 https://t.co/7nqh5U7tSF",
+                "TweetLink": "1370155798752530443",
+                "Place": "Mayo",
+                "Time": "Thu Mar 11 23:32:53 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4203375,
+                    53.9092525
+                ]
+            }
         }
     ]
 }
