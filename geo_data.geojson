@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1365786691043135488/8OdegGxK_normal.jpg",
-                "Name": "Jesse Flynn",
-                "Handle": "DeadMoneyJesse",
-                "Tweet": "https://t.co/uajB6gNhFB If I could only bet one golfer to win The Players Championship it this guy. #THEPLAYERS #PGATour",
-                "TweetLink": "1369633038821249027",
-                "Place": "Paradise",
-                "Time": "Wed Mar 10 12:55:37 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.135165,
-                    36.0609645
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/725586395314683904/dDJmQVbs_normal.jpg",
                 "Name": "ValGrine",
                 "Handle": "VALGRINE",
