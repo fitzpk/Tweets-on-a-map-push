@@ -264,6 +264,30 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/344513261578354905/8a07c0da97d8973fe65b2de5e1db4d1d_normal.jpeg",
+                "Name": "Jarret Poitras",
+                "Handle": "jarretpoitras",
+                "Tweet": "31 balls in the drink on \u26f3\ufe0f17 at #THEPLAYERS. I would pay good money to watch a tourney full of weekend warrior dad\u2026 https://t.co/V4tY7uPFE4",
+                "TweetLink": "1370131364163428355",
+                "Place": "Victoria",
+                "Time": "Thu Mar 11 21:55:47 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.3583795,
+                    48.4267305
+                ]
+            }
         }
     ]
 }
