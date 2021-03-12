@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1315502756287844352/qkhZCyMN_normal.jpg",
-                "Name": "Anthony Goins \u26f3\ufe0f",
-                "Handle": "Anthony_Goins03",
-                "Tweet": "Hate to say it, but I feel the same way!",
-                "TweetLink": "1370079124912369667",
-                "Place": "Rancho Cordova",
-                "Time": "Thu Mar 11 18:28:12 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -121.2804225,
-                    38.579524
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1365786691043135488/8OdegGxK_normal.jpg",
                 "Name": "Jesse Flynn",
                 "Handle": "DeadMoneyJesse",
