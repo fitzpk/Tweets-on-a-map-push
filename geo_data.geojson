@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1355838497844850688/5XdrbcWz_normal.jpg",
-                "Name": "KrishyArt",
-                "Handle": "ArtKrishy",
-                "Tweet": "Progress \ud83d\udc2f #golf #skysports #tigerwoods #abstractart #interiordesign #themasters #europeantour #pgatour https://t.co/ZZXDTLESlm",
-                "TweetLink": "1370075342342328329",
-                "Place": "Chelmsford",
-                "Time": "Thu Mar 11 18:13:11 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.478479,
-                    51.739893
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1315502756287844352/qkhZCyMN_normal.jpg",
                 "Name": "Anthony Goins \u26f3\ufe0f",
                 "Handle": "Anthony_Goins03",
