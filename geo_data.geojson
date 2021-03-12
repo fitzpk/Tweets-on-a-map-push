@@ -576,6 +576,30 @@
                     51.612236
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1365064675705110528/DVi_c6Pl_normal.jpg",
+                "Name": "Memphis Mike",
+                "Handle": "Memphis__Mike",
+                "Tweet": "\"........ less serious and more lighthearted\" is all I took from Lee Westwood's post round interview. I love this g\u2026 https://t.co/WM8wfK33i3",
+                "TweetLink": "1370497614748213249",
+                "Place": "Pennsylvania",
+                "Time": "Fri Mar 12 22:11:08 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
         }
     ]
 }
