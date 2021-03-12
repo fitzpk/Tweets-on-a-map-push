@@ -528,6 +528,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1174773245544947712/US3LS_v5_normal.jpg",
+                "Name": "Thom Cordeiro\u2122",
+                "Handle": "Thom_Cordeiro",
+                "Tweet": "Would love to see Lee Westwood win The Players Championship #PGATour #playerschampionship",
+                "TweetLink": "1370482938161344512",
+                "Place": "Connecticut",
+                "Time": "Fri Mar 12 21:12:49 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.757385,
+                    41.500753
+                ]
+            }
         }
     ]
 }
