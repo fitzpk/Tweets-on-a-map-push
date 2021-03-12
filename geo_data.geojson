@@ -552,6 +552,30 @@
                     41.500753
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1316708461091213312/TpCTbfsH_normal.jpg",
+                "Name": "David Curl",
+                "Handle": "DaveCurlGolf",
+                "Tweet": "The Count is in @THEPLAYERSChamp and yet again @TitleistEurope has come out on top! Good luck to all Team Titleist\u2026 https://t.co/8quwmjE7fz",
+                "TweetLink": "1370485435630243846",
+                "Place": "Broad Blunsdon",
+                "Time": "Fri Mar 12 21:22:44 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7867595,
+                    51.612236
+                ]
+            }
         }
     ]
 }
