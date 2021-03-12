@@ -336,6 +336,30 @@
                     -36.595729
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1365064675705110528/DVi_c6Pl_normal.jpg",
+                "Name": "Memphis Mike",
+                "Handle": "Memphis__Mike",
+                "Tweet": "Watching the coverage of the #THEPLAYERS and one of the commentators tried to say #BrysonDeChambeau was a one trick\u2026 https://t.co/ZtyuwVgc2s",
+                "TweetLink": "1370396668995239939",
+                "Place": "Pennsylvania",
+                "Time": "Fri Mar 12 15:30:01 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
         }
     ]
 }
