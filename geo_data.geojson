@@ -552,6 +552,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/419575172132134912/WS2NY_Ft_normal.jpeg",
+                "Name": "Gulani Vision",
+                "Handle": "GulaniVision",
+                "Tweet": "Could you improve your GOLF game?\n#golf #pgatour #tpc \n\nTo learn more visit our Blog. Link in BIO @ TPC Sawgrass https://t.co/8hJSEECozx",
+                "TweetLink": "1370513372719026177",
+                "Place": "Palm Valley",
+                "Time": "Fri Mar 12 23:13:45 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.394759,
+                    30.193203
+                ]
+            }
         }
     ]
 }
