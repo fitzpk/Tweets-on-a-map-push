@@ -576,6 +576,30 @@
                     40.780709
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1308531782493581312/vBG7bMbS_normal.jpg",
+                "Name": "Mart62",
+                "Handle": "Blade1558",
+                "Tweet": "Hope all this upheaval at The Lane doesn't put Matt Fitzpatrick off his stroke #PGATour",
+                "TweetLink": "1370520636779552768",
+                "Place": "Conisbrough",
+                "Time": "Fri Mar 12 23:42:37 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2357245,
+                    53.4838395
+                ]
+            }
         }
     ]
 }
