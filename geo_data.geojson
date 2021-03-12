@@ -480,6 +480,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/893061576445403137/ARV5XJ1k_normal.jpg",
+                "Name": "Rob Haines",
+                "Handle": "Hainesy10",
+                "Tweet": "Love seeing @WestwoodLee play well!! Go on Westy! @PGATOUR #PGATour #TPCSawgrass \u26f3\ufe0f",
+                "TweetLink": "1370470149048897537",
+                "Place": "West Midlands",
+                "Time": "Fri Mar 12 20:22:00 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2038685,
+                    52.5260565
+                ]
+            }
         }
     ]
 }
