@@ -672,6 +672,30 @@
                     10.700476
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1198058903444963328/YBvg1l-t_normal.jpg",
+                "Name": "Tyler Broska",
+                "Handle": "T_Dot_22",
+                "Tweet": "Bryson has hit 6 iron today from 231 and 230 and both were over 40 yards short. Brilliant. Guy is a moron\u2026 https://t.co/iYGNg4jVS8",
+                "TweetLink": "1370841274593406977",
+                "Place": "Edmonton",
+                "Time": "Sat Mar 13 20:56:43 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.4926175,
+                    53.5558195
+                ]
+            }
         }
     ]
 }
