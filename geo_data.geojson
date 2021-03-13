@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1333826332170575872/YdGDr7yn_normal.jpg",
-                "Name": "Ashley Finney",
-                "Handle": "ashfin69",
-                "Tweet": "There is going to be a hell of a lake ball sale at Sawgrass next week #THEPLAYERS #PGATour #Sawgrass",
-                "TweetLink": "1370102823933898754",
-                "Place": "Rotherham",
-                "Time": "Thu Mar 11 20:02:23 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.3668675,
-                    53.4330035
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1365786691043135488/8OdegGxK_normal.jpg",
                 "Name": "Jesse Flynn",
                 "Handle": "DeadMoneyJesse",
@@ -574,6 +550,30 @@
                 "coordinates": [
                     -1.2357245,
                     53.4838395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1322968542279540741/mNgbqRnW_normal.jpg",
+                "Name": "\ud83e\udd18Eats - Drinks - Rock n Roll\ud83e\udd18",
+                "Handle": "VO5teve",
+                "Tweet": "Finally remembered what the 17th at Sawgrass remins me of... @THEPLAYERSChamp #PGATour https://t.co/onEhdWcSCh",
+                "TweetLink": "1370539873493524484",
+                "Place": "Tamworth",
+                "Time": "Sat Mar 13 00:59:03 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.683398,
+                    52.6221095
                 ]
             }
         }
