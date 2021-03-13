@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1365786691043135488/8OdegGxK_normal.jpg",
-                "Name": "Jesse Flynn",
-                "Handle": "DeadMoneyJesse",
-                "Tweet": "Let\u2019s Go Doug Ghim! Only 1 of my 6 pre tournament selections to finish day 1 under par. At 235/1 just making it to\u2026 https://t.co/ZtzG5mpDVl",
-                "TweetLink": "1370412976583237635",
-                "Place": "Paradise",
-                "Time": "Fri Mar 12 16:34:49 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.135165,
-                    36.0609645
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/703243135204397058/gxpRjvDv_normal.jpg",
                 "Name": "Chip Shots Photo",
                 "Handle": "chipshots",
