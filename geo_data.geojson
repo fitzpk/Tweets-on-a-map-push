@@ -576,6 +576,30 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1212397063671046146/mg-CIlHx_normal.jpg",
+                "Name": "Christopher pieper",
+                "Handle": "C_pieps",
+                "Tweet": "I'm convinced Matt Fitzpatrick's backswing is faster than his thru swing #golf #PGAtour",
+                "TweetLink": "1370820501342457864",
+                "Place": "Connecticut",
+                "Time": "Sat Mar 13 19:34:10 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.757385,
+                    41.500753
+                ]
+            }
         }
     ]
 }
