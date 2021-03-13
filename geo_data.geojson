@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/703243135204397058/gxpRjvDv_normal.jpg",
-                "Name": "Chip Shots Photo",
-                "Handle": "chipshots",
-                "Tweet": "@b_dechambeau hitting bombs @THEPLAYERSChamp #PGATour #longdrive #TPC https://t.co/VbotD4u5n9",
-                "TweetLink": "1370417090067333131",
-                "Place": "TPC Sawgrass",
-                "Time": "Fri Mar 12 16:51:10 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.395706,
-                    30.198948
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1367499070764384267/zKhSNUyi_normal.jpg",
                 "Name": "The Night Capper",
                 "Handle": "TheNightCapper",
