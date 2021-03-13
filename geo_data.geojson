@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/834845294697132032/UcQYploC_normal.jpg",
-                "Name": "Rollin Cruz",
-                "Handle": "rollincruz",
-                "Tweet": "Early morning tee times hit different  #Golf #PGATour https://t.co/2LtGZtef7c",
-                "TweetLink": "1370445637334880256",
-                "Place": "Sacramento",
-                "Time": "Fri Mar 12 18:44:36 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -121.469664,
-                    38.561722
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1365064675705110528/DVi_c6Pl_normal.jpg",
                 "Name": "Memphis Mike",
                 "Handle": "Memphis__Mike",
