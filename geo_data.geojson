@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/876985919907278848/rznWhUr5_normal.jpg",
-                "Name": "Two Guys With Balls",
-                "Handle": "2GuysWithBalls",
-                "Tweet": "Almost through round 1, can @thesergiogarcia go all the way? Use code PLAYERS2021 for 10% off your golf ball order!\u2026 https://t.co/hyC4lZyJGk",
-                "TweetLink": "1370091128884707328",
-                "Place": "Palm Valley",
-                "Time": "Thu Mar 11 19:15:54 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.394759,
-                    30.193203
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1333826332170575872/YdGDr7yn_normal.jpg",
                 "Name": "Ashley Finney",
                 "Handle": "ashfin69",
