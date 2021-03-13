@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1354725044962770948/7lgUO1dt_normal.jpg",
-                "Name": "Westie",
-                "Handle": "westiestylz",
-                "Tweet": "We've got ourselves a good old fashioned Easter egg honky hunt at the golf. #PGATour https://t.co/F1ifKCh3gZ",
-                "TweetLink": "1370343048631099392",
-                "Place": "Auckland",
-                "Time": "Fri Mar 12 11:56:57 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    174.8562435,
-                    -36.595729
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1365064675705110528/DVi_c6Pl_normal.jpg",
                 "Name": "Memphis Mike",
                 "Handle": "Memphis__Mike",
