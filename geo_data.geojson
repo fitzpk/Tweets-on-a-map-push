@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1258225196349128710/zfyCIRE0_normal.jpg",
-                "Name": "JAMISON EQUITY",
-                "Handle": "HBCDonnyMurlins",
-                "Tweet": "I'm just now learning of this. My word. People, especially golf nerds, are some of the strangest/worst people I've\u2026 https://t.co/jMQRFxHLZ0",
-                "TweetLink": "1370215502174388230",
-                "Place": "Nashville",
-                "Time": "Fri Mar 12 03:30:07 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.791549,
-                    36.200008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1354725044962770948/7lgUO1dt_normal.jpg",
                 "Name": "Westie",
                 "Handle": "westiestylz",
