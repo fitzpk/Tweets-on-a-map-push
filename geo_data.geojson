@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1365064675705110528/DVi_c6Pl_normal.jpg",
-                "Name": "Memphis Mike",
-                "Handle": "Memphis__Mike",
-                "Tweet": "#BrysonDeChambeau is what's wrong with #RoryMcIlroy. Be you Rory \ud83d\ude02 \n\n#PGATour #THEPLAYERS",
-                "TweetLink": "1370450935152009223",
-                "Place": "Pennsylvania",
-                "Time": "Fri Mar 12 19:05:39 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.604684,
-                    41.1179365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/893061576445403137/ARV5XJ1k_normal.jpg",
                 "Name": "Rob Haines",
                 "Handle": "Hainesy10",
@@ -718,6 +694,30 @@
                 "coordinates": [
                     -61.211783,
                     10.700476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1351883770761256964/NzN6U6Ra_normal.jpg",
+                "Name": "Hilts",
+                "Handle": "RustyHale1966",
+                "Tweet": "I LUV golf, duh. But if more humans would work as hard at their profession as @b_dechambeau does, we'd be a whole l\u2026 https://t.co/vw2MclwQnI",
+                "TweetLink": "1370888339050627075",
+                "Place": "Mechanicsville",
+                "Time": "Sun Mar 14 00:03:44 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.357365,
+                    37.6233055
                 ]
             }
         }
