@@ -840,6 +840,30 @@
                     10.700476
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1093456769656020993/bhhZ0CZg_normal.jpg",
+                "Name": "Mike Keller",
+                "Handle": "MikeKellerWEEU",
+                "Tweet": "I can\u2019t wrap my mind around a 180 yard pitching wedge. #THEPLAYERS #pgatour",
+                "TweetLink": "1371221493602996226",
+                "Place": "Wyomissing Hills",
+                "Time": "Sun Mar 14 22:07:34 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.983629,
+                    40.334656
+                ]
+            }
         }
     ]
 }
