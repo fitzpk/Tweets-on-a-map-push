@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/512857464/Mike_small_square_normal.jpg",
-                "Name": "Michael High",
-                "Handle": "michaelhigh",
-                "Tweet": "Worst job in golf...Spieth caddie #PGATour",
-                "TweetLink": "1370775525422108673",
-                "Place": "Edmond",
-                "Time": "Sat Mar 13 16:35:27 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.455741,
-                    35.695222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1370750268321660928/stgeYUrR_normal.jpg",
                 "Name": "#1 Doug Ghim Fan",
                 "Handle": "DeadMoneyJesse",
@@ -718,6 +694,54 @@
                 "coordinates": [
                     -89.2665075,
                     39.7393005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1365835443514802181/YnHKH8el_normal.jpg",
+                "Name": "Between The Screws",
+                "Handle": "BetweenScrews",
+                "Tweet": "Yall better not sleep on Paul Casey. Nothing is really in his way right now. #golfshit #PGATour #THEPLAYERSChamp",
+                "TweetLink": "1371198115475304449",
+                "Place": "Brownsburg",
+                "Time": "Sun Mar 14 20:34:41 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.3832475,
+                    39.8563665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/64539948/MacMixx_normal.JPG",
+                "Name": "Paul McNamara",
+                "Handle": "buzzblog",
+                "Tweet": "Justin Thomas looks ready to ruin this #THEPLAYERS by burying the field. #PGATour",
+                "TweetLink": "1371198244353671168",
+                "Place": "Massachusetts",
+                "Time": "Sun Mar 14 20:35:11 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.683502,
+                    42.036939
                 ]
             }
         }
