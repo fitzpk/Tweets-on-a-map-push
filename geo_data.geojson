@@ -672,6 +672,30 @@
                     43.629311
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/708682792901586944/yFMUk4bI_normal.jpg",
+                "Name": "Eric McComb",
+                "Handle": "Dark_Knight_84",
+                "Tweet": "J.T. is in the zone today! What an Eagle putt! #THEPLAYERS #PGATour",
+                "TweetLink": "1371192963506827268",
+                "Place": "Ankeny",
+                "Time": "Sun Mar 14 20:14:12 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.6115305,
+                    41.732949
+                ]
+            }
         }
     ]
 }
