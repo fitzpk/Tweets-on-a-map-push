@@ -864,6 +864,30 @@
                     40.334656
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1309256417560481800/KC9Sv5Jz_normal.jpg",
+                "Name": "WeDrive Chauffeur Travel - Golf Wild Ireland",
+                "Handle": "wild_golf",
+                "Tweet": "Congrats @JustinThomas34 on a terrific win at @THEPLAYERSChamp \ud83d\udc4f #THEPLAYERS #PGATour \ud83c\uddee\ud83c\uddea https://t.co/UaX2ITGPEL",
+                "TweetLink": "1371224185289203715",
+                "Place": "Mayo",
+                "Time": "Sun Mar 14 22:18:16 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4203375,
+                    53.9092525
+                ]
+            }
         }
     ]
 }
