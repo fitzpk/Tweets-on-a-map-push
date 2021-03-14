@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1254512247428259841/XV5ptlPT_normal.jpg",
-                "Name": "Alex Ciampi",
-                "Handle": "aciampi",
-                "Tweet": "A couple pics from the first few days of competition. Two more days to go! \n\u2022\n\u2022\n#theplayers #tpcsawgrass #hole17\u2026 https://t.co/M9ThkXVcVX",
-                "TweetLink": "1370726340371091461",
-                "Place": "Florida",
-                "Time": "Sat Mar 13 13:20:01 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.804475,
-                    27.698682
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1071018190698876928/Iz2PuGQ9_normal.jpg",
                 "Name": "Snap!Media",
                 "Handle": "SnapMediaCo",
