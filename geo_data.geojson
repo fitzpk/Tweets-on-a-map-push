@@ -552,6 +552,54 @@
                     41.15
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1300333579482865664/dmU1shQ2_normal.jpg",
+                "Name": "Andy",
+                "Handle": "TotiRoler",
+                "Tweet": "Nick Dougherty on Sky Golf - constantly talking about Lee Westwood at 47 years old as if he was 93 years old is not\u2026 https://t.co/d5OVyJ9GpJ",
+                "TweetLink": "1371179015235633163",
+                "Place": "Ottershaw",
+                "Time": "Sun Mar 14 19:18:47 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5309195,
+                    51.361573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1143212078163025920/Pv9xC7JX_normal.jpg",
+                "Name": "Kolton Finnegan",
+                "Handle": "kfbetterthanyou",
+                "Tweet": "TPC at Sawgrass on for free today. #PGATour: \u201clet\u2019s get as many shots of someone playing 17 as we can.\u201d Smart move,\u2026 https://t.co/pXvCe0MY7e",
+                "TweetLink": "1371179438273146890",
+                "Place": "Council Bluffs",
+                "Time": "Sun Mar 14 19:20:28 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8349585,
+                    41.247487
+                ]
+            }
         }
     ]
 }
