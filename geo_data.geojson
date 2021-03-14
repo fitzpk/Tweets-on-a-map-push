@@ -600,6 +600,30 @@
                     41.247487
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1345166527327252485/w0ZjXXnJ_normal.jpg",
+                "Name": "Declan Brennan",
+                "Handle": "TheRaceTool",
+                "Tweet": "@JohnKennyMedia @RTEsport .@ShaneLowryGolf is now fourth and @nbc have not shown him once. The reigning @TheOpen Ch\u2026 https://t.co/cenJ2yVhQU",
+                "TweetLink": "1371183852555751426",
+                "Place": "Ashland",
+                "Time": "Sun Mar 14 19:38:00 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.462185,
+                    42.2594545
+                ]
+            }
         }
     ]
 }
