@@ -720,6 +720,30 @@
                     42.036939
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/824564849342631936/vpHF-h3n_normal.jpg",
+                "Name": "Dave Garghan",
+                "Handle": "DaveGarghan9",
+                "Tweet": "Seeing an advert for Bryson using the new Cobra Rad Speed... when in reality he won the Arnold Palmer with a 4 year\u2026 https://t.co/FepvZQbxY4",
+                "TweetLink": "1371208139031375876",
+                "Place": "South East",
+                "Time": "Sun Mar 14 21:14:30 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.252754,
+                    51.3854455
+                ]
+            }
         }
     ]
 }
