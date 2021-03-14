@@ -744,6 +744,54 @@
                     51.3854455
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/920558452/twitter_normal.jpg",
+                "Name": "Daniel Burapavong \ud83c\udfae",
+                "Handle": "TD2timeMVP",
+                "Tweet": "Lee Westwood looks like he is having fun. Bryson DeChambeau not so much. Go Brian Harman! #THEPLAYERS #PGATOUR https://t.co/vys4UDkXH7",
+                "TweetLink": "1371211935014907904",
+                "Place": "Durham",
+                "Time": "Sun Mar 14 21:29:35 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.8954405,
+                    35.9909825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1093456769656020993/bhhZ0CZg_normal.jpg",
+                "Name": "Mike Keller",
+                "Handle": "MikeKellerWEEU",
+                "Tweet": "I can\u2019t remember the last hole where Lee Westwood wasn\u2019t in a bunker.  #playerschampionship #PGATour",
+                "TweetLink": "1371212447525273602",
+                "Place": "Wyomissing Hills",
+                "Time": "Sun Mar 14 21:31:38 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.983629,
+                    40.334656
+                ]
+            }
         }
     ]
 }
