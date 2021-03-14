@@ -696,6 +696,30 @@
                     41.732949
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
+                "Name": "Yatta Golf",
+                "Handle": "YattaGolf",
+                "Tweet": "The Players Championship is going interesting. DeChambeau has fallen to 6th and Connors is one shot from  Westwood\u2026 https://t.co/Ih7AJILHaH",
+                "TweetLink": "1371195062248378368",
+                "Place": "Illinois",
+                "Time": "Sun Mar 14 20:22:33 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2665075,
+                    39.7393005
+                ]
+            }
         }
     ]
 }
