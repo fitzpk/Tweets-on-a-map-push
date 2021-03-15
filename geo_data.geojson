@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1349547368207712261/DkVuB-CF_normal.jpg",
-                "Name": "Alex Bernadett",
-                "Handle": "alexbernadett",
-                "Tweet": "Who came up with this Bryson DeChambeau vs Lee Westwood rivalry? #THEPLAYERS #PGATour https://t.co/FKbCwZgE6f",
-                "TweetLink": "1371148650173194245",
-                "Place": "Lake Arrowhead",
-                "Time": "Sun Mar 14 17:18:07 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.1911905,
-                    34.257528
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1093456769656020993/bhhZ0CZg_normal.jpg",
                 "Name": "Mike Keller",
                 "Handle": "MikeKellerWEEU",
