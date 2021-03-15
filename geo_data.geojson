@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1325172450255011841/SneJVcHl_normal.jpg",
-                "Name": "Omar Taovil",
-                "Handle": "otaovil24",
-                "Tweet": "What an amazing approach shot by @JustinThomas34 on 16. Looked almost identical to a shot I hit yesterday except mi\u2026 https://t.co/AFG6ctMMO2",
-                "TweetLink": "1370831129473740800",
-                "Place": "Livermore",
-                "Time": "Sat Mar 13 20:16:24 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -121.760079,
-                    37.683592
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
                 "Name": "Will O'Donoghue",
                 "Handle": "Will_ODonoghue",
