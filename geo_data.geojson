@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1093456769656020993/bhhZ0CZg_normal.jpg",
-                "Name": "Mike Keller",
-                "Handle": "MikeKellerWEEU",
-                "Tweet": "Did NBC mic that bird hanging around the first tee? #playerschampionship #PGATour https://t.co/jU6xhAlhYr",
-                "TweetLink": "1371152270109327364",
-                "Place": "Wyomissing Hills",
-                "Time": "Sun Mar 14 17:32:30 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -75.983629,
-                    40.334656
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1370110313056600064/S0MUx-tS_normal.jpg",
                 "Name": "Dan Steadman",
                 "Handle": "danstdmn",
