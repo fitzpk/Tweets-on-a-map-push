@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1351883770761256964/NzN6U6Ra_normal.jpg",
-                "Name": "Hilts",
-                "Handle": "RustyHale1966",
-                "Tweet": "I LUV golf, duh. But if more humans would work as hard at their profession as @b_dechambeau does, we'd be a whole l\u2026 https://t.co/vw2MclwQnI",
-                "TweetLink": "1370888339050627075",
-                "Place": "Mechanicsville",
-                "Time": "Sun Mar 14 00:03:44 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.357365,
-                    37.6233055
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
                 "Name": "Korean Golf News",
                 "Handle": "KoreanGolfNews",
