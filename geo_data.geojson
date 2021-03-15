@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1370110313056600064/S0MUx-tS_normal.jpg",
-                "Name": "Dan Steadman",
-                "Handle": "danstdmn",
-                "Tweet": "Will be sat for next 5 hours supporting @WestwoodLee Currently proving that playing golf with a smile on your face\u2026 https://t.co/UFKMoj7oey",
-                "TweetLink": "1371162263906828290",
-                "Place": "South West",
-                "Time": "Sun Mar 14 18:12:13 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.927119,
-                    50.997507
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1209538475730583557/X4kyf0ed_normal.jpg",
                 "Name": "Michaela",
                 "Handle": "michaelanffc",
