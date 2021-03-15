@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1330126803072143362/WeyaSNl7_normal.jpg",
-                "Name": "Paul Alejandrino",
-                "Handle": "thePaulReno",
-                "Tweet": "@CaraBanksGC @shanebacon @OllieWBanks Who would think they could do that.. even happens to the best of them\u2026 https://t.co/qD5IIMSFpf",
-                "TweetLink": "1371177795926302727",
-                "Place": "New City",
-                "Time": "Sun Mar 14 19:13:56 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.984562,
-                    41.15
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1300333579482865664/dmU1shQ2_normal.jpg",
-                "Name": "Andy",
-                "Handle": "TotiRoler",
-                "Tweet": "Nick Dougherty on Sky Golf - constantly talking about Lee Westwood at 47 years old as if he was 93 years old is not\u2026 https://t.co/d5OVyJ9GpJ",
-                "TweetLink": "1371179015235633163",
-                "Place": "Ottershaw",
-                "Time": "Sun Mar 14 19:18:47 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.5309195,
-                    51.361573
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1143212078163025920/Pv9xC7JX_normal.jpg",
                 "Name": "Kolton Finnegan",
                 "Handle": "kfbetterthanyou",
