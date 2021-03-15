@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1209538475730583557/X4kyf0ed_normal.jpg",
-                "Name": "Michaela",
-                "Handle": "michaelanffc",
-                "Tweet": "@WestwoodLee signing my sons Forest shirt @TheHondaClassic 2011 Florida COME ON LEE #Nffc #Leewestwood #PGATour https://t.co/67UAIdFclg",
-                "TweetLink": "1371165813844086797",
-                "Place": "Carlton",
-                "Time": "Sun Mar 14 18:26:19 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.1140985,
-                    52.985326
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1093456769656020993/bhhZ0CZg_normal.jpg",
                 "Name": "Mike Keller",
                 "Handle": "MikeKellerWEEU",
