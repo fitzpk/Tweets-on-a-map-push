@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
-                "Name": "Yatta Golf",
-                "Handle": "YattaGolf",
-                "Tweet": "Bryson DeChambeau has been on a mission lately. Just won the Arnold Palmer Invitational. And now is one shot from 1\u2026 https://t.co/2RMYHUjTuX",
-                "TweetLink": "1370872448019701761",
-                "Place": "Illinois",
-                "Time": "Sat Mar 13 23:00:35 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.2665075,
-                    39.7393005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1350980023642169352/e9LE1YvN_normal.jpg",
-                "Name": "Jeremy A-Jack \u2708\ufe0f\ud83c\uddf9\ud83c\uddf9",
-                "Handle": "JackAttack2393",
-                "Tweet": ".@WestwoodLee is in some form right now.. \ud83d\udc40 What a putt on the 17th. \ud83d\udc4f Leads by 2 and the man to chase after 54 hol\u2026 https://t.co/BRQ7xrf9vq",
-                "TweetLink": "1370873117237776395",
-                "Place": "Trinidad and Tobago",
-                "Time": "Sat Mar 13 23:03:15 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -61.211783,
-                    10.700476
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1351883770761256964/NzN6U6Ra_normal.jpg",
                 "Name": "Hilts",
                 "Handle": "RustyHale1966",
