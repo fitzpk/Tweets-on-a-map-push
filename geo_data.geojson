@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1371219216339111940/cBAI0BW__normal.jpg",
-                "Name": "Jesse Flynn",
-                "Handle": "DeadMoneyJesse",
-                "Tweet": "Hearing all the CBB predictions and March Madness bracket talk. Is it tee time at the #hondaclassic yet? #PGATour\u2026 https://t.co/U8jKfHN0Hf",
-                "TweetLink": "1371493775600615432",
-                "Place": "Paradise",
-                "Time": "Mon Mar 15 16:09:31 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.135165,
-                    36.0609645
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1116757942307643393/lL2QnpEK_normal.png",
                 "Name": "Jake Thurm",
                 "Handle": "JakeThurmGolf",
