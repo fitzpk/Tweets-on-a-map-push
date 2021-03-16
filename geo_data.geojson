@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1336329179403468805/ioz5kCNg_normal.jpg",
-                "Name": "A Friendly Game",
-                "Handle": "AFGgolf",
-                "Tweet": "Let me repeat. Do not sleep on JT #THEPLAYERS #PGATour #golf",
-                "TweetLink": "1371191200745668614",
-                "Place": "Toronto",
-                "Time": "Sun Mar 14 20:07:12 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.2725695,
-                    43.629311
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/708682792901586944/yFMUk4bI_normal.jpg",
                 "Name": "Eric McComb",
                 "Handle": "Dark_Knight_84",
