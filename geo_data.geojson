@@ -48,6 +48,30 @@
                     39.391698
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1174360998955880448/SXVdZkX8_normal.jpg",
+                "Name": "Roger Roecken",
+                "Handle": "i6Hitman",
+                "Tweet": "Come support @itsBiiTTERSWEET on her first official 2K Sports sponsored stream! LETS GO #twitch #PGATOUR2K21 #xbox\u2026 https://t.co/AB828mkq3p",
+                "TweetLink": "1372250153399283717",
+                "Place": "Toronto",
+                "Time": "Wed Mar 17 18:15:06 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2725695,
+                    43.629311
+                ]
+            }
         }
     ]
 }
