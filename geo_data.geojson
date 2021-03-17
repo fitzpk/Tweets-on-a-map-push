@@ -48,6 +48,30 @@
                     39.6403805
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/971370902465196032/d5IclvpN_normal.jpg",
+                "Name": "Alfonso Castillo Golf Academy",
+                "Handle": "ACGolfAcademy",
+                "Tweet": "Happy Birthday Bobby Jones \u26f3\ufe0f\ud83e\udd47\ud83c\udf7f #bobbyjones #oldies #golf #theoneandonly #theone #grandslam #4majors #thegreatest\u2026 https://t.co/LfTgMO2HfA",
+                "TweetLink": "1372228981794160642",
+                "Place": "Palma",
+                "Time": "Wed Mar 17 16:50:58 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.769968,
+                    39.391698
+                ]
+            }
         }
     ]
 }
