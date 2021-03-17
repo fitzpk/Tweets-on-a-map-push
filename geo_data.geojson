@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1007093188337848320/YJYJFLc2_normal.jpg",
-                "Name": "BRYAN LAMB",
-                "Handle": "BRYANLAMB8",
-                "Tweet": "Cool, foggy, and  windy day at the club! #pgatour #cga #milehighcity #denver#coloradogolf #whensmyteetime\u2026 https://t.co/A9asnpasqa",
-                "TweetLink": "1371850151346733062",
-                "Place": "Cherry Hills Village",
-                "Time": "Tue Mar 16 15:45:38 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.945948,
-                    39.6403805
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/971370902465196032/d5IclvpN_normal.jpg",
                 "Name": "Alfonso Castillo Golf Academy",
                 "Handle": "ACGolfAcademy",
