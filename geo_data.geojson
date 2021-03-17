@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1298751958984151040/_5wyy8ay_normal.jpg",
-                "Name": "Brad",
-                "Handle": "BradeyLiverio",
-                "Tweet": "OH MY LORD!! We back baby! \ud83d\ude0d\ud83d\udc05 Hope the game will be as good as this beauty! #TigerWoods #PGATour\u2026 https://t.co/3fPHwqUWc0",
-                "TweetLink": "1371825957787557890",
-                "Place": "Delmar",
-                "Time": "Tue Mar 16 14:09:30 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.829435,
-                    42.6081775
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1007093188337848320/YJYJFLc2_normal.jpg",
                 "Name": "BRYAN LAMB",
                 "Handle": "BRYANLAMB8",
