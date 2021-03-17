@@ -96,6 +96,30 @@
                     39.7393005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/971370902465196032/d5IclvpN_normal.jpg",
+                "Name": "Alfonso Castillo Golf Academy",
+                "Handle": "ACGolfAcademy",
+                "Tweet": "The only winner of the Grand Slam, Bobby Jones \u26f3\ufe0f\ud83e\udd47\ud83c\udf7f #bobbyjones #oldies #golf #theoneandonly #theone #grandslam\u2026 https://t.co/j38Bs1XKg9",
+                "TweetLink": "1372296410889064452",
+                "Place": "Palma",
+                "Time": "Wed Mar 17 21:18:55 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.769968,
+                    39.391698
+                ]
+            }
         }
     ]
 }
