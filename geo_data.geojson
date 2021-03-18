@@ -144,6 +144,30 @@
                     26.527285
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "Happy Birthday to one of my favorite golfers of all time, the legendary Bobby Jones. The greatest amateur to ever p\u2026 https://t.co/P1DmM7hFIg",
+                "TweetLink": "1372382201694785538",
+                "Place": "Atlanta",
+                "Time": "Thu Mar 18 02:59:49 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.433106,
+                    33.7671945
+                ]
+            }
         }
     ]
 }
