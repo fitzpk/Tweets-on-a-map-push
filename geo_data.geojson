@@ -168,6 +168,30 @@
                     33.7671945
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/925369734786363394/R0uO5lWy_normal.jpg",
+                "Name": "kraken golf",
+                "Handle": "krakengolf",
+                "Tweet": "Simple but not simple... @the77artist #putterporn #krakengolf #golfstagram #golflicious #golfaddict #golflife\u2026 https://t.co/v9J6YpMmGH",
+                "TweetLink": "1372516894670917633",
+                "Place": "Acushnet",
+                "Time": "Thu Mar 18 11:55:02 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9112125,
+                    41.703775
+                ]
+            }
         }
     ]
 }
