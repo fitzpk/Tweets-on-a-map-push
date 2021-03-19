@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
-                "Name": "The Fit Golfer Girl",
-                "Handle": "fitgolfergirl",
-                "Tweet": "DO YOU EARLY EXTEND DURING THE GOLF SWING? \ud83d\ude23\nThese moves can help! \ud83d\ude0e\n\nClick the link below for full video:\n\ud83d\udc49\u2026 https://t.co/iHlazv1JY0",
-                "TweetLink": "1372544653325651973",
-                "Place": "Boca Raton",
-                "Time": "Thu Mar 18 13:45:20 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.134986,
-                    26.3739755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1091747900798001152/xPvo1f-I_normal.jpg",
                 "Name": "Walker R Fernandes",
                 "Handle": "PilotFernandes",
