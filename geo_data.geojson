@@ -24,6 +24,30 @@
                     26.8408065
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1332384305734148098/eKlshTaB_normal.jpg",
+                "Name": "The Honda Classic",
+                "Handle": "TheHondaClassic",
+                "Tweet": "SOUND ON \ud83d\udd08\n\n@PhilMickelson knows how to get the fans pumped \ud83d\udce3\ud83d\udcaa\ud83c\udffd\n\nAnd look at the #view fans have from the @corona p\u2026 https://t.co/tZw5RfwCCj",
+                "TweetLink": "1373013897188405250",
+                "Place": "Palm Beach Gardens",
+                "Time": "Fri Mar 19 20:49:57 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.121529,
+                    26.8408065
+                ]
+            }
         }
     ]
 }
