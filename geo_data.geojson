@@ -48,6 +48,30 @@
                     26.527285
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1357457417072766981/tOXSciDa_normal.jpg",
+                "Name": "\ud83d\udc81\u200d\u2640\ufe0fA~Vapor~In~The~Wind\ud83d\ude4b\u200d\u2640\ufe0f",
+                "Handle": "JoannaLuvsGod",
+                "Tweet": "@Murphs51 @veteran5775 @ImablackPatriot @JayC1l @08Csi @QVMQ1 @L0ve45 @PaulMer53 @Funky8_0 @1tastycakes\u2026 https://t.co/fobYMzJ3b9",
+                "TweetLink": "1373141788664467461",
+                "Place": "PGA Tour Academy - World Golf Village",
+                "Time": "Sat Mar 20 05:18:08 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.471657,
+                    29.987061
+                ]
+            }
         }
     ]
 }
