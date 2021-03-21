@@ -96,6 +96,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
+                "Name": "Tour Junkies",
+                "Handle": "Tour_Junkies",
+                "Tweet": "1st time ever this week\u2019s #PGATOUR #HondaClassic winner @mattjonesgolf appeared on...\n\nPat\u2019s \u201cNot That Anyone Reall\u2026 https://t.co/2Dv3o2Fo9v",
+                "TweetLink": "1373769524844097536",
+                "Place": "Evans",
+                "Time": "Sun Mar 21 22:52:32 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.163663,
+                    33.536182
+                ]
+            }
         }
     ]
 }
