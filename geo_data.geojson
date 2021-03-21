@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1371957893205950473/E74u92lI_normal.jpg",
-                "Name": "Jesse Flynn",
-                "Handle": "DeadMoneyJesse",
-                "Tweet": "And just like that PGA National bites Adam Wise. #HondaClassic #pgatour @CS_Murph @joshuaperry22 @JasonSobelTAN https://t.co/jchpomtMGS",
-                "TweetLink": "1373360447366197248",
-                "Place": "Paradise",
-                "Time": "Sat Mar 20 19:47:01 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.135165,
-                    36.0609645
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1295219347783397376/mo5FFQjK_normal.jpg",
                 "Name": "Jbressgolf",
                 "Handle": "jnb1966",
