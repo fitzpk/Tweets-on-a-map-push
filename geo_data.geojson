@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1334239930541805571/AJkYqfAX_normal.jpg",
-                "Name": "Elmer Ca\u00f1as Jr.",
-                "Handle": "elmercanasjr",
-                "Tweet": "Fun times on the golf course with fam. Getting the rust off before we hit up the #pgatour. #golf #friends @ Clarksv\u2026 https://t.co/V3AxLTcB4g",
-                "TweetLink": "1373356159193677824",
-                "Place": "Clarksville",
-                "Time": "Sat Mar 20 19:29:58 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -87.3221685,
-                    36.5509835
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1371957893205950473/E74u92lI_normal.jpg",
                 "Name": "Jesse Flynn",
                 "Handle": "DeadMoneyJesse",
