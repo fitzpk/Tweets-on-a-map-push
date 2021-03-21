@@ -72,6 +72,30 @@
                     26.8408065
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1292337765317636096/GNFoU5wi_normal.jpg",
+                "Name": "Allan Cooper",
+                "Handle": "AllanCooper",
+                "Tweet": "The Aussie trifecta came in this afternoon @TheHondaClassic with @mattjonesgolf first past the post joining the win\u2026 https://t.co/193cAJNUZn",
+                "TweetLink": "1373768485449334789",
+                "Place": "Los Angeles",
+                "Time": "Sun Mar 21 22:48:24 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
