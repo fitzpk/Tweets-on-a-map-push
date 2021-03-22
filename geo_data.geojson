@@ -144,6 +144,30 @@
                     26.8408065
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1208206601250840576/2YZvrchh_normal.jpg",
+                "Name": "\u270c\ufe0fMichele Eve",
+                "Handle": "MicheleEvePhoto",
+                "Tweet": "Wear your mask at The Honda Classic! #covid_19 #pandemic #hondaclassic #pgatour #sportsphotographer\u2026 https://t.co/fwmiUlYbuN",
+                "TweetLink": "1374061767563825153",
+                "Place": "Palm Beach Gardens",
+                "Time": "Mon Mar 22 18:13:48 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.121529,
+                    26.8408065
+                ]
+            }
         }
     ]
 }
