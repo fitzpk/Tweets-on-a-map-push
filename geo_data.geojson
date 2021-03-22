@@ -120,6 +120,30 @@
                     27.698682
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1208206601250840576/2YZvrchh_normal.jpg",
+                "Name": "\u270c\ufe0fMichele Eve",
+                "Handle": "MicheleEvePhoto",
+                "Tweet": "Matt Jones wins the Honda Classic #pgatour #hondaclassic #mattjones #sportsspotography #southfloridaphotographer\u2026 https://t.co/rycGhCC9vj",
+                "TweetLink": "1374022185019408388",
+                "Place": "Palm Beach Gardens",
+                "Time": "Mon Mar 22 15:36:31 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.121529,
+                    26.8408065
+                ]
+            }
         }
     ]
 }
