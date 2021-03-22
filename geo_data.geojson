@@ -96,6 +96,30 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/685853493014429699/xG-5F_QK_normal.jpg",
+                "Name": "Mike McAllister",
+                "Handle": "PGATOUR_mikemc",
+                "Tweet": "Don\u2019t know if Matt Jones is fastest player on #PGATour, but he\u2019s likely top 3. Congrats to latest @TheHondaClassic\u2026 https://t.co/GSLtJEul1J",
+                "TweetLink": "1373789582332944384",
+                "Place": "Florida",
+                "Time": "Mon Mar 22 00:12:14 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.804475,
+                    27.698682
+                ]
+            }
         }
     ]
 }
