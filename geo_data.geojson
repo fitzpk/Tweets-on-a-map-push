@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1295219347783397376/mo5FFQjK_normal.jpg",
-                "Name": "Jbressgolf",
-                "Handle": "jnb1966",
-                "Tweet": "Fun weekend at the Honda Classic this weekend! #pga #pgatour #hondaclassic #golf @ PGA National Resort &amp; Spa https://t.co/E7ZEJnhHaW",
-                "TweetLink": "1373736677374631942",
-                "Place": "Palm Beach Gardens",
-                "Time": "Sun Mar 21 20:42:01 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.121529,
-                    26.8408065
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1292337765317636096/GNFoU5wi_normal.jpg",
                 "Name": "Allan Cooper",
                 "Handle": "AllanCooper",
