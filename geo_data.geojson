@@ -96,6 +96,30 @@
                     26.8408065
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1105653936063549440/C1gjF_b6_normal.png",
+                "Name": "Dr. Stuart Love",
+                "Handle": "theHealthyGolfr",
+                "Tweet": "Made it!\n\ud83d\udc4d\nArrived midday and setup for the week here at #AustinCountryClub. Gloomy and cool(er) today with some wi\u2026 https://t.co/0VMrcSiHiR",
+                "TweetLink": "1374194963295002627",
+                "Place": "Austin",
+                "Time": "Tue Mar 23 03:03:05 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.754724,
+                    30.3233455
+                ]
+            }
         }
     ]
 }
