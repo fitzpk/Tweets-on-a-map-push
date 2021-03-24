@@ -96,6 +96,30 @@
                     33.901311
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1371957893205950473/E74u92lI_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "DeadMoneyJesse",
+                "Tweet": "Matt Kuchar with a bracket buster round beat Justin Thomas on day one of #DellMatchPlay. That\u2019s why they play the g\u2026 https://t.co/ALvHY0ABsx",
+                "TweetLink": "1374796800859676673",
+                "Place": "Paradise",
+                "Time": "Wed Mar 24 18:54:34 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
