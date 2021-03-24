@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1007093188337848320/YJYJFLc2_normal.jpg",
-                "Name": "BRYAN LAMB",
-                "Handle": "BRYANLAMB8",
-                "Tweet": "Beautiful spring morning in the village!! #titleist #leftdashprov1x #pgatour #cga #milehighcity #rockymountains\u2026 https://t.co/QDnArbyAr0",
-                "TweetLink": "1374356371987107843",
-                "Place": "Cherry Hills Village",
-                "Time": "Tue Mar 23 13:44:28 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.945948,
-                    39.6403805
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
                 "Name": "Will O'Donoghue",
                 "Handle": "Will_ODonoghue",
