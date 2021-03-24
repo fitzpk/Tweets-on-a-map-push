@@ -72,6 +72,30 @@
                     18.725815
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1321843678873227265/PK6YUdpk_normal.jpg",
+                "Name": "S SZ",
+                "Handle": "SzopaS",
+                "Tweet": "This may be the worst Rory has ever golfed in his career #PGATour",
+                "TweetLink": "1374766835862708226",
+                "Place": "Edmonton",
+                "Time": "Wed Mar 24 16:55:30 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.4926175,
+                    53.5558195
+                ]
+            }
         }
     ]
 }
