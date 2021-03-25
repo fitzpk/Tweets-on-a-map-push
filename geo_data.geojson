@@ -144,6 +144,30 @@
                     28.694736
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1371957893205950473/E74u92lI_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "DeadMoneyJesse",
+                "Tweet": "Sergio with a dart on 13! #DellMatchPlay #PGA #PGATour #wgcmatchplay https://t.co/GV6qpM7JW0",
+                "TweetLink": "1375188056479653888",
+                "Place": "Paradise",
+                "Time": "Thu Mar 25 20:49:17 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
