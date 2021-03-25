@@ -144,6 +144,54 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1371957893205950473/E74u92lI_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "DeadMoneyJesse",
+                "Tweet": "52/1 before start of #DellMatchPlay is now 2-0. #FeelingGood #PGATour #WGC #Golf https://t.co/nQIIbwa1Tp",
+                "TweetLink": "1375191059685253122",
+                "Place": "Paradise",
+                "Time": "Thu Mar 25 21:01:13 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1362144660697845765/Q6rR-PX0_normal.jpg",
+                "Name": "Outstandings Project",
+                "Handle": "OutstandingsPrj",
+                "Tweet": "#Outstandings5 \ud83d\udc49 Hole after hole, the star from Barrika takes off in his journey into space \ud83d\ude80 ... Rahmbo.\u2026 https://t.co/cb8mexxY2f",
+                "TweetLink": "1375191131475095555",
+                "Place": "London",
+                "Time": "Thu Mar 25 21:01:30 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.088161,
+                    51.489263
+                ]
+            }
         }
     ]
 }
