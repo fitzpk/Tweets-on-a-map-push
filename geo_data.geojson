@@ -144,6 +144,30 @@
                     18.725815
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/805390661973327872/4Kw0DMDN_normal.jpg",
+                "Name": "Jim Smith",
+                "Handle": "jimsmithgolf",
+                "Tweet": "Slow it down @jonrahm 1 up with 2 to play, you are on fire!\ud83d\udd25\n#pgatour #wgcmatchplay #matchplay #fire #wagc #wagcusa\u2026 https://t.co/gx5uA1emCE",
+                "TweetLink": "1375235646684606467",
+                "Place": "Austin",
+                "Time": "Thu Mar 25 23:58:23 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.754724,
+                    30.3233455
+                ]
+            }
         }
     ]
 }
