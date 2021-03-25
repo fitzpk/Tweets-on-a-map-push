@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/719374669799956480/5NXX1YGA_normal.jpg",
-                "Name": "GARSEN GOLF GRIPS",
-                "Handle": "GarsenGolf",
-                "Tweet": "One more #PGATour player switched into the #GarsenGripTechnology #QuadTourPutterGrips to wrap up a very productive\u2026 https://t.co/2L82yEtkVy",
-                "TweetLink": "1374807125201981449",
-                "Place": "Georgia",
-                "Time": "Wed Mar 24 19:35:35 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.1738665,
-                    32.6782075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1371957893205950473/E74u92lI_normal.jpg",
                 "Name": "Jesse Flynn",
                 "Handle": "DeadMoneyJesse",
