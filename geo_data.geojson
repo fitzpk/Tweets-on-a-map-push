@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
-                "Name": "Korean Golf News",
-                "Handle": "KoreanGolfNews",
-                "Tweet": "Not a bad place to be this week @pgatour @coraleschampionship \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\ufe0f\u200d\u2642\ufe0f\ud83c\udde9\ud83c\uddf4 #koreangolfnews #pgatour #golf #pga\u2026 https://t.co/tJC8GVDLlO",
-                "TweetLink": "1374498385470754826",
-                "Place": "Hig\u00fcey",
-                "Time": "Tue Mar 23 23:08:46 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -68.623478,
-                    18.725815
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1321843678873227265/PK6YUdpk_normal.jpg",
                 "Name": "S SZ",
                 "Handle": "SzopaS",
