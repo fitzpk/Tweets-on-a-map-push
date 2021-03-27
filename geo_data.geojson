@@ -144,6 +144,30 @@
                     35.3572525
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1105653936063549440/C1gjF_b6_normal.png",
+                "Name": "Dr. Stuart Love",
+                "Handle": "theHealthyGolfr",
+                "Tweet": "Probably my favorite thing about #PGATOUR events is their commitment to charity.\n\ud83d\ude4f\nThe #DellMatchPlay is no excepti\u2026 https://t.co/iq2YgY20nE",
+                "TweetLink": "1375644546877415434",
+                "Place": "Austin",
+                "Time": "Sat Mar 27 03:03:12 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.754724,
+                    30.3233455
+                ]
+            }
         }
     ]
 }
