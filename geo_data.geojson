@@ -144,6 +144,30 @@
                     41.748496
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1354963339353460737/Qj3D5hMb_normal.jpg",
+                "Name": "Kevin Crofts \ud83c\udde8\ud83c\udde6",
+                "Handle": "crofts_kevin",
+                "Tweet": "No more Canadian\u2019s \ud83c\udde8\ud83c\udde6 in the @DellMatchPlay so switched over to the Corales PuntaCana Resort &amp; Club Championship\u2026 https://t.co/qXSqt0IOf1",
+                "TweetLink": "1375883215026671624",
+                "Place": "Toronto",
+                "Time": "Sat Mar 27 18:51:35 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2725695,
+                    43.629311
+                ]
+            }
         }
     ]
 }
