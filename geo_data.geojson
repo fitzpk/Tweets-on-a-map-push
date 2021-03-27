@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1371957893205950473/E74u92lI_normal.jpg",
-                "Name": "Jesse Flynn",
-                "Handle": "DeadMoneyJesse",
-                "Tweet": "Fleetwood holds off DeChambeau to take the group +305 &amp; advance to the Rd of 16. #DellMatchPlay #WGCMatchPlay #PGA\u2026 https://t.co/qWuevH3t0t",
-                "TweetLink": "1375523558282067969",
-                "Place": "Paradise",
-                "Time": "Fri Mar 26 19:02:26 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.135165,
-                    36.0609645
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1249146573956800514/M7Kof92U_normal.jpg",
                 "Name": "Ty Matlock",
                 "Handle": "TGMLM",
