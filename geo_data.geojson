@@ -96,6 +96,30 @@
                     30.3233455
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1007093188337848320/YJYJFLc2_normal.jpg",
+                "Name": "BRYAN LAMB",
+                "Handle": "BRYANLAMB8",
+                "Tweet": "Another beautiful spring morning at the club!! #cga #pgatour #milehighcity #coloradogolf @ Glenmoor Country Club https://t.co/bOLKckHKMM",
+                "TweetLink": "1375829694394855430",
+                "Place": "Cherry Hills Village",
+                "Time": "Sat Mar 27 15:18:55 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.945948,
+                    39.6403805
+                ]
+            }
         }
     ]
 }
