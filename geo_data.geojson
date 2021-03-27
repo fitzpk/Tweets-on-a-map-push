@@ -240,6 +240,30 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1138539601725968385/9mhlgtbL_normal.jpg",
+                "Name": "The Golfers Academy Inc",
+                "Handle": "GolfersAcademy",
+                "Tweet": "The all new #indoorprosimtour is coming to #BurlingtonON. Are you ready to compete and play for cash. Details and t\u2026 https://t.co/SNwNiijqxg",
+                "TweetLink": "1375933967225008130",
+                "Place": "Burlington",
+                "Time": "Sat Mar 27 22:13:16 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.820465,
+                    43.381396
+                ]
+            }
         }
     ]
 }
