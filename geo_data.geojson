@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1347554494490533891/B8bDrQHG_normal.jpg",
-                "Name": "Kraig Kann \ud83c\udfd4",
-                "Handle": "kraigkann",
-                "Tweet": "Always gold to have Fred join us!  We\u2019ll see how @JordanSpieth does the rest of the way",
-                "TweetLink": "1375175773607374859",
-                "Place": "Winter Springs",
-                "Time": "Thu Mar 25 20:00:28 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.267838,
-                    28.694736
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1371957893205950473/E74u92lI_normal.jpg",
                 "Name": "Jesse Flynn",
                 "Handle": "DeadMoneyJesse",
