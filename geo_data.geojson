@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1338563816674775046/f8ARa2qH_normal.jpg",
-                "Name": "AJ Schraffenberger",
-                "Handle": "AJSchraff56",
-                "Tweet": "Camera man down!! #PGATour https://t.co/sI9e2PivIQ",
-                "TweetLink": "1375896918505709571",
-                "Place": "Dayton",
-                "Time": "Sat Mar 27 19:46:02 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -84.200366,
-                    39.780358
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1371957893205950473/E74u92lI_normal.jpg",
                 "Name": "Jesse Flynn",
                 "Handle": "DeadMoneyJesse",
