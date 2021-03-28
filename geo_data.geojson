@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1333826332170575872/YdGDr7yn_normal.jpg",
-                "Name": "Ashley Finney",
-                "Handle": "ashfin69",
-                "Tweet": "Not shouting Fore when a ball is heading towards people should be a 2 shot penalty in all walks of golf. The pros a\u2026 https://t.co/JRDNicWTjx",
-                "TweetLink": "1375890036181377027",
-                "Place": "Rotherham",
-                "Time": "Sat Mar 27 19:18:42 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -1.3668675,
-                    53.4330035
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1193032057556885504/rIWQSLnP_normal.jpg",
                 "Name": "Golf Volunteers",
                 "Handle": "Volunteer4golf",
@@ -310,6 +286,30 @@
                 "coordinates": [
                     -122.3306025,
                     47.614817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1335440219974361088/2mZJS248_normal.jpg",
+                "Name": "Michael E Smith",
+                "Handle": "AnkenySmitty",
+                "Tweet": "I can\u2019t say that I\u2019ve missed the guys yelling \u201cGet in the hole\u201d for the past year #wgcdellmatchplay #PGATour #PGATOUR2K21",
+                "TweetLink": "1376312133273665536",
+                "Place": "Ankeny",
+                "Time": "Sun Mar 28 23:15:57 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.6115305,
+                    41.732949
                 ]
             }
         }
