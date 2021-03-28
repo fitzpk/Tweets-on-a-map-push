@@ -216,6 +216,30 @@
                     26.831478
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/633268178970394624/Wpz2a2mm_normal.jpg",
+                "Name": "Madeline",
+                "Handle": "HallerMP",
+                "Tweet": "Golf is the ultimate choice for relaxing Sunday tv...peaceful green setting, calm and polite voices, hot guys and..\u2026 https://t.co/E76QNxGgXb",
+                "TweetLink": "1376287861675278341",
+                "Place": "Alexandria",
+                "Time": "Sun Mar 28 21:39:31 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0908695,
+                    38.81738
+                ]
+            }
         }
     ]
 }
