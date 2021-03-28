@@ -240,6 +240,30 @@
                     38.81738
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1289417027317379073/1iD1zEsN_normal.jpg",
+                "Name": "Chris Hardiman \u2615\ud83d\udea8\ud83c\udfc8\ud83c\udfb8\ud83d\udcd6",
+                "Handle": "AJoyForever83",
+                "Tweet": "Rafael Campos, you're breaking my heart, son \ud83d\ude23 so close again 100/1 for the second time this year almost got it done \ud83d\ude2d\ud83d\ude2d\u26f3\ud83e\udd26\u200d\u2642\ufe0f#PGATour",
+                "TweetLink": "1376290435900014607",
+                "Place": "Roscommon",
+                "Time": "Sun Mar 28 21:49:44 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3498705,
+                    53.6975265
+                ]
+            }
         }
     ]
 }
