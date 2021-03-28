@@ -168,6 +168,30 @@
                     43.629311
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/569845378560716800/-5OWFuU7_normal.jpeg",
+                "Name": "tim creedon",
+                "Handle": "ottawatim",
+                "Tweet": "Bawling \ud83d\ude2d congrats! @Joel_Dahmen #PGATour",
+                "TweetLink": "1376283690775539712",
+                "Place": "Ottawa",
+                "Time": "Sun Mar 28 21:22:56 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.8306745,
+                    41.3517915
+                ]
+            }
         }
     ]
 }
