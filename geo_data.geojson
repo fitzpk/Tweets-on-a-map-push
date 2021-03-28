@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1193032057556885504/rIWQSLnP_normal.jpg",
-                "Name": "Golf Volunteers",
-                "Handle": "Volunteer4golf",
-                "Tweet": "#golfvolunteers helping out one more time at the @DellMatchPlay - not just testing confirmation, but also leaderboa\u2026 https://t.co/LzhSGSuIYj",
-                "TweetLink": "1375891725890285574",
-                "Place": "Austin Country Club",
-                "Time": "Sat Mar 27 19:25:24 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.797267,
-                    30.342853
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1338563816674775046/f8ARa2qH_normal.jpg",
                 "Name": "AJ Schraffenberger",
                 "Handle": "AJSchraff56",
