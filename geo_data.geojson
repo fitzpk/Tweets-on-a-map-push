@@ -288,6 +288,30 @@
                     33.121484
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1244876539772071937/vfwaDzfz_normal.jpg",
+                "Name": "Tom Riley of the Unvaccinated Clan",
+                "Handle": "tomriley",
+                "Tweet": "Nobody wants to win this thing.  #PGATour",
+                "TweetLink": "1376310752328314884",
+                "Place": "Seattle",
+                "Time": "Sun Mar 28 23:10:28 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3306025,
+                    47.614817
+                ]
+            }
         }
     ]
 }
