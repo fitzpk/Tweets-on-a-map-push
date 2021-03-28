@@ -192,6 +192,30 @@
                     41.3517915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1314020626630422528/iLItmNSc_normal.jpg",
+                "Name": "John Rothberg",
+                "Handle": "jmrthewedge",
+                "Tweet": "@GenoBonnalie @Joel_Dahmen Congratulations on your first #PGATour victory",
+                "TweetLink": "1376284774613061635",
+                "Place": "North Palm Beach",
+                "Time": "Sun Mar 28 21:27:15 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.05881,
+                    26.831478
+                ]
+            }
         }
     ]
 }
