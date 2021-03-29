@@ -240,6 +240,30 @@
                     39.7393005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/719374669799956480/5NXX1YGA_normal.jpg",
+                "Name": "GARSEN GOLF GRIPS",
+                "Handle": "GarsenGolf",
+                "Tweet": "Early Flt this morning off the San Antonio with a quick layover in Charlotte for the #PGATour #ValeroTexasOpen\u2026 https://t.co/gSfXQJKxyu",
+                "TweetLink": "1376502373229600770",
+                "Place": "Charlotte",
+                "Time": "Mon Mar 29 11:51:54 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8467855,
+                    35.209059
+                ]
+            }
         }
     ]
 }
