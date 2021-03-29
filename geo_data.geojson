@@ -264,6 +264,30 @@
                     35.209059
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1332711879622467587/B4krQQXK_normal.jpg",
+                "Name": "Enda Nagle",
+                "Handle": "enda_nagle",
+                "Tweet": "Congratulations to @Joel_Dahmen not just on a life changing win but also for the best golf quote.....\n\u201cIt\u2019s so fric\u2026 https://t.co/M5MVzTehqZ",
+                "TweetLink": "1376505228254720000",
+                "Place": "Sheerness",
+                "Time": "Mon Mar 29 12:03:15 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7618405,
+                    51.436503
+                ]
+            }
         }
     ]
 }
