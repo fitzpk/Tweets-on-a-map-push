@@ -336,6 +336,30 @@
                     28.6056035
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1326237487791022080/sWo-lwoL_normal.jpg",
+                "Name": "Nick Bradley",
+                "Handle": "THENICKBRADLEY",
+                "Tweet": "1/2 so proud of @KornFerryTour student Matt Ryan did some great work Isleworth last week. \n@sqairz @linksoul\u2026 https://t.co/6M7hvDCVON",
+                "TweetLink": "1376644552644309000",
+                "Place": "Sunset Beach",
+                "Time": "Mon Mar 29 21:16:52 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5164375,
+                    33.901311
+                ]
+            }
         }
     ]
 }
