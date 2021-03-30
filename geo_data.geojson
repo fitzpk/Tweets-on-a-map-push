@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/986640121033318400/lbGTGZrU_normal.jpg",
-                "Name": "Terence Moore",
-                "Handle": "TMooreSports",
-                "Tweet": "From T.Moore for https://t.co/UcPE6fvhmV: The national sports world should stop giving Atlanta stuff until Georgia\u2026 https://t.co/cjpWbwwQ0g",
-                "TweetLink": "1376523840109621256",
-                "Place": "Georgia",
-                "Time": "Mon Mar 29 13:17:12 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.1738665,
-                    32.6782075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1330528247080247296/u6DOeNWG_normal.jpg",
                 "Name": "Torsten Staley",
                 "Handle": "drummerduck09",
