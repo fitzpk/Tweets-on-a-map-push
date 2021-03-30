@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1369702236050182144/OyfDVU40_normal.jpg",
-                "Name": "Matt Skraby",
-                "Handle": "MattSkraby",
-                "Tweet": "I don't think I've witnessed a slower round of golf on the #PGATour until this championship at the #matchplay \ud83d\ude34",
-                "TweetLink": "1376309789639122947",
-                "Place": "Carlsbad",
-                "Time": "Sun Mar 28 23:06:39 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.2879235,
-                    33.121484
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1244876539772071937/vfwaDzfz_normal.jpg",
                 "Name": "Tom Riley of the Unvaccinated Clan",
                 "Handle": "tomriley",
