@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/552248428601032704/XiF-jkUM_normal.jpeg",
-                "Name": "Johnny Chez",
-                "Handle": "ChezJohnny",
-                "Tweet": "#PGATour I'm a million percent right about this this is not a joke all's I want to do is help and it's been 13 year\u2026 https://t.co/wTh3dSbJdR",
-                "TweetLink": "1376663766528622594",
-                "Place": "North Syracuse",
-                "Time": "Mon Mar 29 22:33:13 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.121983,
-                    43.1342085
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1220761444221890560/awZk_EnX_normal.jpg",
                 "Name": "Muneer Al-Hameed",
                 "Handle": "itzocho",
