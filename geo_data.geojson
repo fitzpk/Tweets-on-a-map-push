@@ -48,6 +48,30 @@
                     35.195838
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/725586395314683904/dDJmQVbs_normal.jpg",
+                "Name": "ValGrine",
+                "Handle": "VALGRINE",
+                "Tweet": "A bouquet of Essentiel NoName putters from our French manufacture... \n\nSoon available in new points of sale.\u2026 https://t.co/SOYpX6HEIB",
+                "TweetLink": "1377260828081188865",
+                "Place": "Saint-Etienne",
+                "Time": "Wed Mar 31 14:05:44 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3665095,
+                    45.424547
+                ]
+            }
         }
     ]
 }
