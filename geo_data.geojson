@@ -192,6 +192,30 @@
                     39.7393005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1362040403990568972/MeB5HusS_normal.jpg",
+                "Name": "Dave 'Liberal AF' Finnerty\ud83d\uddfd\u2696\ufe0f\ud83d\udcda",
+                "Handle": "dfinn",
+                "Tweet": "@PGA @PGATOUR \nNew Jersey is expanding voting rights and has golf courses. Just saying.\n#PGATour",
+                "TweetLink": "1377491816308731905",
+                "Place": "Strathmore",
+                "Time": "Thu Apr 01 05:23:36 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.220951,
+                    40.409714
+                ]
+            }
         }
     ]
 }
