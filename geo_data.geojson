@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
-                "Name": "VegasSquaresPodcast",
-                "Handle": "VegasSquares",
-                "Tweet": "A tune up before @TheMasters, listen in as we preview the @valerotxopen and give you our best bets. Plus someone on\u2026 https://t.co/nwfXmZwaGd",
-                "TweetLink": "1377299442278092803",
-                "Place": "Las Vegas",
-                "Time": "Wed Mar 31 16:39:10 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.223125,
-                    36.232915
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
-                "Name": "VegasSquaresPodcast",
-                "Handle": "VegasSquares",
-                "Tweet": "Hey @valerotxopen,\n\nCan we get a #RetweeetPlease reminding everyone to listen to our Texas Open preview show?!?!\n\nT\u2026 https://t.co/cQrFrEWZRp",
-                "TweetLink": "1377299964406026240",
-                "Place": "Las Vegas",
-                "Time": "Wed Mar 31 16:41:15 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.223125,
-                    36.232915
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/560132950516199426/Ptgd77dj_normal.jpeg",
                 "Name": "Sam Moynihan",
                 "Handle": "sam_moynihan",
