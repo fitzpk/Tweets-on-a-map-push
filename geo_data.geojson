@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1220761444221890560/awZk_EnX_normal.jpg",
-                "Name": "Muneer Al-Hameed",
-                "Handle": "itzocho",
-                "Tweet": "@valerotxopen manifesting a @JordanSpieth victory this weekend! #PGATour #valerotxopen \ud83c\udfcc\ufe0f\ud83c\udfc6\ud83e\udd47",
-                "TweetLink": "1377021370232676354",
-                "Place": "Minneapolis",
-                "Time": "Tue Mar 30 22:14:13 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.2620465,
-                    44.9706105
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1326237487791022080/sWo-lwoL_normal.jpg",
                 "Name": "Nick Bradley",
                 "Handle": "THENICKBRADLEY",
