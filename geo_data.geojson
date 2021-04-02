@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/560132950516199426/Ptgd77dj_normal.jpeg",
-                "Name": "Sam Moynihan",
-                "Handle": "sam_moynihan",
-                "Tweet": "@KeithCyphers @PGATOUR @valerotxopen The #PGATour is no joke!",
-                "TweetLink": "1377405748146102273",
-                "Place": "Owings Mills",
-                "Time": "Wed Mar 31 23:41:35 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -76.7972215,
-                    39.4219875
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1364409078869557248/zofJRBWq_normal.jpg",
                 "Name": "Blayze Chapman",
                 "Handle": "Bulldog_Golfer",
