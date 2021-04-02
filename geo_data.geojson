@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1364409078869557248/zofJRBWq_normal.jpg",
-                "Name": "Blayze Chapman",
-                "Handle": "Bulldog_Golfer",
-                "Tweet": "Wise advice... #wisdom #easiersaidthandone #pgatour @DarrenClarke60 https://t.co/J8136ZsMJv",
-                "TweetLink": "1377437664765349897",
-                "Place": "Brownsburg",
-                "Time": "Thu Apr 01 01:48:25 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.3832475,
-                    39.8563665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
                 "Name": "Will O'Donoghue",
                 "Handle": "Will_ODonoghue",
