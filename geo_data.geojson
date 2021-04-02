@@ -7,30 +7,6 @@
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
                 "Name": "Yatta Golf",
                 "Handle": "YattaGolf",
-                "Tweet": "Jack Nicklaus might be one of the most under appreciated athletes ever.\n\n#golf #sports #golfing #golfnews\u2026 https://t.co/ll3JStClmf",
-                "TweetLink": "1377457796598296578",
-                "Place": "Illinois",
-                "Time": "Thu Apr 01 03:08:25 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.2665075,
-                    39.7393005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
-                "Name": "Yatta Golf",
-                "Handle": "YattaGolf",
                 "Tweet": "What\u2019s a unique golf accessory you carry in your bag?\n\n#golf #golfing #golfer #golfswing #pga #pgatour #golffun\u2026 https://t.co/7VFV7M1mzW",
                 "TweetLink": "1377458093739544579",
                 "Place": "Illinois",
