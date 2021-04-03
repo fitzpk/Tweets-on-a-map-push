@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/925369734786363394/R0uO5lWy_normal.jpg",
-                "Name": "kraken golf",
-                "Handle": "krakengolf",
-                "Tweet": "Some lefty love with this Bourne Putter! #krakengolf #golflife #golfstagram #putterporn #golfswag #golfaddict\u2026 https://t.co/aPycJ51FFL",
-                "TweetLink": "1377761880832368642",
-                "Place": "Acushnet",
-                "Time": "Thu Apr 01 23:16:44 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.9112125,
-                    41.703775
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1350177267176136704/A4rS3mVm_normal.jpg",
                 "Name": "Kitty Betham\ud83d\ude37\ud83d\udc4d",
                 "Handle": "cbetham",
