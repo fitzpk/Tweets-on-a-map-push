@@ -48,6 +48,30 @@
                     29.417501
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "@DJohnsonPGA\u2019s menu for the 2021 @TheMasters Champions Club Dinner. #TheMasters #ChampionsDinner\u2026 https://t.co/Ormj7gMhkZ",
+                "TweetLink": "1378353582056034307",
+                "Place": "Augusta",
+                "Time": "Sat Apr 03 14:27:57 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.063185,
+                    33.4407175
+                ]
+            }
         }
     ]
 }
