@@ -72,6 +72,30 @@
                     43.629311
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
+                "Name": "The Fit Golfer Girl",
+                "Handle": "fitgolfergirl",
+                "Tweet": "I get nervous for Spieth everytime I see him at the top of a leaderboard\ud83d\ude2c\nWill he be able to hold the lead?\n\n\ud83d\udc49\u2026 https://t.co/zPzyyjfabn",
+                "TweetLink": "1378775114444070919",
+                "Place": "Boynton Beach",
+                "Time": "Sun Apr 04 18:22:58 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1129035,
+                    26.533486
+                ]
+            }
         }
     ]
 }
