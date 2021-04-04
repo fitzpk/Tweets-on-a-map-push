@@ -72,6 +72,54 @@
                     53.558034
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1680505962/image_normal.jpg",
+                "Name": "arthur frischman",
+                "Handle": "arthurfrischman",
+                "Tweet": "We have @JordanSpieth this weekend.  Looking to return to Top 10 in our pool. #inthemoney #PGATour #pga @valerotxopen \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+                "TweetLink": "1378803162832863244",
+                "Place": "Fort Salonga",
+                "Time": "Sun Apr 04 20:14:25 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.293312,
+                    40.9027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/884258168682840064/jL322xxL_normal.jpg",
+                "Name": "Morgan James",
+                "Handle": "morgoj",
+                "Tweet": "Jordan Spieth is dialed in! Safe to say he\u2019s back? I could see him in contention at @TheMasters next week! #ValeroTexasOpen #PGATour",
+                "TweetLink": "1378803476407390211",
+                "Place": "DeKalb",
+                "Time": "Sun Apr 04 20:15:40 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.7537095,
+                    41.927807
+                ]
+            }
         }
     ]
 }
