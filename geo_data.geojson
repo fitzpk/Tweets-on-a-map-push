@@ -192,6 +192,126 @@
                     40.655138
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1362035552485277699/CyVjWrEa_normal.jpg",
+                "Name": "\ud83d\udc8e\ud83e\udd32 Dan",
+                "Handle": "MoonMaster4208",
+                "Tweet": "Happy Spieth is back in the winners circle #PGATour",
+                "TweetLink": "1378829629641871362",
+                "Place": "Ohio",
+                "Time": "Sun Apr 04 21:59:35 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.6694675,
+                    40.3651595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1068416927050227712/sP9Pjan4_normal.jpg",
+                "Name": "Alan Smit",
+                "Handle": "smgiboty",
+                "Tweet": "Great to see Jordan back winning #ValeroTexasOpen #PGATour #JordanSpieth",
+                "TweetLink": "1378829662567157766",
+                "Place": "West Bridgford",
+                "Time": "Sun Apr 04 21:59:43 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.128591,
+                    52.923513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1261826795625644032/PJh3eHnN_normal.jpg",
+                "Name": "\u272d\ud835\ude1b\ud835\ude19\ud835\ude08\ud835\ude0a\ud835\ude20 \ud835\ude0b \ud835\ude0d\ud835\ude10\ud835\ude15\ud835\ude15 \u272d",
+                "Handle": "TDFINN",
+                "Tweet": "Congrats to #DFW own @JordanSpieth on the W! #ValeroTexasOpen #PGATour",
+                "TweetLink": "1378829924702810118",
+                "Place": "Irving",
+                "Time": "Sun Apr 04 22:00:46 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.961483,
+                    32.863917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1232464303846019074/N0vDZosb_normal.jpg",
+                "Name": "Max Preston",
+                "Handle": "MaxPrestonTV",
+                "Tweet": "Jordan Spieth is in the win column again! So happy to see him rise to the top! I hope to see him stay hot at the Ma\u2026 https://t.co/FoTdI6XY7w",
+                "TweetLink": "1378830113106759684",
+                "Place": "Abilene",
+                "Time": "Sun Apr 04 22:01:31 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.750556,
+                    32.415051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1373981494646046721/d2Y2cdZA_normal.jpg",
+                "Name": "Rams Mabote",
+                "Handle": "RamsByTheHorns",
+                "Tweet": "@JordanSpieth You beauty! #ValeroTexasOpen #PGATour",
+                "TweetLink": "1378830166693179396",
+                "Place": "Edenvale",
+                "Time": "Sun Apr 04 22:01:43 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1536085,
+                    -26.13437
+                ]
+            }
         }
     ]
 }
