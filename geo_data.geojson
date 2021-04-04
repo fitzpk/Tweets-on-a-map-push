@@ -120,6 +120,30 @@
                     41.927807
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1215076144158072833/dlNAcQL3_normal.jpg",
+                "Name": "One Bearded Golfer",
+                "Handle": "1beardedgolfer",
+                "Tweet": "Who are the fans that are motivated to watch or allocate their fandom based on how much money pro golfers win? \n\nAn\u2026 https://t.co/owDKm1nqQ8",
+                "TweetLink": "1378807186931990530",
+                "Place": "Kentucky",
+                "Time": "Sun Apr 04 20:30:25 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.7682405,
+                    37.822244
+                ]
+            }
         }
     ]
 }
