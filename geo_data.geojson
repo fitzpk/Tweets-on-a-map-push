@@ -72,6 +72,30 @@
                     26.533486
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1206667363631939584/OBgsHH7p_normal.jpg",
+                "Name": "Bernard Quigley",
+                "Handle": "bernardquigley_",
+                "Tweet": "Many thanks to everyone who entered the @NaasGC @TheMasters draw. It is now fully subscribed. Draw will take place\u2026 https://t.co/uJj9wUAQUo",
+                "TweetLink": "1378777193673859073",
+                "Place": "West Meath",
+                "Time": "Sun Apr 04 18:31:14 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4639415,
+                    53.558034
+                ]
+            }
         }
     ]
 }
