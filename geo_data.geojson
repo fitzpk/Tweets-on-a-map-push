@@ -456,6 +456,30 @@
                     33.6311395
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1368009910127050752/OBRGIB22_normal.jpg",
+                "Name": "Karen Clem",
+                "Handle": "Karen_Clem07",
+                "Tweet": "Congrats @JordanSpieth on your well deserved win at @valerotxopen today. Next stop @TheMasters!!! You\u2019ve got this!\u2026 https://t.co/Wm00EuCMTk",
+                "TweetLink": "1378864574003298305",
+                "Place": "Keystone",
+                "Time": "Mon Apr 05 00:18:27 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5828435,
+                    28.114711
+                ]
+            }
         }
     ]
 }
