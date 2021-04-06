@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000847303752/f870f2728ea2df990b8aed69a8bce310_normal.jpeg",
-                "Name": "Mercedes Helena",
-                "Handle": "lmerche",
-                "Tweet": "#PGATour shame on you, pathetic!!",
-                "TweetLink": "1378823182715662339",
-                "Place": "Brooklyn",
-                "Time": "Sun Apr 04 21:33:58 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.9487755,
-                    40.655138
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1362035552485277699/CyVjWrEa_normal.jpg",
                 "Name": "\ud83d\udc8e\ud83e\udd32 Dan",
                 "Handle": "MoonMaster4208",
