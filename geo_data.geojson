@@ -216,6 +216,30 @@
                     33.4407175
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "The McValue Meals for this week, lets go lads #molinari #smith #day #themasters #augusta #golf #sportsbetting\u2026 https://t.co/OIXfrITESE",
+                "TweetLink": "1379826253335654400",
+                "Place": "Los Angeles",
+                "Time": "Wed Apr 07 15:59:49 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
