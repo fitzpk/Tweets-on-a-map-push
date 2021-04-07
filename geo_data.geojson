@@ -120,6 +120,30 @@
                     51.3618975
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1290192176681451520/Z003pjZV_normal.jpg",
+                "Name": "Luiza Brazil",
+                "Handle": "bookluizabrazil",
+                "Tweet": "Good morning lovers .#Atlanta #visiting #gfe #travel #golf #GOLFTV #GolfLife #augustathemasters #golfplayers\u2026 https://t.co/Oi6wiVStoW",
+                "TweetLink": "1379764179813462017",
+                "Place": "Atlanta",
+                "Time": "Wed Apr 07 11:53:09 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.433106,
+                    33.7671945
+                ]
+            }
         }
     ]
 }
