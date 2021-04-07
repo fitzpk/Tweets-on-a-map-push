@@ -264,6 +264,30 @@
                     41.0808775
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1105653936063549440/C1gjF_b6_normal.png",
+                "Name": "Dr. Stuart Love",
+                "Handle": "theHealthyGolfr",
+                "Tweet": "One. More. Sleep.\n#TheMasters starts tomorrow.\nHere are the groupings and starting times.\nWill you be watching?\n\u26f3\ufe0f\u2026 https://t.co/EXLhP6bjlW",
+                "TweetLink": "1379852074318319616",
+                "Place": "Augusta",
+                "Time": "Wed Apr 07 17:42:25 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.063185,
+                    33.4407175
+                ]
+            }
         }
     ]
 }
