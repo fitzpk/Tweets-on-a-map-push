@@ -240,6 +240,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1208118374145961985/lVSO42ov_normal.jpg",
+                "Name": "REALMADDIMADD",
+                "Handle": "Realmaddimadd",
+                "Tweet": "TIGER WOODS SAID HE WASN'T BLACK &amp; THE BLACK ANCESTORS TOOK HIS GIFT BACK..IMMEDIATELY HIS BODY FELL APART &amp; HE'S S\u2026 https://t.co/F1T7zfWVfD",
+                "TweetLink": "1379834564038778882",
+                "Place": "Akron",
+                "Time": "Wed Apr 07 16:32:50 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5167515,
+                    41.0808775
+                ]
+            }
         }
     ]
 }
