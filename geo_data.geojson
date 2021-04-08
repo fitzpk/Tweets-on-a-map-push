@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
-                "Name": "Will O'Donoghue",
-                "Handle": "Will_ODonoghue",
-                "Tweet": "Dang, just found this @TheMasters invite in some old mail. Guess it\u2019s too late to RSVP. Oh Well, maybe next year!\u2026 https://t.co/cF5gJmlsb1",
-                "TweetLink": "1379599868235243520",
-                "Place": "Augusta",
-                "Time": "Wed Apr 07 01:00:14 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.063185,
-                    33.4407175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
                 "Name": "The Fit Golfer Girl",
                 "Handle": "fitgolfergirl",
