@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1153368593247211526/HJzp4vXB_normal.jpg",
-                "Name": "colin chandler",
-                "Handle": "chandler_colin",
-                "Tweet": "WHAT A DRIVE BY COLIN THE BLIND GOLFER AT CAVERSHAM HEATH TODAY @TtntStudios @fitgolfergirl @KPJgolf @JOXSports\u2026 https://t.co/JBesQrlWLr",
-                "TweetLink": "1379794185746808833",
-                "Place": "Reading",
-                "Time": "Wed Apr 07 13:52:23 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.9820305,
-                    51.452524
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
-                "Name": "Will O'Donoghue",
-                "Handle": "Will_ODonoghue",
-                "Tweet": "Masters Tournament Wednesday: Final Preparations! #AugustaCountdown #Masters #CountdownToAugusta #TheMasters\u2026 https://t.co/yYZ5UGJVKG",
-                "TweetLink": "1379794208563806208",
-                "Place": "Augusta",
-                "Time": "Wed Apr 07 13:52:29 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.063185,
-                    33.4407175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
                 "Name": "dubbs anderson",
                 "Handle": "mrdubbsie",
