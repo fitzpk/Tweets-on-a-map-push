@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/669060039462789120/fjfc01S2_normal.jpg",
-                "Name": "Tony Walker\u00ae",
-                "Handle": "T0NYWalker",
-                "Tweet": "It's a shame you're not part of this #TigerWoods #Masters2021 #usmasters #PGATour #PGATour #Augusta",
-                "TweetLink": "1379698498392760320",
-                "Place": "Sutton",
-                "Time": "Wed Apr 07 07:32:10 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.1815875,
-                    51.3618975
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1290192176681451520/Z003pjZV_normal.jpg",
                 "Name": "Luiza Brazil",
                 "Handle": "bookluizabrazil",
