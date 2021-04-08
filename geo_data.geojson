@@ -240,6 +240,30 @@
                     27.9965945
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
+                "Name": "Yatta Golf",
+                "Handle": "YattaGolf",
+                "Tweet": "Sergio Garcia has undoubtedly one of the most beautiful golf swings in the world. Who has a better swing than him?\u2026 https://t.co/vtQqJid0ut",
+                "TweetLink": "1380291102113103872",
+                "Place": "Illinois",
+                "Time": "Thu Apr 08 22:46:57 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2665075,
+                    39.7393005
+                ]
+            }
         }
     ]
 }
