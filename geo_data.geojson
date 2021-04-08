@@ -264,6 +264,30 @@
                     51.3854455
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "Superbowl+March Madness+The Oscars+Olympics = The Masters #themasters #marchmadness #golf #best #sportsbetting #vibe #pgatour",
+                "TweetLink": "1380045805348773894",
+                "Place": "California",
+                "Time": "Thu Apr 08 06:32:14 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.3066075,
+                    37.2691755
+                ]
+            }
         }
     ]
 }
