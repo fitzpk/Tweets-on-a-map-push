@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
-                "Name": "The Fit Golfer Girl",
-                "Handle": "fitgolfergirl",
-                "Tweet": "My initial picks for @TheMasters are here! Agree? Disagree? Let me know your picks in the comments below!\n\nHead ove\u2026 https://t.co/54uPDXpJts",
-                "TweetLink": "1379627307359428610",
-                "Place": "Ocean Ridge",
-                "Time": "Wed Apr 07 02:49:16 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.0494095,
-                    26.527285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
                 "Name": "Will O'Donoghue",
                 "Handle": "Will_ODonoghue",
