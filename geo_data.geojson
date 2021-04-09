@@ -264,6 +264,30 @@
                     32.70185
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1348332710008418305/4tk-dSpx_normal.jpg",
+                "Name": "Z. \"Fergie\" Ferguson",
+                "Handle": "ZFergie4",
+                "Tweet": "@WMurrayGolf are you guys even awake? It\u2019s @PGATOUR @TheMasters week and you\u2019ve got @jaykokrak repping your threads\u2026 https://t.co/8Mu0oQCkvS",
+                "TweetLink": "1380636012364316674",
+                "Place": "Carolina Shores",
+                "Time": "Fri Apr 09 21:37:30 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5855895,
+                    33.923098
+                ]
+            }
         }
     ]
 }
