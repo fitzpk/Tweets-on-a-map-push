@@ -288,6 +288,30 @@
                     33.923098
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1245887361994698752/623jo8hp_normal.jpg",
+                "Name": "Richard Cox, Author of House of the Rising Sun",
+                "Handle": "coxric",
+                "Tweet": "Poor Pat\n\n#TheMasters2021 #PGATour https://t.co/7CkPfayrZO",
+                "TweetLink": "1380640266504245249",
+                "Place": "Tulsa",
+                "Time": "Fri Apr 09 21:54:25 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.913642,
+                    36.1093915
+                ]
+            }
         }
     ]
 }
