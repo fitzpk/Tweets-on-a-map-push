@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1007093188337848320/YJYJFLc2_normal.jpg",
-                "Name": "BRYAN LAMB",
-                "Handle": "BRYANLAMB8",
-                "Tweet": "Beautiful day for a walk in the park!!! #coloradogolfassociation #pgatour #mastersweek #titleist #prov1leftdash\u2026 https://t.co/tXLP1nbXIG",
-                "TweetLink": "1380147471993700352",
-                "Place": "Cherry Hills Village",
-                "Time": "Thu Apr 08 13:16:13 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -104.945948,
-                    39.6403805
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/632110966436724736/s5fNqMrk_normal.jpg",
                 "Name": "Peter Myers",
                 "Handle": "petermyers",
