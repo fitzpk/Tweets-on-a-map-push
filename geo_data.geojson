@@ -288,6 +288,30 @@
                     37.8936665
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "Wow Justin Rose hats off ! #themasters #golf #pgatour",
+                "TweetLink": "1380326302016708611",
+                "Place": "Del Monte Forest",
+                "Time": "Fri Apr 09 01:06:50 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.945574,
+                    36.587838
+                ]
+            }
         }
     ]
 }
