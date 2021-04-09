@@ -312,6 +312,30 @@
                     36.1093915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1380350211466346497/zbZnlr4e_normal.jpg",
+                "Name": "PGA TOUR DraftKing\u2019s League",
+                "Handle": "PGATourDKLeague",
+                "Tweet": "Two line ups with 6 players making the cut. These line ups are in multiple contests this week. Good luck to everyon\u2026 https://t.co/KPKKzdn90B",
+                "TweetLink": "1380666553155391495",
+                "Place": "Fort Worth",
+                "Time": "Fri Apr 09 23:38:52 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2859135,
+                    32.7799665
+                ]
+            }
         }
     ]
 }
