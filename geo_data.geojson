@@ -264,6 +264,30 @@
                     36.587838
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "@TheMasters Friday, Making The Cut. #TheMasters #GreenJacket #AugustaNational #AmenCorner #PGATour #MastersWeek\u2026 https://t.co/VxxhxhHMN9",
+                "TweetLink": "1380539270423838724",
+                "Place": "Augusta",
+                "Time": "Fri Apr 09 15:13:05 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.063185,
+                    33.4407175
+                ]
+            }
         }
     ]
 }
