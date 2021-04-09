@@ -336,6 +336,30 @@
                     32.7799665
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "What a leaderboard!! @TheMasters The tournament doesn\u2019t start until Saturday! #themasters #golfbetting #pgatour\u2026 https://t.co/ZuBpxyOWVU",
+                "TweetLink": "1380669590259175427",
+                "Place": "Del Monte Forest",
+                "Time": "Fri Apr 09 23:50:56 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.945574,
+                    36.587838
+                ]
+            }
         }
     ]
 }
