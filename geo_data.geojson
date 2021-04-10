@@ -384,6 +384,30 @@
                     33.4407175
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1378170981118664705/L5g6AMSC_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "DeadMoneyJesse",
+                "Tweet": "Adam Scott Top 20. \ud83d\ude2b#themasters #PGATour @CS_Murph @landonjake24 @joshuaperry22 https://t.co/f1SIvaVOn9",
+                "TweetLink": "1380932362398167041",
+                "Place": "Paradise",
+                "Time": "Sat Apr 10 17:15:06 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
