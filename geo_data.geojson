@@ -264,6 +264,30 @@
                     39.7393005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1318350432738119681/jSMgikI-_normal.jpg",
+                "Name": "Philip Hilton yogi main",
+                "Handle": "hilton_philip",
+                "Tweet": "@TheMasters\n@PGATOUR \n#PGATOUR \n#GOLF #golfing #tips #yoga #news \nTo @JordanSpieth #JordanSpieth \nWhen golfers hit\u2026 https://t.co/8MWGo4DtGf",
+                "TweetLink": "1380723714199801857",
+                "Place": "Fair Oak",
+                "Time": "Sat Apr 10 03:26:00 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.312817,
+                    50.96889
+                ]
+            }
         }
     ]
 }
