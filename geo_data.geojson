@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1378472121047846913/S1LXxzW3_normal.jpg",
-                "Name": "Phil Stiefel",
-                "Handle": "Beardaknowledge",
-                "Tweet": "Biggest suprise IMO so far @TheMasters is Patrick Cantlay at +8 thru about 26 holes\n\nHe is way better than that and\u2026 https://t.co/SPLXgztV0n",
-                "TweetLink": "1380562808140656642",
-                "Place": "Pennsylvania",
-                "Time": "Fri Apr 09 16:46:37 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.604684,
-                    41.1179365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1380350211466346497/zbZnlr4e_normal.jpg",
-                "Name": "PGA TOUR DraftKing\u2019s League",
-                "Handle": "PGATourDKLeague",
-                "Tweet": "Figure I would post these now since this will surely change soon. Hopefully we can finish strong this afternoon. Ma\u2026 https://t.co/GbUC5srS3D",
-                "TweetLink": "1380595823495495684",
-                "Place": "Arlington",
-                "Time": "Fri Apr 09 18:57:49 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.1356375,
-                    32.70185
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1348332710008418305/4tk-dSpx_normal.jpg",
                 "Name": "Z. \"Fergie\" Ferguson",
                 "Handle": "ZFergie4",
