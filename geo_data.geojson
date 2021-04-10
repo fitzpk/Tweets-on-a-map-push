@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1372673900958547968/f7LG8NPO_normal.jpg",
-                "Name": "GraigGolfs",
-                "Handle": "GraigGolfs",
-                "Tweet": "Take aim like the pros at #themasters with this sale from @blue_tees_golf Click here:\n\n\ud83d\udd25 https://t.co/pgvIMtOmVT \ud83d\udd25\u2026 https://t.co/3FvochYP4e",
-                "TweetLink": "1380305648085204992",
-                "Place": "Walnut Creek",
-                "Time": "Thu Apr 08 23:44:45 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.0404295,
-                    37.8936665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
                 "Name": "dubbs anderson",
                 "Handle": "mrdubbsie",
