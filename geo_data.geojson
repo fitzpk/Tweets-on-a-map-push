@@ -288,6 +288,30 @@
                     45.00118
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "@JustinRose99 leads by 1 shot at the midway point of @TheMasters at 7 under par. Great Playing Justin. #JustinRose\u2026 https://t.co/km0UaaW1Zh",
+                "TweetLink": "1380908521609441280",
+                "Place": "Augusta",
+                "Time": "Sat Apr 10 15:40:22 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.063185,
+                    33.4407175
+                ]
+            }
         }
     ]
 }
