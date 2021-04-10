@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1221556888631947265/4QRDBgdT_normal.jpg",
-                "Name": "Danny Z",
-                "Handle": "kid_dynamite96",
-                "Tweet": "Things you just love to see:",
-                "TweetLink": "1380280767750811650",
-                "Place": "Tampa",
-                "Time": "Thu Apr 08 22:05:54 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.442694,
-                    27.9965945
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
                 "Name": "Yatta Golf",
                 "Handle": "YattaGolf",
