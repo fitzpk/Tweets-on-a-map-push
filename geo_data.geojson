@@ -192,6 +192,30 @@
                     31.279915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "@TheMasters Sunday, The Final Chapter!  \u26f3\ufe0f\ud83c\udf38\ud83c\udf40 #TheMasters #HidekiMatsuyama #AugustaNational #MovingDay #AmenCorner\u2026 https://t.co/O1Qe083dJT",
+                "TweetLink": "1381271566466580483",
+                "Place": "Lake Park",
+                "Time": "Sun Apr 11 15:42:58 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.633465,
+                    35.0838255
+                ]
+            }
         }
     ]
 }
