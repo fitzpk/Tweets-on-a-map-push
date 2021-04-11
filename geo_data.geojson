@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1402540176/Red_Sox_profile_pic_normal.jpg",
-                "Name": "Lad L. Dell",
-                "Handle": "Ladiator74",
-                "Tweet": "#PGATour #TheMasters2021 Let's go @tonyfinaugolf",
-                "TweetLink": "1380677597655273474",
-                "Place": "Henderson",
-                "Time": "Sat Apr 10 00:22:45 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.038337,
-                    36.006256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
                 "Name": "Yatta Golf",
                 "Handle": "YattaGolf",
