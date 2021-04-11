@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1380350211466346497/zbZnlr4e_normal.jpg",
-                "Name": "PGA TOUR DraftKing\u2019s League",
-                "Handle": "PGATourDKLeague",
-                "Tweet": "Two line ups with 6 players making the cut. These line ups are in multiple contests this week. Good luck to everyon\u2026 https://t.co/KPKKzdn90B",
-                "TweetLink": "1380666553155391495",
-                "Place": "Fort Worth",
-                "Time": "Fri Apr 09 23:38:52 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -97.2859135,
-                    32.7799665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
-                "Name": "dubbs anderson",
-                "Handle": "mrdubbsie",
-                "Tweet": "What a leaderboard!! @TheMasters The tournament doesn\u2019t start until Saturday! #themasters #golfbetting #pgatour\u2026 https://t.co/ZuBpxyOWVU",
-                "TweetLink": "1380669590259175427",
-                "Place": "Del Monte Forest",
-                "Time": "Fri Apr 09 23:50:56 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -121.945574,
-                    36.587838
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1402540176/Red_Sox_profile_pic_normal.jpg",
                 "Name": "Lad L. Dell",
                 "Handle": "Ladiator74",
