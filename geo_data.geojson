@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1378472121047846913/S1LXxzW3_normal.jpg",
-                "Name": "Phil Stiefel",
-                "Handle": "Beardaknowledge",
-                "Tweet": "What are we thinking about \"Moving Day\" @TheMasters \n\nWeather will play a major factor in the late tee times\n\nCould\u2026 https://t.co/AdQLtS5Tgf",
-                "TweetLink": "1380915498234359811",
-                "Place": "Pennsylvania",
-                "Time": "Sat Apr 10 16:08:05 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.604684,
-                    41.1179365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
                 "Name": "Will O'Donoghue",
                 "Handle": "Will_ODonoghue",
