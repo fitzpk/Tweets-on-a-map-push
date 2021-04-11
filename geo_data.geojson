@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1197292147600433152/6l6uOQ8B_normal.jpg",
-                "Name": "Matt Cramer",
-                "Handle": "mcramedawg",
-                "Tweet": "This guy is a great follow.",
-                "TweetLink": "1380893725027602435",
-                "Place": "Michigan",
-                "Time": "Sat Apr 10 14:41:34 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.2705395,
-                    45.00118
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
                 "Name": "Will O'Donoghue",
                 "Handle": "Will_ODonoghue",
