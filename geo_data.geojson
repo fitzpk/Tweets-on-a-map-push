@@ -144,6 +144,54 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "This too much ha! Go Willy Z! #golf #golfbetting #themasters #pgatour #sportsbetting #laugh https://t.co/l5ygNpZouf",
+                "TweetLink": "1381256016692580360",
+                "Place": "Los Angeles",
+                "Time": "Sun Apr 11 14:41:11 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/418844316090777600/zaXr0hRf_normal.jpeg",
+                "Name": "Ryan",
+                "Handle": "Relaxed_Mac",
+                "Tweet": "Watching @MickelsonHat #HittingBombs during round 3 of  @TheMasters  #pgatour #shanghai #China https://t.co/aMCVnWfMS6",
+                "TweetLink": "1381256664221880320",
+                "Place": "Shanghai",
+                "Time": "Sun Apr 11 14:43:45 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.415811,
+                    31.279915
+                ]
+            }
         }
     ]
 }
