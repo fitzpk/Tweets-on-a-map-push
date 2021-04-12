@@ -7,30 +7,6 @@
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1378472121047846913/S1LXxzW3_normal.jpg",
                 "Name": "Phil Stiefel",
                 "Handle": "Beardaknowledge",
-                "Tweet": "I don't trust Hideki n his putter today\nXander is going to shoot a 67 and win @TheMasters today... lock it up\u2026 https://t.co/tVJHZglH1J",
-                "TweetLink": "1381290356889767946",
-                "Place": "Pennsylvania",
-                "Time": "Sun Apr 11 16:57:38 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.604684,
-                    41.1179365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1378472121047846913/S1LXxzW3_normal.jpg",
-                "Name": "Phil Stiefel",
-                "Handle": "Beardaknowledge",
                 "Tweet": "Not sure its been brought up before... but is #PGATour golfer @harmanbrian and @jamessmurray from Impractical Joker\u2026 https://t.co/qTLchOOr5i",
                 "TweetLink": "1381339957898457095",
                 "Place": "Pennsylvania",
