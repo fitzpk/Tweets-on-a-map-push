@@ -192,6 +192,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1308617867999543297/Orioq4Dk_normal.jpg",
+                "Name": "Greg Lewis Golf",
+                "Handle": "GregLewisGolf",
+                "Tweet": ".@WillZalatoris thanks for being a inspiration to all us young #golfers coming behind you. Loved watching you\u2026 https://t.co/geI0xACSxj",
+                "TweetLink": "1381456892040478723",
+                "Place": "Monument",
+                "Time": "Mon Apr 12 03:59:23 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.851843,
+                    39.0805735
+                ]
+            }
         }
     ]
 }
