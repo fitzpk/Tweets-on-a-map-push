@@ -48,6 +48,30 @@
                     33.7671945
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1304522518259208203/RT7aQoud_normal.jpg",
+                "Name": "PGA TOUR Communications",
+                "Handle": "PGATOURComms",
+                "Tweet": "From working on the driving range as a volunteer at the @RBC_Heritage to a spot in the field, @ChillinChico meets t\u2026 https://t.co/Htj3EyCK1U",
+                "TweetLink": "1382027100308303874",
+                "Place": "Harbour Town Golf Links",
+                "Time": "Tue Apr 13 17:45:12 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.810057,
+                    32.135885
+                ]
+            }
         }
     ]
 }
