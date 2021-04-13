@@ -24,6 +24,30 @@
                     35.18462
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1331750733440544775/Ei7gmBQH_normal.jpg",
+                "Name": "C5 Georgia",
+                "Handle": "_c5georgia",
+                "Tweet": "Thank you to our sponsors @PGATSS and @BlankFoundation for supporting the #C5GeorgiaDriveForYouthClassic Presented\u2026 https://t.co/mTozfYtdvS",
+                "TweetLink": "1381982954981842952",
+                "Place": "Atlanta",
+                "Time": "Tue Apr 13 14:49:47 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.433106,
+                    33.7671945
+                ]
+            }
         }
     ]
 }
