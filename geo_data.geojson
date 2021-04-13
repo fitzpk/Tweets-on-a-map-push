@@ -120,6 +120,30 @@
                     29.838495
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1263587211208843265/Pnp8bGm8_normal.jpg",
+                "Name": "Elliott Andrews",
+                "Handle": "ElliottCAndrews",
+                "Tweet": "It's good to be back at @ShandonParkGC \u26f3\ud83d\udc4c #golfing #golf #ulstergolf #belfast #shandonpark #pgatour #europeantour sh https://t.co/HVdl9XBnsZ",
+                "TweetLink": "1382065020134174729",
+                "Place": "Belfast",
+                "Time": "Tue Apr 13 20:15:52 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.928413,
+                    54.595869
+                ]
+            }
         }
     ]
 }
