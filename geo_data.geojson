@@ -96,6 +96,30 @@
                     33.6311395
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1329110238084132865/UPnIq_sF_normal.jpg",
+                "Name": "word",
+                "Handle": "kileyword",
+                "Tweet": "weird flex but ok",
+                "TweetLink": "1382060058821980161",
+                "Place": "Houston",
+                "Time": "Tue Apr 13 19:56:10 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4464865,
+                    29.838495
+                ]
+            }
         }
     ]
 }
