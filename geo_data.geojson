@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1219096864408031232/psZUuzyk_normal.jpg",
-                "Name": "Darryl Rambo",
-                "Handle": "ItsMeDaaaa",
-                "Tweet": "My team won the annual golf trip tourney!! Holla too being a champion at life and golf lol \ud83d\udc4d\ud83d\ude0a \ud83c\udfcc\ufe0f\u200d\u2640\ufe0f.  #lol #golf\u2026 https://t.co/sC7cj1OHbj",
-                "TweetLink": "1381696531141644288",
-                "Place": "Southern Pines",
-                "Time": "Mon Apr 12 19:51:38 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.404847,
-                    35.18462
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1331750733440544775/Ei7gmBQH_normal.jpg",
                 "Name": "C5 Georgia",
                 "Handle": "_c5georgia",
