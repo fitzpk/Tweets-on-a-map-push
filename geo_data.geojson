@@ -120,6 +120,30 @@
                     54.595869
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1326237487791022080/sWo-lwoL_normal.jpg",
+                "Name": "Nick Bradley",
+                "Handle": "THENICKBRADLEY",
+                "Tweet": "How to plane your swing better!!\nWatch \ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\n@sqairz @linksoul @onpointgolf @traditions_golf #golfswing #golflife\u2026 https://t.co/dTyAI1ezPc",
+                "TweetLink": "1382141564600819715",
+                "Place": "Scottsdale",
+                "Time": "Wed Apr 14 01:20:02 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.8583985,
+                    33.63934
+                ]
+            }
         }
     ]
 }
