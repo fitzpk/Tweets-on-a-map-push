@@ -216,6 +216,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1338904636338532352/YwNTIQfI_normal.jpg",
+                "Name": "Mattias",
+                "Handle": "FoothillsCounty",
+                "Tweet": "@greatdays_golf Never played or been to in person, but one of my favourite courses on the #pgatour Amazing settings.",
+                "TweetLink": "1382380725987471361",
+                "Place": "Calgary",
+                "Time": "Wed Apr 14 17:10:23 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.087851,
+                    51.027664
+                ]
+            }
         }
     ]
 }
