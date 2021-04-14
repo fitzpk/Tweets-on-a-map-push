@@ -168,6 +168,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1372673900958547968/f7LG8NPO_normal.jpg",
+                "Name": "GraigGolfs",
+                "Handle": "GraigGolfs",
+                "Tweet": "Let's try something new...\n\n#golf #golflife #golfers #board #wednesday #humpday #golfstagram #pgatour https://t.co/rYTrdUV171",
+                "TweetLink": "1382342036842369028",
+                "Place": "Clayton",
+                "Time": "Wed Apr 14 14:36:38 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.934114,
+                    37.9380095
+                ]
+            }
         }
     ]
 }
