@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1169636768259432448/IfLIixUC_normal.jpg",
-                "Name": "Mike Gillespie",
-                "Handle": "MikeABCColumbia",
-                "Tweet": ".@RBC_Heritage week is officially here, courtesy of defending champion @webbsimpson1. #pgatour @abc_columbia \nhttps://t.co/p5lScBQvlA",
-                "TweetLink": "1382055958457761794",
-                "Place": "South Carolina",
-                "Time": "Tue Apr 13 19:39:52 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.926628,
-                    33.6311395
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1329110238084132865/UPnIq_sF_normal.jpg",
                 "Name": "word",
                 "Handle": "kileyword",
