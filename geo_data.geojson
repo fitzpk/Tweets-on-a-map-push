@@ -144,6 +144,30 @@
                     33.63934
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "Masters Hangover doesn\u2019t exist, we got the @RBC_Heritage this week. Great course, good field! #pgatour #golf #rbc\u2026 https://t.co/xyTwFglBjf",
+                "TweetLink": "1382147575197802498",
+                "Place": "Los Angeles",
+                "Time": "Wed Apr 14 01:43:55 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
