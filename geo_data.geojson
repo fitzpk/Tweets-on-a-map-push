@@ -144,6 +144,30 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1311677409528143872/EU7yCev6_normal.jpg",
+                "Name": "silverstatetour",
+                "Handle": "silverstatetour",
+                "Tweet": "Congratulations to Van Thomas on winning the Las Vegas National Championship! He shot an impressive -7(64) in the f\u2026 https://t.co/KSZVdZVsJs",
+                "TweetLink": "1382532050545086471",
+                "Place": "Las Vegas",
+                "Time": "Thu Apr 15 03:11:41 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.223125,
+                    36.232915
+                ]
+            }
         }
     ]
 }
