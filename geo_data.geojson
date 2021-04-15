@@ -144,6 +144,30 @@
                     38.5475425
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2365102480/c9sgklsdixyo4unqu4lf_normal.jpeg",
+                "Name": "Rick Lademann",
+                "Handle": "BeyondMotionAth",
+                "Tweet": "Neutral spine and everything will be fine.. \n@carlso66 \n\n#golf #swfl #pgatour #thoracicmobility @ Beyond Motion https://t.co/w6UKo9j7Ok",
+                "TweetLink": "1382742086659702785",
+                "Place": "Florida",
+                "Time": "Thu Apr 15 17:06:18 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.804475,
+                    27.698682
+                ]
+            }
         }
     ]
 }
