@@ -120,6 +120,30 @@
                     52.2100735
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1379371995461210115/UI1xcPbY_normal.jpg",
+                "Name": "Schmock",
+                "Handle": "schmocki22",
+                "Tweet": "maybe you'll laugh at this...",
+                "TweetLink": "1382814526219948032",
+                "Place": "Fort Washington",
+                "Time": "Thu Apr 15 21:54:09 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.1920375,
+                    40.1413025
+                ]
+            }
         }
     ]
 }
