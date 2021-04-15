@@ -96,6 +96,30 @@
                     27.698682
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1379475762206683136/sTuaeY-P_normal.jpg",
+                "Name": "Bro's and Birdies",
+                "Handle": "BirdiesBro",
+                "Tweet": "Some round by Cam Smith, A player that has missed a few cuts here of late.\nDon't think anyone saw this 62 coming to\u2026 https://t.co/PM7lty6fLV",
+                "TweetLink": "1382813934554656773",
+                "Place": "Highfields",
+                "Time": "Thu Apr 15 21:51:48 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0232285,
+                    52.2100735
+                ]
+            }
         }
     ]
 }
