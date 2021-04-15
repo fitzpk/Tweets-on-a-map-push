@@ -120,6 +120,30 @@
                     36.232915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/834845294697132032/UcQYploC_normal.jpg",
+                "Name": "Rollin Cruz",
+                "Handle": "rollincruz",
+                "Tweet": "Three bets today on the @RBC_Heritage should be a good day of golf #PGATour @K_Kisner your riding in all of lineups\u2026 https://t.co/LmhxFRmSFj",
+                "TweetLink": "1382714843552096257",
+                "Place": "Rosemont",
+                "Time": "Thu Apr 15 15:18:02 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.3603605,
+                    38.5475425
+                ]
+            }
         }
     ]
 }
