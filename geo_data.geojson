@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
-                "Name": "dubbs anderson",
-                "Handle": "mrdubbsie",
-                "Tweet": "@RBC_Heritage starts tomorrow! Dubbs Data: Short course, wind/rain expected, smallest greens on tour. Past winners\u2026 https://t.co/7C93ojtdvT",
-                "TweetLink": "1382368945424855042",
-                "Place": "Los Angeles",
-                "Time": "Wed Apr 14 16:23:34 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.4119065,
-                    34.0207895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1338904636338532352/YwNTIQfI_normal.jpg",
                 "Name": "Mattias",
                 "Handle": "FoothillsCounty",
