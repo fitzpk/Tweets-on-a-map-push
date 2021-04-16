@@ -144,6 +144,30 @@
                     40.1413025
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1348493505979506690/8r5iIxSg_normal.jpg",
+                "Name": "Eric Tusler",
+                "Handle": "EricTusler",
+                "Tweet": "I totally get the Happy Gilmore caddy thing but...#PGATour #RBCHeritage #Masters2021 https://t.co/8HPSOQcNiF",
+                "TweetLink": "1382915370877472769",
+                "Place": "Menifee",
+                "Time": "Fri Apr 16 04:34:52 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.1970825,
+                    33.6880475
+                ]
+            }
         }
     ]
 }
