@@ -120,6 +120,30 @@
                     33.6880475
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1087411187057336320/Ew5aZOU1_normal.jpg",
+                "Name": "JP Golf Day",
+                "Handle": "JPGolfDay1",
+                "Tweet": "Sign up today!! #golf #golfday #golfer #golfmates #PGATour #competition #knutsford #chester #manchester #altrincham\u2026 https://t.co/ugQHWmW0OR",
+                "TweetLink": "1382983458906112002",
+                "Place": "Sale",
+                "Time": "Fri Apr 16 09:05:25 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3267745,
+                    53.4001995
+                ]
+            }
         }
     ]
 }
