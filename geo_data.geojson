@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1381311682849300484/u49W7LdE_normal.jpg",
-                "Name": "Jesse Flynn",
-                "Handle": "DeadMoneyJesse",
-                "Tweet": "Early east coast tee times to start #RBCHeritage. Get those winning bets placed before the start. #PGA #golf\u2026 https://t.co/ESmafFU8z8",
-                "TweetLink": "1382510998297333760",
-                "Place": "Paradise",
-                "Time": "Thu Apr 15 01:48:02 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.135165,
-                    36.0609645
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1311677409528143872/EU7yCev6_normal.jpg",
                 "Name": "silverstatetour",
                 "Handle": "silverstatetour",
