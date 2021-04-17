@@ -72,6 +72,30 @@
                     53.9092525
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1376111535840501761/SUdMNBwv_normal.jpg",
+                "Name": "Ryan Furlong",
+                "Handle": "rafurlong",
+                "Tweet": "@SkySportsGolf commentators on about speeding the game up and not using green books, i\u2019d love them to get rid of th\u2026 https://t.co/hLLLKBQjml",
+                "TweetLink": "1383537390225035274",
+                "Place": "Merthyr Tydfil",
+                "Time": "Sat Apr 17 21:46:33 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.382406,
+                    51.755396
+                ]
+            }
         }
     ]
 }
