@@ -96,6 +96,30 @@
                     51.755396
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "Winners win I can't explain it. Caught the house sleeping @FDSportsbook #pgatour #betting #golfbetting #sportsbook",
+                "TweetLink": "1383544763090038788",
+                "Place": "Los Angeles",
+                "Time": "Sat Apr 17 22:15:51 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
