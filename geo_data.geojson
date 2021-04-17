@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1275903009730461697/ZA56x_Z1_normal.jpg",
-                "Name": "Linda Berger",
-                "Handle": "bergerlinda6",
-                "Tweet": "Beautiful day for golf! #PGATOUR #KORNFERRY https://t.co/eIg6QFDJj7",
-                "TweetLink": "1383140309421359105",
-                "Place": "Las Vegas Paiute Resort",
-                "Time": "Fri Apr 16 19:28:41 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.321464,
-                    36.357607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1381942508922535942/JOI-KgNN_normal.jpg",
                 "Name": "WeDrive Chauffeur Travel - Golf Wild Ireland",
                 "Handle": "wild_golf",
