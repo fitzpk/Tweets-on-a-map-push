@@ -72,6 +72,30 @@
                     32.8479465
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2780725710/d7bbf765b147878593cab20e601979c6_normal.jpeg",
+                "Name": "Taylor",
+                "Handle": "taytaylene",
+                "Tweet": "Congratulations \ud83c\udf89 @stewartcink what an awesome win! #PGATour #RBCHeritage #golf @RBC_Heritage @RBC_Heritage @PGATOUR https://t.co/ax3Z7knkDR",
+                "TweetLink": "1383918040241250306",
+                "Place": "Florida",
+                "Time": "Sun Apr 18 22:59:07 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.804475,
+                    27.698682
+                ]
+            }
         }
     ]
 }
