@@ -48,6 +48,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1375447614636879872/IixD4kwN_normal.jpg",
+                "Name": "\ud835\udded\ud835\uddee\ud835\uddfb\ud835\uddf2 \ud83c\udd56",
+                "Handle": "ZG3II",
+                "Tweet": "Another year and it never misses. Always a blast @RBC_Heritage \ud83c\udfcc\ud83c\udffb\u200d\u2640\ufe0f\ud83c\udfcc\ud83c\udffb\u200d\u2642\ufe0f\u26f3\ufe0f\ud83e\udd42#PlaidNation #HiltonHead #PGATour https://t.co/NmEVPE7k5Z",
+                "TweetLink": "1383915187334307852",
+                "Place": "Mount Pleasant",
+                "Time": "Sun Apr 18 22:47:47 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.837322,
+                    32.8479465
+                ]
+            }
         }
     ]
 }
