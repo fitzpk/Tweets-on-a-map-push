@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1381942508922535942/JOI-KgNN_normal.jpg",
-                "Name": "WeDrive Chauffeur Travel - Golf Wild Ireland",
-                "Handle": "wild_golf",
-                "Tweet": "One of the finest Links Golf Courses on the planet @watervillelinks \nhttps://t.co/UF25ipYAM6\u2026 https://t.co/1NJNGeSoa3",
-                "TweetLink": "1383447743843082250",
-                "Place": "Mayo",
-                "Time": "Sat Apr 17 15:50:20 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -9.4203375,
-                    53.9092525
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1376111535840501761/SUdMNBwv_normal.jpg",
                 "Name": "Ryan Furlong",
                 "Handle": "rafurlong",
