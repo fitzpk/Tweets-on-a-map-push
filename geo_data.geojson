@@ -48,6 +48,30 @@
                     29.417501
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1321843678873227265/PK6YUdpk_normal.jpg",
+                "Name": "S SZ",
+                "Handle": "SzopaS",
+                "Tweet": "I like Smith and Leishman this week at the Zurich. I think that if Smith putts well, they will be hard to beat! #PGATour",
+                "TweetLink": "1384518532302442497",
+                "Place": "Edmonton",
+                "Time": "Tue Apr 20 14:45:15 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.4926175,
+                    53.5558195
+                ]
+            }
         }
     ]
 }
