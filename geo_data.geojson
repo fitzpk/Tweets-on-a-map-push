@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1288693266649554944/-acmgVoT_normal.jpg",
-                "Name": "Michael Farley",
-                "Handle": "michaelfarleyza",
-                "Tweet": "Woooahh @VijaySinghGolf just Dayum how do I get in that position? #golf #golfswing #PGATour https://t.co/pn3N4XW8N4",
-                "TweetLink": "1384217029176033289",
-                "Place": "California",
-                "Time": "Mon Apr 19 18:47:11 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -119.3066075,
-                    37.2691755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1339436673952854018/Jm0vRAzD_normal.jpg",
                 "Name": "Master dumpster \ud83d\udd25, Re-newer of tech \ud83d\udcf7",
                 "Handle": "peznauts",
