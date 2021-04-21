@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1339436673952854018/Jm0vRAzD_normal.jpg",
-                "Name": "Master dumpster \ud83d\udd25, Re-newer of tech \ud83d\udcf7",
-                "Handle": "peznauts",
-                "Tweet": "Dropping bass and making moves!\n\nhttps://t.co/D7gPmM46iQ\n\n#PGATOUR2K21 #hbstudios #PGATour #golf #Hype #THEPLAYERS\u2026 https://t.co/1ufJFoo5Vc",
-                "TweetLink": "1384340613248667650",
-                "Place": "San Antonio",
-                "Time": "Tue Apr 20 02:58:16 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -98.5406515,
-                    29.417501
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1321843678873227265/PK6YUdpk_normal.jpg",
                 "Name": "S SZ",
                 "Handle": "SzopaS",
