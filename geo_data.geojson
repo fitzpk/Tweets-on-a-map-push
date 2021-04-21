@@ -72,6 +72,30 @@
                     36.232915
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/893674291245588480/8hJTrbF4_normal.jpg",
+                "Name": "Garrett McInerney",
+                "Handle": "G87Mac",
+                "Tweet": "Best of luck to Charley Hoffman &amp; Nick Watney this week. No detail too small @Zurich_Classic #PGATour https://t.co/OByuvQxyfy",
+                "TweetLink": "1384891404619599877",
+                "Place": "London",
+                "Time": "Wed Apr 21 15:26:55 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.2487865,
+                    42.9488405
+                ]
+            }
         }
     ]
 }
