@@ -120,6 +120,30 @@
                     29.982601
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "Could a fresh haircut get it done for the boys this week? #golfbetting #pgatour #sportsbetting #laugh\u2026 https://t.co/wSzrbrp6Q7",
+                "TweetLink": "1385067049366343686",
+                "Place": "Los Angeles",
+                "Time": "Thu Apr 22 03:04:52 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
