@@ -120,6 +120,30 @@
                     29.9058255
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1105653936063549440/C1gjF_b6_normal.png",
+                "Name": "Dr. Stuart Love",
+                "Handle": "theHealthyGolfr",
+                "Tweet": "One last day to prepare and plan the #TeamGolf strategy here.\n\ud83d\udc65\nTwo heads are better than one at the #ZurichClassic\u2026 https://t.co/QUCC0sX9SN",
+                "TweetLink": "1385028024345587718",
+                "Place": "New Orleans",
+                "Time": "Thu Apr 22 00:29:48 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.011008,
+                    29.982601
+                ]
+            }
         }
     ]
 }
