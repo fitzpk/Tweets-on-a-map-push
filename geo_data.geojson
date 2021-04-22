@@ -144,6 +144,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "@Zurich_Classic in Nola this week. Gonna ride with them internationals aussie #aussie #aussie! #pgatour\u2026 https://t.co/k080vjlcLy",
+                "TweetLink": "1385078369948110852",
+                "Place": "Wilshire Country Club",
+                "Time": "Thu Apr 22 03:49:51 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.327557,
+                    34.076881
+                ]
+            }
         }
     ]
 }
