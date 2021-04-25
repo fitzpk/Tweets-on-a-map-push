@@ -24,6 +24,30 @@
                     29.9058255
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1326890924258037766/6q5nP-vm_normal.jpg",
+                "Name": "Jack Barrett",
+                "Handle": "JackLBarrett",
+                "Tweet": "Got our Saturday tickets \ud83c\udfab\ud83c\udfcc\ud83c\udfff\u200d\u2642\ufe0f\u26f3\ufe0f",
+                "TweetLink": "1386427532023529472",
+                "Place": "West Palm Beach",
+                "Time": "Sun Apr 25 21:10:56 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1226195,
+                    26.721896
+                ]
+            }
         }
     ]
 }
