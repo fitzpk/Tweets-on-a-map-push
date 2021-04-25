@@ -96,6 +96,54 @@
                     -33.8815305
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "You little beauty! Aussie Aussie Aussie @marcleish CamSmith take out the @Zurich_Classic . #pgatour #golf #aussies #winner #anotherone",
+                "TweetLink": "1386446823783428101",
+                "Place": "Calabasas",
+                "Time": "Sun Apr 25 22:27:36 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.662606,
+                    34.13726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/752063807816556544/0JNHMoS2_normal.jpg",
+                "Name": "Kristian W.",
+                "Handle": "the_cage",
+                "Tweet": "3 cheers for Team Bloke. #PGATOUR #ZurichClassic https://t.co/SPlxmtLdAb",
+                "TweetLink": "1386447164830732288",
+                "Place": "Sydney",
+                "Time": "Sun Apr 25 22:28:57 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.931975,
+                    -33.848244
+                ]
+            }
         }
     ]
 }
