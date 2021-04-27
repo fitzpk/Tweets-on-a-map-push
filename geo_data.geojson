@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/990953884087660544/ZBuWqyc__normal.jpg",
-                "Name": "Ed Coleman",
-                "Handle": "edcolemangolf",
-                "Tweet": "Luv me some alternate shot format! #pgatour #NewOrleans",
-                "TweetLink": "1386441932348481537",
-                "Place": "South Burlington",
-                "Time": "Sun Apr 25 22:08:10 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.18414,
-                    44.4547525
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1316858209693503496/33LkiWDD_normal.jpg",
                 "Name": "My 2 little ones above Ava and Jayden. (grandpa)\ud83d\ude18",
                 "Handle": "Derekepping",
