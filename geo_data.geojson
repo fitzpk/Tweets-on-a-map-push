@@ -48,6 +48,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1249842650372395008/gLBdgJog_normal.jpg",
+                "Name": "Andrew Hitchcock",
+                "Handle": "o_hitch29",
+                "Tweet": "Golf in AZ maximizes ROI with its minimal water use!! #economicimpact #azgolf #cactusandpine #PGATour\u2026 https://t.co/62ic1ZyRDJ",
+                "TweetLink": "1387480202872201217",
+                "Place": "Arizona",
+                "Time": "Wed Apr 28 18:53:53 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.931711,
+                    34.1682535
+                ]
+            }
         }
     ]
 }
