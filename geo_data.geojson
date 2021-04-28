@@ -72,6 +72,30 @@
                     34.1682535
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1386530160820637700/CCGIOmh2_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "DeadMoneyJesse",
+                "Tweet": "Valspar Championship 2021: \"In The Bag\" PGA Selections to Win https://t.co/X8PdB2mCHs via @YouTube\u2026 https://t.co/KWobneWTrN",
+                "TweetLink": "1387550703300665344",
+                "Place": "Paradise",
+                "Time": "Wed Apr 28 23:34:01 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
