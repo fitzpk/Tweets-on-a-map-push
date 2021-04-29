@@ -120,6 +120,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1305630183706079233/uQd7Tvyc_normal.png",
+                "Name": "The Clover Whiskey - Bobby Jones Collection",
+                "Handle": "CloverWhiskey1",
+                "Tweet": "A day on @Innisbrook's Copperhead Course isn't complete without a dram of exceptional whiskey. Sending a little hop\u2026 https://t.co/9t9qgO25pM",
+                "TweetLink": "1387565821942280193",
+                "Place": "Palm Harbor",
+                "Time": "Thu Apr 29 00:34:06 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.746851,
+                    28.0858635
+                ]
+            }
         }
     ]
 }
