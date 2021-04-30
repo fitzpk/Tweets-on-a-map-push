@@ -48,6 +48,30 @@
                     26.251895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1383955626976415748/6h01TyIc_normal.jpg",
+                "Name": "Tc Aric",
+                "Handle": "TC_Aric04",
+                "Tweet": "I know it\u2019s early morning Friday and nobody cares but @maxhoma23 just hit one of the best golf shots I have ever se\u2026 https://t.co/2eCSNo2alM",
+                "TweetLink": "1388117063227559937",
+                "Place": "Hendersonville",
+                "Time": "Fri Apr 30 13:04:32 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.5851,
+                    36.307425
+                ]
+            }
         }
     ]
 }
