@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1285842165743132672/K7lkz7x4_normal.jpg",
-                "Name": "Michael Lorenz",
-                "Handle": "mikelorenz924",
-                "Tweet": "After looking at model pre tourney and waiting last night for the best number I have taken a stab at Fat Pat for th\u2026 https://t.co/avlRNaBdEO",
-                "TweetLink": "1388115364609921024",
-                "Place": "Pompano Beach",
-                "Time": "Fri Apr 30 12:57:47 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.1386455,
-                    26.251895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1383955626976415748/6h01TyIc_normal.jpg",
                 "Name": "Tc Aric",
                 "Handle": "TC_Aric04",
