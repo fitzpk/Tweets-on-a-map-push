@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1007260048089894912/IZUrutto_normal.jpg",
-                "Name": "Kenny Perry's Country Creek Golf Course",
-                "Handle": "KPCCGC",
-                "Tweet": "SO AWESOME to have Steve Jones stop by Country Creek today! He didn\u2019t let the rain showers \u2614\ufe0f stop him from playing\u2026 https://t.co/92E1nhJO9l",
-                "TweetLink": "1387872229271166977",
-                "Place": "Kenny Perry's Country Creek Golf Course",
-                "Time": "Thu Apr 29 20:51:39 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.540622,
-                    36.69044
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1285842165743132672/K7lkz7x4_normal.jpg",
                 "Name": "Michael Lorenz",
                 "Handle": "mikelorenz924",
