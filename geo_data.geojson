@@ -96,6 +96,30 @@
                     39.7393005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "Moving day at @ValsparChamp . Bradley and Burns 4 shots clear up top. Time to back some bolters! #golfbetting\u2026 https://t.co/4EGgQYgvLl",
+                "TweetLink": "1388506959540736002",
+                "Place": "Los Angeles",
+                "Time": "Sat May 01 14:53:51 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
