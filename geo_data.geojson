@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
-                "Name": "Korean Golf News",
-                "Handle": "KoreanGolfNews",
-                "Tweet": "@sungjaeim330 T-6th, @kevinna915 T-16th, @khlee_golf T-24th @valsparchamp \ud83c\uddf0\ud83c\uddf7\u26f3\ud83d\udcf0\ud83c\udfcc\u200d\u2642\ufe0f\ud83c\uddfa\ud83c\uddf8 #koreangolfnews #pgatour #golf\u2026 https://t.co/y4DnsZ6Hc3",
-                "TweetLink": "1388266190263496704",
-                "Place": "Palm Harbor",
-                "Time": "Fri Apr 30 22:57:07 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.746851,
-                    28.0858635
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
-                "Name": "Yatta Golf",
-                "Handle": "YattaGolf",
-                "Tweet": "The Youtube tutorial video of the week is called \u201cTiger Woods Fixes Amateur Golf Swings\u201d. Check it out with this li\u2026 https://t.co/09jRBTOwuB",
-                "TweetLink": "1388275826714501121",
-                "Place": "Illinois",
-                "Time": "Fri Apr 30 23:35:24 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.2665075,
-                    39.7393005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
                 "Name": "dubbs anderson",
                 "Handle": "mrdubbsie",
