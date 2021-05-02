@@ -48,6 +48,54 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1152555819810152449/HNQWp9OS_normal.jpg",
+                "Name": "Ricky Centeno",
+                "Handle": "rickycentenolx",
+                "Tweet": "Enjoying the final \ud83c\udfcc\ud83c\udffe\u200d\u2642\ufe0fround of the #ValsparChampionship at #Copperhead. \u26f3\ufe0f\n#pgatour #cooperheadcourse #floridagolf https://t.co/eNevIu3CqK",
+                "TweetLink": "1388925274235019271",
+                "Place": "North Miami Beach",
+                "Time": "Sun May 02 18:36:05 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1698025,
+                    25.9356415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1080619787192012800/ZUUfoRDe_normal.jpg",
+                "Name": "Jesse Litsch",
+                "Handle": "JesseLitsch",
+                "Tweet": "Great times at the @valsparchamp a bunch of shots so far from the 5th green cabana. #goodtimes #golf #pgatour\u2026 https://t.co/zsSjE1I60D",
+                "TweetLink": "1388925362936090624",
+                "Place": "Palm Harbor",
+                "Time": "Sun May 02 18:36:26 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.746851,
+                    28.0858635
+                ]
+            }
         }
     ]
 }
