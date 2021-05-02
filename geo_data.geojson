@@ -192,6 +192,30 @@
                     30.0093515
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1378882135940009985/57LW3FEW_normal.jpg",
+                "Name": "Gabe McDonald",
+                "Handle": "GabeMcDonald_",
+                "Tweet": "Shreveport native Sam Burns gets his first PGA Tour victory at the @ValsparChamp! Congrats @Samburns66, way to repr\u2026 https://t.co/7t0zzJi0Tv",
+                "TweetLink": "1388981110508490753",
+                "Place": "Socastee",
+                "Time": "Sun May 02 22:17:57 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.9946395,
+                    33.6728455
+                ]
+            }
         }
     ]
 }
