@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1338236470172266497/MCY22vN2_normal.jpg",
-                "Name": "Dan Lambert",
-                "Handle": "lmbrtdn",
-                "Tweet": "No movement after Valspar\n\n#GoUSA #summerolympics #rydercup #pgatour @ Kalamazoo, Michigan https://t.co/XaprjPwXn1",
-                "TweetLink": "1389243360322404357",
-                "Place": "Kalamazoo",
-                "Time": "Mon May 03 15:40:02 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.5656885,
-                    42.290524
-                ]
-            }
-        }
-    ]
+    "features": []
 }
