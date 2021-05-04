@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1000923962346496000/qQ_ZI5tE_normal.jpg",
-                "Name": "Donnacha McCormack\ud83d\ude0e\u2708\ufe0f\u26bd\ufe0f\ud83d\udcc8\ud83c\udf0f",
-                "Handle": "dunta90",
-                "Tweet": "Won\nT4\nT4\n\ud83d\ude0e",
-                "TweetLink": "1388977408439734281",
-                "Place": "Fingal",
-                "Time": "Sun May 02 22:03:14 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -6.23572,
-                    53.494598
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1379475762206683136/sTuaeY-P_normal.jpg",
-                "Name": "Bro's and Birdies",
-                "Handle": "BirdiesBro",
-                "Tweet": "Not a bad day at the office for\n Bro's and Birdies podcast\n1st AND 2nd \nNot a mention 're DJ and JT unlike others!\u2026 https://t.co/uPmPhgGxhS",
-                "TweetLink": "1388977542418337795",
-                "Place": "Highfields",
-                "Time": "Sun May 02 22:03:46 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -0.0232285,
-                    52.2100735
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/502824086738075648/wWU_N168_normal.jpeg",
                 "Name": "Mike Ryan",
                 "Handle": "mryan311",
