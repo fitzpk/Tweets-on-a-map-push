@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/502824086738075648/wWU_N168_normal.jpeg",
-                "Name": "Mike Ryan",
-                "Handle": "mryan311",
-                "Tweet": "Dear @CBSSports - we all are aware of this company called @CallawayGolf - no need to zoom in on Sam Burns face to w\u2026 https://t.co/ZS7rh8yeiO",
-                "TweetLink": "1388978022146056193",
-                "Place": "Fairfield",
-                "Time": "Sun May 02 22:05:41 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -73.2781465,
-                    41.1746485
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1314601294607327235/_Si9y7R-_normal.jpg",
-                "Name": "Ben Mintz",
-                "Handle": "BarstoolMintzy",
-                "Tweet": "Congrats @Samburns66 on 1st PGA Tour win! They are throwin\u2019 down at East Ridge Country Club in Shreveport!\u2026 https://t.co/neUKcNMj8k",
-                "TweetLink": "1388978955647074309",
-                "Place": "Kenner",
-                "Time": "Sun May 02 22:09:23 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.253346,
-                    30.0093515
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1378882135940009985/57LW3FEW_normal.jpg",
                 "Name": "Gabe McDonald",
                 "Handle": "GabeMcDonald_",
