@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
-                "Name": "dubbs anderson",
-                "Handle": "mrdubbsie",
-                "Tweet": "High roller @Holdenradio and yours truly taking home the @ValsparChamp @Samburns66 . @TheKevinWalsh gonna learn tod\u2026 https://t.co/dQ2OyAFQtU",
-                "TweetLink": "1388973368880160768",
-                "Place": "Los Angeles",
-                "Time": "Sun May 02 21:47:11 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.4119065,
-                    34.0207895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1000923962346496000/qQ_ZI5tE_normal.jpg",
                 "Name": "Donnacha McCormack\ud83d\ude0e\u2708\ufe0f\u26bd\ufe0f\ud83d\udcc8\ud83c\udf0f",
                 "Handle": "dunta90",
