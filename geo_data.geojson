@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1253426540538261514/lE-0ajVC_normal.jpg",
-                "Name": "Tour Junkies",
-                "Handle": "Tour_Junkies",
-                "Tweet": "Welp. Welcome to betting on Golf. Let\u2019s keep it moving! Congrats on anyone with a Burns ticket.",
-                "TweetLink": "1388968764331413506",
-                "Place": "Georgia",
-                "Time": "Sun May 02 21:28:53 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.1738665,
-                    32.6782075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
                 "Name": "dubbs anderson",
                 "Handle": "mrdubbsie",
