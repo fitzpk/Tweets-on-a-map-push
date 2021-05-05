@@ -48,6 +48,30 @@
                     35.209059
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1389608038680629250/5Fhg8DBH_normal.jpg",
+                "Name": "Matt Landers",
+                "Handle": "LandersArt",
+                "Tweet": "@WellsFargoGolf @PGATOURLIVE @SportsCentralLA getting a few signed today before getting my head into the golf this\u2026 https://t.co/JpaAjyg5bi",
+                "TweetLink": "1389941604132311040",
+                "Place": "West Haddon",
+                "Time": "Wed May 05 13:54:36 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.074856,
+                    52.3408335
+                ]
+            }
         }
     ]
 }
