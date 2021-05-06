@@ -48,6 +48,30 @@
                     35.195838
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1195372179233263616/A5NZXNNm_normal.jpg",
+                "Name": "UofSC College of HRSM",
+                "Handle": "UofSC_HRSM",
+                "Tweet": "The @WellsFargoGolf Championship tees off today, and #UofSCHRSM students and alumni are a big part of making it hap\u2026 https://t.co/HY3wh9BJbA",
+                "TweetLink": "1390302868238848005",
+                "Place": "Quail Hollow Club",
+                "Time": "Thu May 06 13:50:09 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.842604,
+                    35.116415
+                ]
+            }
         }
     ]
 }
