@@ -48,6 +48,30 @@
                     35.116415
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "@WellsFargoGolf this is a golf tournament! Pumped! #PGATour #golf #laugh #golfbetting",
+                "TweetLink": "1390373598355804160",
+                "Place": "Los Angeles",
+                "Time": "Thu May 06 18:31:12 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
