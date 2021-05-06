@@ -24,6 +24,30 @@
                     52.3408335
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1326237487791022080/sWo-lwoL_normal.jpg",
+                "Name": "Nick Bradley",
+                "Handle": "THENICKBRADLEY",
+                "Tweet": "I know #PGATour players who can over prepare.\nI know #PGATour players who wrongly prepare.\n\nIn both cases, it is a\u2026 https://t.co/3ZSp30XlSu",
+                "TweetLink": "1390234260364275716",
+                "Place": "Pinehurst",
+                "Time": "Thu May 06 09:17:31 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.471141,
+                    35.195838
+                ]
+            }
         }
     ]
 }
