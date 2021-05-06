@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1000923962346496000/qQ_ZI5tE_normal.jpg",
-                "Name": "Donnacha McCormack\ud83d\ude0e\u2708\ufe0f\u26bd\ufe0f\ud83d\udcc8\ud83c\udf0f",
-                "Handle": "dunta90",
-                "Tweet": "After a 4th Top 5 pick in a row this week at #WellsFargoChampionship. Picks out tomorrow via @Da_Bru1 pod! \ud83d\ude0e\ud83d\ude09",
-                "TweetLink": "1389696797530988545",
-                "Place": "Fingal",
-                "Time": "Tue May 04 21:41:50 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -6.23572,
-                    53.494598
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1298986138573475845/aOJCyGfY_normal.jpg",
                 "Name": "Korean Golf News",
                 "Handle": "KoreanGolfNews",
