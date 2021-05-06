@@ -72,6 +72,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "@PhilMickelson round 1 leader?? got to be real, didn\u2019t have money on this one! Love to see it though! 15 of 16 cuts\u2026 https://t.co/lX8JMGpwcG",
+                "TweetLink": "1390422282166628355",
+                "Place": "Los Angeles",
+                "Time": "Thu May 06 21:44:39 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
