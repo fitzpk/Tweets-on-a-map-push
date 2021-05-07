@@ -96,6 +96,30 @@
                     55.0061885
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1389597559719669761/vIux4Bg6_normal.jpg",
+                "Name": "Macau Casino",
+                "Handle": "MSCCASINO",
+                "Tweet": "https://t.co/kIpGg349AM\nUS Golf \u26f3\n\nWells Fargo Championship Live Markets.. \ud83d\udc47\n\nhttps://t.co/QZc22o6C5u\n\n#msccasino\u2026 https://t.co/zX1Kj03Vjx",
+                "TweetLink": "1390696112529494020",
+                "Place": "Cork",
+                "Time": "Fri May 07 15:52:45 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0333065,
+                    51.903863
+                ]
+            }
         }
     ]
 }
