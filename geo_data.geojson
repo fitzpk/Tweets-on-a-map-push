@@ -72,6 +72,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1251467454569734144/SN-ryNfp_normal.jpg",
+                "Name": "Houses\u2019cane",
+                "Handle": "PatrickGonagle",
+                "Tweet": "Bryson is having a deshambles at the 7th \ud83d\ude02 #PGATour #quailhollow #WellsFargoChampionship",
+                "TweetLink": "1390694737275916288",
+                "Place": "Londonderry",
+                "Time": "Fri May 07 15:47:17 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.312945,
+                    55.0061885
+                ]
+            }
         }
     ]
 }
