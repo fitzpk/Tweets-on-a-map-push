@@ -7,30 +7,6 @@
                 "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
                 "Name": "dubbs anderson",
                 "Handle": "mrdubbsie",
-                "Tweet": "@WellsFargoGolf this is a golf tournament! Pumped! #PGATour #golf #laugh #golfbetting",
-                "TweetLink": "1390373598355804160",
-                "Place": "Los Angeles",
-                "Time": "Thu May 06 18:31:12 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -118.4119065,
-                    34.0207895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
-                "Name": "dubbs anderson",
-                "Handle": "mrdubbsie",
                 "Tweet": "@PhilMickelson round 1 leader?? got to be real, didn\u2019t have money on this one! Love to see it though! 15 of 16 cuts\u2026 https://t.co/lX8JMGpwcG",
                 "TweetLink": "1390422282166628355",
                 "Place": "Los Angeles",
