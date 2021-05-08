@@ -96,6 +96,30 @@
                     -36.595729
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1386530160820637700/CCGIOmh2_normal.jpg",
+                "Name": "Jesse Flynn",
+                "Handle": "DeadMoneyJesse",
+                "Tweet": "Bryson after having to fly back to Charlotte after making the cut. -4 so far through Rd 3. #WellsFargoChampionship\u2026 https://t.co/j2rUefM80z",
+                "TweetLink": "1391045329496117248",
+                "Place": "Paradise",
+                "Time": "Sat May 08 15:00:25 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
