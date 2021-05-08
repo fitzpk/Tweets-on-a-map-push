@@ -144,6 +144,30 @@
                     35.95773
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1376028862979710976/CEbBwX4i_normal.jpg",
+                "Name": "Mike Gray",
+                "Handle": "michaelthegrayt",
+                "Tweet": "Someone needs to do something about the @pxg commercial guy's meth problem. The ads are only getting weirder #golf #pgatour #pxg",
+                "TweetLink": "1391096978285678593",
+                "Place": "Dallas",
+                "Time": "Sat May 08 18:25:39 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7617535,
+                    32.8198585
+                ]
+            }
         }
     ]
 }
