@@ -72,6 +72,30 @@
                     51.903863
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "Bryson left Charlotte for Dallas thinking he mad missed the cut... time to fly back! @WellsFargoGolf #bryson #golf\u2026 https://t.co/8Bm7yFpvM2",
+                "TweetLink": "1390837776493383687",
+                "Place": "Los Angeles",
+                "Time": "Sat May 08 01:15:41 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
