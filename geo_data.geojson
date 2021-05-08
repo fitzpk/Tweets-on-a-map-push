@@ -120,6 +120,30 @@
                     36.0609645
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/777595921592975360/bjNKPkyk_normal.jpg",
+                "Name": "becca west",
+                "Handle": "missjimmy4",
+                "Tweet": "unsigned White County (TN) 2026 twitterless Addison Dodgen sinks 40 ft putt for her first #eagle following last wee\u2026 https://t.co/doPul7WlxQ",
+                "TweetLink": "1391094489683537924",
+                "Place": "Riverwatch",
+                "Time": "Sat May 08 18:15:46 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.684009,
+                    35.95773
+                ]
+            }
         }
     ]
 }
