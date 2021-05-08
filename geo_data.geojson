@@ -72,6 +72,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1365995611925798915/Kd8SnlWS_normal.jpg",
+                "Name": "Chris Bourne",
+                "Handle": "B0urne_identity",
+                "Tweet": "WTF @frank_nobilo \nI thought it was a pretty decent attempt, lol #pgatour",
+                "TweetLink": "1390985504452087809",
+                "Place": "Auckland",
+                "Time": "Sat May 08 11:02:42 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.8562435,
+                    -36.595729
+                ]
+            }
         }
     ]
 }
