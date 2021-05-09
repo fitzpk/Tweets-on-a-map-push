@@ -4,48 +4,24 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/777595921592975360/bjNKPkyk_normal.jpg",
-                "Name": "becca west",
-                "Handle": "missjimmy4",
-                "Tweet": "unsigned White County (TN) 2026 twitterless Addison Dodgen sinks 40 ft putt for her first #eagle following last wee\u2026 https://t.co/doPul7WlxQ",
-                "TweetLink": "1391094489683537924",
-                "Place": "Riverwatch",
-                "Time": "Sat May 08 18:15:46 +0000 2021",
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
+                "Name": "Yatta Golf",
+                "Handle": "YattaGolf",
+                "Tweet": "Rory Mcilroy is playing some of his absolute best golf right now. It\u2019s great to see, he has a two-shot lead with 2\u2026 https://t.co/CORAJQOyCK",
+                "TweetLink": "1391509614122790913",
+                "Place": "Illinois",
+                "Time": "Sun May 09 21:45:19 +0000 2021",
                 "Reply Count": 0,
                 "Retweet Count": 0,
                 "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -85.684009,
-                    35.95773
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1376028862979710976/CEbBwX4i_normal.jpg",
-                "Name": "Mike Gray",
-                "Handle": "michaelthegrayt",
-                "Tweet": "Someone needs to do something about the @pxg commercial guy's meth problem. The ads are only getting weirder #golf #pgatour #pxg",
-                "TweetLink": "1391096978285678593",
-                "Place": "Dallas",
-                "Time": "Sat May 08 18:25:39 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -96.7617535,
-                    32.8198585
+                    -89.2665075,
+                    39.7393005
                 ]
             }
         }
