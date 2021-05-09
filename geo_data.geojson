@@ -48,6 +48,30 @@
                     33.7671945
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1372755679019102212/ahJC5xFW_normal.jpg",
+                "Name": "Reid Fowler",
+                "Handle": "reidtfowler",
+                "Tweet": "It\u2019s been tough to back @McIlroyRory, but this was not the tourney to fade him @WellsFargoGolf \n\n#PGATOUR |\u2026 https://t.co/264nhAMVaG",
+                "TweetLink": "1391536195046232067",
+                "Place": "Paradise",
+                "Time": "Sun May 09 23:30:57 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.135165,
+                    36.0609645
+                ]
+            }
         }
     ]
 }
