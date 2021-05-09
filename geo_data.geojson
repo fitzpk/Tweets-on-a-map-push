@@ -24,6 +24,30 @@
                     39.7393005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/920558452/twitter_normal.jpg",
+                "Name": "Daniel Burapavong \ud83c\udfae",
+                "Handle": "TD2timeMVP",
+                "Tweet": "The crowds at Quail Hollow looked pre-pandemic normal. #WellsFargoChampionship #PGATOUR",
+                "TweetLink": "1391529300961210370",
+                "Place": "Atlanta",
+                "Time": "Sun May 09 23:03:33 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.433106,
+                    33.7671945
+                ]
+            }
         }
     ]
 }
