@@ -96,6 +96,30 @@
                     56.006441
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "Return of the Rors. \ud83c\udfc6\n\nCongratulations to @McIlroyRory on his win at the @WellsFargoGolf for the 3rd time and his 1\u2026 https://t.co/YAGfkGwrxa",
+                "TweetLink": "1391947614153805824",
+                "Place": "Quail Hollow Club",
+                "Time": "Tue May 11 02:45:47 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.842604,
+                    35.116415
+                ]
+            }
         }
     ]
 }
