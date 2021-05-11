@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1244161531333533696/qUjUlGem_normal.jpg",
-                "Name": "Ross MacLeod",
-                "Handle": "rossmacleodputt",
-                "Tweet": "Some good putting been going on recently \ud83d\ude0e\n.\n.\n.\n.\n#putting #winning #pgatour #europeantour @ Ross MacLeod Putting https://t.co/q8XKvhByXW",
-                "TweetLink": "1391748243319623683",
-                "Place": "Helensburgh",
-                "Time": "Mon May 10 13:33:33 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -4.730067,
-                    56.006441
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
                 "Name": "Will O'Donoghue",
                 "Handle": "Will_ODonoghue",
