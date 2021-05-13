@@ -48,6 +48,30 @@
                     31.1688935
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "@attbyronnelson outrights for a big week in Texas!! @SportsGrid #pgatour #golfbetting #zalatoris #letsgo https://t.co/6iU5wz0hbG",
+                "TweetLink": "1392660458956464128",
+                "Place": "Los Angeles",
+                "Time": "Thu May 13 01:58:22 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
