@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1180312463088205825/Gynz6ly__normal.jpg",
-                "Name": "Kelly Cates-Thornton",
-                "Handle": "cateskinc",
-                "Tweet": "Living her very best life!! #seniorpoodlesrock \nHappy Birthday Chanel. SWEET 16!!\n#pgatour @ Seabrook Island, South\u2026 https://t.co/EcCj741rps",
-                "TweetLink": "1393666653754470400",
-                "Place": "South Carolina",
-                "Time": "Sat May 15 20:36:37 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.926628,
-                    33.6311395
-                ]
-            }
-        }
-    ]
+    "features": []
 }
