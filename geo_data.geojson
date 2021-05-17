@@ -48,6 +48,30 @@
                     26.527285
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
+                "Name": "VegasSquaresPodcast",
+                "Handle": "VegasSquares",
+                "Tweet": "Congrats to K.H. Lee on a big win at the @attbyronnelson. \n\nUp next, the @PGAChampionship at #Kiawah. Be on the loo\u2026 https://t.co/xRqNXZSHaR",
+                "TweetLink": "1394319146284818435",
+                "Place": "Las Vegas",
+                "Time": "Mon May 17 15:49:24 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.223125,
+                    36.232915
+                ]
+            }
         }
     ]
 }
