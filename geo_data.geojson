@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1391918258022912005/eLkg0o8U_normal.jpg",
+                "Name": "Phil Stiefel",
+                "Handle": "Beardaknowledge",
+                "Tweet": "Betting tip\nWhen u see a line you're confident in... bet it!\nDon't wait\nLines change fast\nJustin Thomas @ 18-1 for\u2026 https://t.co/VXLeZYjf02",
+                "TweetLink": "1394295815208845318",
+                "Place": "Pennsylvania",
+                "Time": "Mon May 17 14:16:41 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
+        }
+    ]
 }
