@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/852250359783358464/b6WuLFAf_normal.jpg",
-                "Name": "The Fit Golfer Girl",
-                "Handle": "fitgolfergirl",
-                "Tweet": "Who will win the 2021  @PGAChampionship?\nLeave your picks in the comments below! My picks coming later this week!\n\ud83d\udc49\u2026 https://t.co/P3o0WwkbJG",
-                "TweetLink": "1394315619449937922",
-                "Place": "Ocean Ridge",
-                "Time": "Mon May 17 15:35:23 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.0494095,
-                    26.527285
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
                 "Name": "VegasSquaresPodcast",
                 "Handle": "VegasSquares",
