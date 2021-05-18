@@ -120,6 +120,30 @@
                     41.1179365
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226351071510970369/axtkrQ79_normal.jpg",
+                "Name": "Billey",
+                "Handle": "ColterBilley",
+                "Tweet": "Leave it up to the #PGATour to leave out the number 1 player in the world in featured groups. Only they could be th\u2026 https://t.co/xaS2ePzyIr",
+                "TweetLink": "1394708729463906307",
+                "Place": "Coalhurst",
+                "Time": "Tue May 18 17:37:28 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.931208,
+                    49.7427435
+                ]
+            }
         }
     ]
 }
