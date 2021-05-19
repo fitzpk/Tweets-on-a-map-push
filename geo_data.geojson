@@ -72,6 +72,30 @@
                     32.7700735
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/829157104954904576/hXfgQzYg_normal.jpg",
+                "Name": "JOX GOLF NETWORK \u26f3",
+                "Handle": "JOXSports",
+                "Tweet": "\ud835\ude4f\ud835\ude64\ud835\ude65 \ud835\ude4b\ud835\ude42\ud835\ude3c \ud835\ude4f\ud835\ude64\ud835\ude6a\ud835\ude67 \ud835\ude48\ud835\ude64\ud835\ude63\ud835\ude5a\ud835\ude6e \ud835\ude47\ud835\ude5a\ud835\ude56\ud835\ude59\ud835\ude5a\ud835\ude67\ud835\ude68\nOnce the barometer of a successful season. Now no one cares...except the players!\u2026 https://t.co/lFiFPmrRX2",
+                "TweetLink": "1394833867882647555",
+                "Place": "Arizona",
+                "Time": "Wed May 19 01:54:43 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.931711,
+                    34.1682535
+                ]
+            }
         }
     ]
 }
