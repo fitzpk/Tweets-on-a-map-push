@@ -96,6 +96,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1105653936063549440/C1gjF_b6_normal.png",
+                "Name": "Dr. Stuart Love",
+                "Handle": "theHealthyGolfr",
+                "Tweet": "#PGAChampionship\u2026 ON!\n\ud83d\udca8\nDid I mention that the wind came to play too, here on the #KiawahIsland Ocean course? \ud83c\udf2c\n\u26f3\ufe0f\u2026 https://t.co/zqeAKzgqGg",
+                "TweetLink": "1395453058499235840",
+                "Place": "Charleston",
+                "Time": "Thu May 20 18:55:10 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.007367,
+                    32.7700735
+                ]
+            }
         }
     ]
 }
