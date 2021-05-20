@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1391918258022912005/eLkg0o8U_normal.jpg",
-                "Name": "Phil Stiefel",
-                "Handle": "Beardaknowledge",
-                "Tweet": "I'm hitting Driver and hoping to go long... no way I can be 100% confident in my 3 wood to clears\n\n@JSulli2121 ????\u2026 https://t.co/sYGVm8Xird",
-                "TweetLink": "1395054647732326407",
-                "Place": "Pennsylvania",
-                "Time": "Wed May 19 16:32:01 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -77.604684,
-                    41.1179365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1285032007953719298/rc1QBicL_normal.jpg",
                 "Name": "Joe Nicely",
                 "Handle": "JoeNicely",
