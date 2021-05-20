@@ -72,6 +72,30 @@
                     32.7700735
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2460207917/gttz43ugsa7js8su8aj9_normal.jpeg",
+                "Name": "Canada's Travel Guy",
+                "Handle": "JimByersTravel",
+                "Tweet": "First round still in progress, but Canada\u2019s Corey Conners is in the lead in the clubhouse at the PGA Championship a\u2026 https://t.co/a97uezp8zQ",
+                "TweetLink": "1395528588557000717",
+                "Place": "Toronto",
+                "Time": "Thu May 20 23:55:17 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.2725695,
+                    43.629311
+                ]
+            }
         }
     ]
 }
