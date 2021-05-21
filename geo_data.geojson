@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1286727148171132928/vKnIp828_normal.jpg",
-                "Name": "Welch & Webb, LLC",
-                "Handle": "WelchWebbLaw",
-                "Tweet": "We checked out The Ocean Course at Kiawah Island Golf Resort. It appears to be in great condition for this week's P\u2026 https://t.co/fhleXjV9bj",
-                "TweetLink": "1395109025650466818",
-                "Place": "Montgomery",
-                "Time": "Wed May 19 20:08:06 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -86.2447285,
-                    32.364145
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
                 "Name": "dubbs anderson",
                 "Handle": "mrdubbsie",
