@@ -48,6 +48,30 @@
                     41.703775
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/323385738/phl5_normal.JPG",
+                "Name": "Richard Perng",
+                "Handle": "Perngdog",
+                "Tweet": "Patio. The PGA. And Tim\u2019s coffee. #PGAChampionship #PGATour #TimHortons https://t.co/dlT2hdGbvM",
+                "TweetLink": "1396130487358398465",
+                "Place": "Niagara-on-the-Lake",
+                "Time": "Sat May 22 15:47:01 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.1258865,
+                    43.2955405
+                ]
+            }
         }
     ]
 }
