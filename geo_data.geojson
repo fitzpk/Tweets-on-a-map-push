@@ -312,6 +312,78 @@
                     45.7964935
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000342844698/aa047ebb43efcc62b11b78db7a264f3e_normal.jpeg",
+                "Name": "Steven Mote",
+                "Handle": "SKMote",
+                "Tweet": "How about this episode of Phireside with Phil? @PhilMickelson #PGAChamp #PGATour @PGATOUR #kiawahisland",
+                "TweetLink": "1396576712364896258",
+                "Place": "Vestavia Hills",
+                "Time": "Sun May 23 21:20:10 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.741158,
+                    33.4513005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1391183095823429633/B3nqf7CG_normal.jpg",
+                "Name": "Tom Secor",
+                "Handle": "tjsecor",
+                "Tweet": "What. A. Putt!\n\nLet\u2019s Go @PhilMickelson \ud83d\udc4d\n\nThis @PGAChampionship is absolutely one for the ages!\n\n#Lefty\u2026 https://t.co/uEZPHULZq3",
+                "TweetLink": "1396577627222155264",
+                "Place": "Portland",
+                "Time": "Sun May 23 21:23:48 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.630908,
+                    45.536402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000331257850/21d2449824a2bcdb7f1aa1d08d362cfc_normal.jpeg",
+                "Name": "Holly Brooks",
+                "Handle": "BrooksPlace1225",
+                "Tweet": "Am I the only one that thinks these people should move back? #PGAChamp #PGATour https://t.co/bblsUx1aYo",
+                "TweetLink": "1396577665172262917",
+                "Place": "Chickasaw",
+                "Time": "Sun May 23 21:23:57 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.0852585,
+                    30.772442
+                ]
+            }
         }
     ]
 }
