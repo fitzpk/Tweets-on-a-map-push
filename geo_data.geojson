@@ -216,6 +216,54 @@
                     42.971199
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/840018239388278789/5aKIqeXg_normal.jpg",
+                "Name": "Felix B. Leno",
+                "Handle": "felixbleno",
+                "Tweet": "Wowww @PhilMickelson is up by 4 after 10 holes! Holy smoke! #PGAChamp #PGATour",
+                "TweetLink": "1396573128151773191",
+                "Place": "Elizabeth",
+                "Time": "Sun May 23 21:05:55 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1965245,
+                    40.662479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1391918258022912005/eLkg0o8U_normal.jpg",
+                "Name": "Phil Stiefel",
+                "Handle": "Beardaknowledge",
+                "Tweet": "Phil w a 4 shot lead 8 to play... \nNoone saw this coming\n\n#PGAChamp #PGAChampionship #PGATour #setthetrends @AATBirds @Fairway2Heaven_",
+                "TweetLink": "1396573823387029507",
+                "Place": "Pennsylvania",
+                "Time": "Sun May 23 21:08:41 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
         }
     ]
 }
