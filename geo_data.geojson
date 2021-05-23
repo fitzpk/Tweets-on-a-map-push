@@ -672,6 +672,30 @@
                     45.7964935
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "We just watched one of the greatest moments in sports history. Well Done Lefty! #PhilMickelson #Lefty #PGAChamp\u2026 https://t.co/zB9sctNgah",
+                "TweetLink": "1396608672386650122",
+                "Place": "Charleston",
+                "Time": "Sun May 23 23:27:09 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.007367,
+                    32.7700735
+                ]
+            }
         }
     ]
 }
