@@ -744,6 +744,30 @@
                     40.662479
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1342209299381149696/GFLN4sd3_normal.jpg",
+                "Name": "Joshstros",
+                "Handle": "Joshstros",
+                "Tweet": "Phil Mickelson\u2019s win set to John Farnham\u2019s - You\u2019re The Voice\n\nBecause why not \ud83e\udd37\u200d\u2642\ufe0f #PGAChampionship #PGATour \n https://t.co/B8hL1U69Jx",
+                "TweetLink": "1396613582800969732",
+                "Place": "Houston",
+                "Time": "Sun May 23 23:46:40 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4464865,
+                    29.838495
+                ]
+            }
         }
     ]
 }
