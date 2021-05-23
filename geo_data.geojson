@@ -696,6 +696,30 @@
                     32.7700735
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1394634498466275335/tAsnmbaK_normal.jpg",
+                "Name": "S.T SINGW",
+                "Handle": "singwanatheo",
+                "Tweet": "@PhilMickelson has been the most committed golfer I have ever seen and it paid . Big congratulations to you sir on\u2026 https://t.co/khRqb5gKda",
+                "TweetLink": "1396609204002213894",
+                "Place": "Boksburg",
+                "Time": "Sun May 23 23:29:16 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.248846,
+                    -26.265014
+                ]
+            }
         }
     ]
 }
