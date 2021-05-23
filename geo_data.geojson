@@ -624,6 +624,54 @@
                     32.7799665
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "We just watched one of the greatest moments in sports history. Well Done Lefty! #PhilMickelson #Lefty #PGAChamp\u2026 https://t.co/EW24Pnjbn2",
+                "TweetLink": "1396607419350933506",
+                "Place": "Lake Park",
+                "Time": "Sun May 23 23:22:11 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.633465,
+                    35.0838255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1391757767824793601/OHZBy33h_normal.jpg",
+                "Name": "Frank L\u00e9vesque #TYisHome \ud83d\udc99\ud83d\udc7b",
+                "Handle": "FrankLevesque09",
+                "Tweet": "LEFTY LEFTY LEFTY LEFTY LEFTY LEFTY LEFTY LEFTY LEFTY LEFTY LEFTY LEFTY LEFTY LEFTY LEFTY \n\n\ud83e\udd72\ud83e\udd72\ud83e\udd72\ud83e\udd72\ud83e\udd72\ud83e\udd72\ud83e\udd72\ud83e\udd72\ud83e\udd72\ud83e\udd72\n\nMy guy taki\u2026 https://t.co/KwWnxWMtl7",
+                "TweetLink": "1396607581792186376",
+                "Place": "Saint-J\u00e9r\u00f4me",
+                "Time": "Sun May 23 23:22:49 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.043917,
+                    45.7964935
+                ]
+            }
         }
     ]
 }
