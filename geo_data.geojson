@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1391757767824793601/OHZBy33h_normal.jpg",
-                "Name": "Frank L\u00e9vesque #TYisHome \ud83d\udc99\ud83d\udc7b",
-                "Handle": "FrankLevesque09",
-                "Tweet": "What a shot \ud83d\ude0d \n\nLEFTYYYYYYYY \ud83d\udc99 \n\n#PGAChamp #PGATour #PGAChampionship",
-                "TweetLink": "1396183708231688201",
-                "Place": "Saint-J\u00e9r\u00f4me",
-                "Time": "Sat May 22 19:18:30 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -74.043917,
-                    45.7964935
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/730113919310692353/uisHHtHT_normal.jpg",
                 "Name": "Christie Lowery",
                 "Handle": "christiedlowery",
@@ -550,6 +526,102 @@
                 "coordinates": [
                     -77.604684,
                     41.1179365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/550042921991278592/KLKGOR8O_normal.jpeg",
+                "Name": "Rathdowney Golf Club Ireland",
+                "Handle": "RathdowneyGC",
+                "Tweet": "Congratulations @PhilMickelson\n#PGATour",
+                "TweetLink": "1396605172785233926",
+                "Place": "Laois",
+                "Time": "Sun May 23 23:13:15 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.332834,
+                    52.997768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1152568535656407042/Zcymze3K_normal.jpg",
+                "Name": "Joe Graham",
+                "Handle": "flyfission",
+                "Tweet": "Activate the thumbs! Congratulations! @PhilMickelson @goodwalkspoiled #Lefty #PGAChampionship #PGATour",
+                "TweetLink": "1396605483717386242",
+                "Place": "South Carolina",
+                "Time": "Sun May 23 23:14:29 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.926628,
+                    33.6311395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1305707985642164224/IAxidpRd_normal.jpg",
+                "Name": "Paula Clarke",
+                "Handle": "sweetp311",
+                "Tweet": "Congratulations @PhilMickelson #PGAChampionship \ud83c\udfcc\ud83c\udffd\u200d\u2642\ufe0f\u26f3\ufe0f#ChampionshipSunday #PGATour",
+                "TweetLink": "1396605595688570880",
+                "Place": "Brooklyn",
+                "Time": "Sun May 23 23:14:56 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9487755,
+                    40.655138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1025916080961802240/pi5KL7vm_normal.jpg",
+                "Name": "Andrew Parker",
+                "Handle": "east_texan02",
+                "Tweet": "The legend of #PhilMickelson continues to build. Congrats to the oldest major champion in the history of golf.\u2026 https://t.co/YN3L8rmLsP",
+                "TweetLink": "1396606089626595334",
+                "Place": "Fort Worth",
+                "Time": "Sun May 23 23:16:54 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2859135,
+                    32.7799665
                 ]
             }
         }
