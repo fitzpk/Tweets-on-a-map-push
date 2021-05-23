@@ -360,6 +360,30 @@
                     30.772442
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1391918258022912005/eLkg0o8U_normal.jpg",
+                "Name": "Phil Stiefel",
+                "Handle": "Beardaknowledge",
+                "Tweet": "What an image\n\nLets go @PhilMickelson\n\n#PGAChamp #PGAChampionship #PGATour #setthetrends @AATBirds @Fairway2Heaven_ https://t.co/aA7RuZklpm",
+                "TweetLink": "1396584728858439681",
+                "Place": "Pennsylvania",
+                "Time": "Sun May 23 21:52:01 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.604684,
+                    41.1179365
+                ]
+            }
         }
     ]
 }
