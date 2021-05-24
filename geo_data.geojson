@@ -816,6 +816,30 @@
                     21.048719
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/876985919907278848/rznWhUr5_normal.jpg",
+                "Name": "Two Guys With Balls",
+                "Handle": "2GuysWithBalls",
+                "Tweet": "Congrats @philmickelson on a historic win at the 2021 PGA Championship. Lefty played a Callaway Chrome Soft X golf\u2026 https://t.co/EJCOA61KQj",
+                "TweetLink": "1396825360088637442",
+                "Place": "South Carolina",
+                "Time": "Mon May 24 13:48:12 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.926628,
+                    33.6311395
+                ]
+            }
         }
     ]
 }
