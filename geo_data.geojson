@@ -768,6 +768,30 @@
                     29.838495
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
+                "Name": "Yatta Golf",
+                "Handle": "YattaGolf",
+                "Tweet": "Phil Mickelson becomes the oldest player to win a major in PGA tour history! An unbelievable weekend from lefty. It\u2026 https://t.co/DrIUF9o8kt",
+                "TweetLink": "1396617452637720578",
+                "Place": "Illinois",
+                "Time": "Mon May 24 00:02:03 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2665075,
+                    39.7393005
+                ]
+            }
         }
     ]
 }
