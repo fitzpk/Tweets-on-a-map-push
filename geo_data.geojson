@@ -792,6 +792,30 @@
                     33.6311395
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2794344433/38861bef821f10f5028f27bc6878a75b_normal.jpeg",
+                "Name": "Pat's Travel Reviews",
+                "Handle": "patstravelrevu",
+                "Tweet": "Congratulations @PhilMickelson You give us 50 year Olds hope!! #PGAChampionship #PGATour #PGA #philmickelson\u2026 https://t.co/8w4rgzrBhv",
+                "TweetLink": "1396665370371674112",
+                "Place": "Benito Ju\u00e1rez",
+                "Time": "Mon May 24 03:12:27 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.0316645,
+                    21.048719
+                ]
+            }
         }
     ]
 }
