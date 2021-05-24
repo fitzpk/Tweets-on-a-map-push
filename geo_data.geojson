@@ -792,6 +792,30 @@
                     39.7393005
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/884594758739415040/H0ADZTHL_normal.jpg",
+                "Name": "Adam Conquest",
+                "Handle": "AussieTOJ",
+                "Tweet": "Take a minute to listen to some inspirational words from @philmickelson who at close to 51 became the oldest winner\u2026 https://t.co/HF62cKd7fX",
+                "TweetLink": "1396625350558367748",
+                "Place": "South Carolina",
+                "Time": "Mon May 24 00:33:26 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.926628,
+                    33.6311395
+                ]
+            }
         }
     ]
 }
