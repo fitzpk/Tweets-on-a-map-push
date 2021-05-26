@@ -24,6 +24,30 @@
                     37.822244
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/946119861712932864/onLApKiF_normal.jpg",
+                "Name": "Grant Vanderwagen",
+                "Handle": "Grant_VDWagen",
+                "Tweet": "@b_dechambeau @BKoepka @AaronRodgers12 Your time will come kids. Take it easy. Let the champ enjoy his win\u2026 https://t.co/p6onQEXqur",
+                "TweetLink": "1397641750936788999",
+                "Place": "Britannia Bay",
+                "Time": "Wed May 26 19:52:15 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9441025,
+                    -32.7195655
+                ]
+            }
         }
     ]
 }
