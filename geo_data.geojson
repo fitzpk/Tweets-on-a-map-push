@@ -24,6 +24,30 @@
                     -32.7195655
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1362208138728939523/yinqf36U_normal.jpg",
+                "Name": "Dave Elitz",
+                "Handle": "Griffdee24",
+                "Tweet": "@BKoepka and @b_dechambeau MUST be paired up for the #USOpen #PGAChamp #PGA #PGATour BEST THING IN SPORTS ATM\u2026 https://t.co/zOQKA0yjbP",
+                "TweetLink": "1397656845712506885",
+                "Place": "Levittown",
+                "Time": "Wed May 26 20:52:13 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.8553325,
+                    40.157637
+                ]
+            }
         }
     ]
 }
