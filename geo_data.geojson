@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1359546609613340674/0MM2Ibnd_normal.jpg",
-                "Name": "Heidi Steinert",
-                "Handle": "heidi3putts",
-                "Tweet": "Another exciting week at @ValhallaGolf hosting the @APGA_Tour #apgatour #valhallagolfclub #pga #pgatour \ud83c\udfc6 https://t.co/TidfpCpxsj",
-                "TweetLink": "1397230917668704257",
-                "Place": "Kentucky",
-                "Time": "Tue May 25 16:39:44 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -85.7682405,
-                    37.822244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/946119861712932864/onLApKiF_normal.jpg",
                 "Name": "Grant Vanderwagen",
                 "Handle": "Grant_VDWagen",
