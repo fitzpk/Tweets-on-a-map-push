@@ -48,6 +48,30 @@
                     40.157637
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1000923962346496000/qQ_ZI5tE_normal.jpg",
+                "Name": "Donnacha McCormack",
+                "Handle": "dunta90",
+                "Tweet": "Ok, let\u2019s get another winner shall we! Best we could do was T9 at PGA but a Thursday afternoon tickle on Harrington\u2026 https://t.co/m27gTTj3wi",
+                "TweetLink": "1397679111166955522",
+                "Place": "Fingal",
+                "Time": "Wed May 26 22:20:42 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.23572,
+                    53.494598
+                ]
+            }
         }
     ]
 }
