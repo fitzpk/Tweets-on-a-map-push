@@ -72,6 +72,30 @@
                     53.494598
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1283993064852402178/JikeLK-3_normal.jpg",
+                "Name": "Proppy Propopotamus",
+                "Handle": "propopotamus",
+                "Tweet": "\ud83d\udea8#PGATour\u26f3\ufe0fBET\ud83d\udea8\n\n\ud83e\udd9b 2U Chase Seiffert Top 20 10/1 @PointsBetIL\n\nThe Florida State alum has 4 T20s the last 6 months\u2026 https://t.co/rkf5gQRQyj",
+                "TweetLink": "1397767205069099010",
+                "Place": "Chicago",
+                "Time": "Thu May 27 04:10:45 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.732013,
+                    41.8335845
+                ]
+            }
         }
     ]
 }
