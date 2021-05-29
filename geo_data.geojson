@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1389300800615325696/gqAZ6EOq_normal.jpg",
+                "Name": "Thomas Wailgum",
+                "Handle": "twailgum",
+                "Tweet": "I mean, is there anything @PhilMickelson can\u2019t do??? #pgatour  #PGAChamp https://t.co/78utcywGSt",
+                "TweetLink": "1398642657384140802",
+                "Place": "New Hampshire",
+                "Time": "Sat May 29 14:09:29 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.566171,
+                    44.00123
+                ]
+            }
+        }
+    ]
 }
