@@ -24,6 +24,54 @@
                     44.00123
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1117797812408737795/qn23fqN9_normal.jpg",
+                "Name": "Andrew Lano II",
+                "Handle": "ALanoII",
+                "Tweet": "@KipHenley for sure...like everything else in life...there comes a time...when enough is enough...I know for me it\u2026 https://t.co/rQWFqRrVz7",
+                "TweetLink": "1398709954597462028",
+                "Place": "Vancouver",
+                "Time": "Sat May 29 18:36:54 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5889745,
+                    45.630589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "What a weekend in sport - #pgatour, #championsleague, #indy500, #nhl, #nba...... would ya stopppppppp!",
+                "TweetLink": "1398710492714000387",
+                "Place": "Los Angeles",
+                "Time": "Sat May 29 18:39:02 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
