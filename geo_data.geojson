@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/981305019570913281/Rc0aOhsX_normal.jpg",
-                "Name": "Hoag Classic",
-                "Handle": "HoagClassic",
-                "Tweet": "Memorial Day, a day to remember all our military service members that gave everything to defend our freedom \ud83c\uddfa\ud83c\uddf8\u2026 https://t.co/Kj1BWXfD4C",
-                "TweetLink": "1399475923636801536",
-                "Place": "Chino Hills",
-                "Time": "Mon May 31 21:20:35 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -117.721761,
-                    33.9725155
-                ]
-            }
-        }
-    ]
+    "features": []
 }
