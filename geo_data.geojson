@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
+                "Name": "Yatta Golf",
+                "Handle": "YattaGolf",
+                "Tweet": "Patrick Cantlay wins the Memorial Championship in a thrilling tie-breaker! Whose performance were you most suprised\u2026 https://t.co/jBmw7DZFdL",
+                "TweetLink": "1401700286717038598",
+                "Place": "Illinois",
+                "Time": "Mon Jun 07 00:39:25 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.2665075,
+                    39.7393005
+                ]
+            }
+        }
+    ]
 }
