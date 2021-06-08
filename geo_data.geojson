@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1319269035008090114/P2AveaRN_normal.jpg",
-                "Name": "Yatta Golf",
-                "Handle": "YattaGolf",
-                "Tweet": "Patrick Cantlay wins the Memorial Championship in a thrilling tie-breaker! Whose performance were you most suprised\u2026 https://t.co/jBmw7DZFdL",
-                "TweetLink": "1401700286717038598",
-                "Place": "Illinois",
-                "Time": "Mon Jun 07 00:39:25 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -89.2665075,
-                    39.7393005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1241711952503635968/ffgabLak_normal.jpg",
-                "Name": "Brenda Murphy",
-                "Handle": "SCBMW",
-                "Tweet": "Definitely one of the nicest volunteer gifts that I\u2019ve received. \n#PalmettoChampionship \n#ChechesseeRiverGroup\u2026 https://t.co/10ahGPP0I5",
-                "TweetLink": "1401701906381168646",
-                "Place": "St Andrews",
-                "Time": "Mon Jun 07 00:45:51 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.111916,
-                    34.057336
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1218212842828189701/04cmihEp_normal.jpg",
                 "Name": "Andrew Clark",
                 "Handle": "andrewclark1115",
