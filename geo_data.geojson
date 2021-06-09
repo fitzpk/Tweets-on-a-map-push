@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1295350635198644224/T1siSmR1_normal.jpg",
-                "Name": "Jake",
-                "Handle": "KullJake",
-                "Tweet": "He did the same thing after a round at the WGC at Firestone CC. Probably around 200 people that stuck around. Class\u2026 https://t.co/ZmjFTGnry3",
-                "TweetLink": "1402261281994907650",
-                "Place": "Ohio",
-                "Time": "Tue Jun 08 13:48:37 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.6694675,
-                    40.3651595
-                ]
-            }
-        }
-    ]
+    "features": []
 }
