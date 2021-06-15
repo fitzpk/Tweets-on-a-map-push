@@ -72,6 +72,30 @@
                     32.445972
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1316815851488763906/9ISJn1od_normal.jpg",
+                "Name": "Johnny \u201cBitcoin\u201d Bravo",
+                "Handle": "johnyhemsley",
+                "Tweet": ".@McIlroyRory , our miss Rory likes your chances this week. Good luck at the @usopengolf . @GolfTorrey @GolfChannel\u2026 https://t.co/vVHfhqurOe",
+                "TweetLink": "1404910525687939073",
+                "Place": "Boston",
+                "Time": "Tue Jun 15 21:15:45 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0887125,
+                    42.3136695
+                ]
+            }
         }
     ]
 }
