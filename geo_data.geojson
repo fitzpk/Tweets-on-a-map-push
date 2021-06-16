@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/538741590702170112/4O07csu6_normal.jpeg",
-                "Name": "Chris Talley",
-                "Handle": "rctalley",
-                "Tweet": "congrats to @garrick_higgo! And to #Congaree for the  #PalmettoChampionship",
-                "TweetLink": "1404556041518473220",
-                "Place": "Beaufort",
-                "Time": "Mon Jun 14 21:47:10 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.704173,
-                    32.445972
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1316815851488763906/9ISJn1od_normal.jpg",
                 "Name": "Johnny \u201cBitcoin\u201d Bravo",
                 "Handle": "johnyhemsley",
