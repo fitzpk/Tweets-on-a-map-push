@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1382726045686591489/3LhftXo2_normal.jpg",
-                "Name": "Keith Cordero Jr.",
-                "Handle": "kmcorder",
-                "Tweet": "Would be crazy if Phil Mickelson wins the #USOpen this week to get his first one. 2 majors in 1 season is so so tough. #pgatour",
-                "TweetLink": "1404548626349580294",
-                "Place": "Honolulu",
-                "Time": "Mon Jun 14 21:17:42 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -157.799589,
-                    21.3199435
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/538741590702170112/4O07csu6_normal.jpeg",
                 "Name": "Chris Talley",
                 "Handle": "rctalley",
