@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
-                "Name": "VegasSquaresPodcast",
-                "Handle": "VegasSquares",
-                "Tweet": "Here it is! Our @usopengolf preview show. We give you our best bets and top picks for this weekend  @GolfTorrey! Li\u2026 https://t.co/CpUfchruJC",
-                "TweetLink": "1404954205878579203",
-                "Place": "Las Vegas",
-                "Time": "Wed Jun 16 00:09:20 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -115.223125,
-                    36.232915
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1402609943560306690/Snvd1YjG_normal.jpg",
                 "Name": "dom",
                 "Handle": "716Dominic",
