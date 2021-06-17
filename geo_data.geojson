@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1316815851488763906/9ISJn1od_normal.jpg",
-                "Name": "Johnny \u201cBitcoin\u201d Bravo",
-                "Handle": "johnyhemsley",
-                "Tweet": ".@McIlroyRory , our miss Rory likes your chances this week. Good luck at the @usopengolf . @GolfTorrey @GolfChannel\u2026 https://t.co/5kKyc6QEuG",
-                "TweetLink": "1404911774562934786",
-                "Place": "Boston",
-                "Time": "Tue Jun 15 21:20:43 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -71.0887125,
-                    42.3136695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
                 "Name": "VegasSquaresPodcast",
                 "Handle": "VegasSquares",
