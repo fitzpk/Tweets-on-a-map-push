@@ -24,6 +24,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/755538621713772544/Lu3L1Cqo_normal.jpg",
+                "Name": "Garrett Johnston",
+                "Handle": "JohnstonGarrett",
+                "Tweet": "Imagine being in dead last @usopengolf but rocking this smile with your whole family @GolfTorrey &amp; teenage son cadd\u2026 https://t.co/fGkEqQ8qi7",
+                "TweetLink": "1405939462840926219",
+                "Place": "Torrey Pines Golf Course",
+                "Time": "Fri Jun 18 17:24:23 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.244924,
+                    32.904515
+                ]
+            }
         }
     ]
 }
