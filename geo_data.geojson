@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1265707494715908096/297w7KYJ_normal.jpg",
-                "Name": "Power Lesson",
-                "Handle": "powerlesson",
-                "Tweet": "Even a golf coach needs golf lessons to perform at the highest level.  #golf #golflesson #golfcoach #golftournament\u2026 https://t.co/ZYWJSdUGV7",
-                "TweetLink": "1405221217099976708",
-                "Place": "Toronto",
-                "Time": "Wed Jun 16 17:50:20 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.2725695,
-                    43.629311
-                ]
-            }
-        }
-    ]
+    "features": []
 }
