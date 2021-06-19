@@ -72,6 +72,54 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1107819979246690304/5Og2m0uZ_normal.png",
+                "Name": "Dave Keppler",
+                "Handle": "Home4Ya",
+                "Tweet": "@matthew_wolff5 I'm a new fan, way to get your priorities straight, now my turn! #pgatour #USOpen",
+                "TweetLink": "1406067167154503682",
+                "Place": "Gilbert",
+                "Time": "Sat Jun 19 01:51:50 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.7385665,
+                    33.295215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226198119555072000/qBVwr75d_normal.jpg",
+                "Name": "VegasSquaresPodcast",
+                "Handle": "VegasSquares",
+                "Tweet": "Tyrell Hatton barfed all over #TorreyPines today. Have a safe flight bro \u2708\ufe0f \n\n#USOpen #PGATour #Golf",
+                "TweetLink": "1406067750770921475",
+                "Place": "Las Vegas",
+                "Time": "Sat Jun 19 01:54:09 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.223125,
+                    36.232915
+                ]
+            }
         }
     ]
 }
