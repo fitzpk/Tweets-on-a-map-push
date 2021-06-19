@@ -48,6 +48,30 @@
                     32.904515
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "US Open heating up - Brooksieeeee!! #USOpen #pgatour #TorreyPines #golfbetting #sportsbetting #picks https://t.co/BUfLrEsf23",
+                "TweetLink": "1406066413601583105",
+                "Place": "Los Angeles",
+                "Time": "Sat Jun 19 01:48:51 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
