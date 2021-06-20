@@ -96,6 +96,30 @@
                     33.9725155
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1396951411963871237/JHE-v76m_normal.jpg",
+                "Name": "Paul",
+                "Handle": "CHARLIEBUKET",
+                "Tweet": "The one thing I didn\u2019t miss over the last 18 months was the idiots in the gallery shouting #getinthehole from the T\u2026 https://t.co/f2PGKey980",
+                "TweetLink": "1406740707193372672",
+                "Place": "Sligo",
+                "Time": "Sun Jun 20 22:28:15 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6450685,
+                    54.193422
+                ]
+            }
         }
     ]
 }
