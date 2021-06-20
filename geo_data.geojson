@@ -72,6 +72,30 @@
                     43.327593
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981305019570913281/Rc0aOhsX_normal.jpg",
+                "Name": "Hoag Classic",
+                "Handle": "HoagClassic",
+                "Tweet": "Happy Father\u2019s Day! We hope you are celebrating with the ones you love today \n\n#pgatour #pgatourchampions\u2026 https://t.co/WUoRiG1usu",
+                "TweetLink": "1406737989573611521",
+                "Place": "Chino Hills",
+                "Time": "Sun Jun 20 22:17:27 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.721761,
+                    33.9725155
+                ]
+            }
         }
     ]
 }
