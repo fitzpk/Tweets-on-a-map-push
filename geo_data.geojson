@@ -48,6 +48,30 @@
                     32.810012
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1239815967510855680/nyLMSNQz_normal.jpg",
+                "Name": "Ken Higgins",
+                "Handle": "BigHig19",
+                "Tweet": "How badly does the golf world want a koepka/dechambeau playoff today? Lol\n\n@PGATOUR @BKoepka #PGATour #USOpen",
+                "TweetLink": "1406724604643659786",
+                "Place": "St. Catharines",
+                "Time": "Sun Jun 20 21:24:16 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.267953,
+                    43.327593
+                ]
+            }
         }
     ]
 }
