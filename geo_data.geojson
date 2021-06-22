@@ -24,6 +24,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1279210818123583491/YuFOhTQ4_normal.jpg",
+                "Name": "Chad Eckert",
+                "Handle": "EdinaRealCHE",
+                "Tweet": "Gods country. https://t.co/gyYbUY6L1J",
+                "TweetLink": "1407354040070049793",
+                "Place": "Whitefish Lake",
+                "Time": "Tue Jun 22 15:05:25 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.16728,
+                    46.698457
+                ]
+            }
         }
     ]
 }
