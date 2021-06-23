@@ -24,6 +24,30 @@
                     41.6915825
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "Let\u2019s have a week @TravelersChamp Dubbs Data: TPC RH 3rd shortest course on tour, go low or go home, classic style\u2026 https://t.co/P9x8rI90Xj",
+                "TweetLink": "1407796774052368384",
+                "Place": "Calabasas",
+                "Time": "Wed Jun 23 20:24:41 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.662606,
+                    34.13726
+                ]
+            }
         }
     ]
 }
