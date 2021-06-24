@@ -72,6 +72,30 @@
                     27.9927105
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1407189462111731712/U_T4nWdf_normal.jpg",
+                "Name": "Facu Delapenna",
+                "Handle": "FDelapenna",
+                "Tweet": "\ud83d\udea8Update: Storming outside. Keep grinding. Chase your dream. \ud83d\udc4a\ud83c\udffd #PGATour https://t.co/JKvglrWtal",
+                "TweetLink": "1408172952886128649",
+                "Place": "Orlando",
+                "Time": "Thu Jun 24 21:19:29 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3677725,
+                    28.5016785
+                ]
+            }
         }
     ]
 }
