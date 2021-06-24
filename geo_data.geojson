@@ -72,6 +72,30 @@
                     35.18462
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000380109330/8c10b6634112e887e37f8a748b593848_normal.jpeg",
+                "Name": "Robert Fross",
+                "Handle": "robertfross",
+                "Tweet": "Officially a member of @3JackNational so if any members of #AugustaNational #PineValley or #CypressPoint want to in\u2026 https://t.co/JArMidZzIC",
+                "TweetLink": "1408144976224083973",
+                "Place": "Clearwater",
+                "Time": "Thu Jun 24 19:28:19 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.7553405,
+                    27.9927105
+                ]
+            }
         }
     ]
 }
