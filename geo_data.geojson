@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/2114253438/dorf_normal.jpg",
-                "Name": "Jeff Holdorf",
-                "Handle": "HoldyingCourt",
-                "Tweet": "@lasvegasgolfer @beatingthebook  By far my favorite PGA event is just 2 weeks away! The @JDCLASSIC !! From Silvis,\u2026 https://t.co/iI1CQAbunk",
-                "TweetLink": "1407727890263949313",
-                "Place": "Johnston",
-                "Time": "Wed Jun 23 15:50:58 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -93.711714,
-                    41.6915825
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
                 "Name": "dubbs anderson",
                 "Handle": "mrdubbsie",
