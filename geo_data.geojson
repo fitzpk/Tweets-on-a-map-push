@@ -96,6 +96,30 @@
                     28.5016785
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/957097318800502784/bYut6Ml4_normal.jpg",
+                "Name": "Baden \ud83c\udf97",
+                "Handle": "bado_west",
+                "Tweet": "Congrats on the promotion @luke #PGATour",
+                "TweetLink": "1408180038084661251",
+                "Place": "Canberra",
+                "Time": "Thu Jun 24 21:47:38 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.1297825,
+                    -35.3139795
+                ]
+            }
         }
     ]
 }
