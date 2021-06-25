@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000380109330/8c10b6634112e887e37f8a748b593848_normal.jpeg",
-                "Name": "Robert Fross",
-                "Handle": "robertfross",
-                "Tweet": "Officially a member of @3JackNational so if any members of #AugustaNational #PineValley or #CypressPoint want to in\u2026 https://t.co/JArMidZzIC",
-                "TweetLink": "1408144976224083973",
-                "Place": "Clearwater",
-                "Time": "Thu Jun 24 19:28:19 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -82.7553405,
-                    27.9927105
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/1407189462111731712/U_T4nWdf_normal.jpg",
                 "Name": "Facu Delapenna",
                 "Handle": "FDelapenna",
@@ -94,6 +70,30 @@
                 "coordinates": [
                     -87.65105,
                     34.83429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "We have a shootout shaping up @TravelersChamp Jason Day sits up top of the board at -9 with a stacked chasing pack\u2026 https://t.co/OZ5GQVxL4O",
+                "TweetLink": "1408568024240594947",
+                "Place": "Los Angeles",
+                "Time": "Fri Jun 25 23:29:21 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
                 ]
             }
         }
