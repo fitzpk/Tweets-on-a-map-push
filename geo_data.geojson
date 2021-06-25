@@ -72,6 +72,30 @@
                     -35.3139795
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/967417930672721920/fnMscwEJ_normal.jpg",
+                "Name": "Roger Mardis",
+                "Handle": "RogerMardis",
+                "Tweet": "Great ball striking today @stewartcink, get the putter going this weekend and let\u2019s get #3. #PGATour #TravelersChampionship",
+                "TweetLink": "1408548493812187142",
+                "Place": "Florence",
+                "Time": "Fri Jun 25 22:11:45 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.65105,
+                    34.83429
+                ]
+            }
         }
     ]
 }
