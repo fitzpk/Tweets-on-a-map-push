@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1326237487791022080/sWo-lwoL_normal.jpg",
-                "Name": "Nick Bradley",
-                "Handle": "THENICKBRADLEY",
-                "Tweet": "Looking forward to visiting Boston this weekend and playing Shelter Harbor GC in Rhode Island.\n\n#TravelersChampionship #PGATour @PGATOUR",
-                "TweetLink": "1407858728473346048",
-                "Place": "Southern Pines",
-                "Time": "Thu Jun 24 00:30:52 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -79.404847,
-                    35.18462
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/378800000380109330/8c10b6634112e887e37f8a748b593848_normal.jpeg",
                 "Name": "Robert Fross",
                 "Handle": "robertfross",
