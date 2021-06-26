@@ -4,54 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1407189462111731712/U_T4nWdf_normal.jpg",
-                "Name": "Facu Delapenna",
-                "Handle": "FDelapenna",
-                "Tweet": "\ud83d\udea8Update: Storming outside. Keep grinding. Chase your dream. \ud83d\udc4a\ud83c\udffd #PGATour https://t.co/JKvglrWtal",
-                "TweetLink": "1408172952886128649",
-                "Place": "Orlando",
-                "Time": "Thu Jun 24 21:19:29 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Negative",
-                "Colour": "#c36663"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.3677725,
-                    28.5016785
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/957097318800502784/bYut6Ml4_normal.jpg",
-                "Name": "Baden \ud83c\udf97",
-                "Handle": "bado_west",
-                "Tweet": "Congrats on the promotion @luke #PGATour",
-                "TweetLink": "1408180038084661251",
-                "Place": "Canberra",
-                "Time": "Thu Jun 24 21:47:38 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    149.1297825,
-                    -35.3139795
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/967417930672721920/fnMscwEJ_normal.jpg",
                 "Name": "Roger Mardis",
                 "Handle": "RogerMardis",
