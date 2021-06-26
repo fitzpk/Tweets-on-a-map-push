@@ -120,6 +120,30 @@
                     40.8433015
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1117797812408737795/qn23fqN9_normal.jpg",
+                "Name": "Andrew Lano II",
+                "Handle": "ALanoII",
+                "Tweet": "@bubbawatson working his wizardry on #3...now tied for the lead...#mayorofcromwell #TravelersChampionship #PGATour",
+                "TweetLink": "1408856539385909248",
+                "Place": "Vancouver",
+                "Time": "Sat Jun 26 18:35:48 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5889745,
+                    45.630589
+                ]
+            }
         }
     ]
 }
