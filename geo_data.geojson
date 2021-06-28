@@ -24,6 +24,30 @@
                     32.0172845
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/829157104954904576/hXfgQzYg_normal.jpg",
+                "Name": "JOX GOLF NETWORK \u26f3",
+                "Handle": "JOXSports",
+                "Tweet": "Hang in there @BubbaWatson you are definitely not done winning &amp; best is yet to come!!\n#BubbaWatson #PGATour #Gokf https://t.co/vOsvS0ClRC",
+                "TweetLink": "1409530796440887301",
+                "Place": "Arizona",
+                "Time": "Mon Jun 28 15:15:04 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.931711,
+                    34.1682535
+                ]
+            }
         }
     ]
 }
