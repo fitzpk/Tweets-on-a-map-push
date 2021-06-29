@@ -48,6 +48,30 @@
                     42.2237415
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1388599684361560069/90KLP3aw_normal.jpg",
+                "Name": "AgentChatton24",
+                "Handle": "HoodieRello24",
+                "Tweet": "Gonna enjoy every bit of these passes. Shook hands with some of the best black golfers and upcoming stars in the ga\u2026 https://t.co/WZQHEtufrY",
+                "TweetLink": "1409997467370803200",
+                "Place": "Detroit",
+                "Time": "Tue Jun 29 22:09:27 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.099288,
+                    42.3527865
+                ]
+            }
         }
     ]
 }
