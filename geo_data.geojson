@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1385792860902109188/spcoO7i3_normal.jpg",
-                "Name": "Kraig Kann \ud83c\udfd4",
-                "Handle": "kraigkann",
-                "Tweet": "People still buzzing about the @TravelersChamp \n\nWednesday night I\u2019ll get \u201cConnected\u201d with @mark_immelman  who call\u2026 https://t.co/s5kPiHpmsl",
-                "TweetLink": "1409706509022371846",
-                "Place": "Winter Springs",
-                "Time": "Tue Jun 29 02:53:17 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -81.267838,
-                    28.694736
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
                 "Name": "dubbs anderson",
                 "Handle": "mrdubbsie",
