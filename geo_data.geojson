@@ -72,6 +72,30 @@
                     42.3527865
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/759838027468398592/mKGuUkux_normal.jpg",
+                "Name": "Jess Frank",
+                "Handle": "jessgolflessons",
+                "Tweet": "I love@my @trackmangolf! One of the best features is showing where the golfers makes contact on the face:)\u2026 https://t.co/Enrnf8gT50",
+                "TweetLink": "1410032955691606022",
+                "Place": "Deerfield Beach",
+                "Time": "Wed Jun 30 00:30:28 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1223555,
+                    26.301198
+                ]
+            }
         }
     ]
 }
