@@ -72,6 +72,30 @@
                     26.301198
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/885976344756203524/5A7xYqIm_normal.jpg",
+                "Name": "Nick Aiston",
+                "Handle": "NickAiston4",
+                "Tweet": "Super proud of my boy, he absolutely loves his football \u26bd\ufe0f and golf \ud83c\udfcc\u200d\u2642\ufe0f he has been practicing his golf swing rece\u2026 https://t.co/v69e0zjR0x",
+                "TweetLink": "1410328543008104456",
+                "Place": "Wales",
+                "Time": "Wed Jun 30 20:05:01 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.001617,
+                    52.404436
+                ]
+            }
         }
     ]
 }
