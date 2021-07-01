@@ -120,6 +120,30 @@
                     26.251895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
+                "Name": "dubbs anderson",
+                "Handle": "mrdubbsie",
+                "Tweet": "Dubbs Data: @RocketClassic Short Par 72 this week. Favor a streaky player as the winning score will need to be low\u2026 https://t.co/FU9gK6q4sR",
+                "TweetLink": "1410447691113402372",
+                "Place": "Los Angeles",
+                "Time": "Thu Jul 01 03:58:29 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4119065,
+                    34.0207895
+                ]
+            }
         }
     ]
 }
