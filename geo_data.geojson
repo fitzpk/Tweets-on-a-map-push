@@ -144,6 +144,30 @@
                     42.3136695
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1364551453554147328/u7sQeL5W_normal.jpg",
+                "Name": "Stay\ud83d\udc4f\ud83c\udffeYour\ud83d\udc4f\ud83c\udffeAss\ud83d\udc4f\ud83c\udffeAt\ud83d\udc4f\ud83c\udffeHome",
+                "Handle": "SiestaB4Fiesta",
+                "Tweet": "Ey @matthew_wolff5 - you're a Champion and your current situation doesn't define you. \n\nHead up brother.\u2026 https://t.co/f8wKKsl3aB",
+                "TweetLink": "1410686566234722304",
+                "Place": "Sandton",
+                "Time": "Thu Jul 01 19:47:41 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.060613,
+                    -26.058708
+                ]
+            }
         }
     ]
 }
