@@ -72,6 +72,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1285842165743132672/K7lkz7x4_normal.jpg",
+                "Name": "Michael Lorenz",
+                "Handle": "mikelorenz924",
+                "Tweet": "It\u2019s gonna be a shootout at #RocketMortgageClassic as the #PGATour is in Detroit, this wk we have guys across the b\u2026 https://t.co/JeDG7d8Hcf",
+                "TweetLink": "1410431933725687808",
+                "Place": "Pompano Beach",
+                "Time": "Thu Jul 01 02:55:52 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1386455,
+                    26.251895
+                ]
+            }
         }
     ]
 }
