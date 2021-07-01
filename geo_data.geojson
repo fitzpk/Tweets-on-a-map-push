@@ -120,6 +120,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1404247612543410177/cexy2MzW_normal.jpg",
+                "Name": "Brian Z. Houston",
+                "Handle": "BrianZHoustonn",
+                "Tweet": "How sick would it be if @DavisT17 won the #RocketMortgageClassic?! Get your \ud83c\udfc6 my dude! #PGATour",
+                "TweetLink": "1410667780240728074",
+                "Place": "Boston",
+                "Time": "Thu Jul 01 18:33:02 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0887125,
+                    42.3136695
+                ]
+            }
         }
     ]
 }
