@@ -48,6 +48,78 @@
                     43.598033
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/785453316482269184/kb00JTHJ_normal.jpg",
+                "Name": "Hear Our City Media \u24c2",
+                "Handle": "HearOurCityMag",
+                "Tweet": "Today is the final day for Rocket Mortgage Classic at Detroit Golf Club in Detroit.\n#golf #pgatour #michigan\u2026 https://t.co/ujpbh7655l",
+                "TweetLink": "1411712954572083203",
+                "Place": "Farmington Hills",
+                "Time": "Sun Jul 04 15:46:11 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.377181,
+                    42.4842785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1226351071510970369/axtkrQ79_normal.jpg",
+                "Name": "Billey",
+                "Handle": "Cbills5233",
+                "Tweet": "Haven\u2019t watched any of the #RocketMortgageClassic this week yet cause I hate this tournament but can Jason Kokrak h\u2026 https://t.co/3m7UeOa7yy",
+                "TweetLink": "1411712957076017159",
+                "Place": "Wood Buffalo",
+                "Time": "Sun Jul 04 15:46:11 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.000802,
+                    57.664958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/785453316482269184/kb00JTHJ_normal.jpg",
+                "Name": "Hear Our City Media \u24c2",
+                "Handle": "HearOurCityMag",
+                "Tweet": "Today is the final day for Rocket Mortgage Classic PGA Tour in Detroit at Detroit Golf Club\n\n#michigan\u2026 https://t.co/gMhQyhGH84",
+                "TweetLink": "1411713674830569473",
+                "Place": "Farmington Hills",
+                "Time": "Sun Jul 04 15:49:03 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.377181,
+                    42.4842785
+                ]
+            }
         }
     ]
 }
