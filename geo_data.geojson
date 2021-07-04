@@ -24,6 +24,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/981305019570913281/Rc0aOhsX_normal.jpg",
+                "Name": "Hoag Classic",
+                "Handle": "HoagClassic",
+                "Tweet": "Happy Independence Day! We hope you all have a safe and fun holiday \ud83c\uddfa\ud83c\uddf8\n#pgatour #pgatourchampions #hoagclassic\u2026 https://t.co/8rN4rnKIBF",
+                "TweetLink": "1411710914940731397",
+                "Place": "Boise",
+                "Time": "Sun Jul 04 15:38:05 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.238001,
+                    43.598033
+                ]
+            }
         }
     ]
 }
