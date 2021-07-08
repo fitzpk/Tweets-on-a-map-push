@@ -48,6 +48,30 @@
                     41.703775
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1401192491727179779/X7UKlRhd_normal.jpg",
+                "Name": "Herm",
+                "Handle": "LLwaverider",
+                "Tweet": "A little late, but..\n#JohnDeereClassic \n#PGA #PGATour https://t.co/0WVH09Vu0w",
+                "TweetLink": "1413161946938056713",
+                "Place": "Niles",
+                "Time": "Thu Jul 08 15:43:58 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7594155,
+                    41.1908665
+                ]
+            }
         }
     ]
 }
