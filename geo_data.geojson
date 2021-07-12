@@ -4,30 +4,6 @@
         {
             "type": "Feature",
             "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/725137602802671616/mwZuZQHV_normal.jpg",
-                "Name": "Rich Thiele",
-                "Handle": "RichThiele",
-                "Tweet": "Courtyard at #18!  Our view for the day of everyone coming in. #johndeereclassic #pgatour @ TPC Deere Run https://t.co/TdltEBCqLh",
-                "TweetLink": "1413895519026388997",
-                "Place": "Silvis",
-                "Time": "Sat Jul 10 16:18:55 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -90.4032515,
-                    41.489768
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "ProfilePic": "http://pbs.twimg.com/profile_images/943499033632321537/70GHu0yF_normal.jpg",
                 "Name": "dubbs anderson",
                 "Handle": "mrdubbsie",
