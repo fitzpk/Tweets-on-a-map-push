@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/914334159677640704/08-DtrST_normal.jpg",
+                "Name": "Nick Kraynak",
+                "Handle": "HEY__NICK",
+                "Tweet": "Absolutely need this to happen",
+                "TweetLink": "1415841573414256653",
+                "Place": "Phoenixville",
+                "Time": "Fri Jul 16 01:11:50 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5234715,
+                    40.1382005
+                ]
+            }
+        }
+    ]
 }
