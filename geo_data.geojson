@@ -72,6 +72,30 @@
                     31.205709
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "Hole locations for today\u2019s 1st Round of the 2021 @TheOpen Championship at Royal St. George\u2019s Golf Club. \u26f3\ufe0f #TheOpen\u2026 https://t.co/RkbKwGpz1A",
+                "TweetLink": "1415864068863311881",
+                "Place": "Oak Island",
+                "Time": "Fri Jul 16 02:41:14 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.136628,
+                    33.9295795
+                ]
+            }
         }
     ]
 }
