@@ -48,6 +48,30 @@
                     41.7769225
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1411026959035940866/qD0QUJqT_normal.jpg",
+                "Name": "Rusty Harris",
+                "Handle": "RustyHarris7",
+                "Tweet": "Wonder if @cobragolf will assign @b_dechambeau a designated driver tomorrow?\n\n@TheOpen \n#TheOpen\n#PGATour\u2026 https://t.co/xl4qHDxJrH",
+                "TweetLink": "1415847290934267905",
+                "Place": "Nashville",
+                "Time": "Fri Jul 16 01:34:33 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.242364,
+                    31.205709
+                ]
+            }
         }
     ]
 }
