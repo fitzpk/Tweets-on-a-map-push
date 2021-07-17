@@ -120,6 +120,30 @@
                     33.9295795
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1411026959035940866/qD0QUJqT_normal.jpg",
+                "Name": "Rusty Harris",
+                "Handle": "RustyHarris7",
+                "Tweet": "When I am thirsty, @BKoepka appears with a nice refreshing glass of Pimms\u2026\n\nAhhhhhhhhh\u2026 #TheOpen is back!\n\nSPONSORE\u2026 https://t.co/r5ILqT6TlH",
+                "TweetLink": "1416201883266465795",
+                "Place": "Nashville",
+                "Time": "Sat Jul 17 01:03:35 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.242364,
+                    31.205709
+                ]
+            }
         }
     ]
 }
