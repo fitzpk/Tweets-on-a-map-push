@@ -192,6 +192,30 @@
                     53.906042
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/2405481418/image_normal.jpg",
+                "Name": "Gary Collins",
+                "Handle": "gazacollins",
+                "Tweet": "Hope Seamus gets the W in playoff #PGATour",
+                "TweetLink": "1416899299414351875",
+                "Place": "Wexford",
+                "Time": "Sun Jul 18 23:14:52 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.579388,
+                    52.4597335
+                ]
+            }
         }
     ]
 }
