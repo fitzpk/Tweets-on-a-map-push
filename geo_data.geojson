@@ -216,6 +216,30 @@
                     52.4597335
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1392287515411890176/AvK7HAGA_normal.jpg",
+                "Name": "Chris Hardiman \u2615\ud83c\udfb8\ud83d\udea8\ud83c\udfc8\ud83d\udcfa",
+                "Handle": "AJoyForever83",
+                "Tweet": "Seamus Power ... You absolute beauty what a chip in! #PGATour \u26f3\ud83d\udd25",
+                "TweetLink": "1416903332044681217",
+                "Place": "Roscommon",
+                "Time": "Sun Jul 18 23:30:53 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3498705,
+                    53.6975265
+                ]
+            }
         }
     ]
 }
