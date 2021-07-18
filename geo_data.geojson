@@ -96,6 +96,30 @@
                     37.8758455
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1246141870087888896/ZzLvYqXA_normal.jpg",
+                "Name": "Bet Smart Podcast",
+                "Handle": "betsmartpodcast",
+                "Tweet": "Historic year in all 4 golf majors. Hideki first Japanese player to win masters. Rahm first Spaniard to win the US\u2026 https://t.co/qeRtI50IcA",
+                "TweetLink": "1416814080908685315",
+                "Place": "El Segundo",
+                "Time": "Sun Jul 18 17:36:14 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.400264,
+                    33.9166485
+                ]
+            }
         }
     ]
 }
