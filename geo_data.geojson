@@ -48,6 +48,54 @@
                     35.0838255
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1394041848172187648/M3QsEAxu_normal.jpg",
+                "Name": "Michael Fukunaga",
+                "Handle": "michaelfukunaga",
+                "Tweet": "Sheeeesh Japan came to golf #PGATour",
+                "TweetLink": "1416812451664994311",
+                "Place": "Southlake",
+                "Time": "Sun Jul 18 17:29:46 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1509985,
+                    32.960651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1197857328235724802/nCNjCzDY_normal.jpg",
+                "Name": "Alex Winters",
+                "Handle": "Winterss100",
+                "Tweet": "Collin Morikawa - Champion Golfer of the Year @TheOpen. #TheOpen #PGATour #pga",
+                "TweetLink": "1416812961348218880",
+                "Place": "Berkeley",
+                "Time": "Sun Jul 18 17:31:47 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2795215,
+                    37.8758455
+                ]
+            }
         }
     ]
 }
