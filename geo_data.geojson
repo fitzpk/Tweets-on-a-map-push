@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1416771656991879181/QcPwqLkL_normal.jpg",
+                "Name": "\ud83c\udf99Play-By-Play Jay\ud83c\udf99",
+                "Handle": "JayOnQ92",
+                "Tweet": "Collin Morikawa\u2019s game is so PURE!! #TheOpen #PGATour",
+                "TweetLink": "1416784348192419849",
+                "Place": "Massillon",
+                "Time": "Sun Jul 18 15:38:05 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.532055,
+                    40.814828
+                ]
+            }
+        }
+    ]
 }
