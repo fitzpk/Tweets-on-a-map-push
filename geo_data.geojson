@@ -120,6 +120,30 @@
                     33.9166485
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/378800000076886105/7811fa215540928186b2b9f31bd113f8_normal.jpeg",
+                "Name": "Georg Roth",
+                "Handle": "GeorgRothLA",
+                "Tweet": "Those #belts are something that inspire many Golfer!\n\nCasual, smart golf clothing that you can comfortably wear awa\u2026 https://t.co/96apJOvHEP",
+                "TweetLink": "1416878625639464960",
+                "Place": "United States",
+                "Time": "Sun Jul 18 21:52:43 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.3142995,
+                    42.308346
+                ]
+            }
         }
     ]
 }
