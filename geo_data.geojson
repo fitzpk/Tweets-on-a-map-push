@@ -144,6 +144,54 @@
                     42.308346
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1385035942633824258/CmlT3TY4_normal.jpg",
+                "Name": "Pun",
+                "Handle": "pordadow",
+                "Tweet": "#PGATour golf is amazing. These #barbasolchamp guys have gotten to the minus 20\u2019s and now with a handful of holes l\u2026 https://t.co/dopAKpWWdw",
+                "TweetLink": "1416892227549339648",
+                "Place": "Mableton",
+                "Time": "Sun Jul 18 22:46:46 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5634145,
+                    33.811316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1279220518579814401/BlKcEM1a_normal.jpg",
+                "Name": "David Boyle",
+                "Handle": "Boyleski08",
+                "Tweet": "@Power4Seamus has been incredible this past few months. On top of his game and a joy to watch. #barbasolchamp #PGATour",
+                "TweetLink": "1416892470940610562",
+                "Place": "Louth",
+                "Time": "Sun Jul 18 22:47:44 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.395643,
+                    53.906042
+                ]
+            }
         }
     ]
 }
