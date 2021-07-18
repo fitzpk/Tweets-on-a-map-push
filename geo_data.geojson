@@ -240,6 +240,30 @@
                     53.6975265
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1392287515411890176/AvK7HAGA_normal.jpg",
+                "Name": "Chris Hardiman \u2615\ud83c\udfb8\ud83d\udea8\ud83c\udfc8\ud83d\udcfa",
+                "Handle": "AJoyForever83",
+                "Tweet": "Top drawer stuff in this playoff, you have to credit both of them #clutch #PGATour \ud83d\udcaa\u26f3\ud83d\udd25",
+                "TweetLink": "1416906169310908420",
+                "Place": "Roscommon",
+                "Time": "Sun Jul 18 23:42:10 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3498705,
+                    53.6975265
+                ]
+            }
         }
     ]
 }
