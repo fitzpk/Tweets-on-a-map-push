@@ -24,6 +24,30 @@
                     40.814828
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1085309913377763331/6rIk6zd1_normal.jpg",
+                "Name": "Will O'Donoghue",
+                "Handle": "Will_ODonoghue",
+                "Tweet": "Welcome to the Final Round of The 149th @TheOpen \ud83c\udfc6\n\n#TheOpen\u00a0#PGATour #EuropeanTour #PGA #Golf\u2026 https://t.co/cvAZJ4cp2Q",
+                "TweetLink": "1416805721241436166",
+                "Place": "Lake Park",
+                "Time": "Sun Jul 18 17:03:01 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.633465,
+                    35.0838255
+                ]
+            }
         }
     ]
 }
