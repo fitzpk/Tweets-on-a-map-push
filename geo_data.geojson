@@ -264,6 +264,78 @@
                     53.6975265
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1392287515411890176/AvK7HAGA_normal.jpg",
+                "Name": "Chris Hardiman \u2615\ud83c\udfb8\ud83d\udea8\ud83c\udfc8\ud83d\udcfa",
+                "Handle": "AJoyForever83",
+                "Tweet": "Get in!! Seamus Power ya beauty \ud83d\udd25\ud83d\udd25\u26f3\u26f3\u26f3 #pgatour champion \ud83c\udfc6",
+                "TweetLink": "1416919829827751937",
+                "Place": "Roscommon",
+                "Time": "Mon Jul 19 00:36:27 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3498705,
+                    53.6975265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1399502914373234690/8-_ltAqI_normal.jpg",
+                "Name": "John Klingenstein",
+                "Handle": "klingensteinj",
+                "Tweet": "These #PGATour playoffs have great the last several weeks. #BarbasolChampionship",
+                "TweetLink": "1416920365897498625",
+                "Place": "Franklin",
+                "Time": "Mon Jul 19 00:38:34 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4077465,
+                    42.078873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1326237487791022080/sWo-lwoL_normal.jpg",
+                "Name": "Nick Bradley",
+                "Handle": "THENICKBRADLEY",
+                "Tweet": "So happy for @Power4Seamus ~ watched this guy work his way through the GPro Tour in NC and had the privilege of wor\u2026 https://t.co/lbqWTh5wVW",
+                "TweetLink": "1416920516049448960",
+                "Place": "Sunset Beach",
+                "Time": "Mon Jul 19 00:39:10 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5164375,
+                    33.901311
+                ]
+            }
         }
     ]
 }
