@@ -1,29 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "ProfilePic": "http://pbs.twimg.com/profile_images/1182283677562265600/fujs1iiS_normal.jpg",
-                "Name": "John Craven",
-                "Handle": "Ace_Craven",
-                "Tweet": "Wouldn\u2019t exactly describe it as rags to riches but it\u2019s amazing how a golfer\u2019s luck can change. Of course, they mad\u2026 https://t.co/fwdPPIFipR",
-                "TweetLink": "1417178505914224644",
-                "Place": "Dublin City",
-                "Time": "Mon Jul 19 17:44:20 +0000 2021",
-                "Reply Count": 0,
-                "Retweet Count": 0,
-                "Favorite Count": 0,
-                "Sentiment": "Positive",
-                "Colour": "#7aaac0"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -6.2476215,
-                    53.3549025
-                ]
-            }
-        }
-    ]
+    "features": []
 }
