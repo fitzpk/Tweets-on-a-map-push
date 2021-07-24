@@ -24,6 +24,30 @@
                     51.3854455
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1339060227904253952/VY_ieABM_normal.jpg",
+                "Name": "Bakes",
+                "Handle": "TheBakeShow_14",
+                "Tweet": "LETS GO BO !!!!  @3MOpen #UpperArlington #GoBuckeyes #PGATour",
+                "TweetLink": "1419036495164448768",
+                "Place": "Ohio",
+                "Time": "Sat Jul 24 20:47:19 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.6694675,
+                    40.3651595
+                ]
+            }
         }
     ]
 }
