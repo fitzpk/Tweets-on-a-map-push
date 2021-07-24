@@ -1,4 +1,29 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/1392629375179317253/TgO8q6HA_normal.jpg",
+                "Name": "Alex Hack",
+                "Handle": "holteender1985",
+                "Tweet": "Fowler with inevitable snowman! #PGATour",
+                "TweetLink": "1419029269821501449",
+                "Place": "South East",
+                "Time": "Sat Jul 24 20:18:36 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Negative",
+                "Colour": "#c36663"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.252754,
+                    51.3854455
+                ]
+            }
+        }
+    ]
 }
