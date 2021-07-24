@@ -72,6 +72,30 @@
                     34.0207895
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ProfilePic": "http://pbs.twimg.com/profile_images/330297327/bandonTrip258_copy_normal.jpg",
+                "Name": "GolfTripAddict",
+                "Handle": "GolfTripAddict",
+                "Tweet": "\u201c Yes, it\u2019s worth investing just giving it a little read\u2026 Just once in your life\u201d @frank_nobilo Dropped a wry under\u2026 https://t.co/23kLGNDOgA",
+                "TweetLink": "1419046579328196608",
+                "Place": "Manhattan",
+                "Time": "Sat Jul 24 21:27:23 +0000 2021",
+                "Reply Count": 0,
+                "Retweet Count": 0,
+                "Favorite Count": 0,
+                "Sentiment": "Positive",
+                "Colour": "#7aaac0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9685415,
+                    40.780709
+                ]
+            }
         }
     ]
 }
